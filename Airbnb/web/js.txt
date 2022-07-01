@@ -1,4 +1,5 @@
 http://d2wy8f7a9ursnm.cloudfront.net/v7.9.2/bugsnag.min.js
+http://polyfill-cdn.HOteLTONiGHT-tEsT.com:80/v2/polyfill.min.js?features=default,Array.from,HTMLDocument,Array.prototype.forEach,XMLHttpRequest,CustomEvent,Element.prototype.closest&rum=1
 http://polyfill-cdn.hoteltonight-test.com:80/v2/polyfill.min.js?features=default,Array.from,HTMLDocument,Array.prototype.forEach,XMLHttpRequest,CustomEvent,Element.prototype.closest&rum=1
 http://pros.hoteltonight-test.com:80/javascripts/app-20ce4107f3207dd4059e.bundle.js
 http://pros.hoteltonight-test.com:80/javascripts/app-98e920d6a20e7f933404.bundle.js
@@ -810,6 +811,7 @@ https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_SdrJFAkNJd_
 https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_UbUmcyGu3AmHaoehHvoQJA2.js
 https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_cl0FpWkXjYABAABPcZEt9g2.js
 https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_h8czT15l9lkCzoKoDCeGGw2.js
+https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_hzdTzNCHy-CMKYsEpQgkZQ2.js
 https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_r3ImcNP1k4CFzVVkcwAUEA2.js
 https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_rx60sLMU4GMHak9bw054Bg2.js
 https://aadcdn.msftauth.net/shared/1.0/content/js/ConvergedLogin_PCore_6J06iic7msGxWHwxS1Qglg2.js
@@ -955,6 +957,7 @@ https://partners.hoteltonight-test.com/javascripts/app-db3cd5257c4c09ddfd29.bund
 https://partners.hoteltonight-test.com:443/javascripts/app-0967f6ec17c21b93182a.bundle.js
 https://partners.hoteltonight-test.com:443/javascripts/app-ab38e7ef7f5127074e16.bundle.js
 https://partners.hoteltonight-test.com:443/javascripts/app-db3cd5257c4c09ddfd29.bundle.js
+https://polyfill-cdn.HOteLTONiGHT-tEsT.com:443/v2/polyfill.min.js?features=default,Array.from,HTMLDocument,Array.prototype.forEach,XMLHttpRequest,CustomEvent,Element.prototype.closest&rum=1
 https://polyfill-cdn.hoteltonight-test.com:443/v2/polyfill.min.js?features=default,Array.from,HTMLDocument,Array.prototype.forEach,XMLHttpRequest,CustomEvent,Element.prototype.closest&rum=1
 https://pros.hoteltonight-test.com/javascripts/app-20ce4107f3207dd4059e.bundle.js
 https://pros.hoteltonight-test.com/javascripts/app-98e920d6a20e7f933404.bundle.js
