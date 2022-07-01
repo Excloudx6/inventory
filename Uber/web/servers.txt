@@ -283,6 +283,7 @@ http://buildfarm.uberinternal.com:80
 http://buildviz.uberinternal.com:80
 http://bulk-accounts.uberinternal.com:80
 http://bullseye.uberinternal.com:80
+http://business-beta.uBeriNtErnaL.com:80
 http://business-beta.uber.com:80
 http://business-beta.uberinternal.com:80
 http://business-staging.uber.COm:80
@@ -876,6 +877,7 @@ http://freight-marketing-web.uberinternal.com:80
 http://freight-marketing.uberinternal.com:80
 http://freight-ops-lite-staging.uber.com:80
 http://freight-ops-lite.uber.com:80
+http://freight-ops-staging.uBeriNtErnaL.com:80
 http://freight-ops-staging.uberinternal.com:80
 http://freight-ops-web-staging.uberinternal.com:80
 http://freight-ops-web.uberinternal.com:80
@@ -1231,6 +1233,7 @@ http://learning.UBEriNtERNaL.com:80
 http://learning.uberinternal.com:80
 http://legaldb.uberinternal.com:80
 http://lert.uber.com:80
+http://libra.uBERinterNaL.com:80
 http://libra.uberinternal.com:80
 http://lightning-dca1.uberinternal.com:80
 http://lightning-staging.uberinternal.com:80
@@ -1360,6 +1363,7 @@ http://messages.ubereats.com:8080
 http://meta-grafana4.uberinternal.com:80
 http://meta-umonitor-dca1.uberinternal.com:80
 http://meta-umonitor-dca4.uberinternal.com:80
+http://metal-api-dev.uBERinterNaL.com:80
 http://metal-api-dev.uberinternal.com:80
 http://metal-api-dev.uberinternal.com:8080
 http://metal-api-preprod.uberinternal.com:80
@@ -1656,6 +1660,7 @@ http://prd.uberinternal.com:80
 http://predicate-service.uberinternal.com:80
 http://preferences.uber.com:80
 http://preferences.uber.com:8080
+http://preloads-backend.uBERinterNaL.com:80
 http://preloads-backend.uberinternal.com:80
 http://preloads.uberinternal.com:80
 http://presence.uberinternal.com:80
@@ -2117,6 +2122,7 @@ http://taishan.uberinternal.com:80
 http://tars.uberinternal.com:80
 http://taskly.uberinternal.com:80
 http://tassadar.uberinternal.com:80
+http://tax-profiles-admin.uBERinterNaL.com:80
 http://tax-profiles-admin.uberinternal.com:80
 http://tax-profiles.uberinternal.com:80
 http://tax.uberinternal.com:80
@@ -2375,6 +2381,7 @@ http://usim-editor-staging.uberinternal.com:80
 http://usim-editor.uberinternal.com:80
 http://usm.uberinternal.com:80
 http://usos.uberinternal.com:80
+http://uspaces-staging.uBERinterNaL.com:80
 http://uspaces-staging.uberinternal.com:80
 http://uspaces.uberinternal.com:80
 http://usso-staging.uberinternal.com:80
@@ -2500,6 +2507,7 @@ http://wisdom.uberinternal.com:80
 http://wok.uberinternal.com:80
 http://wokstaging.uberinternal.com:80
 http://wonkabar.uberinternal.com:80
+http://workbench-dashboard.uBERinterNaL.com:80
 http://workbench-dashboard.uberinternal.com:80
 http://workbench-dca1.uberinternal.com:80
 http://workbench-staging.uberinternal.com:80
@@ -2783,6 +2791,7 @@ https://buildfarm.uberinternal.com:443
 https://buildviz.uberinternal.com:443
 https://bulk-accounts.uberinternal.com:443
 https://bullseye.uberinternal.com:443
+https://business-beta.uBeriNtErnaL.com:443
 https://business-beta.uber.com:443
 https://business-beta.uberinternal.com:443
 https://business-staging.uber.COm:443
@@ -3267,6 +3276,7 @@ https://freight-marketing-web.uberinternal.com:443
 https://freight-marketing.uberinternal.com:443
 https://freight-ops-lite-staging.uber.com:443
 https://freight-ops-lite.uber.com:443
+https://freight-ops-staging.uBeriNtErnaL.com:443
 https://freight-ops-staging.uberinternal.com:443
 https://freight-ops-web-staging.uberinternal.com:443
 https://freight-ops-web.uberinternal.com:443
@@ -3569,6 +3579,7 @@ https://learning.uberinternal.com:443
 https://legaldb.uberinternal.com:443
 https://lert.uber.com:443
 https://lgtm.uberinternal.com:443
+https://libra.uBERinterNaL.com:443
 https://libra.uberinternal.com:443
 https://lightning-dca1.uberinternal.com:443
 https://lightning-staging.uberinternal.com:443
@@ -3679,6 +3690,7 @@ https://meta-grafana4.uberinternal.com:443
 https://meta-umonitor-dca1.UbErIntErNAL.com:443
 https://meta-umonitor-dca1.uberinternal.com:443
 https://meta-umonitor-dca4.uberinternal.com:443
+https://metal-api-dev.uBERinterNaL.com:443
 https://metal-api-dev.uberinternal.com:443
 https://metal-api-preprod.uberinternal.com:443
 https://metal-api-staging.uberinternal.com:443
@@ -3925,6 +3937,7 @@ https://pravda.uberinternal.com:443
 https://prd.uberinternal.com:443
 https://predicate-service.uberinternal.com:443
 https://preferences.uber.com:443
+https://preloads-backend.uBERinterNaL.com:443
 https://preloads-backend.uberinternal.com:443
 https://preloads.uberinternal.com:443
 https://presence.uberinternal.com:443
@@ -4329,6 +4342,7 @@ https://taishan.uberinternal.com:443
 https://tars.uberinternal.com:443
 https://taskly.uberinternal.com:443
 https://tassadar.uberinternal.com:443
+https://tax-profiles-admin.uBERinterNaL.com:443
 https://tax-profiles-admin.uberinternal.com:443
 https://tax-profiles.uberinternal.com:443
 https://tax.uberinternal.com:443
@@ -4543,6 +4557,7 @@ https://usim-editor-staging.uberinternal.com:443
 https://usim-editor.uberinternal.com:443
 https://usm.uberinternal.com:443
 https://usos.uberinternal.com:443
+https://uspaces-staging.uBERinterNaL.com:443
 https://uspaces-staging.uberinternal.com:443
 https://uspaces.uberinternal.com:443
 https://usso-staging.uberinternal.com:443
@@ -4652,6 +4667,7 @@ https://wisdom.uberinternal.com:443
 https://wok.uberinternal.com:443
 https://wokstaging.uberinternal.com:443
 https://wonkabar.uberinternal.com:443
+https://workbench-dashboard.uBERinterNaL.com:443
 https://workbench-dashboard.uberinternal.com:443
 https://workbench-dca1.uberinternal.com:443
 https://workbench-staging.uberinternal.com:443

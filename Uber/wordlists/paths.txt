@@ -4430,6 +4430,7 @@
 /api/session/app_auth
 /api/session/app_auth/redeem
 /api/session/auth
+/api/session/auth_modality
 /api/session/clear_cont
 /api/session/google_auth/signin
 /api/session/google_auth/signin_or_signup
@@ -5184,6 +5185,7 @@
 /blog/sw.js?ver=1654104581049&amp;scope=en-US
 /blog/sw.js?ver=1654104581250&amp;scope=en-US
 /blog/sw.js?ver=1654104601802&amp;scope=en-US
+/blog/sw.js?ver=1656423185924&amp;scope=en-US
 /blog/sw.js?ver=1656423286519&amp;scope=en-DE
 /blog/sw.js?ver=1656423326195&amp;scope=en-DE
 /blog/sw.js?ver=1656423326327&amp;scope=en-CA
@@ -5193,6 +5195,7 @@
 /blog/tennessee/
 /blog/texas/
 /blog/tucson/
+/blog/uber-for-business-gbta-report-2022/
 /blog/uber-for-business-product-recap-2021/
 /blog/uber-freight-2022-market-outlook/
 /blog/uber-freight-and-waymo-via-partnership/
@@ -7589,6 +7592,7 @@
 /webpack-manifest.json
 /websocket
 /whitelabel-email
+/widgets
 /wiki
 /with-nodes
 /work
@@ -8476,7 +8480,7 @@ DEPk/7St
 DTLS/SCTP
 Date/time
 Domain/CName
-Error: invalid input defined or SSL error: <urlopen error [SSL: NO_CIPHERS_AVAILABLE] no ciphers available (_ssl.c:997)>
+Error: invalid input defined or SSL error: HTTP Error 404: Not Found
 Etc/GMT
 Etc/GMT-0|Etc/GMT
 Etc/GMT-0|Etc/GMT+0

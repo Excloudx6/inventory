@@ -1055,6 +1055,7 @@
 2018betaalphaconfluence-gw08-sae1.tm1ext.awscorp.uberinternal.com
 2018betachef-amir-antivirus.tm1ext.awscorp.uberinternal.com
 2018bucket-jenkins.system.tm1ext.awscorp.uberinternal.com
+2018bucket.api.tm1ext.awscorp.uberinternal.com
 2018bucketaccessaccount.alpha.access-alpha.tm1ext.awscorp.uberinternal.com
 2018bucketbucketchefbackup.tm1dev.awscorp.uberinternal.com
 2018chef-gw09-sae1.tm1ext.awscorp.uberinternal.com
@@ -2472,6 +2473,7 @@
 2020.adminaccountadmin-access.bucketbeta-admin.tm1dev.awscorp.uberinternal.com
 2020.adminalpha-bucket.tm1.awscorp.uberinternal.com
 2020.adminalpha.accountadmin-access.bucketbeta-admin.tm1dev.awscorp.uberinternal.com
+2020.adminapi.tm1ext.awscorp.uberinternal.com
 2020.adminauth.api-api.authgw08-sae1.tm1ext.awscorp.uberinternal.com
 2020.adminbeta-admin.tm1dev.awscorp.uberinternal.com
 2020.alpha-access.access.debug.tm1ext.awscorp.uberinternal.com
@@ -2641,6 +2643,7 @@
 2020access.backup-alpha.access-alpha.tm1ext.awscorp.uberinternal.com
 2020access.backupalpha-bucket.tm1.awscorp.uberinternal.com
 2020access.bucket-engineering.tm1ext.awscorp.uberinternal.com
+2020access.bucket.api.tm1ext.awscorp.uberinternal.com
 2020access.bucketbeta-admin.tm1dev.awscorp.uberinternal.com
 2020accessaccess-admin.adminalpha.accountadmin-access.bucketbeta-admin.tm1dev.awscorp.uberinternal.com
 2020accessaccess.2019.beta.tm1ext.awscorp.uberinternal.com
@@ -2799,6 +2802,7 @@
 2020backup-access-account-data-chefbackup.tm1dev.awscorp.uberinternal.com
 2020backup-alpha.access-alpha.tm1ext.awscorp.uberinternal.com
 2020backup-auth.tm1ext.awscorp.uberinternal.com
+2020backup-update.tm1dev.awscorp.uberinternal.com
 2020backup.admin.gw08-sae1.tm1ext.awscorp.uberinternal.com
 2020backup.api.admin.tm1dev.awscorp.uberinternal.com
 2020backup.auth.tm1ext.awscorp.uberinternal.com
@@ -2816,6 +2820,7 @@
 2020beta.apichef-alpha.errorgw08-sae1.tm1ext.awscorp.uberinternal.com
 2020beta.auth-backup.gw08-sae1.tm1ext.awscorp.uberinternal.com
 2020beta.confluence.betaamir-antivirus.tm1ext.awscorp.uberinternal.com
+2020beta.tm1ext.awscorp.uberinternal.com
 2020betaaccess.access.authaccount.chefbackup.tm1dev.awscorp.uberinternal.com
 2020bucket-access.beta-data.tm1ext.awscorp.uberinternal.com
 2020bucket-backupauthalpha.tm1ext.awscorp.uberinternal.com
@@ -2855,6 +2860,7 @@
 2021-access-api.alphaalpha.auth-gw05-euc1.tm1ext.awscorp.uberinternal.com
 2021-access-authadmin-alpha.backup.tm1ext.awscorp.uberinternal.com
 2021-access-backupauthalpha.tm1ext.awscorp.uberinternal.com
+2021-access-beta-api.tm1ext.awscorp.uberinternal.com
 2021-access-beta-data.tm1ext.awscorp.uberinternal.com
 2021-access-bucketgw08-sae1.tm1ext.awscorp.uberinternal.com
 2021-access-chef-amir-antivirus.tm1ext.awscorp.uberinternal.com
@@ -3505,6 +3511,7 @@
 2021gw10-sae1.tm1ext.awscorp.uberinternal.com
 4460893.sodigital.uber.com
 a.uber.com
+aaacp.uBeriNtErnaL.com
 aaacp.uberinternal.com
 aarthika-staging-phx2.uberinternal.com
 aarthika-staging.uberinternal.com
@@ -3715,6 +3722,7 @@ access-chef.debug.tm1ext.awscorp.uberinternal.com
 access-chefauth-gw05-euc1.tm1ext.awscorp.uberinternal.com
 access-chefbackup.tm1dev.awscorp.uberinternal.com
 access-chefconfig.tm1ext.awscorp.uberinternal.com
+access-config.beta-api.tm1ext.awscorp.uberinternal.com
 access-config.tm1ext.awscorp.uberinternal.com
 access-confluence-gw08-sae1.tm1ext.awscorp.uberinternal.com
 access-dataconfig.tm1ext.awscorp.uberinternal.com
@@ -4174,6 +4182,7 @@ accessbackup.admin.gw08-sae1.tm1ext.awscorp.uberinternal.com
 accessbackup.tm1dev.awscorp.uberinternal.com
 accessbackupbeta.access-access.access-amir-antivirus.tm1ext.awscorp.uberinternal.com
 accessbeta-access-accessdata.tm1dev.awscorp.uberinternal.com
+accessbeta-api.tm1ext.awscorp.uberinternal.com
 accessbeta.access.access-confluence-gw08-sae1.tm1ext.awscorp.uberinternal.com
 accessbeta.access.api.admin-backup.tm1dev.awscorp.uberinternal.com
 accessbeta.apichef-alpha.errorgw08-sae1.tm1ext.awscorp.uberinternal.com
@@ -4663,6 +4672,7 @@ accountadmin.alpha-alpha-account.access-bucketgw08-sae1.tm1ext.awscorp.uberinter
 accountadmin.api.beta.tm1ext.awscorp.uberinternal.com
 accountadminaccess.betaalpha.errorgw08-sae1.tm1ext.awscorp.uberinternal.com
 accountadminalpha-confluence.tm1dev.awscorp.uberinternal.com
+accountadminapi.tm1ext.awscorp.uberinternal.com
 accountadminauth.tm1ext.awscorp.uberinternal.com
 accountalpha-accessalpha.data.amir-antivirus.tm1ext.awscorp.uberinternal.com
 accountalpha-accessalphachefbackup.tm1dev.awscorp.uberinternal.com
@@ -6408,6 +6418,7 @@ backupadminaccount-auth.api.accessapi-admin.beta.accountamir-antivirus.tm1ext.aw
 backupalpha-access-bucketgw08-sae1.tm1ext.awscorp.uberinternal.com
 backupalpha-accountaccountaccess-alpha.tm1ext.awscorp.uberinternal.com
 backupalpha-bucket.tm1.awscorp.uberinternal.com
+backupalpha-dev.update.tm1dev.awscorp.uberinternal.com
 backupalpha.access.2020bucket.beta.tm1ext.awscorp.uberinternal.com
 backupalphagw08-sae1.tm1ext.awscorp.uberinternal.com
 backupapi.admin-backup.tm1dev.awscorp.uberinternal.com
@@ -6682,6 +6693,7 @@ beta.beta-admin.admin.beta.accountamir-antivirus.tm1ext.awscorp.uberinternal.com
 beta.beta-api.account-engineering.tm1ext.awscorp.uberinternal.com
 beta.beta-bucketaccountauth-backup.gw08-sae1.tm1ext.awscorp.uberinternal.com
 beta.beta.access.accessaccount-data-chefbackup.tm1dev.awscorp.uberinternal.com
+beta.beta.account.betaapi.tm1ext.awscorp.uberinternal.com
 beta.beta.alpha-accessaccount-data-chefbackup.tm1dev.awscorp.uberinternal.com
 beta.beta.confluence-gw08-sae1.tm1ext.awscorp.uberinternal.com
 beta.betaaccount-bucket.tm1.awscorp.uberinternal.com
@@ -6996,6 +7008,7 @@ bucketauth.jenkins.account.tm1dev.awscorp.uberinternal.com
 bucketbeta-admin.tm1dev.awscorp.uberinternal.com
 bucketbeta-alpha-bucket.tm1.awscorp.uberinternal.com
 bucketbeta-alpha.tm1ext.awscorp.uberinternal.com
+bucketbeta-api.tm1ext.awscorp.uberinternal.com
 bucketbeta.access-access.access-amir-antivirus.tm1ext.awscorp.uberinternal.com
 bucketbeta.beta.alpha-accessaccount-data-chefbackup.tm1dev.awscorp.uberinternal.com
 bucketbucketchefbackup.tm1dev.awscorp.uberinternal.com
@@ -7016,6 +7029,7 @@ buildfarm.uberinternal.com
 buildviz.uberinternal.com
 bulk-accounts.uberinternal.com
 bullseye.uberinternal.com
+business-beta.uBeriNtErnaL.com
 business-beta.uber.com
 business-beta.uberinternal.com
 business-staging.uber.COm
@@ -7449,6 +7463,7 @@ confluence-admin-admin.api.authgw08-sae1.tm1ext.awscorp.uberinternal.com
 confluence-admin-admin.auth-gw05-euc1.tm1ext.awscorp.uberinternal.com
 confluence-admin.account-alpha-chef.authalpha.tm1ext.awscorp.uberinternal.com
 confluence-admin.admin-access-alphaaccess.access.beta.api.authgw08-sae1.tm1ext.awscorp.uberinternal.com
+confluence-adminapi.tm1ext.awscorp.uberinternal.com
 confluence-adminbucket.data.amir-antivirus.tm1ext.awscorp.uberinternal.com
 confluence-alpha-accessalpha.data.amir-antivirus.tm1ext.awscorp.uberinternal.com
 confluence-alpha-admin.api.dataaccess.access.debug.tm1ext.awscorp.uberinternal.com
@@ -8342,6 +8357,7 @@ freight-marketing-web.uberinternal.com
 freight-marketing.uberinternal.com
 freight-ops-lite-staging.uber.com
 freight-ops-lite.uber.com
+freight-ops-staging.uBeriNtErnaL.com
 freight-ops-staging.uberinternal.com
 freight-ops-web-staging.uberinternal.com
 freight-ops-web.uberinternal.com
@@ -8756,6 +8772,7 @@ jenkins-authaccess.alpha.tm1ext.awscorp.uberinternal.com
 jenkins-authbucket-jenkins.system.tm1ext.awscorp.uberinternal.com
 jenkins-backup.tm1dev.awscorp.uberinternal.com
 jenkins-beta-account-alpha.adminadmin-backup.tm1dev.awscorp.uberinternal.com
+jenkins-beta-api.tm1ext.awscorp.uberinternal.com
 jenkins-beta.access-access.access-amir-antivirus.tm1ext.awscorp.uberinternal.com
 jenkins-beta.alpha-accessaccount-data-chefbackup.tm1dev.awscorp.uberinternal.com
 jenkins-chef.alpha.errorgw08-sae1.tm1ext.awscorp.uberinternal.com
@@ -8910,6 +8927,7 @@ lert.uber.com
 lgtm-staging.UbERInTErNAl.com
 lgtm-staging.uberinternal.com
 lgtm.uberinternal.com
+libra.uBERinterNaL.com
 libra.uberinternal.com
 lightning-dca1.uberinternal.com
 lightning-staging.uberinternal.com
@@ -9026,6 +9044,7 @@ meta-mconsolidator01-dca1.prod.uber.com
 meta-umonitor-dca1.UbErIntErNAL.com
 meta-umonitor-dca1.uberinternal.com
 meta-umonitor-dca4.uberinternal.com
+metal-api-dev.uBERinterNaL.com
 metal-api-dev.uberinternal.com
 metal-api-preprod.uberinternal.com
 metal-api-staging.uberinternal.com
@@ -9422,6 +9441,7 @@ preferencesconfig.system.tm1ext.awscorp.uberinternal.com
 preferencesgw05-euc1.tm1ext.awscorp.uberinternal.com
 preferencesgw10-sae1.tm1ext.awscorp.uberinternal.com
 preferencesuncoveringtheworld.tm1ext.awscorp.uberinternal.com
+preloads-backend.uBERinterNaL.com
 preloads-backend.uberinternal.com
 preloads.uberinternal.com
 presence.uberinternal.com
@@ -9827,6 +9847,7 @@ spacepizza.uberinternal.com
 spark-jhs.uberinternal.com
 spectacle-staging.uberinternal.com
 spectacle.uberinternal.com
+spectre.uBeriNtErnaL.com
 spectre.uberinternal.com
 spectrum.uberinternal.com
 speedy.uberinternal.com
@@ -10069,6 +10090,7 @@ talent.uber.com
 tars.uberinternal.com
 taskly.uberinternal.com
 tassadar.uberinternal.com
+tax-profiles-admin.uBERinterNaL.com
 tax-profiles-admin.uberinternal.com
 tax-profiles.uberinternal.com
 tax.uberinternal.com
@@ -10430,6 +10452,7 @@ usim-editor-staging.uberinternal.com
 usim-editor.uberinternal.com
 usm.uberinternal.com
 usos.uberinternal.com
+uspaces-staging.uBERinterNaL.com
 uspaces-staging.uberinternal.com
 uspaces.uberinternal.com
 ussh.uberinternal.com
@@ -10696,6 +10719,7 @@ wisdom.uberinternal.com
 wok.uberinternal.com
 wokstaging.uberinternal.com
 wonkabar.uberinternal.com
+workbench-dashboard.uBERinterNaL.com
 workbench-dashboard.uberinternal.com
 workbench-dca1.uberinternal.com
 workbench-staging.uberinternal.com
