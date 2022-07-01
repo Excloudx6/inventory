@@ -101,6 +101,7 @@ http://amoctriggers.att.com:80
 http://amoctriggers.stage.att.com:80
 http://amqp-east.flow.cloud.att.com:80
 http://amqp-west.flow.cloud.att.com:80
+http://amqp.ato.cloud.att.com:80
 http://amqp.flow.cloud.att.com:443
 http://amqp.flow.cloud.att.com:80
 http://amsmeeting.att.com:443
@@ -247,6 +248,7 @@ http://bbtcpe1.att.com:80
 http://bbtcpe2.att.com:80
 http://bcmock.stage-e.att.com:80
 http://bcmock.stage.att.com:80
+http://bcsbill.eia.att.com:443
 http://bcsbilling.att.com:443
 http://bcsstechnical.att.com:80
 http://bcsswirelineit.att.com:80
@@ -304,6 +306,7 @@ http://businesscenterlearning.att.com:80
 http://businessdigital.att.com:80
 http://businessdirect.att.com:80
 http://businessoperations.att.com:80
+http://busmsgr.att.com:443
 http://busmsgr.att.com:80
 http://busreports.att.com:443
 http://bussalesret.att.com:80
@@ -335,6 +338,7 @@ http://ccgwsl-sm.teleconference.att.com:80
 http://ccgwsl-st.teleconference.att.com:80
 http://ccltraining.att.com:80
 http://cctrng.att.com:80
+http://cd.ato.cloud.att.com:80
 http://cd2migration.att.com:80
 http://cdi.att.com:80
 http://cdma.att.com:80
@@ -832,6 +836,7 @@ http://in-west.dataflow.iot.att.com:80
 http://in-west.dataflow.iot.att.com:8443
 http://in-west.flow.cloud.att.com:443
 http://in-west.flow.cloud.att.com:80
+http://in.ato.cloud.att.com:80
 http://in.dataflow.iot.att.com:443
 http://in.dataflow.iot.att.com:80
 http://in.dataflow.iot.att.com:8443
@@ -989,6 +994,7 @@ http://metrics.att.com:80
 http://mevrl.att.com:80
 http://mex.att.com:80
 http://mex.att.com:8080
+http://mfa.acdn.att.com:80
 http://michigan.att.com:443
 http://michigan.att.com:80
 http://michigan.att.com:8080
@@ -1314,6 +1320,8 @@ http://opssp9w6.att.com:80
 http://opssp9w7.att.com:80
 http://opssp9w8.att.com:80
 http://opssp9w9.att.com:80
+http://optimize.att.com:80
+http://optimize.att.com:8080
 http://opusisdtraining.att.com:443
 http://opusisdtraining.att.com:80
 http://opussims.att.com:80
@@ -1397,6 +1405,7 @@ http://policycerts1.att.com:80
 http://policycerts2.att.com:80
 http://policyforum.att.com:443
 http://policyforum.att.com:80
+http://policyforum.att.com:8080
 http://policyforum.att.com:8443
 http://polish.att.com:80
 http://portal-3pdev-directvcommercial.test.att.com:80
@@ -1406,12 +1415,14 @@ http://portal-east.flow.cloud.att.com:80
 http://portal-pp-directvcommercial.att.com:80
 http://portal-west.flow.cloud.att.com:80
 http://portal.acdn.att.com:80
+http://portal.ato.cloud.att.com:80
 http://portal.att.com:80
 http://portal.att.com:8080
 http://portal.dataflow.iot.att.com:443
 http://portal.dataflow.iot.att.com:80
 http://portal.flow.cloud.att.com:80
 http://portal.wholesale.att.com:80
+http://power-tools-test.att.com:80
 http://pr.att.com:80
 http://pre-brandcenter.test.att.com:80
 http://pre-developer.att.com:80
@@ -1525,6 +1536,7 @@ http://rsvp.att.com:80
 http://rsvp.test.att.com:80
 http://run-east.flow.cloud.att.com:80
 http://run-west.flow.cloud.att.com:80
+http://run.ato.cloud.att.com:80
 http://run.flow.cloud.att.com:80
 http://runm-east.dataflow.iot.att.com:80
 http://runm.dataflow.iot.att.com:80
@@ -1642,6 +1654,7 @@ http://sasvpr3vdna.att.com:443
 http://sasvpr3vdna.att.com:80
 http://sasvpr4vdna.att.com:443
 http://sasvpr4vdna.att.com:80
+http://sasvpvdna.Psl.labs.att.com:80
 http://sasvpvdna.att.com:443
 http://sasvpvdna.att.com:80
 http://sasvpvdna.itn.labs.att.com:443
@@ -2404,6 +2417,7 @@ http://west.dataflow.iot.att.com:443
 http://west.dataflow.iot.att.com:80
 http://west.dataflow.iot.att.com:8443
 http://westregion.att.com:80
+http://westregion.att.com:8080
 http://westregion.att.com:8443
 http://westus2-api.att.com:443
 http://westus2-api.att.com:80
@@ -2751,6 +2765,7 @@ https://amqp-east.flow.cloud.att.com:443
 https://amqp-east.flow.cloud.att.com:8443
 https://amqp-west.flow.cloud.att.com:443
 https://amqp-west.flow.cloud.att.com:8443
+https://amqp.ato.cloud.att.com:443
 https://amqp.flow.cloud.att.com:443
 https://amqp.flow.cloud.att.com:8443
 https://amsmeeting.att.com:443
@@ -3080,6 +3095,7 @@ https://ccontent.stage.att.com:443
 https://ccpa.stage.att.com:443
 https://ccs.uc.att.com:443
 https://cctrng.att.com:443
+https://cd.ato.cloud.att.com:443
 https://cd2migration.att.com:443
 https://cdi.att.com:443
 https://cdma.att.com:443
@@ -3882,6 +3898,7 @@ https://in-west.dataflow.iot.att.com:443
 https://in-west.dataflow.iot.att.com:8443
 https://in-west.flow.cloud.att.com:443
 https://in-west.flow.cloud.att.com:8443
+https://in.ato.cloud.att.com:443
 https://in.dataflow.iot.att.com:443
 https://in.dataflow.iot.att.com:8443
 https://in.flow.cloud.att.com:443
@@ -3915,6 +3932,7 @@ https://iom.eIA.att.com:8080
 https://iom.eia.att.com:443
 https://iom.eia.att.com:8080
 https://iomdsl.eia.att.com:443
+https://iomdsl.ipservices.att.com:443
 https://iot.att.com:443
 https://iotaccess-t1.att.com:443
 https://iotaccess-t1.stage.att.com:443
@@ -4076,6 +4094,7 @@ https://metraining.att.com:443
 https://metrics.att.com:443
 https://mevrl.att.com:443
 https://mex.att.com:443
+https://mfa.acdn.att.com:443
 https://mico-cl1-expe.millercoorsvideo.att.com:8443
 https://midatlanticregion.att.com:443
 https://midatlanticregion.att.com:8443
@@ -4451,6 +4470,7 @@ https://opssp9w7.att.com:443
 https://opssp9w8.att.com:443
 https://opssp9w9.att.com:443
 https://opssqa1.stage.att.com:443
+https://optimize.att.com:443
 https://opusisdtraining.att.com:443
 https://opusselfinstall.att.com:443
 https://opussims.att.com:443
@@ -4578,12 +4598,14 @@ https://portal-qa-directvcommercial.test.att.com:8443
 https://portal-west.flow.cloud.att.com:443
 https://portal-west.flow.cloud.att.com:8443
 https://portal.acdn.att.com:443
+https://portal.ato.cloud.att.com:443
 https://portal.att.com:443
 https://portal.dataflow.iot.att.com:443
 https://portal.dataflow.iot.att.com:8443
 https://portal.flow.cloud.att.com:443
 https://portal.flow.cloud.att.com:8443
 https://portal.wholesale.att.com:443
+https://power-tools-test.att.com:443
 https://pr.att.com:443
 https://pre-brandcenter.test.att.com:443
 https://pre-developer.att.com:443
@@ -4648,6 +4670,7 @@ https://pubapis.iqi.labs.att.com:443
 https://purchasingdev3.att.com:443
 https://purchasingdev4.att.com:443
 https://purchasingdev6.att.com:443
+https://purchasingfun1.att.com:443
 https://purchasingfun2.att.com:443
 https://purchasingfun3.att.com:443
 https://purchasingfun4.att.com:443
@@ -4752,6 +4775,7 @@ https://run-east.flow.cloud.att.com:443
 https://run-east.flow.cloud.att.com:8443
 https://run-west.flow.cloud.att.com:443
 https://run-west.flow.cloud.att.com:8443
+https://run.ato.cloud.att.com:443
 https://run.flow.cloud.att.com:443
 https://run.flow.cloud.att.com:8443
 https://runm-east.dataflow.iot.att.com:443
@@ -4763,6 +4787,7 @@ https://s-expressext.att.com:443
 https://s-expressext.att.com:8443
 https://s-expressext.test.att.com:443
 https://s-expressext.test.att.com:8443
+https://salesci.att.com:443
 https://salesdashboard.att.com:443
 https://salesevolution.att.com:443
 https://salesforceabs.att.com:443
@@ -4811,6 +4836,7 @@ https://sasvpdlr2vdna.att.com:443
 https://sasvpdlr4vdna.att.com:443
 https://sasvpr2vdna.att.com:443
 https://sasvpr4vdna.att.com:443
+https://sasvpvdna.Psl.labs.att.com:443
 https://sasvpvdna.att.com:443
 https://sauth.att.com:443
 https://sawt1.uccentral.att.com:443
@@ -5650,6 +5676,7 @@ https://wellsfargovideo.att.com:8443
 https://west.dataflow.iot.att.com:443
 https://west.dataflow.iot.att.com:8443
 https://westregion.att.com:443
+https://westregion.att.com:8443
 https://westus2-api.att.com:443
 https://westus2-auth-api.att.com:443
 https://wf-projectone.att.com:443

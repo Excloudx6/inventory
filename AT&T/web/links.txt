@@ -423,7 +423,7 @@ http://www.w3.org/TR/SVG11/feature#BasicStructure
 http://www.w3.org/TR/SVG11/feature#Image
 http://www.w3.org/TR/html4/strict.dtd
 http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
-http://www.w3.org/XML/1998/namespace id
+http://www.w3.org/XML/1998/namespace
 http://www.w3.org/ns/ttml
 http://www.w3.org/ns/ttml#parameter
 http://www.w3.org/ns/ttml#styling zIndex
@@ -534,6 +534,7 @@ https://api-amrattams.lab.nordigy.ru/restapi/oauth/authorize
 https://api-amrupams.lab.nordigy.ru/restapi/oauth/authorize
 https://api-att.touchcommerce.com
 https://api-dev-directvcommercial.test.att.com
+https://api-dmp.wireless.att.com/
 https://api-iotdevice.att.com/rws/api/v1/devices/9088217871987000001
 https://api-iotdevice.att.com/rws/api/v1/devices/9088217871987000001/ctdUsages
 https://api-iotdevice.att.com/rws/api/v1/devices/9088217871987000001/sessionInfo
@@ -558,6 +559,7 @@ https://api-private.atlassian.com/available-sites
 https://api-private.atlassian.com/me
 https://api-private.stg.atlassian.com/available-sites
 https://api-private.stg.atlassian.com/me
+https://api-test-dmp.wireless.att.com/
 https://api-ucc.ringcentral.com/restapi/v1.0/dictionary/country/1
 https://api-ucc.ringcentral.com/restapi/v1.0/dictionary/country/10
 https://api-ucc.ringcentral.com/restapi/v1.0/dictionary/country/100
@@ -1665,6 +1667,8 @@ https://basemaps-api.arcgis.com/arcgis/rest/services/styles/OSM:Standard
 https://basemaps-api.arcgis.com/arcgis/rest/services/styles/OSM:StandardRelief:Base
 https://basemaps-api.arcgis.com/arcgis/rest/services/styles/OSM:Streets
 https://basemaps-api.arcgis.com/arcgis/rest/services/styles/OSM:StreetsRelief:Base
+https://bcontent.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=https://dmp.wireless.att.com/businessconsole/home
+https://bcontent.stage.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=https://test-dmp.wireless.att.com/businessconsole/home
 https://bitbucket.org
 https://bitbucket.org/
 https://bitbucket.org/{{id}}
@@ -1757,6 +1761,7 @@ https://cdn.plot.ly/plotly-
 https://cdn.plyr.io/2.0.11/plyr.svg
 https://cdn.polyfill.io/v2/polyfill.min.js?callback=Weglot.polyReady&amp;features=
 https://cdn.quantummetric.com/loaders/quantum-att-loader.js
+https://cdn.quantummetric.com/qscripts/quantum-attsapmp.js
 https://cdn.quantummetric.com/qscripts/{name}
 https://cdn.segment.com/analytics.js/v1/
 https://cdn.selz.com/plyr/blank.mp4
@@ -1780,6 +1785,7 @@ https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js
 https://cdnjs.cloudflare.com/ajax/libs/zepto/1.2.0/zepto.min.js
 https://cdnssl.clicktale.net/
 https://cgate.stage.att.com/TokenService/nxsATS/WATokenService?appID={appId}&amp;returnURL={returnUrl}
+https://cgate.stage.att.com/apiserver/igate_web_dlom/logOut.do?style=relogin&amp;returnurl=https://dmp.stage.att.com/businessconsole/home
 https://cgatemas.stage.att.com/commonLogin/igate_wam/login.do
 https://cgatemas.stage.att.com/commonLogin/igate_wam/multiLogin.do
 https://chart.googleapis.com/chart?chs=166x166&amp;chld=L|0&amp;cht=qr&amp;chl=
@@ -1839,6 +1845,7 @@ https://cprodmasx.att.com/commonLogin/igate_wam/login.do
 https://cprodmasx.att.com/commonLogin/igate_wam/multiLogin.do
 https://cprodx.att.com/TokenService/nxsATS/WATokenService?appID={appId}&amp;returnURL={returnUrl}
 https://cprodx.att.com/apiserver/igate_web_dlom/logOut.do?style=TokenService&amp;returnURL=https%3A%2F%2Fsecurefamily.stage.att.com
+https://cprodx.att.com/apiserver/igate_web_dlom/logOut.do?style=relogin&amp;returnurl=https://dmp.att.com/businessconsole/home
 https://creativecommons.org/licenses/by/4.0/
 https://custdispatch.web.att.com:31232
 https://customer.cludo.com/img/loading.gif
@@ -1981,6 +1988,10 @@ https://discoveryui.myzenkey.com/ui/visual-code?redirect_uri=
 https://disqus.com/{{id}}
 https://dl.dropboxusercontent.com/u/209/zxcvbn/test/index.html
 https://dl.officeathand.att.com
+https://dmp.att.com/businessconsole/login
+https://dmp.stage.att.com/businessconsole/login
+https://dmp.wireless.att.com/businessconsole/login
+https://dmp1.stage.att.com/businessconsole/login
 https://docs.google.com/forms/d/
 https://docs.google.com/forms/u/0/d/e/1FAIpQLSdAN8oFhxT89Wn2vG1EFkv4VArtzO8GqxfuDKxzHqk7Ja_AjQ/formResponse
 https://docs.google.com/presentation/d/15hdlSVbgMTAS8x1wg5_RyTYbPSPPdE2G740Y-6t7oC4
@@ -2049,7 +2060,9 @@ https://fcontent.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;appName=
 https://fcontent.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;appName=m14336
 https://fcontent.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;appName=m14341
 https://fcontent.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;appName=m22500
+https://fcontent.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=https%3A%2F%2Flocalcontrol.firstnet.att.com%2Fadmin
 https://fcontent.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=https%3A%2F%2Fsolutions.firstnet.att.com%2Fbusinessconsole%2Fhome
+https://fcontent.stage.att.com/dynamic/iamLRR/LrrController?IAM_OP=login&amp;appName=m18347&amp;loginSuccessURL=https%3A%2F%2Foidc.stage.flogin.att.com%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fresponse_mode%3Dform_post%26scope%3Dopenid%26state%3Dg6yyeVUohc%26client_id%3Dm18347%26nonce%3Dpv46RqqsJm%26redirect_uri%3Dhttps%253A%252F%252Ftest-solutions.firstnet.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FFNETAPIRP%252Fredirect%252Fsapmptstop%26alt_dest%3Dhttps%25253A%25252F%25252Ftest-solutions.firstnet.att.com%25252Fbusinessconsole%25252Flogin%26response_type%3Did_token
 https://fcontent.stage.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;appName=m29805
 https://fcontent.stage.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;appName=m29806
 https://fcontent.stage.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;appName=m29807
@@ -2059,6 +2072,7 @@ https://fcontent.stage.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;ap
 https://fcontent.stage.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;appName=m29811
 https://fcontent.stage.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;appName=m29812
 https://fcontent.stage.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=https%3A%2F%2Fstage-solutions.firstnet.att.com%2Fbusinessconsole%2Fhome
+https://fcontent.stage.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=https://test-dmp.wireless.att.com/businessconsole/home
 https://finalstage.att.com
 https://finalstage.att.com/scripts/adobe/
 https://finalstage.att.com/scripts/goldeneye/staging/scripts/goldeneye.business.staging.js
@@ -2068,6 +2082,7 @@ https://finalstage.att.com/services/shopwireless/model/att/ecom/api/FANDetailsSe
 https://finalstg-developer.firstnet.com/static-assets/documents/firstnet/resource-catalog/FirstNet_Application_Testing_and_Security_Requirements.pdf\
 https://finance-app.itunes.apple.com/deeplink?
 https://firstnet-cellbooster.att.com/static/welcome
+https://firstnetcentral.firstnet.com/admin
 https://firstnetgov.tumblr.com/
 https://flo.uri.sh
 https://flow.att.com
@@ -2633,6 +2648,7 @@ https://my.geotab.com/
 https://my.stg.internal.atlassian.com
 https://my1.geotab.com/registration.html
 https://myaccount.blob.core.windows.net/mycontainer/myblob
+https://myattmonitor10.stage.att.com:8442/my/#/passthrough/overview
 https://myattqa1.stage.att.com
 https://myattqa1.stage.att.com/ui/services_co_myatt_login/1.0.0/halo-application-edm-bridge.js
 https://mybell.bell.ca/
@@ -3035,6 +3051,7 @@ https://saml.stage.att.com/isam/sps/ATTIDPDefault/saml20/logininitial?RequestBin
 https://samsungknox.com/en
 https://samsungknox.com/en\
 https://sandbox.paywithmybank.com/start/scripts/paywithmybank.js
+https://sapmp.test.att.com/
 https://sb.scorecardresearch.com/
 https://sb.scorecardresearch.com/beacon.js
 https://schema.org
@@ -3110,12 +3127,14 @@ https://sharethis.com/account/setCookie.php
 https://signin.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;KMSI_SU=Y&amp;returnURL=
 https://signin.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=
 https://signin.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=https%3A%2F%2F
+https://signin.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=https://dmp.att.com/businessconsole/home
 https://signin.att.com/dynamic/iamlrr/lrrcontroller
 https://signin.att.com/static/ciam/en/common/js/keepAlive.js
 https://signin.stage.att.com/static/ciam/en/common/js/keepAlive.js
 https://signin.stage.clogin.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;KMSI_SU=Y&amp;returnURL=
 https://signin.stage.clogin.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=
 https://signin.stage.clogin.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=https%3A%2F%2F
+https://signin.stage.clogin.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=https://dmp.stage.att.com/businessconsole/home
 https://simcontrolcenter.wireless.att.com
 https://sipjs.com
 https://sites.google.com/site/trinkmlfile/kmlfiles/fullrailsthin.kmz
@@ -3123,6 +3142,7 @@ https://smetrics.att.com
 https://smrc.att.com/assets/internal-social-media-standards.pdf
 https://snap.licdn.com/
 https://snippet.babylonjs.com
+https://solutions.firstnet.att.com/businessconsole/login
 https://soundcloud.com/chikaoranika
 https://soundcloud.com/cordae
 https://soundcloud.com/seucheu/john-cage-433-8-bit-version\
@@ -3203,8 +3223,10 @@ https://telegram.me/{{id}}
 https://telus.com/BusinessConnect/Legal
 https://tesco.vault.asurion.com/
 https://test-appcontrol.firstnet.att.com/
+https://test-apps.firstnet.att.com
 https://test-apps.firstnet.att.com/
 https://test-developer.firstnet.com/developer/mvc/auth/login?siteId=PORTALPROPER
+https://test-dmp.wireless.att.com/businessconsole/login
 https://test-localcontrol.firstnet.att.com/
 https://test-localcontrol.firstnet.att.com/admin
 https://test-localcontrol.firstnet.att.com/faq
@@ -3218,6 +3240,7 @@ https://test-profilemgt4.firstnet.att.com/icam-firstnet/my-profile-view-only
 https://test-profilemgt5.firstnet.att.com/icam-firstnet/audit-certification-landing-page
 https://test-profilemgt5.firstnet.att.com/icam-firstnet/help
 https://test-ptt.firstnet.att.com/att/FNPortal/login
+https://test-solutions.firstnet.att.com/businessconsole/login
 https://test-training.firstnet.att.com/
 https://test-upliftmgmt.firstnet.att.com/
 https://test-wireless.firstnet.att.com/b2bservlets/HaloSSOLoginServlet.dyn
@@ -3225,6 +3248,7 @@ https://test-wireless.firstnet.att.com/b2bservlets/HaloSSOLoginServlet.dyn?reque
 https://test-wireless.firstnet.att.com/b2bservlets/HaloSSOLoginServlet.dyn?requestedPage=downloadReports
 https://test-www.firstnet.com/signup/utf-eligibility
 https://test.localcontrol-firstnet.com/
+https://test17-www.wireless.att.com/business/index.jsp?source=sapmp&amp;rdirect=false&amp;rkey=
 https://thecode.dev.att.com/auth
 https://training.firstnet.att.com/
 https://trello.com
@@ -3366,6 +3390,7 @@ https://w.soundcloud.com/player/api.js\
 https://wac-cdn.atlassian.com/static/master/1093/assets/build/js/
 https://wac-cdn.atlassian.com/static/master/1144/assets/build/js/
 https://wac-cdn.atlassian.com/static/master/1185/assets/build/js/
+https://wac-cdn.atlassian.com/static/master/1233/assets/build/js/
 https://wac.stg.internal.atlassian.com
 https://wac.stg.internal.atlassian.com/apis/stg/cnas
 https://wac.stg.internal.atlassian.com/endpoint
@@ -3379,6 +3404,7 @@ https://webphone.att.com/
 https://webphone.att.com/cgi-bin/webphones.pl?id=
 https://webtest.stage.att.com/empsvcs/hrpinmgt/pagLogin/
 https://webtest.stage.att.com/empsvcs/hrpinmgt/pagLogin/?retURL=
+https://webtest.stage.att.com/empsvcs/hrpinmgt/pagLogin/?retURL=https://zld04697.vci.att.com:8003/businessconsole/login
 https://webtest.stage.att.com/empsvcs/hrpinmgt/pagLogin/?retURL=https://zld04697.vci.att.com:8003/businessconsole/login?localhost=true
 https://webtest.stage.att.com/empsvcs/hrpinmgt/pagLogout/?returnurl=https://dmp.stage.att.com/businessconsole/home\
 https://webtest.stage.att.com/hraccess-dev1/hraccess_web/active
@@ -3729,6 +3755,7 @@ https://www.att.com/media/att/2015/support/images/phone-icon.png
 https://www.att.com/media/gvp/
 https://www.att.com/media/gvp/gvp-4.1.40.cta.min.js
 https://www.att.com/media/gvp/gvp-4.1.40.min.js
+https://www.att.com/media/gvp/gvp-4.1.41.min.js
 https://www.att.com/media/gvp/gvp-4.aem.min.js
 https://www.att.com/mobilityfees
 https://www.att.com/mobilityfees\
@@ -3737,6 +3764,7 @@ https://www.att.com/my/#/passthrough/BillPayment
 https://www.att.com/my/#/passthrough/MakePayment
 https://www.att.com/my/#/passthrough/WIRELESSDETAILS
 https://www.att.com/my/#/passthrough/managemydata
+https://www.att.com/my/#/passthrough/overview
 https://www.att.com/myatt
 https://www.att.com/myatt\
 https://www.att.com/offers/device-protection.html
@@ -4066,6 +4094,8 @@ https://www.snapchat.com/add/{{id}}
 https://www.sonatype.com/campaign/software-evaluation-agreement
 https://www.speedtest.net/about/privacy
 https://www.stevenrogelberg.com/
+https://www.sunrise.ch/en/residential/help/sonstige-hilfe/rechtliches.html
+https://www.sunrise.ch/en/residential/help/sonstige-hilfe/rechtliches/datenschutzerklaerung.html
 https://www.surveymonkey.com/r/CPL2YMN
 https://www.surveymonkey.com/r/ZWY9GDT
 https://www.t-mobile.com/business/solutions/fleet-management-solutions/geotab
@@ -4095,6 +4125,7 @@ https://www.wireless.att.com/businesscenter/en_US/pdf/legal/att-terms-of-use-for
 https://www.wireless.att.com/businesscenter/legal-contracts/cda.jsp\
 https://www.wireless.att.com/learn/articles-resources/disability-resources/disability-resources.jsp
 https://www.wireless.att.com/learn/articles-resources/disability-resources/disability-resources.jsp\
+https://www.wireless.att.com/premiercare
 https://www.xing.com/{{id}}
 https://www.yahoo.com
 https://www.yahoo.com/comments/

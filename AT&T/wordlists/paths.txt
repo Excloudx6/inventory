@@ -17230,7 +17230,7 @@
 /PageMode /
 /Pages 
 /Parent 
-/Pattern cs
+/Pattern cs /Sh1 scn
 /Police-responder-icon-map-label.svg
 /Police-responder-icon-map.svg
 /Predictor 
@@ -17570,6 +17570,7 @@
 /_next/static/
 /_nuxt/
 /_rels/
+/_sec/cp_challenge/
 /_sec/cp_challenge/verify
 /_ui/common/request/servlet/JsLoggingServlet
 /_ui/common/request/servlet/OrgPreferencesServlet
@@ -20543,6 +20544,7 @@
 /ejs
 /el
 /el/
+/elE
 /eligibility
 /elliptic
 /else
@@ -22187,7 +22189,7 @@
 /mnt1/jenkins/workspace/care-community-apps-k8s-build-deploy/npm-install-work/app
 /mnt1/jenkins/workspace/care-community-apps-k8s-build-deploy@2/npm-install-work/app
 /mo
-/mo. 
+/mo.
 /mobile-account-verification?d
 /mobile/
 /mobile/api/
@@ -24794,6 +24796,7 @@
 /unbookmark
 /universal-header/zendesk-web-sdk-1.11.2.js
 /unsubscribe
+/unsubscribed/:id?
 /unsuccessful/modal
 /unsupported-browser
 /untagStream\
@@ -25479,6 +25482,7 @@
 05/17/2022
 05/31/2022
 06/14/2022
+06/28/2022
 07/02/2021
 07/27/2021
 08/01/2020
@@ -28115,6 +28119,7 @@ assets/img/4971/mt_equipment_4971.svg
 assets/img/4971/mt_equipment_4971_ethernet.svg
 assets/img/4971/mt_equipment_4971_power.svg
 assets/img/4971/mt_equipment_4971_refresh.svg
+assets/img/attFavCon.jpg
 assets/img/att_biz_hz_alt_rgb_wht.png
 assets/img/chat_
 assets/img/devices/
@@ -30371,8 +30376,10 @@ img/favicon-avaya.png
 img/favicon-bt.png
 img/favicon-frontier.ico
 img/favicon-rc.png
+img/favicon-sunrise.ico
 img/favicon-telekom.png
 img/favicon-telus.png
+img/favicon-versatel.png
 img/favicon-vodafone.svg
 img/ivrEditor/ctxmenu_icon_settings.svg
 img/panel/record.svg
@@ -31473,6 +31480,8 @@ scoc/usa/fl/dade/miami/water/programs
 scoring.html
 script/unsupported.js
 script/x-vue
+scripts/adobe/virtual/detm-container-ftr.js
+scripts/adobe/virtual/detm-container-hdr.js
 scripts/js/admin/settings/confirmdelete.html
 scripts/js/home/home.html
 scripts/server_processing.php
