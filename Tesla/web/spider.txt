@@ -4158,3 +4158,25 @@
 [javascript] - https://suppliers-stg.tesla.com:443/runtime.168f1bdbe44b30435af6.js
 [url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&scope=openid%20email&state=1656524952319%3A0.06158689105731452
 [url] - [code-403] - http://akamai-apigateway-stg-ops-warp3pl.tesla.com:80
+[href] - https://engage.tesla.com/assets/countable-1656613610.css
+[href] - https://engage.tesla.com/assets/vendor-1656613610.css
+[href] - https://referral.tesla.com/css/text.css?t=1656696547
+[href] - https://referral.tesla.com/css/viewer.css?t=1656696547
+[href] - https://referral.tesla.com/css/web.css?t=1656696547
+[href] - https://referral.tesla.com/upload/css/uploadText.css?t=1656696547
+[href] - https://toolbox.tesla.com/js/external.prod.6bb3eabb342074747bea.js
+[href] - https://toolbox.tesla.com:443/js/external.prod.6bb3eabb342074747bea.js
+[javascript] - https://cloudinary.com/cdn-cgi/challenge-platform/h/b/scripts/invisible.js?ts=1656691200
+[javascript] - https://engage.tesla.com/assets/countable-1656613610.js
+[javascript] - https://engage.tesla.com/assets/vendor-1656613610.js
+[javascript] - https://ir.tesla.com/_flysystem/s3/js/js_ZsGbKzB47TJS878-BRjlLe8pY0db7YWA_rZzgrQ1_wc.js
+[javascript] - https://ir.tesla.com:443/_flysystem/s3/js/js_ZsGbKzB47TJS878-BRjlLe8pY0db7YWA_rZzgrQ1_wc.js
+[javascript] - https://service.tesla.com/main.21494b42fc9a96e5615c.js
+[javascript] - https://service.tesla.com/runtime.9476bce542df3c54bf09.js
+[javascript] - https://service.tesla.com:443/main.21494b42fc9a96e5615c.js
+[javascript] - https://service.tesla.com:443/runtime.9476bce542df3c54bf09.js
+[javascript] - https://suppliers-stg.tesla.com:443/runtime.7bf60b263a6671669f67.js
+[javascript] - https://toolbox.tesla.com/js/app.4061a722d0dc98125f72.js
+[javascript] - https://toolbox.tesla.com/js/vendors.3947b81b3d875b08cb13.js
+[javascript] - https://toolbox.tesla.com:443/js/app.4061a722d0dc98125f72.js
+[javascript] - https://toolbox.tesla.com:443/js/vendors.3947b81b3d875b08cb13.js
