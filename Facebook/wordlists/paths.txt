@@ -1696,6 +1696,8 @@
 /adsmanager
 /affiliate_management/
 /agenda
+/ajax/autoset_timezone_ajax.php
+/ajax/autoset_timezone_ajax/
 /ajax/bnzai
 /ajax/bulk-route-definitions/
 /ajax/bz
@@ -1731,6 +1733,8 @@
 /ajax/proxy.php
 /ajax/relay-ef/
 /ajax/route-definition/
+/ajax/timezone/update.php
+/ajax/timezone/update/
 /alarmStat.html
 /alarms/
 /all/
@@ -2049,6 +2053,7 @@
 /collabsmanager/signup/{actor_type}/{?asset_type}/
 /collect
 /collections/
+/comet
 /coming_soon/drafts/
 /coming_soon/upload/
 /comment/
@@ -2940,6 +2945,7 @@
 /rsrc.php
 /rsrc.php/
 /rsvp-form/response?access_token=
+/rtc_multi
 /runtime
 /safari-pinned-tab.svg
 /sanitized
@@ -3752,6 +3758,7 @@
 /web_perf/get_perf_level/
 /webex
 /webgraphql/mutation/
+/webrtc
 /whatsapp-business-api
 /widgets/follow_button.a58e82e150afc25eb5372dd55a98b778.{{lang}}.html
 /widgets/hub.html
