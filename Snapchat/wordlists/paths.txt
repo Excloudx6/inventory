@@ -7874,6 +7874,7 @@
 /create-campaign/review
 /create-campaign/variables
 /create-ecdh
+/create-org-lens-folder
 /create/
 /create/:publisherId
 /create/from/:templateId
@@ -7899,6 +7900,9 @@
 /creatives/builder/?adProduct=SNAP_AD&amp;__creativeType=SNAP_AD
 /curation
 /curation/snap/:filterSnapId
+/custom-fonts
+/custom-fonts/storyboard/{storyboardID}
+/custom-fonts/template/{templateID}
 /customize/from/:sourceTemplateId
 /customize/new
 /d+U
@@ -13329,6 +13333,7 @@
 /metrics/v2?
 /minis
 /minis-1fd
+/minis-c97
 /minis-d40
 /minis-f64
 /minis/
@@ -13387,6 +13392,10 @@
 /minis/platform-features/age-restricting-d68
 /minis/platform-features/analytics
 /minis/platform-features/analytics-35a
+/minis/platform-features/bitmoji/bitmoji-marketing
+/minis/platform-features/bitmoji/bitmoji-marketing-490
+/minis/platform-features/bitmoji/display-bitmoji
+/minis/platform-features/bitmoji/display-bitmoji-84d
 /minis/platform-features/display-bitmoji
 /minis/platform-features/display-bitmoji-909
 /minis/platform-features/leaderboards
@@ -13973,6 +13982,7 @@
 /sms*
 /snap-cryptocurrency-form
 /snap-kit
+/snap-kit-223
 /snap-kit-26f
 /snap-kit-3c7
 /snap-kit-3ed
@@ -36545,6 +36555,8 @@ personal/versions
 platform-features/add-to-homescreen
 platform-features/age-restricting
 platform-features/analytics
+platform-features/bitmoji/bitmoji-marketing
+platform-features/bitmoji/display-bitmoji
 platform-features/display-bitmoji
 platform-features/leaderboards
 platform-features/monetization/show-ads
@@ -38886,6 +38898,7 @@ sha384-7Xso2VJidvWfegAmTVF/yrTTymoA1bA25Vv1h7Iz7C4HrAiuE8FojdA6rFybDFOB
 sha384-7ZIKuM/1lXnhcOx8QgcYB8PC448lK5fHwCbVwHLOWF4xUpScO2hQjUcUwuACCSOE
 sha384-7hLGfid1EYw/MN3NhgQn9RdQAb4pXbvDkilgliJ8sqH4xjpqbeI9EVVgRUl4/LaH
 sha384-7ifYVuus0etT44vGW8BpVFgJDQObGVlKEmH/JeMzrrrN4CU4qbR1Psrw1QIzhhpv
+sha384-7kJ72/hSMZQrstdCQqZUvNqguC5GZWL3nwRr3a3mjj8rJxJWPUBsrJ36Wcxp2vCc
 sha384-7mO0Izv92GuPxObS0XrnzV4wCtNHQdqD6eEC/bomibdjIBoJiUUR4DmgoLM5Llj2
 sha384-7mfLXOJ0Hmk4JgsaIu8nxH357tAt3z4lJYdMfaOdbQuQ2CsLDiSBj0/ybI6wZn0C
 sha384-7sjHvZ9XixSZldBfjEEv/KKotyM2xGJ4ZeAtAvVBflsZVUNLv/ffhSmtbYGaYlNT
@@ -39317,6 +39330,7 @@ sha384-RjsM43/644mfGQ/6WiRiuWbaeWCBkCAWFkr2VwLFOsK8kI7BODXG0IcbE0rv0rBA
 sha384-Rkelqi5IfOYgLP1azSttgZyrGu4fZIycvtt58GK/B6gsbA1BFIo5lfW2R2ZVxxys
 sha384-Ro6Y79mzfQC34KENzCdqfmmywvKtp2tWr4LYlmNFuOwTnwKaEDGTXOtbBC/PnltC
 sha384-RoO14OQR8bUwJ87RPE507ewVFK3xVJLC7KHCWqV7CdlBm/nl4VuE03vS6Pq56JIj
+sha384-RrZkr81iBh16w2bI0Io47usyT7VRR8llVrqTUPrmVFRb/XS/3R5ATUcIkW2lPV1U
 sha384-SAHNNzaMfXSDIR9p4wwtej1MfcT/kF6SAxIbwLqIE146Lwnh1xlONmbUj2nUQUaw
 sha384-SGpqC7rNAi/91cCcxxs6OPv541vbOKnX9pbhukTmF3mNeTzsCuUeiMlqdirG8wKv
 sha384-SL6B0diQCAwacJiJmQZST4OMsoEk/osML9tXGQZXnilQ2RDPxWi8zJ6PgXjVMaSp
