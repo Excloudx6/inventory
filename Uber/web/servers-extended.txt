@@ -1328,6 +1328,7 @@ http://matching-client.uberinternal.com:80 [null] [401] [103] ["application/json
 http://maze.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.197.214"] ["https://maze.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://mcp.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://mcp.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://mdm.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://mdm.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
+http://medley.uBeriNtErnaL.com:80 [null] [401] [103] ["application/json"] ["104.36.195.150"] ["https://medley.uBeriNtErnaL.com/"] ["ufe"] [["Basic","Envoy"]] [];
 http://medley.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.197.214"] ["https://medley.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://medleyui.uberinternal.com:80 [null] [301] [null] [null] ["34.98.127.226"] ["https://medleyui.uberinternal.com/"] ["ufe"] [["Google Cloud"]] [];
 http://medleyui.uberinternal.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["34.98.127.226"] [null] [null] [null] [];
@@ -2131,7 +2132,7 @@ http://tb-origin-staging.uber.com:8080 ["404 Not Found"] [404] [277] ["text/html
 http://tb-origin-staging.uberinternal.com:80 ["403 Forbidden"] [403] [150] ["text/html"] ["104.36.195.150"] ["https://tb-origin-staging.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://tb-origin.uber.com:80 ["403 Forbidden"] [403] [150] ["text/html"] ["34.98.127.226"] ["https://tb-origin.uber.com/"] ["ufe"] [["Envoy","Google Cloud"]] [];
 http://tb-origin.uber.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["34.98.127.226"] [null] [null] [null] [];
-http://tb-static.uber.com:443 ["ERROR: The request could not be satisfied"] [400] [915] ["text/html"] ["108.138.7.62"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
+http://tb-static.uber.com:443 ["ERROR: The request could not be satisfied"] [400] [915] ["text/html"] ["108.157.4.6"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
 http://tb-static.uber.com:80 ["ERROR: The request could not be satisfied"] [403] [915] ["text/html"] ["108.138.7.11"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
 http://tbs-static.uber.com:80 ["ERROR: The request could not be satisfied"] [403] [915] ["text/html"] ["99.84.88.127"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
 http://tbs.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.197.214"] ["https://tbs.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
@@ -3663,6 +3664,7 @@ https://matching-client.uberinternal.com:443 ["302 Found"] [302] [142] ["text/ht
 https://maze.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.197.214"] [null] ["ufe"] [["Envoy"]] [];
 https://mcp.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://mdm.uberinternal.com:443 [null] [401] [103] ["application/json"] ["104.36.195.150"] [null] ["ufe"] [["Basic","Envoy"]] [];
+https://medley.uBeriNtErnaL.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://medley.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.197.214"] [null] ["ufe"] [["Envoy"]] [];
 https://medleyui.uberinternal.com:443 [null] [301] [null] [null] ["34.98.127.226"] [null] ["ufe"] [["Google Cloud"]] [];
 https://megaphone.uberinternal.com:443 ["301 Moved Permanently"] [301] [166] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];

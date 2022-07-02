@@ -5186,6 +5186,7 @@
 /blog/sw.js?ver=1654104581250&amp;scope=en-US
 /blog/sw.js?ver=1654104601802&amp;scope=en-US
 /blog/sw.js?ver=1656423185924&amp;scope=en-US
+/blog/sw.js?ver=1656423267948&amp;scope=en-US
 /blog/sw.js?ver=1656423286519&amp;scope=en-DE
 /blog/sw.js?ver=1656423326195&amp;scope=en-DE
 /blog/sw.js?ver=1656423326327&amp;scope=en-CA
@@ -5412,6 +5413,9 @@
 /cs/
 /cs/:share_link_id/:asset_id?
 /csat
+/cspm/resource/integration/aws
+/cspm/resource/system/account/count/filter
+/cspm/resource/system/account/free-text-filter
 /csrf-token
 /css/dependencies
 /csv
@@ -6690,10 +6694,12 @@
 /private/agents/filters-autocomplete
 /private/bulk-tasks
 /private/bulk-tasks/filters-count
+/private/dv/count-by-type
 /private/export/tasks
 /private/filters/enriched
 /private/navigation
 /private/remote-scripts/expand-row
+/private/scoped-kv-store
 /private/singularity-marketplace/availability
 /private/system/eula-config
 /private/tasks
@@ -6993,6 +6999,7 @@
 /sentinels
 /sentinels/accountInfo
 /sentinels/benchmarks
+/sentinels/benchmarks//endpoints
 /sentinels/blacklist/black_hash
 /sentinels/custom-rules
 /sentinels/device-control
@@ -7007,6 +7014,7 @@
 /sentinels/network-control/network-quarantine
 /sentinels/packages
 /sentinels/policy
+/sentinels/policy/mobile-devices
 /sentinels/rogues
 /sentinels/siteInfo
 /sentinels/tags-management
@@ -7119,6 +7127,7 @@
 /situation_similarity
 /situations/
 /situations?viewId=
+/skylight/hunting
 /smart/
 /smartdatadiscovery\
 /snippet
@@ -10605,6 +10614,10 @@ private/agents/filters-count
 private/agents/tags/keys
 private/atlas-agents-control/opt-in-modal
 private/cloud-detection/info/version
+private/dv/column-fields
+private/dv/distinct-fields-data
+private/dv/init-private-streaming-query
+private/dv/query-streaming-status
 private/filters/enriched
 private/group-count
 private/hashes/scopes
