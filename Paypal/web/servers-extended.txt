@@ -51,7 +51,7 @@ http://api.sandbox.pilot.paypal.com:443 ["400 The plain HTTP request was sent to
 http://arkose.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [655] ["text/html"] ["104.18.42.229"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://arkose.paypal.com:8080 [null] [301] [null] [null] ["104.18.42.229"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://arkose.paypal.com:8443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [253] ["text/html"] ["104.18.42.229"] [null] ["cloudflare"] [["Cloudflare"]] [];
-http://au-cdr-apis.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.210"] [null] [null] [null] [];
+http://au-cdr-apis.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.210"] [null] [null] [null] [];
 http://au-cdr-apis.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.210"] [null] [null] [null] [];
 http://autodiscover.paypal.com:80 [null] [301] [null] [null] ["52.98.152.200"] [null] ["Microsoft-IIS/10.0"] [["IIS","Microsoft ASP.NET","Windows Server"]] [];
 http://autodiscover.tpa.paypal.com:80 [null] [301] [null] [null] ["52.97.137.104"] [null] ["Microsoft-IIS/10.0"] [["IIS","Microsoft ASP.NET","Windows Server"]] [];
@@ -100,7 +100,7 @@ http://fpdbs.paypal.com:80 [null] [302] [null] [null] ["151.101.1.21"] ["https:/
 http://github-global.paypal.com:80 [null] [403] [null] [null] ["173.0.93.196"] ["https://github-global.paypal.com/"] [null] [null] [];
 http://gslink.paypal.com:80 ["404 Not Found"] [404] [564] ["text/html"] ["167.89.118.83"] [null] ["nginx"] [["Nginx"]] [];
 http://gsslink.paypal.com:80 ["404 Not Found"] [404] [162] ["text/html"] ["167.89.123.54"] [null] ["nginx"] [["Nginx"]] [];
-http://help.xoom.com:80 ["Xoom Help Center"] [200] [80175] ["text/html"] ["161.71.22.171"] ["https://help.xoom.com/s/?language=en_US"] [null] [null] [];
+http://help.xoom.com:80 ["Xoom Help Center"] [200] [44070] ["text/html"] ["161.71.22.171"] ["https://help.xoom.com/s/?language=en_US"] [null] [null] [];
 http://history.paypal.com:80 ["Bargeldloses Bezahlen - Online Shopping | PayPal DE"] [200] [120006] ["text/html"] ["151.101.129.21"] ["https://history.paypal.com/de/home"] [null] [["React","Varnish"]] [];
 http://id.sandbox.xoom.com:80 [null] [302] [null] [null] ["151.101.65.21"] ["https://id.sandbox.xoom.com/"] [null] [["Varnish"]] [];
 http://id.xoom.com:80 [null] [302] [null] [null] ["151.101.65.21"] ["https://id.xoom.com/"] [null] [["Varnish"]] [];
@@ -126,16 +126,17 @@ http://lyncdiscover.xoom.com:80 [null] [404] [34] ["application/json"] ["52.112.
 http://m.paypal.com:80 [null] [301] [null] [null] ["104.90.111.118"] [null] ["AkamaiGHost"] [null] [];
 http://m.xoom.com:80 ["301 Moved Permanently"] [301] [166] ["text/html"] ["151.101.1.21"] ["https://m.xoom.com/"] [null] [["Varnish"]] [];
 http://mail.paypal.com:80 [null] [400] [3] ["text/plain"] ["159.127.187.12"] [null] [null] [null] [];
-http://manager-edgemigration.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.214"] [null] [null] [null] [];
+http://manager-edgemigration.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.214"] [null] [null] [null] [];
 http://manager-edgemigration.glb.paypal.com:80 ["Send Money, Pay Online or Set Up a Merchant Account - PayPal"] [200] [164490] ["text/html"] ["173.0.93.189"] ["https://manager-edgemigration.glb.paypal.com/us/home"] ["nginx"] [["Nginx","React"]] [];
 http://manager-edgemigration.payflow.edge.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.189"] [null] [null] [null] [];
 http://manager-edgemigration.payflow.edge.paypal.com:80 ["Send Money, Pay Online or Set Up a Merchant Account - PayPal"] [200] [130871] ["text/html"] ["173.0.93.189"] ["https://manager-edgemigration.payflow.edge.paypal.com/us/home"] ["nginx"] [["Nginx","React"]] [];
 http://manager-migration.payflow.edge.paypal.com:80 [null] [301] [null] [null] ["66.211.171.182"] [null] [null] [null] [];
 http://manager.payflow.edge.paypal.com:80 [null] [301] [null] [null] ["66.211.171.182"] [null] [null] [null] [];
+http://manager.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.189"] [null] [null] [null] [];
 http://manager.paypal.com:80 ["PayPal Manager"] [200] [79396] ["text/html"] ["173.0.93.189"] ["https://manager.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://messages.xoom.com:80 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.111.44.1"] [null] [null] [null] [];
 http://misc-redirect.paypal.com:80 [null] [403] [null] [null] ["66.211.168.148"] ["https://misc-redirect.paypal.com/"] ["BigIP"] [["F5 BigIP"]] [];
-http://mobile.glb.paypal.com:80 ["Service Unavailable"] [503] [269] ["text/html"] ["95.100.69.204"] [null] ["AkamaiGHost"] [null] [];
+http://mobile.glb.paypal.com:80 ["Service Unavailable"] [503] [268] ["text/html"] ["104.90.111.118"] [null] ["AkamaiGHost"] [null] [];
 http://mobile.paypal.com:80 ["Digital Wallets, Money Management, and More | PayPal US | PayPal US"] [200] [220167] ["text/html"] ["104.90.111.118"] ["https://mobile.paypal.com/us/home"] [null] [["Akamai"]] [];
 http://msoid.paypal.com:80 [null] [404] [10] ["text/HTML"] ["20.190.159.4"] [null] [null] [null] [];
 http://msoid.xoom.com:80 [null] [404] [10] ["text/HTML"] ["20.190.159.73"] [null] [null] [null] [];
@@ -153,7 +154,7 @@ http://onboarding.paypal.com:80 ["ERROR: The request could not be satisfied"] [4
 http://origin-ad.paypal.com:80 [null] [403] [null] [null] ["66.211.168.148"] ["https://origin-ad.paypal.com/"] ["BigIP"] [["F5 BigIP"]] [];
 http://origin-history.paypal.com:80 ["Fastly error: unknown domain origin-history.paypal.com"] [500] [270] ["text/html"] ["151.101.1.21"] [null] ["Varnish"] [["Varnish"]] [];
 http://p-fastly.glb.paypal.com:80 ["Fastly error: unknown domain p-fastly.glb.paypal.com"] [500] [266] ["text/html"] ["151.101.129.35"] [null] ["Varnish"] [["Varnish"]] [];
-http://p.glb.paypal.com:80 ["Fastly error: unknown domain p.glb.paypal.com"] [500] [252] ["text/html"] ["151.101.129.35"] [null] ["Varnish"] [["Varnish"]] [];
+http://p.glb.paypal.com:80 ["Fastly error: unknown domain p.glb.paypal.com"] [500] [253] ["text/html"] ["151.101.1.35"] [null] ["Varnish"] [["Varnish"]] [];
 http://p.paypal.com:80 ["403 Forbidden"] [403] [417] ["text/html"] ["151.101.65.35"] [null] ["Varnish"] [["Varnish"]] [];
 http://pages.emails.paypal.com:80 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.110.192.1"] [null] [null] [null] [];
 http://pages.messages.xoom.com:80 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.111.44.2"] [null] [null] [null] [];
@@ -165,7 +166,7 @@ http://panvpntest.xoom.com:80 [null] [200] [170] ["text/html"] ["205.189.102.148
 http://partner-monitoring.paypal.com:80 ["404 Not Found"] [404] [277] ["text/html"] ["35.190.0.194"] [null] [null] [null] [];
 http://partner-monitoring.paypal.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["35.190.0.194"] [null] [null] [null] [];
 http://partner.xoom.com:80 ["Send Money Online | Xoom, a PayPal Service"] [200] [59302] ["text/html"] ["151.101.193.21"] ["https://partner.xoom.com/"] [null] [["Contentful","Envoy","Varnish"]] [];
-http://partnermanager-migration.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.188"] [null] [null] [null] [];
+http://partnermanager-migration.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.214"] [null] [null] [null] [];
 http://partnermanager-migration.glb.paypal.com:80 [null] [200] [6891] ["text/html"] ["173.0.93.189"] ["https://partnermanager-migration.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://partnermanager.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.188"] [null] [null] [null] [];
 http://partnermanager.paypal.com:80 ["PayPal Partner Manager"] [200] [61799] ["text/html"] ["173.0.93.191"] ["https://partnermanager.paypal.com/"] ["nginx"] [["Nginx"]] [];
@@ -216,7 +217,7 @@ http://pilot-payflowlink.glb.paypal.com:443 ["400 The plain HTTP request was sen
 http://pilot-payflowlink.glb.paypal.com:80 [null] [200] [6882] ["text/html"] ["173.0.93.191"] ["https://pilot-payflowlink.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://pilot-payflowlink.paypal.com:80 ["Payflow Link"] [200] [1661] ["text/html"] ["173.0.93.189"] ["https://pilot-payflowlink.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://pilot-payflowpro-edgemigration.payflow.edge.paypal.com:80 [null] [200] [6871] ["text/html"] ["173.0.93.139"] ["https://pilot-payflowpro-edgemigration.payflow.edge.paypal.com/"] ["nginx"] [["Nginx"]] [];
-http://pilot-payflowpro.glb.paypal.com:80 [null] [200] [6883] ["text/html"] ["173.0.93.143"] ["https://pilot-payflowpro.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
+http://pilot-payflowpro.glb.paypal.com:80 [null] [200] [6882] ["text/html"] ["173.0.93.143"] ["https://pilot-payflowpro.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://pilot-payflowpro.paypal.com:80 [null] [404] [64] ["text/plain"] ["173.0.93.139"] ["https://pilot-payflowpro.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://pm-bounces.paypal.com:80 ["Postmark — Email delivery for web apps"] [200] [4374] ["text/html"] ["138.197.30.54"] [null] ["AmazonS3"] [["Amazon S3","Amazon Web Services"]] [];
 http://pns.paypal.com:80 ["500 Internal Server Error"] [500] [193] ["text/html"] ["173.0.93.120"] [null] [null] [null] [];
@@ -491,7 +492,7 @@ https://manager.paypal.com:443 ["PayPal Manager"] [200] [79396] ["text/html"] ["
 https://messages.xoom.com:443 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.111.44.1"] [null] [null] [null] [];
 https://mftest5.test.paypal.com:443 ["302 Moved"] [302] [216] ["text/html"] ["8.8.8.8"] [null] ["HTTP server (unknown)"] [null] [];
 https://misc-redirect.paypal.com:443 [null] [403] [null] [null] ["66.211.168.148"] [null] ["BigIP"] [["F5 BigIP"]] [];
-https://mobile.glb.paypal.com:443 ["Access Denied"] [403] [223] ["text/html"] ["95.100.69.204"] [null] ["AkamaiGHost"] [null] [];
+https://mobile.glb.paypal.com:443 ["Access Denied"] [403] [222] ["text/html"] ["104.90.111.118"] [null] ["AkamaiGHost"] [null] [];
 https://mobile.glb.xoom.com:443 ["404 Not Found"] [404] [552] ["text/html"] ["205.189.102.196"] [null] [null] [null] [];
 https://mobile.paypal.com:443 [null] [302] [30] ["text/plain"] ["23.79.153.168"] [null] [null] [null] [];
 https://mobile.xoom.com:443 [null] [404] [72] ["application/json"] ["205.189.102.196"] [null] [null] [["Envoy"]] [];
@@ -505,7 +506,7 @@ https://onboarding.paypal.com:443 ["404 Not Found"] [404] [162] ["text/html"] ["
 https://origin-ad.paypal.com:443 [null] [403] [null] [null] ["66.211.168.148"] [null] ["BigIP"] [["F5 BigIP"]] [];
 https://origin-history.paypal.com:443 ["Fastly error: unknown domain origin-history.paypal.com"] [500] [271] ["text/html"] ["151.101.1.21"] [null] ["Varnish"] [["Varnish"]] [];
 https://p-fastly.glb.paypal.com:443 [null] [421] [56] ["text/plain"] ["151.101.129.35"] [null] [null] [null] [];
-https://p.glb.paypal.com:443 [null] [421] [56] ["text/plain"] ["151.101.129.35"] [null] [null] [null] [];
+https://p.glb.paypal.com:443 [null] [421] [56] ["text/plain"] ["151.101.1.35"] [null] [null] [null] [];
 https://p.paypal.com:443 ["403 Forbidden"] [403] [416] ["text/html"] ["151.101.65.35"] [null] ["Varnish"] [["Varnish"]] [];
 https://pages.emails.paypal.com:443 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.110.192.1"] [null] [null] [null] [];
 https://pages.messages.xoom.com:443 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.111.44.2"] [null] [null] [null] [];
