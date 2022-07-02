@@ -1678,6 +1678,7 @@ http://tennessee.att.com:80/blog/?PostId=719
 http://tennessee.att.com:80/gen/press-room?pid=24763&cdvn=news&newsarticleid=36963&mapcode=consumer%7Cmk-att-wi-fi
 http://ufix.att.com/portal/index.html?referrerId=3&goTab=TV
 http://ufix.att.com:80/portal/index.html?referrerId=3&goTab=INTERNET
+http://um.att.com:80/servlet/EmailServlet;jsessionid=?Action=Home&Lang=EN
 http://uverse.att.com/?wtSlotClick=1-001TJ2-0-1&WT.svl=title&lid=Uverse+Learn+More+Link&lpos=Uverse+section
 http://uverse.att.com:80/launchAMSS.do?target_action=SelectOffer&categoryId=WEB1
 http://uverse.att.com:80/launchAMSS.do?target_action=SelectOffer&categoryId=WEB1&subcat=IUU300L6300y1500
@@ -2081,6 +2082,23 @@ http://www.telephones.att.com:80/store/itempg.asp?cat_id=2&sku=90240
 http://www.telephones.att.com:80/store/itempg.asp?cat_id=2&sku=95280&sale_price=4999
 http://www.telephones.att.com:80/winterpromo/store/dir.asp?secid=1
 http://www.telephones.att.com:80/winterpromo/store/redirect.asp?filename=cart
+http://www.um.att.com:80/servlet/AddressBookServlet?Action=ManageMailbox&Lang=EN&Page=newuser.html&Parm2=%2fservlet%2fEmailServlet%3fAction%3dViewFolder%26Lang%3dEN%26Folder%3dINBOX&Template=wizardtesttemplate.html&CMBRequired=true
+http://www.um.att.com:80/servlet/AddressBookServlet?Action=ManageMailbox&Template=wizardtesttemplate.html&Page=wizardaccountsettings.html&CMBRequired=true
+http://www.um.att.com:80/servlet/AddressBookServlet?Action=ManageMailbox&Template=wizardtesttemplate.html&Page=wizardtestfail1.html
+http://www.um.att.com:80/servlet/AddressBookServlet?Action=WizardManageSubMailbox&Lang=EN&Template=wizardgooduser.html&SubTemplate=wizardgooduserline.html&SearchMaster=true
+http://www.um.att.com:80/servlet/AddressBookServlet?Action=WizardSelectLandline&PageTemplate=wizardgreetingsnow1.html
+http://www.um.att.com:80/servlet/EmailServlet;jsessionid=3658DE7D695B740321BCB005DBE30B37?Action=Home&Lang=EN
+http://www.um.att.com:80/servlet/EmailServlet;jsessionid=40EB30A0020A83A69BD10C25C08462AC?
+http://www.um.att.com:80/servlet/EmailServlet;jsessionid=478D10ED4C1BB2FAE1CE21A82F226570?Action=Home&Lang=EN
+http://www.um.att.com:80/servlet/EmailServlet;jsessionid=63CC183E6503AEBE7D6830ECB65602A1?Action=Home&Lang=EN
+http://www.um.att.com:80/servlet/EmailServlet;jsessionid=6CD0B9DE6E74E949A806D8928E372948?Action=Home&Lang=EN
+http://www.um.att.com:80/servlet/EmailServlet;jsessionid=7458D336C93C80DAF9DC3C2DCC538F59?Action=Home&Lang=EN
+http://www.um.att.com:80/servlet/EmailServlet;jsessionid=9251117D1C0A187A49024C687D4E33BD?Action=Home&Lang=EN
+http://www.um.att.com:80/servlet/EmailServlet;jsessionid=DB996395A0F0BF8B204D69BA152093B8?Action=Home&Lang=EN
+http://www.um.att.com:80/servlet/EmailServlet;jsessionid=DD49724045E7BB3978A885B824FF9B50?Action=Home&Lang=EN
+http://www.um.att.com:80/servlet/EmailServlet;jsessionid=E664AD4D690B2B2260D52898626F38A1?
+http://www.um.att.com:80/servlet/EmailServlet;jsessionid=E7E871C4B422BB36930B25E27507D679?Action=Home&Lang=EN
+http://www.um.att.com:80/servlet/EmailServlet?Action=ReadMail&Lang=EN&Folder=INBOX%3a1&UID=2
 https://about.att.com/&esheet=52571831&newsitemid=20220131005984&lan=en-US&anchor=AT&amp
 https://about.att.com/aboutus/pressrelease/2022/best-place-to-work-for-lgbtqplus-and-gender-equality.html?dclid=CI_rjeeu0vUCFY8FaAgdyzoCHQ
 https://about.att.com/aboutus/pressrelease/2022/best-place-to-work-for-lgbtqplus-and-gender-equality.html?utm_source=twitter.com&utm_medium=paid&utm_campaign=national&utm_content=social_media&dclid=CI_rjeeu0vUCFY8FaAgdyzoCHQ
@@ -8607,6 +8625,7 @@ https://ufix.att.com/validate?soaTraceId=
 https://ufix.att.com/workflows?soaTraceId=
 https://ufix.att.com/www.att.com/outages/?referrerId=3&goTab=INTERNET&returnURL=https://www.att.com/outages/
 https://ufix.att.com?referrerid=x\u0026go=no_tv_picture","ctaLabel":"Fix
+https://um.att.com/servlet/AddressBookServlet?Action=NonSubPage&PageTemplate=helpcenterfaqum.html&OuterTemplate=helptemplate.html
 https://uversecentral1.att.com/uvp/home/explore?umaurl=/uma/RetrieveCatalogContent?ITEMTYPE=COMPONENT&ITEMID=104297&DOCTYPE=LEARNM
 https://uversecentral1.att.com/uvp/home/password_reset?transactionId=YAH_5468729758923464&origination_point=yahoo&on_success_url=https://login.yahoo.com/config/login%3f.partner=sbc
 https://uversecentral3.att.com/uvp/myhome/uverse_voice/%21ut/p/a1/hY69DoJAEISfxYKWW_QUY3caggpC1EK4xpzkBAxw5ljg9UViYeHPVLuTb3aHcBIRXok2TwXmqhLFc-ezsze2KFAPfHdsMWC-Y22PYWCFAfRA3APwRQz-5U-ED8jKZWtq-wDuni5hY-9CzznMJ7CZvYAfL7aEp4W6DHVjVl0m85RwLa9SS202urczxHu9MMCArutMgWgmqjRAJAmWaYnDpJoKVSt1m8vu06FM1Uiitzy5lxHcpkXrs9HoAat2CRU%21/dl5/d5/L2dBISEvZ0FBIS9nQSEh/?MemberID=g9%2BTy8pddscYYN7im1nX%2FA%3D%3D&sourceLocation=myATT&isPrimaryCalling=Y&caseID=779267566&activeTN=7145278665
@@ -9082,3 +9101,4 @@ https://www.synaptic.att.com/clouduser/synaptic_signup.htm;jsessionid=E906F3BA78
 https://www.teleconference.att.com/servlet/AWMlogin?process=6&conf_id=
 https://www.teleconference.att.com/servlet/AWMlogin?process=9&MK=881460648&AE=&PW=886696&WebExSiteName=attwm
 https://www.teleconference.att.com/servlet/glbAccess?process=1&accessNumber=8882709936&accessCode=917668&fbclid=IwAR3P3S_J4YcdEZTz3jTFIGRnhJuIo0tKiptUsVjVm_UbnnbWqiiuGRMeJFc
+https://www.um.att.com/servlet/AddressBookServlet?Action=NonSubPage&PageTemplate=learnaboutum.html

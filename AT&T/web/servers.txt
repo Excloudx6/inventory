@@ -404,6 +404,7 @@ http://contentst001b.att.com:80
 http://coreconnected.att.com:80
 http://coretechtraining.att.com:80
 http://cp.eia.att.com:80
+http://cpaas-msg.cloud.att.com:80
 http://cpr-tmp.att.com:80
 http://cpr.att.com:443
 http://cpr.att.com:80
@@ -654,6 +655,7 @@ http://eservice2.eia.att.com:443
 http://eservice2.eia.att.com:80
 http://eservice3.eia.att.com:80
 http://eservice5.bus.att.com:80
+http://eservice5.eia.att.com:443
 http://eservice5.eia.att.com:80
 http://eservices.bus.att.com:443
 http://eservices.bus.att.com:80
@@ -904,6 +906,7 @@ http://kcon.att.com:80
 http://kcon.att.com:8080
 http://kentucky.att.com:443
 http://kentucky.att.com:80
+http://kentucky.att.com:8080
 http://kentucky.att.com:8443
 http://kmsbpalweb.att.com:80
 http://kmsbpffweb.att.com:80
@@ -967,6 +970,7 @@ http://maps.firstnet.att.com:80
 http://mapwrapper.bus.att.com:443
 http://marketplace.att.com:443
 http://marketplace.att.com:80
+http://marketplace.iot.att.com:443
 http://marketplace.iot.att.com:80
 http://marriottmeeting.att.com:443
 http://maryland.att.com:80
@@ -1000,6 +1004,7 @@ http://michigan.att.com:80
 http://michigan.att.com:8080
 http://michigan.att.com:8443
 http://midatlanticregion.att.com:80
+http://midatlanticregion.att.com:8080
 http://midatlanticregion.att.com:8443
 http://midwestregion.att.com:80
 http://midwestregion.att.com:8443
@@ -1052,6 +1057,7 @@ http://mt-asa2.research.att.com:80
 http://mt-dmz1-gw.research.att.com:80
 http://mt-dmz2-gw.research.att.com:80
 http://mt-fpr-b.research.att.com:80
+http://mtalk.research.att.com:80
 http://mte.att.com:80
 http://mte.att.com:8080
 http://mtst01.stage.att.com:80
@@ -1481,6 +1487,7 @@ http://pub2-xs.hvs.att.com:80
 http://pub2.hvs.att.com:80
 http://publicpolicy.att.com:443
 http://publicpolicy.att.com:80
+http://publicpolicy.att.com:8080
 http://publicpolicy.att.com:8443
 http://push-atlas.att.com:80
 http://qa-developer.att.com:80
@@ -1544,6 +1551,7 @@ http://russ.att.com:80
 http://russ.att.com:8080
 http://russian.att.com:80
 http://salesevolution.att.com:80
+http://saml.bus.att.com:443
 http://saml.idp.flogin.att.com:80
 http://saml.stage.flogin.att.com:80
 http://saselearning.att.com:80
@@ -2234,6 +2242,7 @@ http://vnigaaspac05.acss.att.com:80
 http://vnigaaspac06.acss.att.com:80
 http://vnigaaspac07.acss.att.com:80
 http://vnigaaspac08.acss.att.com:80
+http://vnigaemea.acSS.att.com:80
 http://vnigaemea.acss.att.com:80
 http://vnigaemea01.acss.att.com:80
 http://vnigaemea02.acss.att.com:80
@@ -3229,6 +3238,7 @@ https://coss.att.com:443
 https://couponcodetool.att.com:443
 https://cp.eia.att.com:443
 https://cp.stage.att.com:443
+https://cpaas-msg.cloud.att.com:443
 https://cpeticketingexpress.att.com:443
 https://cpr-stage-tmp.att.com:443
 https://cpr-stage-tmp.att.com:8443
@@ -4605,6 +4615,7 @@ https://portal.dataflow.iot.att.com:8443
 https://portal.flow.cloud.att.com:443
 https://portal.flow.cloud.att.com:8443
 https://portal.wholesale.att.com:443
+https://power-tools-dev.att.com:443
 https://power-tools-test.att.com:443
 https://pr.att.com:443
 https://pre-brandcenter.test.att.com:443
@@ -5052,8 +5063,10 @@ https://tchosted.firstnet.att.com:443
 https://tchosted.synaptic.att.com:443
 https://tchosted.wireless.att.com:443
 https://tdata-offers.att.com:443
+https://tdc.att.com:443
 https://tdctest.att.com:443
 https://tdice-recommendations-test.stage.att.com:443
+https://tdm.att.com:443
 https://tdp.att.com:443
 https://techbuzz.att.com:443
 https://techcaretraining.att.com:443
@@ -5490,6 +5503,7 @@ https://vnigaaspac05.acss.att.com:443
 https://vnigaaspac06.acss.att.com:443
 https://vnigaaspac07.acss.att.com:443
 https://vnigaaspac08.acss.att.com:443
+https://vnigaemea.acSS.att.com:443
 https://vnigaemea.acss.att.com:443
 https://vnigaemea01.acss.att.com:443
 https://vnigaemea02.acss.att.com:443

@@ -971,6 +971,8 @@
 ../../waiting
 ../22
 ../AccordionFaqPanel
+../AcpAgentForm
+../AcpCustomerForm
 ../AnalyticsManager.ts
 ../AnimateIncentivePanel
 ../AnimatedMarquee
@@ -978,10 +980,15 @@
 ../AnimatedStoryOffer
 ../Definitions/bootstrap.d.ts
 ../Definitions/jquery.d.ts
+../EVOForm
+../EbbAgentForm
+../GVPPanelV2
 ../GeneralPanel
+../GreenroomTokenGenerator
 ../HttpMethod.ts
 ../LegalIDP
 ../MediaOverlay
+../NYMandateForm
 ../PaginationDots
 ../PlanSelector
 ../PlanToggle
@@ -992,12 +999,16 @@
 ../Services/Rsvp/InputDTOs.ts
 ../Services/Rsvp/RsvpResultCodes.ts
 ../Services/Rsvp/RsvpSiteServiceProxy.ts
+../SigEnrollComboForm
+../SigEnrollFormHub
 ../Skins/Default/Stylesheets/TextEffects.css
 ../Skins/Default/Stylesheets/Topic.css
 ../TextField
 ../TextField/TextField
+../ToggleSelector
 ../Token
 ../TweenLite.js
+../UfOfferBanner
 ../Utils/AjaxLoader.ts
 ../Utils/CookieHelper.ts
 ../Utils/CustomTextArea.ts
@@ -2050,21 +2061,31 @@
 ./../../services/blob/blobutilities
 ./../../services/file/fileutilities
 ./../AbandonedCartRibbon
+./../AccessReport
+./../AccordionFaqPanel
+./../AddressVerification
 ./../Advertisement
 ./../AnimatedCarousel
 ./../Benefits
 ./../BreadCrumbs
+./../CCPAHardStop
 ./../CallToOrder
 ./../Carousel_3Up
 ./../ChannelLineup
 ./../ChannelLineupTable
 ./../CompareSelectedDevices
+./../ComplaintPanel
 ./../CountDownTimerPanel
+./../CovidForm
 ./../CurbSidePickup
+./../CustomTemplateView
 ./../DeviceCompare
 ./../DropCTA
 ./../EmailSubscription
+./../EmployeeIntakeForm
+./../EmployeeIntakeFormV1
 ./../EscalationForm
+./../FanAutomationForm
 ./../Faq
 ./../FeatureSlide
 ./../GVPPanel
@@ -2072,13 +2093,19 @@
 ./../GeneralPanel
 ./../GenericHeading
 ./../GuidedFlow
+./../HeadBand
 ./../Heading
+./../HubbleWebForm
 ./../InPageLocation
+./../IntakeForm
+./../IntakeFormV1
 ./../JumpLinks
 ./../JumpLinksV2
 ./../Legal
 ./../LegalIDP
 ./../LinkFarm
+./../LoginWidget
+./../MilitaryWebForm
 ./../PaginationDots
 ./../PlanSelector
 ./../PlanToggle
@@ -2088,12 +2115,17 @@
 ./../ProductTilesTwoUp
 ./../Products
 ./../Provider
+./../RequestStatus
 ./../RewardCards
 ./../RiverCard
 ./../SavedCartModal
 ./../SecondaryFeature
+./../SelectServices
 ./../Seo
+./../SigEnrollExistingUserForm
+./../SigEnrollForm
 ./../Slide
+./../StateSelector
 ./../StaticHTML
 ./../StaticReview
 ./../StoreMap
@@ -2104,12 +2136,16 @@
 ./../TextField
 ./../Timer
 ./../TimerPanel
+./../TrackRequest
 ./../UfCkav
 ./../UfCkav2
 ./../ValueProp
+./../VerificationSteps
+./../VerifyEmailPanel
 ./../VideoCarousel
 ./../VideoPanel
 ./../VideoPanelV2
+./../WaiverForm
 ./../_utilities/get-cookie
 ./../_utilities/global-values
 ./../_utilities/query-param
@@ -16483,7 +16519,9 @@
 /#stories
 /#top
 /&amp;$%
+/&amp;/g
 /+P4
+/+Rk
 /+dZ
 /-/
 /-/g
@@ -16503,6 +16541,9 @@
 //0.ecom.attccc.com/styles/att/assets3.2.0
 //Types of elements found in the DOM\nmodule.exports = {\n  Text: \
 //\n\nmodule.exports = function shallowEqual(objA, objB, compare, compareContext) {\n  var ret = compare ? compare.call(compareContext, objA, objB) : void 0;\n\n  if (ret !== void 0) {\n    return !!ret;\n  }\n\n  if (objA === objB) {\n    return true;\n  }\n\n  if (typeof objA !== 
+//acdn.adnxs-simple.com/ast/mediation/0.49.0/mediation.js
+//acdn.adnxs-simple.com/ast/safeframe/static/0.49.0/html/safeframe-v2.html
+//acdn.adnxs-simple.com/video/astMediation/AstMediationManager.js
 //acdn.adnxs.com/ast/ast.js
 //afs.googlesyndication.com
 //ajax.googleapis.com/ajax/libs/webfont/1/webfont.js
@@ -16510,6 +16551,7 @@
 //assets.pinterest.com/js/pinit.js
 //assets.pinterest.com/js/pinmarklet.js
 //assets.pinterest.com/js/pinmarklet.js?r=
+//att.com
 //att.com/global-search/static/widget/css/search-widget.css
 //att.com/global-search/static/widget/js/searchWidgetScript.js
 //b2c.attsports.brightcove.services/
@@ -16546,11 +16588,14 @@
 //cdn.arcgis.com/sharing/rest/content/items/86f556a2d1fd468181855a35e344567f/resources/styles/root.json
 //cdn.arcgis.com/sharing/rest/content/items/de26a3cf4cc9451298ea173c4b324736/resources/styles/root.json
 //cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/English.json
+//cdn.embed.ly/player-0.1.0.min.js
 //cdn.jsdelivr.net/emojione/assets/svg/
 //cdn.tt.omtrdc.net/cdn/target-vec.js
 //cf.addthis.com/red/p.png?gen=2000&amp;rb=0&amp;pco=clk-100&amp;ev=view_tracker&amp;pxid=4031&amp;dspid=6
 //connect.facebook.net/
+//connect.facebook.net/en_US/sdk.js
 //connect.facebook.net/{FACEBOOK_LANG}/sdk.js
+//console.appnexus.com/ad-quality?id=
 //csct.att.com
 //customer.cludo.com/scripts/bundles/search-script.min.js
 //dev-idp-auth.stage.att.com:7280
@@ -16568,6 +16613,7 @@
 //elevation3d.arcgis.com/arcgis/rest/services/WorldElevation3D/TopoBathy3D/ImageServer
 //f.fontdeck.com/s/css/js/
 //fancy.com/bookmarklet/fancy_tagger.js
+//fast.wistia.com/assets/external/E-v1.js
 //features
 //finalstage.att.com
 //finalstage.att.com/
@@ -16580,6 +16626,8 @@
 //geotab/default.js
 //gvpcertvideos.att.com
 //gvpcertvideos.att.com/
+//ib.adnxs.com/cr?id=
+//ib.adnxs.com/getuidj
 //idse2.dev.att.com:10081
 //ilightbox.net/getSource/jsonp.php?url=
 //img.youtube.com/vi/
@@ -16602,6 +16650,8 @@
 //pre-www.att.com/scripts/adobe/stage/detm_adobe.js
 //pre-www.att.com/scripts/adobe/stage/{name}
 //prestage.att.com
+//privacy-policy.truste.com/privacy-seal/seal?rid=6a62df46-069b-45ec-8768-f516726eb8f6
+//privacy.truste.com/privacy-seal/validation?rid=6a62df46-069b-45ec-8768-f516726eb8f6
 //services
 //services-finalstage.att.com
 //services-rel02.stage.att.com
@@ -16637,6 +16687,7 @@
 //vimeo.com/api/v2/video/%2.json
 //vzaar.com/api/videos/
 //weheartit.com/bookmarklet.js
+//widget.mixcloud.com/media/js/widgetApi.js
 //wpc.5BD7.att-acdn.net/005BD7
 //www.adobe.com/images/shared/download_buttons/get_flash_player.gif
 //www.apple.com/wss/fonts
@@ -16684,9 +16735,11 @@
 //www.youtube-nocookie.com/embed/$4
 //www.youtube.com/embed/
 //www.youtube.com/embed/%id%?autoplay=1
+//zlt18305.vci.att.com:7210
 /0+H
 /0.jpg
 /0/
+/01/
 /08R
 /0C/
 /0iygueunnd
@@ -16945,6 +16998,7 @@
 /24c
 /3.5.3/securedFields.html?type=
 /311
+/3T5
 /3d8
 /3ze
 /404
@@ -16966,7 +17020,9 @@
 /5g/thankyou
 /5zm
 /6 months
+/6Ou
 /6Z7
+/6c9
 /6km
 /77r
 /7QA
@@ -17073,6 +17129,7 @@
 /ArtBox [
 /AsP
 /Ascent 
+/At6
 /AvayaCloudOffice
 /AvayaCloudOffice/kb/article/s/article/
 /AvayaCloudOffice/kb/article/s/article/4751?retURL
@@ -17122,6 +17179,7 @@
 /DOJ
 /DTVAPP/content/existing
 /DW 1000
+/DXk
 /Dashlet/sizechange
 /DeleteGroup\
 /DeleteSamplingRule\
@@ -17140,6 +17198,7 @@
 /EMS-responder-icon-map-label.svg
 /EMS-responder-icon-map.svg
 /EVPN/evpn2.0/inqChat.html
+/EaG
 /EdgeAuth/login.jsp
 /Electron-
 /Encoding /
@@ -17207,6 +17266,7 @@
 /Log/TopicView
 /Lp+
 /M+b
+/MQM
 /Matrix [
 /MediaBox [
 /Metadata 
@@ -17382,6 +17442,7 @@
 /TrimBox [
 /Tx BMC
 /Type /Outlines
+/Ubj
 /UiO
 /UntagResource\
 /UpdateFormerEmployeeDetails?d=
@@ -17589,6 +17650,7 @@
 /a8e
 /a?
 /aHj
+/aWw
 /a\
 /a_
 /ab8
@@ -19388,6 +19450,7 @@
 /buy/cart/save/modal
 /buy/cart/seedetailsduefirstbill/modal
 /buy/cart/seedetailsduetoday/modal
+/buy/cart?hideGN=true
 /buy/checkout
 /buy/checkout//billpreferences/
 /buy/checkout/D2Lite/modal
@@ -19905,6 +19968,7 @@
 /config/security-question
 /config/states
 /configuration
+/configurationOffers/
 /confirm
 /confirm-address?d
 /confirm-phone
@@ -20680,6 +20744,7 @@
 /errorPage/E405
 /errors
 /es-us
+/es-us/
 /es-us/support/smallbusiness/topic/
 /es-us/support/topic/
 /esupport/
@@ -21183,6 +21248,7 @@
 /help-center\
 /help/
 /help/admin/
+/help/affordable-connectivity-program/internet/application/
 /help/user/
 /helpcontent
 /helpdesk
@@ -21416,6 +21482,9 @@
 /idpcms
 /idpcms/dtvnow/support/mysupport/
 /idpcms/sales/prod/firstnetverification.cmsfeed.js
+/idpcms/sales/prod/microsites.pagesinfo.js
+/idpcms/sales/prod/microsites/mydatarequest/att/index.cmsfeed.js
+/idpcms/sales/prod/microsites/tvpromise/index.cmsfeed.js
 /idpcms/sales/prod/uf.pagesinfo.js
 /idpcms/sales/prod/uf/5g/consumer/index.cmsfeed.js
 /idpcms/sales/prod/uf/5g/index.cmsfeed.js
@@ -21662,6 +21731,7 @@
 /intents/{name}/versions\
 /intents/{name}\
 /inter-agencies
+/internet-security/id-monitoring
 /internet-security/threat-dashboard
 /internet-speed
 /internet/index.html
@@ -22172,6 +22242,9 @@
 /mga/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:pwdplus
 /mga/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:yubikeyFIDO2-1
 /mga/sps/oauth/oauth20/authorize
+/microsites/v1/_next/static/css/CCPA-globalnav.min.css
+/microsites/v1/_next/static/css/woff-fonts-IE-Aleck-absolute.min.css
+/microsites/v1/uf/log-error/
 /microsoft-login-callback
 /migrate-user
 /minilab-rcv/gateway/portal
@@ -22271,17 +22344,25 @@
 /msapi/cart/v1/skinnycart?businessType=wireline&amp;requestType=UI
 /msapi/clicktocallorchestrationms/v1/availability
 /msapi/clicktocallorchestrationms/v1/schedulecallback
+/msapi/customeridentification/v1/docUpload
+/msapi/customeridentification/v1/fetchDecryptedFan?verificationId=
+/msapi/customeridentification/v1/orgSearch?source=
+/msapi/customeridentification/v1/verification
+/msapi/customeridentification/v1/verificationStatus?verificationId=
 /msapi/customernotifications/v1/sendnotification/registration
 /msapi/deviceinsclaimeligibilityms/v2/claimeligibility/
 /msapi/devicesupportcatalog/v1/device/make/[[MAKE]]/model/[[MODEL]]?appId=ecare
 /msapi/diagnosticsms/v1/diagnosis/video
 /msapi/dtvnowaccountms/v1
 /msapi/dtvnowaccountms/v1/activesubscriptions/
+/msapi/fanprofile/v1/fan/landing?iruToken=
 /msapi/id
 /msapi/id?app-id=rens
 /msapi/idp-content-orchestration/v1
 /msapi/idp-content-orchestration/v1/idpcms/sales/buy/plp
 /msapi/idp-content-orchestration/v1/idpcms/sales/firstnetverification
+/msapi/idp-content-orchestration/v1/idpcms/sales/microsites/mydatarequest/att/index
+/msapi/idp-content-orchestration/v1/idpcms/sales/microsites/tvpromise/index
 /msapi/idp-content-orchestration/v1/idpcms/sales/uf/channels/att-tv/index
 /msapi/idp-content-orchestration/v1/idpcms/sales/uf/channels/directv/index
 /msapi/idp-content-orchestration/v1/idpcms/support/article/index?raw-mode=true
@@ -22309,6 +22390,7 @@
 /msapi/login/unauth/service/v1/haloc/do/login
 /msapi/login/unauth/service/v1/haloc/do/login?host={hostname}&amp;state=from=idp&amp;client_id=m36147&amp;is_passive=true&amp;final_url=
 /msapi/login/unauth/service/v1/haloc/do/login?host={hostname}&amp;state=from=idp&amp;client_id=m38538&amp;is_passive=true&amp;final_url=
+/msapi/login/unauth/service/v1/haloc/oidc/redirect
 /msapi/manageappointmentsms/v1/appointment/cancel
 /msapi/manageappointmentsms/v1/appointment/dtvtoken
 /msapi/manageappointmentsms/v1/appointment/eta
@@ -22350,6 +22432,7 @@
 /msapi/onemap/v2/locator/place
 /msapi/onemap/v2/locator/search/latlon?\npoi_types=pos&amp;\nselect=id,name,address1,address2,region,city,postal,county,phone,vtype,lat,lon,\narcdist,arcdist_km,bopis,mon_open,mon_close,tue_open,tue_close,wed_open,wed_close,\nthu_open,thu_close,fri_open,fri_close,sat_open,sat_close,sun_open,sun_close,mystore_name
 /msapi/onlinecartorch/v1/cart-details/cartsummary
+/msapi/onlinesalesorch/v1/customeroffer?pageId=
 /msapi/onlinesalesorchestration/att-wireline-sales-eapi/v1/baseoffers
 /msapi/onlinesalesorchestration/commerce-papi/v1/partnerconfig
 /msapi/ordergraphsearch/v1/graphql
@@ -22365,6 +22448,7 @@
 /msapi/recognizedstatems/v1/consent/updateConsent
 /msapi/recognizedstatems/v1/consent/userInRecogState
 /msapi/referrals/v1/referralservice?address_id=
+/msapi/referrals/v1/serviceaddress?serialNumber=
 /msapi/referrals/v1/sessionKeepAlive
 /msapi/reporting/v1/customerinfo
 /msapi/reporting/v1/log/event
@@ -22374,6 +22458,7 @@
 /msapi/resolve/v1/workflows
 /msapi/robocallreportms/v1/robocall
 /msapi/salesproductorchestration/v1/baseOffers
+/msapi/salesproductorchestration/v1/entertainment/
 /msapi/salesproductorchestration/v1/entertainment/broadband/baseOffers
 /msapi/salesproductorchestration/v1/entertainment/dtvSatellite/baseOffers
 /msapi/salesproductorchestration/v1/promotionalOffers
@@ -22387,6 +22472,12 @@
 /msapi/serviceavailability/v1/zipcode
 /msapi/serviceavailability/v1/zipcounty
 /msapi/servicequalification/v1/serviceavailability/awi/address
+/msapi/shm/v1/connecteddevicedetails
+/msapi/shm/v1/networkdetails
+/msapi/signatureenrollmentms/v1/softAuthentication
+/msapi/signatureenrollmentms/v1/submitEnrollmentOrder
+/msapi/signatureenrollmentms/v1/validateAccountType
+/msapi/topvaluelocationms/v1/location/CAInput?priority=all
 /msapi/uis/v1/ihx/availabletimes
 /msapi/uis/v1/ihx/cancellation?workOrderId=[[VALUE1]]&amp;ban=[[VALUE8]]
 /msapi/uis/v1/ihx/reschedule
@@ -22394,6 +22485,7 @@
 /msapi/unified/v1/productDetailsInfo
 /msapi/wireless/v1/alldetails
 /msapi/wireless/v1/details
+/msapi/wireless/v1/details/
 /msapi/wirelessorder/v1/auth/flowdetails?insuranceDetails={0}&amp;customerProfileDetails={1}
 /msapi/wirelessorder/v1/auth/validatetoken?
 /msapi/wirelessorder/v1/keepMDSSessionAlive
@@ -22544,6 +22636,7 @@
 /notification_and_sounds
 /notifications
 /notify-admin
+/nqP
 /null
 /number-parser/parse
 /number-parser/phonedata.xml
@@ -22714,6 +22807,7 @@
 /p/
 /p/__utm.gif
 /p5m
+/pFH
 /page-data.json
 /page-data/
 /page-data/app-data.json
@@ -24237,7 +24331,9 @@
 /support/internet/home/internet-security/contentfilters
 /support/internet/home/internet-security/contentfilters/applysettings/modal
 /support/internet/home/internet-security/filters/error/modal
+/support/internet/home/internet-security/id-monitoring
 /support/internet/home/internet-security/threat-dashboard
+/support/internet/home/internet-security/vpn/chooselocation/modal
 /support/internet/home/internet-security/websitefilters
 /support/internet/home/internet-speed/
 /support/internet/home/internet-speed/agent/
@@ -24257,6 +24353,8 @@
 /support/internet/home/profile/:profileID/content-filters/agent
 /support/internet/home/profile/create/
 /support/internet/home/profile/create/agent/
+/support/internet/home/settings/
+/support/internet/home/settings/agent/
 /support/launchworkflow/modal
 /support/letsgetthisfixed/modal
 /support/mobiledevicerefreshconnection/modal
@@ -24321,6 +24419,8 @@
 /support/smallbusiness/internet/home/devices/usage/hourly/
 /support/smallbusiness/internet/home/hardware/
 /support/smallbusiness/internet/home/hardwareDevice/
+/support/smallbusiness/internet/home/internet-security/id-monitoring
+/support/smallbusiness/internet/home/internet-security/id-monitoring/agent/
 /support/smallbusiness/internet/home/internet-security/threat-dashboard
 /support/smallbusiness/internet/home/internet-security/threat-dashboard/agent/
 /support/smallbusiness/internet/home/internet-speed/
@@ -24329,6 +24429,7 @@
 /support/smallbusiness/internet/home/profile/:id/website-filter
 /support/smallbusiness/internet/home/profile/:profileID/content-filters
 /support/smallbusiness/internet/home/profile/create/
+/support/smallbusiness/internet/home/settings/
 /support/smallbusiness/topic
 /support/smallbusiness/topic/
 /support/smallbusiness/topic/smb-digital-phone
@@ -24771,6 +24872,7 @@
 /ui/corpcomm_internet_attus/1.0.0/styles/global_nav.css
 /ui/corpcomm_internet_attus/1.0.0/styles/main.css
 /ui/frameworks/css/v1.0.0/core-global-fonts.min.css
+/ui/frameworks/css/v1.0.0/core-global-styles-fonts.css
 /ui/global_all_cms_globalnav/web-components/2.0/attwc-globalnav/attwc-globalnav.esm.js
 /ui/global_all_cms_globalnav/web-components/2.0/attwc-globalnav/attwc-globalnav.js
 /ui/global_all_cms_globalnav/web-components/2.0/preRender/
@@ -24780,6 +24882,7 @@
 /ui/global_all_cms_globalnav/web-components/2.0/preRender/smb/attwc-globalnav.js
 /ui/global_all_cms_globalnav/web-components/2.0/styles/attwc-globalnav/attwc-globalnav-footer/styles/combined/attwc-globalnav-footer.min.css
 /ui/global_all_cms_globalnav/web-components/2.0/styles/attwc-globalnav/attwc-globalnav-header/attGNProfileWidget/styles/combined/attwc-globalnav-profile.min.css
+/ui/global_all_cms_globalnav/web-components/2.0/styles/attwc-globalnav/attwc-globalnav-header/style/combined/attwc-globalnav-header.min.css
 /ui/services_co_myatt_login/1.0.0/halo-application-edm-bridge.js
 /ui/services_co_myatt_login/1.0.0/partials/idplogout.html
 /ui/tag/LookupTagsPage
@@ -24965,6 +25068,8 @@
 /users/{InstanceId}/{UserId}\
 /users/{InstanceId}\
 /usr/src/marketplace-operation-center-fe
+/ut/v3
+/ut/v3/prebid
 /utility/client-logging
 /utility/failover
 /uuid/
@@ -25240,6 +25345,11 @@
 /vendors/create
 /vendors/inicis/notifications
 /verbiage
+/verification/docupload/
+/verification/docupload/error/
+/verification/docupload/success/
+/verification/error/
+/verification/success/
 /verify
 /verify-account?d
 /verify-email?d&amp;oem&amp;username&amp;emailAddress&amp;country&amp;verificationCode&amp;identifierType&amp;identifierValue&amp;language&amp;firstName&amp;lastName&amp;phoneNumber&amp;isOneTimeSpecialOfferFlow
@@ -25467,6 +25577,7 @@
 /~/
 0/0/0/0
 00/00/0000
+01/01/2019
 01/01/2021
 01/20/2021
 02/11/2014
@@ -25496,7 +25607,10 @@
 1/1/2008
 10/19/2021
 11/02/2021
+12/1/2018
+12/13/2018
 12/23/2007
+12/31/2018
 1392.js
 1466.js
 1786.js
@@ -26952,6 +27066,7 @@ Leilighet/suite
 Lejlighed/suite
 Lineselector-Step1/Modal
 Lineselector-Step2/Modal
+Lineselector/Modal
 LinkMethods.aspx
 Locatievoorzieningen/derden
 LogiReport.aspx
@@ -27004,6 +27119,7 @@ Modules/CMS/Factory/Support/OptionFactory
 Move/Add/Change/Delete
 Municipalities/City/Town
 Mute/Unmute
+NEW-NAV/Desktop/1440-
 NOTIFICATIONS/GET_SCHED_NOTIF_SETTINGS_FAILURE
 NOTIFICATIONS/GET_SCHED_NOTIF_SETTINGS_REQUEST
 NOTIFICATIONS/GET_SCHED_NOTIF_SETTINGS_SUCCESS
@@ -28412,6 +28528,7 @@ assurance/endpoints
 assurance/infrastructure
 assurance/meetings
 assurance/settings
+ast.js
 async/await
 att-faq.html
 att-videos/2018
@@ -30619,6 +30736,7 @@ media/assets/internet/documents/n-to-s/rainbow-office-visual-ivr-editor-user-gui
 media/popular
 media/sapi
 mediaResources/uploadGreeting
+mediationmanager.js
 meetings/meetings
 meetings/meetings/
 message/disposition-notification
@@ -32008,6 +32126,7 @@ super-three/examples/js/loaders/GLTFLoader
 super-three/examples/js/loaders/MTLLoader
 super-three/examples/js/loaders/OBJLoader
 support/bundle
+support/internet/home/internet-security/vpn/headsup/modal
 support/requests
 support/requests/new
 support/smallbusiness/article/smb-directv

@@ -405,6 +405,18 @@ http://www.ipservices.att.com:80/realstories/realstories.cfm?category=events&nex
 http://www.ipservices.att.com:80/service_fam_overview.jsp?repoid=ProductSub-Category&repoitem=eb_audio_teleconference_service&serv_port=eb_application&serv_fam=eb_audio_teleconference_service&segment=ent_biz
 http://www.ipservices.att.com:80/service_portfolio.jsp?repoid=ProductCategory&repoitem=eb_application&serv_port=eb_application&segment=ent_biz&DCMP=att_virtualmeetings
 http://www.ipservices.att.com:80/service_portfolio.jsp?repoid=ProductCategory&repoitem=eb_voip&serv_port=eb_voip&
+http://www.um.att.com:80/servlet/AddressBookServlet?Action=ManageMailbox&Lang=EN&Page=newuser.html&Parm2=%2fservlet%2fEmailServlet%3fAction%3dViewFolder%26Lang%3dEN%26Folder%3dINBOX&Template=wizardtesttemplate.html&CMBRequired=true
+http://www.um.att.com:80/servlet/AddressBookServlet?Action=ManageMailbox&Page=accountsettings.html&CMBRequired=true
+http://www.um.att.com:80/servlet/AddressBookServlet?Action=ManageMailbox&Template=wizardtesttemplate.html&Page=wizardaccountsettings.html&CMBRequired=true
+http://www.um.att.com:80/servlet/AddressBookServlet?Action=ManageMailbox&Template=wizardtesttemplate.html&Page=wizardtestfail1.html
+http://www.um.att.com:80/servlet/EmailServlet?Action=EditMail&Lang=EN&Folder=INBOX
+http://www.um.att.com:80/servlet/EmailServlet?Action=Logoff&Folder=INBOX&Lang=EN
+http://www.um.att.com:80/servlet/EmailServlet?Action=ReadMail&Lang=EN&Folder=INBOX%3a1&UID=2
+http://www.um.att.com:80/servlet/EmailServlet?Action=ViewFolder&Folder=INBOX
+http://www.um.att.com:80/servlet/EmailServlet?Action=ViewFolder&Folder=INBOX&Refresh=false&Lang=EN
+http://www.um.att.com:80/servlet/EmailServlet?Action=ViewFolder&Folder=INBOX:1&Refresh=false&Lang=EN&FilterType=MimeTypeFilter:email
+http://www.um.att.com:80/servlet/EmailServlet?Action=ViewFolder&Lang=EN&Folder=INBOX%3a1&Refresh=false
+http://www.um.att.com:80/servlet/EmailServlet?Action=ViewFolder&Lang=EN&Folder=INBOX&Sort=%2d1
 https://about.att.com/aboutus/article-rightrail.html?pagepath=%2F15722%2F20210211174952%2Fhttps%3A%2F%2Fabout.att.com%2Fcontent%2Fsnr%2Fpressrelease%2F2021%2Fcongress_capitol%2Fjcr%3Acontent
 https://about.att.com/allnews.html?searchkey=%2A%3A%2A&category=&months=all&path=&page=2&start=20
 https://about.att.com/allnews.html?searchkey=&page=1&category=All&months=all&defaultvalue=Search+News&refresh=refresh
@@ -459,6 +471,7 @@ https://bizcommunity.att.com/topics/general-device-support/5def8ef930b80f78b6772
 https://bizcommunity.att.com/topics/messaging-solutions/5def8f0430b80f78b677264d?page=1
 https://bizcommunity.att.com/topics/mobile-office-retail-solutions/5def8f0430b80f78b677264e?page=1
 https://bizcommunity.att.com/topics/the-break-room/5def8ef730b80f78b677263d?page=1
+https://community-apimarket.att.com/c/rest-apis/12?page=1
 https://connect16.uc.att.com/sba/aspx/Login.aspx?ReturnUrl=%2fsba%2f
 https://connect16.uc.att.com/usda/aspx/Login.aspx?ReturnUrl=%2fusda%2f
 https://connect20.uc.att.com/vait/aspx/Login.aspx?ReturnUrl=%2fvait%2f
@@ -490,6 +503,9 @@ https://cprodx.att.com/apiserver/igate_web_dlom/logOut.do?style=relogin&returnur
 https://cprodx.att.com/ascm/igate_ASCM/cookieCleaner.do?returnToURL=/robots.txt
 https://cprodx.att.com/commonLogin/igate_wam/controller.do?TAM_OP=error&USERNAME=unauthenticated&ERROR_CODE=0x38cf0428&ERROR_TEXT=Not%20Found&METHOD=GET&URL=%2Fpics%2FcolorBoxVDiv.gif&REFERER=https%3A%2F%2Fcprodmasx.att.com%2Fpics%2Fstyle.css&HOSTNAME=cprodx.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=
 https://dal01.um.att.com/servlet/EmailServlet?Action=Logoff&Folder=INBOX&Lang=EN
+https://dal03.um.att.com/servlet/EmailServlet?Action=ViewFolder&Lang=EN&Folder=INBOX&Sort=-1&LoggingOn=true
+https://dal04.um.att.com/servlet/EmailServlet?Action=Logoff&Folder=INBOX&Lang=EN
+https://dal04.um.att.com/servlet/EmailServlet?Action=ViewFolder&Lang=EN&Folder=INBOX&Sort=-1&LoggingOn=true
 https://dlifeapiaccess-poc.stage.att.com/commonLogin/nxsEDAM/controller.do?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Frobots.txt&REFERER=&HOSTNAME=dlifeapiaccess-poc.stage.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=
 https://dlifeapiaccess.att.com/commonLogin/nxsEDAM/controller.do?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Frobots.txt&REFERER=&HOSTNAME=dlifeapiaccess.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=
 https://ebiznet.att.com/hacemos/index.cfm?page=albums
