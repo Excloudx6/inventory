@@ -1848,6 +1848,7 @@
 /api/v1/media/
 /api/v1/media/configure/
 /api/v1/media/configure_sidecar/
+/api/v1/media/{media_id_str}/{slider_id_str}/story_slider_voters/
 /api/v1/media/{media_id}/comments/
 /api/v1/media/{media_id}/comments/{parent_comment_id}/child_comments/
 /api/v1/media/{media_id}/edit_media/
@@ -4538,6 +4539,8 @@ content/images/appbackgrounds/69_823ae15c1b8b6fd2804952776aa4416b.jpg
 content/images/appbackgrounds/6_d405ce4edf49d83c99648a67afef9054.jpg
 content/images/appbackgrounds/7-small_e1873e6ad53a0af444f5addb67eaced6.jpg
 content/images/appbackgrounds/70-small_3aa55695cfa15eef07306cc6dfb004bd.jpg
+content/images/appbackgrounds/70-small_b824eab0c5ff788375e1d813066e7870.jpg
+content/images/appbackgrounds/70_2ffdc06ed22bb4307cfd09798008b468.jpg
 content/images/appbackgrounds/70_58aafa46b0a2ccb4443ae4bf3f6ef889.jpg
 content/images/appbackgrounds/7_28c6789c809592f948d6ad165bc97b4d.jpg
 content/images/appbackgrounds/8-small_552832c1e01cb3e3d5b224748901e127.jpg
@@ -5251,6 +5254,7 @@ num/den
 objectdata.xml
 oneDs_5114baa5d527ebec6e76.js
 oneDs_6ca86789a5ca36d5de0c.js
+oneDs_8363475333f6d315e7ae.js
 oneDs_cf88713273157e0b2931.js
 onload/beforeunload
 onload/dom_content_ready
