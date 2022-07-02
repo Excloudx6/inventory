@@ -67,6 +67,7 @@ http://akamai-apigateway-stg-warptqpapi.tesla.com:80 [null] [401] [75] ["applica
 http://akamai-apigateway-stg2-deliveryopsapi.tesla.com:80 ["Service Unavailable"] [503] [268] ["text/html"] ["69.192.160.83"] ["https://akamai-apigateway-stg2-deliveryopsapi.tesla.com/"] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-stg2-global-deliveryopsapi.tesla.com:80 ["Service Unavailable"] [503] [268] ["text/html"] ["104.90.109.222"] ["https://akamai-apigateway-stg2-global-deliveryopsapi.tesla.com/"] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-teslarpsapi.tesla.com:80 ["Service Unavailable"] [503] [268] ["text/html"] ["104.90.109.222"] ["https://akamai-apigateway-teslarpsapi.tesla.com/"] ["AkamaiGHost"] [null] [];
+http://akamai-apigateway-teslaservice-api.TeSLa.com:80 [null] [401] [75] ["application/problem+json"] ["72.246.168.53"] [null] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-teslaservice-api.tesla.com:80 [null] [401] [75] ["application/problem+json"] ["69.192.160.83"] [null] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-translationpipeline.tesla.com:80 ["Service Unavailable"] [503] [268] ["text/html"] ["69.192.160.83"] ["https://akamai-apigateway-translationpipeline.tesla.com/"] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-uat-materials.tesla.com:80 ["Service Unavailable"] [503] [268] ["text/html"] ["69.192.160.83"] ["https://akamai-apigateway-uat-materials.tesla.com/"] ["AkamaiGHost"] [null] [];
@@ -335,6 +336,7 @@ https://akamai-apigateway-stg-warptqpapi.tesla.com:443 [null] [401] [75] ["appli
 https://akamai-apigateway-stg2-deliveryopsapi.tesla.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["69.192.160.83"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-stg2-global-deliveryopsapi.tesla.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["104.90.109.222"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-teslarpsapi.tesla.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["104.90.109.222"] [null] ["AkamaiGHost"] [null] [];
+https://akamai-apigateway-teslaservice-api.TeSLa.com:443 [null] [401] [75] ["application/problem+json"] ["72.246.168.53"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-teslaservice-api.tesla.com:443 [null] [401] [75] ["application/problem+json"] ["69.192.160.83"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-translationpipeline.tesla.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["69.192.160.83"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-uat-materials.tesla.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["69.192.160.83"] [null] ["AkamaiGHost"] [null] [];
@@ -518,7 +520,7 @@ https://url7051.tesla.com:443 ["Error"] [503] [176] ["text/html"] ["104.89.18.18
 https://url8833.tesla.com:443 ["404 Not Found"] [404] [564] ["text/html"] ["167.89.123.54"] [null] ["nginx"] [["Nginx"]] [];
 https://vehicle-files.eng.euw1.vn.cloud.tesla.com:443 ["Access Denied"] [403] [310] ["text/html"] ["184.86.251.6"] [null] ["AkamaiGHost"] [null] [];
 https://vehicle-files.eng.usw2.vn.cloud.tesla.com:443 ["Access Denied"] [403] [310] ["text/html"] ["95.101.77.101"] [null] ["AkamaiGHost"] [null] [];
-https://vehicle-files.prd.euw1.vn.cloud.tesla.com:443 ["Access Denied"] [403] [310] ["text/html"] ["95.101.77.123"] [null] ["AkamaiGHost"] [null] [];
+https://vehicle-files.prd.euw1.vn.cloud.tesla.com:443 [null] [403] [243] ["application/xml"] ["184.86.251.19"] [null] ["AmazonS3"] [["Amazon S3","Amazon Web Services"]] [];
 https://vehicle-files.prd.usw2.vn.cloud.tesla.com:443 [null] [403] [243] ["application/xml"] ["104.126.37.146"] [null] ["AmazonS3"] [["Amazon S3","Amazon Web Services"]] [];
 https://view.email.tesla.com:443 ["Object moved"] [302] [128] ["text/html"] ["136.147.129.32"] [null] [null] [null] [];
 https://view.emails.tesla.com:443 ["Object moved"] [302] [128] ["text/html"] ["13.111.49.179"] [null] [null] [null] [];
