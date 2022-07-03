@@ -737,6 +737,7 @@ http://geolink-az.test-e.att.com:80
 http://geolink-az.test-e.att.com:8080
 http://georgia.att.com:443
 http://georgia.att.com:80
+http://georgia.att.com:8080
 http://georgia.att.com:8443
 http://getbot.att.com:80
 http://globalsupplychain.att.com:80
@@ -1015,6 +1016,7 @@ http://mis-att.bus.att.com:443
 http://miseleccionmx.att.com:80
 http://missioncontrol.firstnet.att.com:80
 http://mississippi.att.com:80
+http://mississippi.att.com:8080
 http://mississippi.att.com:8443
 http://missouri.att.com:80
 http://missouri.att.com:8443
@@ -1428,6 +1430,7 @@ http://portal.dataflow.iot.att.com:443
 http://portal.dataflow.iot.att.com:80
 http://portal.flow.cloud.att.com:80
 http://portal.wholesale.att.com:80
+http://power-tools-dev.att.com:80
 http://power-tools-test.att.com:80
 http://pr.att.com:80
 http://pre-brandcenter.test.att.com:80
@@ -4433,6 +4436,7 @@ https://oidc.idp.blogin.att.com:443
 https://oidc.idp.clogin.att.com:443
 https://oidc.idp.elogin.att.com:443
 https://oidc.idp.flogin.att.com:443
+https://oidc.stage.blogin.att.com:443
 https://oidc.stage.elogin.att.com:443
 https://oidc.stage.xlogin.att.com:443
 https://oidc.test.xlogin.att.com:443
@@ -5227,6 +5231,7 @@ https://upd-expe-vid2.uscfpdweb.att.com:443
 https://upd-expe-vid2.uscfpdweb.att.com:8443
 https://upliftmgmt.firstnet.att.com:443
 https://upload-gr1.dlife.att.com:443
+https://us.vpn.att.com:443
 https://usa.stage.att.com:443
 https://usalclient.vpn.att.com:443
 https://uscaenclave.vpn.att.com:443

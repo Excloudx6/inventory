@@ -1,3 +1,4 @@
+2018backupelasticbeanstalk.cat1gsw.voicetone.att.com
 202020.att.com
 28days.att.com
 365.att.com
@@ -15128,6 +15129,7 @@ api.san3.ccp.att.com
 api.stg.dco.cloud.att.com
 api01.dev.dco.cloud.att.com
 apiadmin-api.att.com
+apiadmin-backup.gsw1.voicetone.att.com
 apiadmin-d1.test.att.com
 apiadmin-prod-dfw3.att.com
 apiadmin-prod-ewr2.att.com
@@ -16242,6 +16244,7 @@ dbhddgrhs.hvs.att.com
 dbhddswsh.hvs.att.com
 dbhddwcghr.hvs.att.com
 dbms.cat1gsw.voicetone.att.com
+dbmsbackupelasticbeanstalk.cat1gsw.voicetone.att.com
 dc.att.com
 dcae.research.att.com
 dcm.mas.att.com
@@ -16266,6 +16269,7 @@ deenc2.vpn.att.com
 deenclave.vpn.att.com
 delaware.att.com
 delta.myvehicle.stage.att.com
+demo-backupelasticbeanstalk.cat1gsw.voicetone.att.com
 demo.gsw1.voicetone.att.com
 derby.uc.att.com
 designthinking.att.com
@@ -32206,6 +32210,7 @@ networkingexchangeblog.att.com
 networkplaybook.att.com
 networkrealestate.att.com
 nevada.att.com
+new-backupelasticbeanstalk.cat1gsw.voicetone.att.com
 new-www.att.com
 new.serviceguide.att.com
 newbusinesslicense.att.com
@@ -33190,14 +33195,17 @@ re-pvt-d1.att.com
 re-qc3.att.com
 re-qc5.att.com
 re-qc6.att.com
+re-qc7.att.com
 re-qc8.att.com
 re-qca3.att.com
 re-qca5.att.com
 re-qca6.att.com
+re-qca7.att.com
 re-qcd3.att.com
 re-qcd4.att.com
 re-qcd5.att.com
 re-qcd6.att.com
+re-qcd7.att.com
 re.att.com
 readytogotrainingportal.att.com
 recvdna.att.com
@@ -33844,6 +33852,7 @@ sxm360iotgw.att.com
 sxmchrysleriotgw.att.com
 synaptic.att.com
 system.gsw1.voicetone.att.com
+systembackupelasticbeanstalk.cat1gsw.voicetone.att.com
 systemcheck.uc.att.com
 systemmigrationtraining.att.com
 systest.digitallife.att.com
@@ -34173,6 +34182,7 @@ unisphere01.wireless.labs.att.com
 unlock.att.com
 up2date.research.att.com
 upd-expe-vid2.uscfpdweb.att.com
+upgrade.cat1gsw.voicetone.att.com
 upliftmgmt.firstnet.att.com
 upload-gr1.dlife.att.com
 upload.cat1gsw.voicetone.att.com
@@ -34189,6 +34199,7 @@ uscfpdvideo.att.com
 uscfpdweb.att.com
 usda1.acss.att.com
 usebizclient.vpn.att.com
+user.cat1gsw.voicetone.att.com
 usf.att.com
 usf.stage.att.com
 usgaclient.vpn.att.com
@@ -34274,6 +34285,7 @@ uvpdev3a.stage.att.com
 uvpsystest2a.stage.att.com
 uxd.wireless.att.com
 v3-access.gsw1.voicetone.att.com
+v3.cat1gsw.voicetone.att.com
 v4-access.gsw1.voicetone.att.com
 v4access.gsw1.voicetone.att.com
 vNdW13.acss.att.com
@@ -34760,6 +34772,7 @@ voltage-pp-0000.att.com
 voss1.ucfed.att.com
 vpn-antivirus-booster-and-cleaner.cat1gsw.voicetone.att.com
 vpn-ndc1dev-eag.labs.att.com
+vpn.cat1gsw.voicetone.att.com
 vpn.gsi.att.com
 vpn1-agc.att.com
 vpn2-agc.att.com
