@@ -28,6 +28,7 @@ http://admindevices.uberinternal.com:80
 http://ads.uber.com:80
 http://ads.uber.com:8080
 http://ads.uberinternal.com:80
+http://adtech-tools-staging.uBeriNtErnaL.com:80
 http://adtech-tools-staging.uberinternal.com:80
 http://adtech-tools.uberinternal.com:80
 http://adtech-web-tools-staging.uberinternal.com:80
@@ -922,6 +923,7 @@ http://fusion-bloc.uberinternal.com:80
 http://fusionjs-sync-bot.uber.com:80
 http://fusionjs-sync-bot.uber.com:8080
 http://gairos-dca1.uberinternal.com:80
+http://gairos-streaming.uBeriNtErnaL.com:80
 http://gairos-streaming.uberinternal.com:80
 http://gairos.uberinternal.com:80
 http://galileo-node-test-backend.uberinternal.com:80
@@ -1242,6 +1244,7 @@ http://lineage.uberinternal.com:80
 http://link.recruitermail.uber.com:80
 http://lite.uber.com:80
 http://liveops.uber.com:80
+http://llc.uBeriNtErnaL.com:80
 http://llc.uberinternal.com:80
 http://lobby-cms.uber.com:80
 http://lobby-cms.uberinternal.com:80
@@ -3310,6 +3313,7 @@ https://fulfillment.uberinternal.com:443
 https://fusion-bloc.uberinternal.com:443
 https://fusionjs-sync-bot.uber.com:443
 https://gairos-dca1.uberinternal.com:443
+https://gairos-streaming.uBeriNtErnaL.com:443
 https://gairos-streaming.uberinternal.com:443
 https://gairos.uberinternal.com:443
 https://galileo-node-test-backend.uberinternal.com:443
@@ -3362,6 +3366,7 @@ https://girard-staging.uberinternal.com:443
 https://girard.uberinternal.com:443
 https://glh.uberinternal.com:443
 https://glossary.uberinternal.com:443
+https://go-staging.uBeriNtErnaL.com:443
 https://go-staging.uberinternal.com:443
 https://go.uber.com:443
 https://go.uberinternal.com:443
@@ -3589,6 +3594,7 @@ https://lineage.uberinternal.com:443
 https://link.recruitermail.uber.com:443
 https://lite.uber.com:443
 https://liveops.uber.com:443
+https://llc.uBeriNtErnaL.com:443
 https://llc.uberinternal.com:443
 https://lobby-cms.uber.com:443
 https://lobby-cms.uberinternal.com:443
@@ -4616,6 +4622,7 @@ https://voyager-phx2.uberinternal.com:443
 https://voyager-staging.uberinternal.com:443
 https://voyager-testing.uberinternal.com:443
 https://voyager.uberinternal.com:443
+https://vpn-amere-any.uBeriNtErnaL.com:443
 https://vpn-amere-any.uberinternal.com:443
 https://vpn-amerw-any.uberinternal.com:443
 https://vpn-apac-any.uberinternal.com:443
