@@ -47,6 +47,7 @@ akamai-apigateway-stg-fta.tesla.com
 akamai-apigateway-stg-global-deliveryopsapi.tesla.com
 akamai-apigateway-stg-inventorytxnextapi.tesla.com
 akamai-apigateway-stg-materials.tesla.com
+akamai-apigateway-stg-ops-warp3pl.TeSLa.com
 akamai-apigateway-stg-ops-warp3pl.tesla.com
 akamai-apigateway-stg-packaging2.tesla.com
 akamai-apigateway-stg-payment.tesla.com
@@ -156,6 +157,7 @@ epc.tesla.com
 epcapi.tesla.com
 errlog-stage.tesla.com
 errlog.tesla.com
+error-log.TeSLa.com
 error-log.tesla.com
 events.tesla.com
 external-3pl-prd.tesla.com
@@ -246,6 +248,7 @@ origin-financialgateway.tesla.com
 origin-finops.tesla.com
 origin-finplat-prd.tesla.com
 origin-finplat-stg.tesla.com
+origin-grid.TeSLa.com
 origin-grid.tesla.com
 origin-inside.tesla.com
 origin-installations-ext-api.tesla.com

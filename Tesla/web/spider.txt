@@ -4203,3 +4203,11 @@
 [javascript] - https://toolbox.tesla.com:443/js/app.d1c7e09ea8721c5b3000.js
 [url] - [code-401] - http://akamai-apigateway-teslaservice-api.TeSLa.com:80
 [url] - [code-401] - https://akamai-apigateway-teslaservice-api.TeSLa.com:443
+[href] - https://referral.tesla.com/css/text.css?t=1656869001
+[href] - https://referral.tesla.com/css/viewer.css?t=1656869001
+[href] - https://referral.tesla.com/css/web.css?t=1656869001
+[href] - https://referral.tesla.com/upload/css/uploadText.css?t=1656869001
+[javascript] - https://cloudinary.com/cdn-cgi/challenge-platform/h/b/scripts/invisible.js?ts=1656864000
+[url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&scope=openid%20email&state=1656869001145%3A0.7168248829811372
+[url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&scope=openid%20email&state=1656869001405%3A0.8111914782127077
+[url] - [code-401] - https://error-log.TeSLa.com:443

@@ -46,6 +46,7 @@ http://akamai-apigateway-stg-fta.tesla.com:80
 http://akamai-apigateway-stg-global-deliveryopsapi.tesla.com:80
 http://akamai-apigateway-stg-inventorytxnextapi.tesla.com:80
 http://akamai-apigateway-stg-materials.tesla.com:80
+http://akamai-apigateway-stg-ops-warp3pl.TeSLa.com:80
 http://akamai-apigateway-stg-ops-warp3pl.tesla.com:80
 http://akamai-apigateway-stg-packaging2.tesla.com:80
 http://akamai-apigateway-stg-payment.tesla.com:80
@@ -315,6 +316,7 @@ https://akamai-apigateway-stg-fta.tesla.com:443
 https://akamai-apigateway-stg-global-deliveryopsapi.tesla.com:443
 https://akamai-apigateway-stg-inventorytxnextapi.tesla.com:443
 https://akamai-apigateway-stg-materials.tesla.com:443
+https://akamai-apigateway-stg-ops-warp3pl.TeSLa.com:443
 https://akamai-apigateway-stg-ops-warp3pl.tesla.com:443
 https://akamai-apigateway-stg-packaging2.tesla.com:443
 https://akamai-apigateway-stg-payment.tesla.com:443
@@ -405,6 +407,7 @@ https://epc.tesla.com:443
 https://epcapi.tesla.com:443
 https://errlog-stage.tesla.com:443
 https://errlog.tesla.com:443
+https://error-log.TeSLa.com:443
 https://error-log.tesla.com:443
 https://events.tesla.com:443
 https://external-sandbox-automation.tesla.com:443
