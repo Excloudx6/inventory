@@ -5949,3 +5949,24 @@
 [javascript] - https://www.paypal.com/auth/createchallenge/ab2a6e07324232a2/recaptchav3.js?_sessionID=wsywlKlkJLMj24wNXBmwrFIPerBZRvLE
 [javascript] - https://www.paypal.com/auth/createchallenge/ce96e3267aa05d4e/recaptchav3.js?_sessionID=4i31y1koVG1cMn-ipNIqCu0E890ZrSyw
 [javascript] - https://www.paypal.com/auth/createchallenge/f6eeed5bcaf03531/recaptchav3.js?_sessionID=XGYfu7-8dZSdd6DdGr9EhWHk7axbufzr
+[href] - https://www.paypal.com/signin/authorize?client_id=AQnRNmwKLyKURzmUN7IGrYNIcaXKc2xMhjj5iRgXQHmRlL_yWgRRlEyHvtUn0wfkT0394HGHKlldnkFl&redirect_uri=https%3A%2F%2Fwww.braintreegateway.com%2Flogin_with_paypal_redirect&response_type=code&scope=openid+email&state=login-qwBJBPPCVJAkeMhtdVBHsL57zYW7We8I%2Br9gUirOZWYvwaMqTpaOQnh2vp33EN6pyK3j3nsr8iyoYnfJbIwKZA%3D%3D-%2Flogin
+[href] - https://www.paypal.com/signin/authorize?client_id=Aawr2vOkpQGNTXQAYIOQPVJoSCI2OnIIsTjmEM1Yx1MooV2aGxUqXeACIDZLS1AWVqUlBapiO0CJzG2F&redirect_uri=https%3A%2F%2Fsandbox.braintreegateway.com%2Flogin_with_paypal_redirect&response_type=code&scope=openid+email&state=login-Si%2FAtJaU%2FQlyvY%2FYC5nmlpYDnq%2FebjMm5xjYWJkXMEghCPoQIUOekppIF8w4nYParcT08e7YIlb6BevGicE3Nw%3D%3D-%2Flogin
+[href] - https://www.paypalobjects.com/web/res/86b/5e53bdb50e38ccc681bc5eed7dfca/css/app.css
+[javascript] - https://history.paypal.com:443/auth/createchallenge/d40a19c135216322/recaptchav3.js?_sessionID=Wh4e5t2LXkWASKs5v_e0iirYxyBxK8fd
+[javascript] - https://paypalmanager.sandbox.paypal.com:443/_avirum_/AVIi051962C5C5C80004AVIl0AVIr1/rum.js
+[javascript] - https://qwac.paypal.com:443/auth/createchallenge/fdcaf2d117966611/recaptchav3.js?_sessionID=K9RR7M4q_f-8mX4dwqywOY8MPv8EV8du
+[javascript] - https://securepayments.paypal.com/auth/createchallenge/e22c65d54d614233/recaptchav3.js?_sessionID=kQaYksn5EIvZ8UWZRdeZE4nnbpwXhDf3
+[javascript] - https://www.paypal.com/auth/createchallenge/26303c935f84bbb5/recaptchav3.js?_sessionID=iclXZSqEtu8TDtifUJPYqgIN8XcjfIqB
+[javascript] - https://www.paypal.com/auth/createchallenge/37fc98e83b030095/recaptchav3.js?_sessionID=MvSj1uz1G3B872xtNlSRvb1MTy9Da4Qs
+[javascript] - https://www.paypal.com/auth/createchallenge/70bc567c82b57ce8/recaptchav3.js?_sessionID=0AbUDNhkg3Mj9JwZz_5O8Vqfsof7Cjpk
+[javascript] - https://www.paypal.com/auth/createchallenge/78054b3ca6fbba98/recaptchav3.js?_sessionID=6De8N_OZtRV6zfM_OMqbEgzLfIj5-LdJ
+[javascript] - https://www.paypal.com/auth/createchallenge/7da9cfada7e3a55d/recaptchav3.js?_sessionID=R1QLlDYj3j1AoigZJC0d0_00BEuy9od-
+[javascript] - https://www.paypal.com/auth/createchallenge/bc44171e84be629a/recaptchav3.js?_sessionID=d9pzyVr2OcKBmRd0xyiUNb6W6g6aGRtP
+[javascript] - https://www.paypal.com/auth/createchallenge/eff4cce79b93ae13/recaptchav3.js?_sessionID=GoHmD_HcV7UeYHH-r_CEnhxyLF8n0TIk
+[javascript] - https://www.paypal.com/auth/createchallenge/f69ef9771b476202/recaptchav3.js?_sessionID=YDkxVWRYu24agQ0iJ1RfmYfjsdJYGQOF
+[javascript] - https://www.paypal.com/auth/createchallenge/fae349b517434772/recaptchav3.js?_sessionID=Q8FpB1h5AWRAAkS4um7HJMEzCGFKCP0E
+[javascript] - https://www.paypalobjects.com/web/res/86b/5e53bdb50e38ccc681bc5eed7dfca/js/authchallenge.js
+[javascript] - https://www.paypalobjects.com/web/res/86b/5e53bdb50e38ccc681bc5eed7dfca/js/lib/modernizr-2.6.1.js
+[javascript] - https://www.paypalobjects.com/web/res/86b/5e53bdb50e38ccc681bc5eed7dfca/js/lib/require.js
+[javascript] - https://zettleintegrations.paypal.com/auth/createchallenge/352854caa8d978b5/recaptchav3.js?_sessionID=PFR5H01OTV0asYspkXoep0jguQhdOLGq
+[url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=4459f6d9-0f12-5cae-5626-4a09a9819412&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=xoom.com&nonce=637927252135740189.f6f0c1dd-37c1-4d1b-89f5-22815b90844e&state=DctBDsIgEEBR0KsYd7TMAB1YNJ6FMpCYSCZptXp8Wby_-1opdR0ug7YjihZHCQkDggvkLcQ0taXZAszGUQHjGTYTUwsGMULYko3eVz3e2yzfPD_2ml99_Yn0qUi_n7zmz1v4eRQ56_4H

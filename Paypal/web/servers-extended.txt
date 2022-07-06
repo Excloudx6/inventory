@@ -112,7 +112,7 @@ http://images.payflowlink-edgemigration.glb.paypal.com:443 ["400 The plain HTTP 
 http://images.payflowlink-edgemigration.glb.paypal.com:80 ["Send Money, Pay Online or Set Up a Merchant Account - PayPal"] [200] [148943] ["text/html"] ["173.0.93.189"] ["https://images.payflowlink-edgemigration.glb.paypal.com/us/home"] ["nginx"] [["Nginx","React"]] [];
 http://images.payflowlink.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.214"] [null] [null] [null] [];
 http://images.payflowlink.glb.paypal.com:80 ["Send Money, Pay Online or Set Up a Merchant Account - PayPal"] [200] [131534] ["text/html"] ["173.0.93.189"] ["https://images.payflowlink.glb.paypal.com/us/home"] ["nginx"] [["Nginx","React"]] [];
-http://images.payflowlink.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.191"] [null] [null] [null] [];
+http://images.payflowlink.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.188"] [null] [null] [null] [];
 http://images.payflowlink.paypal.com:80 ["403 Forbidden"] [403] [202] ["text/html"] ["173.0.93.189"] ["https://images.payflowlink.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://ipnpb-v2.sandbox.paypal.com:80 ["Bargeldloses Bezahlen - Online Shopping | PayPal DE"] [200] [122207] ["text/html"] ["151.101.1.21"] ["https://ipnpb-v2.sandbox.paypal.com/de/home"] [null] [["React","Varnish"]] [];
 http://ipnpb.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.92.8"] [null] [null] [null] [];
@@ -170,7 +170,7 @@ http://partnermanager-migration.glb.paypal.com:443 ["400 The plain HTTP request 
 http://partnermanager-migration.glb.paypal.com:80 [null] [200] [6891] ["text/html"] ["173.0.93.189"] ["https://partnermanager-migration.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://partnermanager.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.188"] [null] [null] [null] [];
 http://partnermanager.paypal.com:80 ["PayPal Partner Manager"] [200] [61799] ["text/html"] ["173.0.93.191"] ["https://partnermanager.paypal.com/"] ["nginx"] [["Nginx"]] [];
-http://payflowlink-edgemigration.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.214"] [null] [null] [null] [];
+http://payflowlink-edgemigration.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.214"] [null] [null] [null] [];
 http://payflowlink-edgemigration.glb.paypal.com:80 [null] [200] [6882] ["text/html"] ["173.0.93.191"] ["https://payflowlink-edgemigration.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://payflowlink-edgemigration.payflow.edge.paypal.com:80 ["Digital Wallets, Money Management, and More | PayPal US | PayPal US"] [200] [199101] ["text/html"] ["173.0.93.189"] ["https://payflowlink-edgemigration.payflow.edge.paypal.com/us/home"] ["nginx"] [["Nginx"]] [];
 http://payflowlink-migration.payflow.edge.paypal.com:80 [null] [200] [6883] ["text/html"] ["173.0.93.189"] ["https://payflowlink-migration.payflow.edge.paypal.com/"] ["nginx"] [["Nginx"]] [];
@@ -214,7 +214,7 @@ http://pilot-migration.payflowpro.payflow.edge.paypal.com:80 [null] [200] [6871]
 http://pilot-payflowlink-edgemigration.payflow.edge.paypal.com:80 [null] [200] [6882] ["text/html"] ["173.0.93.189"] ["https://pilot-payflowlink-edgemigration.payflow.edge.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://pilot-payflowlink-migration.payflow.edge.paypal.com:80 [null] [200] [6884] ["text/html"] ["173.0.93.189"] ["https://pilot-payflowlink-migration.payflow.edge.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://pilot-payflowlink.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.214"] [null] [null] [null] [];
-http://pilot-payflowlink.glb.paypal.com:80 [null] [200] [6882] ["text/html"] ["173.0.93.191"] ["https://pilot-payflowlink.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
+http://pilot-payflowlink.glb.paypal.com:80 [null] [200] [6882] ["text/html"] ["173.0.93.189"] ["https://pilot-payflowlink.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://pilot-payflowlink.paypal.com:80 ["Payflow Link"] [200] [1661] ["text/html"] ["173.0.93.189"] ["https://pilot-payflowlink.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://pilot-payflowpro-edgemigration.payflow.edge.paypal.com:80 [null] [200] [6871] ["text/html"] ["173.0.93.139"] ["https://pilot-payflowpro-edgemigration.payflow.edge.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://pilot-payflowpro.glb.paypal.com:80 [null] [200] [6871] ["text/html"] ["173.0.93.143"] ["https://pilot-payflowpro.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
@@ -264,7 +264,7 @@ http://slc-a-origin-history-1.paypal.com:80 ["Fastly error: unknown domain slc-a
 http://slc-a-origin-history-2.paypal.com:80 ["Service Unavailable"] [503] [268] ["text/html"] ["104.89.6.113"] [null] ["AkamaiGHost"] [null] [];
 http://slc-a-origin-history.paypal.com:80 ["Fastly error: unknown domain slc-a-origin-history.paypal.com"] [500] [283] ["text/html"] ["151.101.193.21"] [null] ["Varnish"] [["Varnish"]] [];
 http://slc-a-origin-pointofsale.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.84.72"] [null] [null] [null] [];
-http://slc-a-origin-pointofsale.paypal.com:80 [null] [302] [30] ["text/plain"] ["173.0.84.104"] [null] ["nginx"] [["Nginx"]] [];
+http://slc-a-origin-pointofsale.paypal.com:80 [null] [200] [6884] ["text/html"] ["173.0.84.104"] [null] ["nginx"] [["Nginx"]] [];
 http://slc-b-origin-history-1.paypal.com:80 ["Fastly error: unknown domain slc-b-origin-history-1.paypal.com"] [500] [286] ["text/html"] ["151.101.1.21"] [null] ["Varnish"] [["Varnish"]] [];
 http://slc-b-origin-history-2.paypal.com:80 ["Fastly error: unknown domain slc-b-origin-history-2.paypal.com"] [500] [287] ["text/html"] ["151.101.129.21"] [null] ["Varnish"] [["Varnish"]] [];
 http://slc-b-origin-history.paypal.com:80 ["Fastly error: unknown domain slc-b-origin-history.paypal.com"] [500] [282] ["text/html"] ["151.101.65.21"] [null] ["Varnish"] [["Varnish"]] [];
