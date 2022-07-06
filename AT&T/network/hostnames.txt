@@ -1,5 +1,6 @@
 2018-admin-backup.gsw1.voicetone.att.com
 2018backupelasticbeanstalk.cat1gsw.voicetone.att.com
+2019backupelasticbeanstalk.cat1gsw.voicetone.att.com
 2020.cat1gsw.voicetone.att.com
 202020.att.com
 28days.att.com
@@ -15924,6 +15925,7 @@ cloudarchitect.att.com
 cloudauth.att.com
 cloudcover.research.att.com
 cloudfax-officeathand.att.com
+cloudformation-nc.opensource.att.com
 cloudhub-east-dev.att.com
 cloudhub-east-hf.att.com
 cloudhub-east-perf-1.att.com
@@ -15988,6 +15990,7 @@ conf.uc.att.com
 conferencecenter.uc.att.com
 confhpa.att.com
 confluence.iqidev.labs.att.com
+confluenceapiadmin-backup.gsw1.voicetone.att.com
 confssp.att.com
 confsystem.uc.att.com
 connect.att.COm
@@ -16586,6 +16589,7 @@ e-tst2-cloud.stage.att.com
 e-tst2.stage.att.com
 e-tst3.stage.att.com
 e2ef-ericssonlab.att.com
+e911.uc.att.com
 ea.att.com
 ea.e-access.att.com
 eaauth.e-access.att.com
@@ -32439,6 +32443,7 @@ opusisdtraining.att.com
 opusld-temp-qc.att.com
 opusselfinstall.att.com
 opussims.att.com
+orchestration-nc.opensource.att.com
 orderstatus.att.com
 orderstatus.test.att.com
 orderstatus.wholesale.att.com
@@ -33924,6 +33929,8 @@ tdmtest.att.com
 tdp.att.com
 tdseg.test.att.com
 team.att.com
+teams-e911.att.com
+teams-e911.cloud.att.com
 tech360.att.com
 tech360backup.att.com
 techbuzz.att.com
@@ -34005,6 +34012,7 @@ texas.att.com
 tftpr2vdna.att.com
 tftpr4vdna.att.com
 tguard-rt1.stage.att.com
+thENAtionshealth.labs.att.com
 thesummit.att.com
 threatinsights.att.COm
 threatinsights.att.com
@@ -34409,6 +34417,7 @@ vnbr11.acss.att.com
 vnbr12.Acss.att.com
 vnbr12.acss.att.com
 vnbr13.acss.att.com
+vnbr14.acSS.att.com
 vnbr14.acss.att.com
 vnbr15.acss.att.com
 vnbr16.acss.att.com
@@ -34886,6 +34895,7 @@ wireless.firstnet.att.com
 wirelessgiftcard.att.com
 wisconsin.att.com
 wkitaly.uc.att.com
+wkmnpqa1.sTAgE.att.com
 wkmnpqa1.stage.att.com
 wkmnpqa3.stage.att.com
 wkmnpqa5.stage.att.com
@@ -34929,7 +34939,9 @@ wug.uc.att.com
 wug2.uc.att.com
 wustl.hvs.att.com
 ww1.voicetone.att.com
+wwODStocc.dp.att.com
 wwW.Firmenkunden.stage.att.com
+wwW.Heilbronn.test.att.com
 wwW.Tomida-h.stage.att.com
 www.RESEARCH.att.COm
 www.about.att.com
@@ -34979,6 +34991,7 @@ www.naturalvoices.att.com
 www.neblog.att.com
 www.networkcam.att.com
 www.networkingexchangeblog.att.com
+www.opensource.att.com
 www.orderseg.mas.att.com
 www.pdev.labs.voicetone.att.com
 www.pensionchoice.att.com

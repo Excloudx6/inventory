@@ -85,6 +85,7 @@ http://alabama.att.com:8443
 http://alaska.att.com:443
 http://alaska.att.com:80
 http://alaska.att.com:8443
+http://alcs.att.com:80
 http://alliance.att.com:80
 http://alliancepartnersolutions.att.com:443
 http://alliancepartnersolutions.att.com:80
@@ -323,6 +324,7 @@ http://cal.att.com:80
 http://california.att.com:443
 http://california.att.com:80
 http://california.att.com:8443
+http://call.att.com:80
 http://calltree.em.att.com:80
 http://callvu.att.com:80
 http://calnet.att.com:80
@@ -417,6 +419,8 @@ http://crl.dlife.att.com:80
 http://csdktv.att.com:80
 http://csidmaccess.att.com:80
 http://csidmgate.att.com:80
+http://csms-stage.az.cloud.att.com:80
+http://csms.az.cloud.att.com:80
 http://csr-myaccount.att.com:80
 http://ctt.att.com:80
 http://currently.att.com:80
@@ -759,6 +763,7 @@ http://gst.att.com:8080
 http://gsx.officeathand.att.com:80
 http://guides.att.com:80
 http://gulfcoastregion.att.com:80
+http://gulfcoastregion.att.com:8080
 http://gulfcoastregion.att.com:8443
 http://gvpcertvideos.att.com:80
 http://halo-proxy-shm.att.com:80
@@ -1428,6 +1433,7 @@ http://portal.att.com:80
 http://portal.att.com:8080
 http://portal.dataflow.iot.att.com:443
 http://portal.dataflow.iot.att.com:80
+http://portal.flow.cloud.att.com:443
 http://portal.flow.cloud.att.com:80
 http://portal.wholesale.att.com:80
 http://power-tools-dev.att.com:80
@@ -1836,6 +1842,8 @@ http://tchosted.synaptic.att.com:80
 http://tchosted.wireless.att.com:80
 http://tdata-offers.att.com:80
 http://tdp.att.com:80
+http://teams-e911.att.com:80
+http://teams-e911.cloud.att.com:80
 http://tech360.att.com:443
 http://tech360backup.att.com:443
 http://techbuzz.att.com:80
@@ -2420,6 +2428,7 @@ http://webmeeting.att.com:80
 http://websites.att.com:80
 http://websitesmail.att.com:80
 http://websitesolutions.att.com:80
+http://websitesportal.att.com:443
 http://websplashpage-aldc01.att.com:80
 http://websplashpage-aldc02.att.com:80
 http://websplashpage-dadc01.att.com:80
@@ -2752,6 +2761,7 @@ https://albls.vpn.att.com:443
 https://albls1.vpn.att.com:443
 https://albls2.vpn.att.com:443
 https://alclient2.vpn.att.com:443
+https://alcs.att.com:443
 https://aldc.e-access.att.com:443
 https://allenmeeting.att.com:443
 https://alliance.att.com:443
@@ -2788,6 +2798,7 @@ https://ap.att.com:443
 https://apextoolkit.att.com:443
 https://api-3pdev-directvcommercial.test.att.com:443
 https://api-asvt-directvcommercial.test.att.com:443
+https://api-asvt-directvcommercial.test.att.com:8443
 https://api-dev-directvcommercial.test.att.com:443
 https://api-dev-directvcommercial.test.att.com:8443
 https://api-directvcommercial.att.com:443
@@ -3278,6 +3289,8 @@ https://csi-systest.test.dlife.att.com:443
 https://csidmaccess.att.com:443
 https://csintegration.att.com:443
 https://csmip.bus.att.com:443
+https://csms-stage.az.cloud.att.com:443
+https://csms.az.cloud.att.com:443
 https://csr-myaccount.att.com:443
 https://ctoken-ext.att.com:443
 https://ctoken-ext.sTagE.att.com:443
@@ -3350,6 +3363,7 @@ https://dataweb.att.com:443
 https://dataweb.eia.att.com:443
 https://db.att.com:443
 https://dcae.research.att.com:443
+https://dcp2-al.wireless.att.com:443
 https://dcp2-ga.wireless.att.com:443
 https://dcp2.att.com:443
 https://dcp2.wireless.att.com:443
@@ -3833,6 +3847,7 @@ https://ice-projectone.att.com:443
 https://icucb.att.com:443
 https://id-3pdev-directvcommercial.test.att.com:443
 https://id-asvt-directvcommercial.test.att.com:443
+https://id-asvt-directvcommercial.test.att.com:8443
 https://id-dev-directvcommercial.test.att.com:443
 https://id-dev-directvcommercial.test.att.com:8443
 https://id-directvcommercial.att.com:443
@@ -3879,6 +3894,7 @@ https://iiwc-svcdev.test.dlife.att.com:8080
 https://iiwc-svcdev.test.dlife.att.com:8888
 https://iiwc-systest.digitallife.att.com:443
 https://iiwc-systest.digitallife.att.com:8080
+https://iiwc-systest.digitallife.att.com:8888
 https://iiwc-systest.test.dlife.att.com:443
 https://iiwc-systest.test.dlife.att.com:8080
 https://iiwc-systest.test.dlife.att.com:8888
@@ -4129,6 +4145,7 @@ https://mis-att.eia.att.com:443
 https://miseleccionmx.att.com:443
 https://missioncontrol.firstnet.att.com:443
 https://mississippi.att.com:443
+https://mississippi.att.com:8443
 https://missl11.vpn.att.com:443
 https://missl12.vpn.att.com:443
 https://missouri.att.com:443
@@ -4601,6 +4618,7 @@ https://policyforum.att.com:443
 https://polish.att.com:443
 https://portal-3pdev-directvcommercial.test.att.com:443
 https://portal-asvt-directvcommercial.test.att.com:443
+https://portal-asvt-directvcommercial.test.att.com:8443
 https://portal-dev-directvcommercial.test.att.com:443
 https://portal-dev-directvcommercial.test.att.com:8443
 https://portal-directvcommercial.att.com:443
@@ -4693,6 +4711,7 @@ https://purchasingfun6.att.com:443
 https://purchasinguat1.att.com:443
 https://purchasinguat2.att.com:443
 https://purchasinguat4.att.com:443
+https://purchasinguat6.att.com:443
 https://push-atlas.att.com:443
 https://push.test.att.com:443
 https://push.test.att.com:8443
@@ -5072,6 +5091,8 @@ https://tdctest.att.com:443
 https://tdice-recommendations-test.stage.att.com:443
 https://tdm.att.com:443
 https://tdp.att.com:443
+https://teams-e911.att.com:443
+https://teams-e911.cloud.att.com:443
 https://techbuzz.att.com:443
 https://techcaretraining.att.com:443
 https://techchannel.att.com:443
