@@ -8344,6 +8344,7 @@
 /create-notice?key=
 /create-task-group/
 /crypt/enc/
+/crypt/encrypt/
 /crypt/mac/
 /csv
 /culture
@@ -9770,6 +9771,7 @@
 /services/StockQuoteService.svc/
 /services/semantic-model/data-roles/
 /session?v=1
+/set_default/\
 /set_favorite
 /set_status/
 /sets/
@@ -9940,6 +9942,7 @@
 /shared/working-hours/partials/vertical.template.html\
 /shared/working-hours/working-hours.html
 /sharedWithMe
+/shared_profiles/\
 /shares/
 /shares/:id
 /sharing/
@@ -11383,6 +11386,7 @@ buyer/vendor/all/create
 buyer/vendor/all/delete
 buyer/vendor/all/edit
 buyer/vendor/all/invite
+buyer/vendor/all/list
 buyer/vendor/all/unlock
 cG/v6cWFyOj/RPJvbFDrxwl4
 campaigns/index
@@ -12977,6 +12981,7 @@ static/chunks/993-3f1eee3bbb5013d16cec.js
 static/chunks/993-5ad011416caebc2c1891.js
 static/chunks/993-7cdf793a367f6cb41c31.js
 static/chunks/993-a5de18394667ffbf6292.js
+static/chunks/993-b718fa630c13b3e15b45.js
 static/chunks/pages/404-5cfd9cfd2fc5b4584fbc.js
 static/chunks/pages/404-648903751bb629494361.js
 static/chunks/pages/404-94284400d0ee15920203.js
