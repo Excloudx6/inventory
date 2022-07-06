@@ -7541,6 +7541,7 @@
 /platform/smart-links-internal/
 /platform/smart-replies/
 /platform/socrates/
+/platform/sovereign/
 /platform/spinnaker/
 /platform/stargate/
 /platform/statlas/
@@ -12993,6 +12994,7 @@ packages/design-system/modal-dialog/examples/80-with-footer-and-select-option.ts
 packages/design-system/modal-dialog/examples/90-with-layered-components.tsx
 packages/design-system/modal-dialog/examples/91-with-rapidly-changing-parent.tsx
 packages/design-system/modal-dialog/examples/92-with-hidden-blanket.tsx
+packages/design-system/modal-dialog/examples/93-multi-column.tsx
 packages/design-system/modal-dialog/examples/95-custom-child.tsx
 packages/design-system/modal-dialog/package.json
 packages/design-system/motion/CHANGELOG.md
@@ -13872,6 +13874,8 @@ packages/linking-platform/link-picker/package.json
 packages/linking-platform/link-provider/CHANGELOG.md
 packages/linking-platform/link-provider/examples/00-basic.tsx
 packages/linking-platform/link-provider/package.json
+packages/linking-platform/link-test-helpers/CHANGELOG.md
+packages/linking-platform/link-test-helpers/package.json
 packages/linking-platform/linking-common/CHANGELOG.md
 packages/linking-platform/linking-common/docs/0-intro.tsx
 packages/linking-platform/linking-common/examples/00-basic.tsx
