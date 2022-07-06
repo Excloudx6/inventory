@@ -44,6 +44,7 @@ http://akamai-apigateway-stg-finplateng-routeone.tesla.com:80
 http://akamai-apigateway-stg-finplateng.tesla.com:80
 http://akamai-apigateway-stg-fta.tesla.com:80
 http://akamai-apigateway-stg-global-deliveryopsapi.tesla.com:80
+http://akamai-apigateway-stg-inventorytxnextapi.teSLa.com:80
 http://akamai-apigateway-stg-inventorytxnextapi.tesla.com:80
 http://akamai-apigateway-stg-materials.tesla.com:80
 http://akamai-apigateway-stg-ops-warp3pl.TeSLa.com:80
@@ -107,6 +108,7 @@ http://autodiscover.tesla.com:80
 http://bi.tesla.com:80
 http://billing.tesla.com:80
 http://bolt.tesla.com:80
+http://business-ui-ownership.teSLa.com:80
 http://business-ui-ownership.tesla.com:80
 http://cdn-design.tesla.com:80
 http://cdns-content.tesla.com:80
@@ -314,6 +316,7 @@ https://akamai-apigateway-stg-finplateng-routeone.tesla.com:443
 https://akamai-apigateway-stg-finplateng.tesla.com:443
 https://akamai-apigateway-stg-fta.tesla.com:443
 https://akamai-apigateway-stg-global-deliveryopsapi.tesla.com:443
+https://akamai-apigateway-stg-inventorytxnextapi.teSLa.com:443
 https://akamai-apigateway-stg-inventorytxnextapi.tesla.com:443
 https://akamai-apigateway-stg-materials.tesla.com:443
 https://akamai-apigateway-stg-ops-warp3pl.TeSLa.com:443
@@ -375,6 +378,7 @@ https://autobidder.powerhub.energy.tesla.com:443
 https://bi.tesla.com:443
 https://billing.tesla.com:443
 https://bolt.tesla.com:443
+https://business-ui-ownership.teSLa.com:443
 https://business-ui-ownership.tesla.com:443
 https://cdn-design.tesla.com:443
 https://cdns-content.tesla.com:443

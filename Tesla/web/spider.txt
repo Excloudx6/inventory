@@ -4211,3 +4211,31 @@
 [url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&scope=openid%20email&state=1656869001145%3A0.7168248829811372
 [url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&scope=openid%20email&state=1656869001405%3A0.8111914782127077
 [url] - [code-401] - https://error-log.TeSLa.com:443
+[href] - https://business-ui-ownership.teSLa.com:443/static/css/2.3cd34177.chunk.css
+[href] - https://business-ui-ownership.teSLa.com:443/static/css/main.b942c82d.chunk.css
+[href] - https://engage.tesla.com/assets/countable-1657061959.css
+[href] - https://engage.tesla.com/assets/vendor-1657061959.css
+[href] - https://engage.tesla.com:443/assets/countable-1657061959.css
+[href] - https://engage.tesla.com:443/assets/vendor-1657061959.css
+[href] - https://ir.tesla.com/_flysystem/s3/css/css_PUZeGaN5QhlatEPV_F4Q3OGMQFWNWujnV7MK5M67xGU.css
+[href] - https://ir.tesla.com/shareholders/vote
+[href] - https://ir.tesla.com:443/_flysystem/s3/css/css_PUZeGaN5QhlatEPV_F4Q3OGMQFWNWujnV7MK5M67xGU.css
+[href] - https://ir.tesla.com:443/shareholders/vote
+[href] - https://referral.tesla.com/css/text.css?t=1657128443
+[href] - https://referral.tesla.com/css/viewer.css?t=1657128443
+[href] - https://referral.tesla.com/css/web.css?t=1657128443
+[href] - https://referral.tesla.com/upload/css/uploadText.css?t=1657128443
+[javascript] - https://business-ui-ownership.teSLa.com:443/static/js/2.1195cdc2.chunk.js
+[javascript] - https://business-ui-ownership.teSLa.com:443/static/js/main.4804676c.chunk.js
+[javascript] - https://engage.tesla.com/assets/countable-1657061959.js
+[javascript] - https://engage.tesla.com/assets/vendor-1657061959.js
+[javascript] - https://engage.tesla.com:443/assets/countable-1657061959.js
+[javascript] - https://engage.tesla.com:443/assets/vendor-1657061959.js
+[javascript] - https://suppliers-stg.tesla.com/runtime.15dc2cf5cffdd247d31d.js
+[url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?client_id=finops&scope=openid%20email%20profile%20employee%20metadata%7Cfinancepartner%20offline_access&response_type=code&redirect_uri=https%3A%2F%2Ffinops.tesla.com%2Fauth%2Fcallback&grant_type=authorization_code%2Crefresh_token%2Caccess_token&nonce=9e1bdb6042ea361cbad68aa7152a38f5&state=eyJyZXR1cm5UbyI6Ii8iLCJub25jZSI6Ijk3N2RjMmQ3ZWY4YTgyZWI2ZmI5NDVhODE1M2EwMDM3In0
+[url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&scope=openid%20email&state=1657128443643%3A0.9249678384877245
+[url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&scope=openid%20email&state=1657128443721%3A0.0919320831550805
+[url] - [code-200] - https://business-ui-ownership.teSLa.com:443
+[url] - [code-401] - http://akamai-apigateway-stg-inventorytxnextapi.teSLa.com:80
+[url] - [code-401] - https://akamai-apigateway-stg-inventorytxnextapi.teSLa.com:443
+[url] - [code-403] - http://stg-uc-twilio-bpm-webhook.tesla.com:80

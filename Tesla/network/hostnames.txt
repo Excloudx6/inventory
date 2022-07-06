@@ -45,6 +45,7 @@ akamai-apigateway-stg-finplateng-routeone.tesla.com
 akamai-apigateway-stg-finplateng.tesla.com
 akamai-apigateway-stg-fta.tesla.com
 akamai-apigateway-stg-global-deliveryopsapi.tesla.com
+akamai-apigateway-stg-inventorytxnextapi.teSLa.com
 akamai-apigateway-stg-inventorytxnextapi.tesla.com
 akamai-apigateway-stg-materials.tesla.com
 akamai-apigateway-stg-ops-warp3pl.TeSLa.com
@@ -112,6 +113,7 @@ autodiscover.tesla.com
 bi.tesla.com
 billing.tesla.com
 bolt.tesla.com
+business-ui-ownership.teSLa.com
 business-ui-ownership.tesla.com
 cdn-design.tesla.com
 cdns-content.tesla.com
@@ -302,6 +304,7 @@ recycling.tesla.com
 referral.tesla.com
 repair.tesla.com
 roadsideinvoice.tesla.com
+sales-prd.TeSLa.com
 sales-prd.tesla.com
 schedule.tesla.com
 secure-static-assets.tesla.com
@@ -380,6 +383,7 @@ vpn2.tesla.com
 warehouse-stg.tesla.com
 warehouse.tesla.com
 wdm.kronos.tesla.com
+weB-Origin-static-assets-teslaaccount.tesla.com
 weB.Akamai-apigateway-stg-translationpipeline.tesla.com
 weB.Static-assets-pay.tesla.com
 weBKRonos.tesla.com
@@ -387,6 +391,7 @@ weBMFa-reset.tesla.com
 weBURl6661.tesla.com
 woODHousespas.email.tesla.com
 workforce.tesla.com
+wwW-Actus.emails.tesla.com
 www-static-dev.tesla.com
 www-static-prod.tesla.com
 www-static-qa.tesla.com
