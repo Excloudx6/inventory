@@ -2277,6 +2277,7 @@
 ./js/frontify-styleguide/colorswatch.0f2a710802993d0262a9.js
 ./js/frontify-styleguide/colorswatch.1a1bc48bcb27011075c4.js
 ./js/frontify-styleguide/colorswatch.1c616d70f63b3735250e.js
+./js/frontify-styleguide/colorswatch.275a147b0bd735d53fea.js
 ./js/frontify-styleguide/colorswatch.28f314295f08432994a1.js
 ./js/frontify-styleguide/colorswatch.2ae859e8063ffb513130.js
 ./js/frontify-styleguide/colorswatch.3a3c82cfbbf8edc027fa.js
@@ -5186,6 +5187,7 @@
 /blog/sw.js?ver=1654104581250&amp;scope=en-US
 /blog/sw.js?ver=1654104601802&amp;scope=en-US
 /blog/sw.js?ver=1656423185924&amp;scope=en-US
+/blog/sw.js?ver=1656423207301&amp;scope=en-US
 /blog/sw.js?ver=1656423267948&amp;scope=en-US
 /blog/sw.js?ver=1656423286519&amp;scope=en-DE
 /blog/sw.js?ver=1656423305916&amp;scope=en-DE
@@ -6647,6 +6649,7 @@
 /payload.js
 /payload.json
 /payment
+/payment-method
 /performance_to_heatpipe
 /permission-token
 /permissions/
@@ -8488,7 +8491,10 @@ DD/MM/YY
 DD/MM/YYYY
 DEPk/7St
 DTLS/SCTP
+Data/hora
+Date/heure
 Date/time
+Datum/Uhrzeit
 Domain/CName
 Error: invalid input defined or SSL error: HTTP Error 404: Not Found
 Etc/GMT
@@ -8654,6 +8660,7 @@ Europe/Zurich|Europe/Vaduz
 ExternalObjectUserSettings/home
 FINAL_FORM/array-error
 FINAL_FORM/form-error
+Fecha/hora
 Fusion.js
 Home/End
 IB/cpjd7
@@ -10442,6 +10449,7 @@ linkedit/geo/fetchGeoTemplatesSuccess
 linkid.js
 linklist/fetchSuccess
 linklist/page_change
+linklist/setTagFilterValues
 links/table/
 listenerMiddleware/add
 listenerMiddleware/remove

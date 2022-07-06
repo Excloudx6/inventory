@@ -23,6 +23,7 @@ http://ad.uber.com:80
 http://ad.uber.com:8080
 http://address-normalization.uberinternal.com:80
 http://adjustments.uberinternal.com:80
+http://admin.uber.com:80
 http://admindevices.uberinternal.com:443
 http://admindevices.uberinternal.com:80
 http://ads.uber.com:80
@@ -498,6 +499,7 @@ http://contact.uber.com:8443
 http://content.uberinternal.com:80
 http://content.uberinternal.com:8080
 http://context.uberinternal.com:80
+http://copi.uBeriNtErnaL.com:80
 http://copi.uberinternal.com:80
 http://copycache.uberinternal.com:80
 http://core-pricing.uberinternal.com:80
@@ -890,6 +892,7 @@ http://freight-support.uber.com:80
 http://freight-support.uberinternal.com:80
 http://freight.uber.com:80
 http://freight.uber.com:8080
+http://freightbonjour-staging.uBeriNtErnaL.com:80
 http://freightbonjour-staging.uber.com:80
 http://freightbonjour-staging.uber.com:8080
 http://freightbonjour-staging.uberinternal.com:80
@@ -1033,6 +1036,7 @@ http://hadoop-ui.uberinternal.com:80
 http://hadoopviz.uberinternal.com:80
 http://hailstorm-dca1.uberinternal.com:80
 http://hailstorm-phx2.uberinternal.com:80
+http://hailstorm-v2-staging.uBeriNtErnaL.com:80
 http://hailstorm-v2-staging.uberinternal.com:80
 http://hailstorm-v2.uberinternal.com:80
 http://hailstorm.uberinternal.com:80
@@ -1540,6 +1544,7 @@ http://outages.uberinternal.com:80
 http://outages.uberinternal.com:8080
 http://overwatch.uberinternal.com:80
 http://oyster.uberinternal.com:80
+http://p.uBeriNtErnaL.com:80
 http://p.uberinternal.com:80
 http://p2.uber.com:80
 http://p2.uber.com:8080
@@ -2248,6 +2253,7 @@ http://trust-dca1.uberinternal.com:80
 http://trust-legacy-dca1.uberinternal.com:80
 http://trust-legacy.uberinternal.com:80
 http://trust-phx2.uberinternal.com:80
+http://trust-staging-dca1.uBeriNtErnaL.com:80
 http://trust-staging-dca1.uberinternal.com:80
 http://trust-staging.uberinternal.com:80
 http://trust.uberinternal.com:80
@@ -2284,6 +2290,7 @@ http://uberhub.uberinternal.com:80
 http://uberhubdev.uberinternal.com:443
 http://uberhubdev.uberinternal.com:80
 http://uberhubtest.uberinternal.com:80
+http://uberhubtraining.uBeriNtErnaL.com:80
 http://uberhubtraining.uberinternal.com:443
 http://uberhubtraining.uberinternal.com:80
 http://uberinternal.com:80
@@ -2345,6 +2352,7 @@ http://ums-staging.uberinternal.com:80
 http://ums.uberinternal.com:80
 http://unicorn.uberinternal.com:80
 http://unpm.uberinternal.com:80
+http://unpmsearch.uBeriNtErnaL.com:80
 http://unpmsearch.uberinternal.com:80
 http://unsubscribe.uber.com:80
 http://unsubscribe.uber.com:8080
@@ -2491,6 +2499,7 @@ http://web-platform.uberinternal.com:80
 http://web-preloads.uberinternal.com:80
 http://web-promotions-staging.uberinternal.com:80
 http://web-restaurant-graphql.uberinternal.com:80
+http://web-sorting-hat-staging.uberinternal.com:80
 http://web.uberinternal.com:80
 http://webber.uber.com:80
 http://webber.uber.com:8080
@@ -2578,6 +2587,7 @@ https://activeai.uberinternal.com:443
 https://ad.uber.com:443
 https://address-normalization.uberinternal.com:443
 https://adjustments.uberinternal.com:443
+https://admin.uber.com:443
 https://admindevices.uberinternal.com:443
 https://ads.uber.com:443
 https://ads.uberinternal.com:443
@@ -2970,6 +2980,7 @@ https://contact.uber.com:443
 https://contact.uber.com:8443
 https://content.uberinternal.com:443
 https://context.uberinternal.com:443
+https://copi.uBeriNtErnaL.com:443
 https://copi.uberinternal.com:443
 https://copycache.uberinternal.com:443
 https://core-pricing.uberinternal.com:443
@@ -3290,6 +3301,7 @@ https://freight-service.uberinternal.com:443
 https://freight-support.uber.com:443
 https://freight-support.uberinternal.com:443
 https://freight.uber.com:443
+https://freightbonjour-staging.uBeriNtErnaL.com:443
 https://freightbonjour-staging.uber.com:443
 https://freightbonjour-staging.uberinternal.com:443
 https://freightbonjour.uber.com:443
@@ -3412,6 +3424,7 @@ https://hadoop-ui.uberinternal.com:443
 https://hadoopviz.uberinternal.com:443
 https://hailstorm-dca1.uberinternal.com:443
 https://hailstorm-phx2.uberinternal.com:443
+https://hailstorm-v2-staging.uBeriNtErnaL.com:443
 https://hailstorm-v2-staging.uberinternal.com:443
 https://hailstorm-v2.uberinternal.com:443
 https://hailstorm.uberinternal.com:443
@@ -3842,6 +3855,7 @@ https://ots.uberinternal.com:443
 https://outages.uberinternal.com:443
 https://overwatch.uberinternal.com:443
 https://oyster.uberinternal.com:443
+https://p.uBeriNtErnaL.com:443
 https://p.uberinternal.com:443
 https://p2.uber.com:443
 https://p3.uber.com:443
@@ -4235,6 +4249,7 @@ https://snaptask.uberinternal.com:443
 https://snippy.uberinternal.com:443
 https://snitch.uberinternal.com:443
 https://solaire.uberinternal.com:443
+https://sorting-hat-staging.uberinternal.com:443
 https://sortinghat.uberinternal.com:443
 https://sourcegraph.uberinternal.com:443
 https://sourcetrace.uberinternal.com:443
@@ -4476,6 +4491,7 @@ https://uberhealth-tools.uberinternal.com:443
 https://uberhub.uberinternal.com:443
 https://uberhubdev.uberinternal.com:443
 https://uberhubtest.uberinternal.com:443
+https://uberhubtraining.uBeriNtErnaL.com:443
 https://uberhubtraining.uberinternal.com:443
 https://uberinternal.com:443
 https://uberversity.uberinternal.com:443
@@ -4532,6 +4548,7 @@ https://ums-staging.uberinternal.com:443
 https://ums.uberinternal.com:443
 https://unicorn.uberinternal.com:443
 https://unpm.uberinternal.com:443
+https://unpmsearch.uBeriNtErnaL.com:443
 https://unpmsearch.uberinternal.com:443
 https://unsubscribe.uber.com:443
 https://uown-staging.uberinternal.com:443
