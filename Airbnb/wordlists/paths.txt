@@ -2691,6 +2691,7 @@
 /me/settings/promote-subscriptions
 /me/settings/publishing
 /me/settings/security
+/me/settings/tipping
 /me/settings/{setting}
 /me/stats
 /me/stats/:postId/:startTimeMs/:endTimeMs

@@ -5395,6 +5395,7 @@ http://2021.demo.rostislav.next.airbnb.com:80
 http://2021.dev.staging.airbnb.com:80
 http://2021.dev.staging.airbnb.com:8080
 http://2021.distracted-it.next.airbnb.com:80
+http://2021.doesnotallowunauthorized.admin.airbnb.com:80
 http://2021.dotnetcaffe.next.airbnb.com:80
 http://2021.easyittutorials.admin-next.airbnb.com:80
 http://2021.easyittutorials.admin-next.airbnb.com:8080
@@ -15314,6 +15315,7 @@ http://chefaimless.next.airbnb.com:80
 http://chefak-arun.staging.airbnb.com:80
 http://chefalejandrotela.admin-next.airbnb.com:80
 http://chefalejandrotela.admin-next.airbnb.com:8080
+http://chefalpha.arealfoodlover.next.airbnb.com:80
 http://chefalpha.crazy-programs.next.airbnb.com:80
 http://chefalpha.prototype-internal.airbnb.com:80
 http://chefame.admin-next.airbnb.com:80
@@ -36954,6 +36956,7 @@ https://2021.debug-alpha.admin-lite-next.airbnb.com:443
 https://2021.demo-prototype.admin-lite.airbnb.com:443
 https://2021.demo.aamk.admin-lite-next.airbnb.com:443
 https://2021.dev.staging.airbnb.com:443
+https://2021.doesnotallowunauthorized.admin.airbnb.com:443
 https://2021.easyittutorials.admin-next.airbnb.com:443
 https://2021.eendroroy.admin-lite-next.airbnb.com:443
 https://2021.engineering.prototype-internal-next.airbnb.com:443
