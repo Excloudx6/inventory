@@ -4829,6 +4829,7 @@
 /blog/baltimore/
 /blog/bellingham/
 /blog/benefit-design/
+/blog/better-help-uber-eats-customer-story/
 /blog/birmingham/
 /blog/black-girl-ventures-customer-story/
 /blog/boise/
@@ -5190,6 +5191,7 @@
 /blog/sw.js?ver=1656423207301&amp;scope=en-US
 /blog/sw.js?ver=1656423267948&amp;scope=en-US
 /blog/sw.js?ver=1656423286519&amp;scope=en-DE
+/blog/sw.js?ver=1656423305914&amp;scope=en-US
 /blog/sw.js?ver=1656423305916&amp;scope=en-DE
 /blog/sw.js?ver=1656423326195&amp;scope=en-DE
 /blog/sw.js?ver=1656423326327&amp;scope=en-CA
@@ -6064,6 +6066,7 @@
 /guideline
 /guideline/
 /guideline/:guidelineId
+/guideline/:guidelineId/*
 /guideline/:project_id
 /guideline/:project_id/:id?
 /guidelines
@@ -11082,6 +11085,7 @@ uber/main/202206170736
 uber/main/202206221252
 uber/main/202206240906
 uber/main/202206301024
+uber/main/202207071520
 ui.html
 ui/appBarAriaLabel
 ui/appBarCommandAriaLabel

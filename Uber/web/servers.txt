@@ -619,6 +619,7 @@ http://destination-web.uber.com:80
 http://destination-web.uberinternal.com:80
 http://detective.uberinternal.com:80
 http://dev-bliss.uberinternal.com:80
+http://devbuilds.UBeR.com:80
 http://devbuilds.uber.com:80
 http://developer.uber.com:80
 http://developer.uber.com:8080
@@ -2001,6 +2002,7 @@ http://snaptask.uberinternal.com:80
 http://snippy.uberinternal.com:80
 http://snitch.uberinternal.com:80
 http://solaire.uberinternal.com:80
+http://sorting-hat-staging.uberinternal.com:80
 http://sortinghat.uberinternal.com:80
 http://sourcegraph.uberinternal.com:80
 http://sourcetrace.uberinternal.com:80
@@ -3090,6 +3092,7 @@ https://destination-web.uber.com:443
 https://destination-web.uberinternal.com:443
 https://detective.uberinternal.com:443
 https://dev-bliss.uberinternal.com:443
+https://devbuilds.UBeR.com:443
 https://devbuilds.uber.com:443
 https://developer.uber.com:443
 https://developer.uberinternal.com:443
@@ -4676,6 +4679,7 @@ https://web-platform.uberinternal.com:443
 https://web-preloads.uberinternal.com:443
 https://web-promotions-staging.uberinternal.com:443
 https://web-restaurant-graphql.uberinternal.com:443
+https://web-sorting-hat-staging.uberinternal.com:443
 https://web.uberinternal.com:443
 https://webber.uber.com:443
 https://webber.uberinternal.com:443
