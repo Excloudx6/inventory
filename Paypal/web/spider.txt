@@ -5970,3 +5970,40 @@
 [javascript] - https://www.paypalobjects.com/web/res/86b/5e53bdb50e38ccc681bc5eed7dfca/js/lib/require.js
 [javascript] - https://zettleintegrations.paypal.com/auth/createchallenge/352854caa8d978b5/recaptchav3.js?_sessionID=PFR5H01OTV0asYspkXoep0jguQhdOLGq
 [url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=4459f6d9-0f12-5cae-5626-4a09a9819412&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=xoom.com&nonce=637927252135740189.f6f0c1dd-37c1-4d1b-89f5-22815b90844e&state=DctBDsIgEEBR0KsYd7TMAB1YNJ6FMpCYSCZptXp8Wby_-1opdR0ug7YjihZHCQkDggvkLcQ0taXZAszGUQHjGTYTUwsGMULYko3eVz3e2yzfPD_2ml99_Yn0qUi_n7zmz1v4eRQ56_4H
+[href] - https://www.paypal.com/signin/authorize?client_id=AQnRNmwKLyKURzmUN7IGrYNIcaXKc2xMhjj5iRgXQHmRlL_yWgRRlEyHvtUn0wfkT0394HGHKlldnkFl&redirect_uri=https%3A%2F%2Fwww.braintreegateway.com%2Flogin_with_paypal_redirect&response_type=code&scope=openid+email&state=login-wajLT0eBkPPNcMV0tLZXhLYnOPEiookP2OPsFxHgUhl%2BucCNx3TCJe1agX9gDR2ew8q%2Fb4Om96zKgqUSwYGd6A%3D%3D-%2Flogin
+[href] - https://www.paypal.com/signin/authorize?client_id=Aawr2vOkpQGNTXQAYIOQPVJoSCI2OnIIsTjmEM1Yx1MooV2aGxUqXeACIDZLS1AWVqUlBapiO0CJzG2F&redirect_uri=https%3A%2F%2Fsandbox.braintreegateway.com%2Flogin_with_paypal_redirect&response_type=code&scope=openid+email&state=login-6zMK%2F1PmQ7dvY6cwKm1m0nqfyZqob41jIAmlEBGeasxL4wCHAODmqHf2zd2u11QD7ws3oX1gPJoe5fDIsqaSIg%3D%3D-%2Flogin
+[href] - https://www.paypalobjects.com/ppdevdocs/bundle/styles.5bf170c4de8efa8de418.css
+[href] - https://www.paypalobjects.com/ppdevdocs/bundle/webpack-runtime-ee633d352c7a60bec928.js
+[href] - https://www.paypalobjects.com/web/res/3ef/57f55f5f1baec1c370603e465f7a3/css/contextualLogin.css
+[href] - https://www.salesforce.com/etc.bundles/sfdc-www/bundles/all.bundle.61db7e7bd5d6768e06dd.css
+[href] - https://www.salesforce.com/etc.bundles/sfdc-www/bundles/scriptloader.bundle.755d89a83c32fa7dfe1b.js
+[href] - https://www.salesforce.com/etc.bundles/sfdc-www/bundles/sfdc-liveChat.bundle.61db7e7bd5d6768e06dd.css
+[href] - https://www.salesforce.com/etc.bundles/sfdc-www/bundles/utils.bundle.755d89a83c32fa7dfe1b.js
+[href] - https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~scriptloader.bundle.755d89a83c32fa7dfe1b.js
+[href] - https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~scriptloader~utils.bundle.755d89a83c32fa7dfe1b.js
+[href] - https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~utils~webpack-script-manifest-SfdcWwwBaseCnc-js~webpack-script-manifest-commonlyUsed-js~webp~8dbeef75.bundle.755d89a83c32fa7dfe1b.js
+[href] - https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-style-manifest-blockquoteComponent-js.bundle.755d89a83c32fa7dfe1b.css
+[href] - https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-style-manifest-productListComponent-js.bundle.755d89a83c32fa7dfe1b.css
+[href] - https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-style-manifest-tileSystemComponent-js.bundle.755d89a83c32fa7dfe1b.css
+[javascript] - https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_BdGsyKr09CEVooArpGMldQ2.js
+[javascript] - https://active-www.paypal.com:443/auth/createchallenge/59c6973b91c2eb40/recaptchav3.js?_sessionID=TuthtHbkhjRnOMh2nhCUTaFWrz1mQ6JJ
+[javascript] - https://history.paypal.com/auth/createchallenge/ff970b45896eada4/recaptchav3.js?_sessionID=wyeOxc93o6bJaVX0VbJF8bas1qsaD57I
+[javascript] - https://history.paypal.com:443/auth/createchallenge/17f9374d42cc40a7/recaptchav3.js?_sessionID=p3v3Hhzctbnxcm8lYxry29_YbOMrvv4a
+[javascript] - https://qwac.paypal.com:443/auth/createchallenge/03296e4daa07223e/recaptchav3.js?_sessionID=8kDgvzmUzbSibtaXAKH9uTp0FDQSQVgX
+[javascript] - https://securepayments.paypal.com:443/auth/createchallenge/255013f28ce67928/recaptchav3.js?_sessionID=RAqYLvdZRwzEcspmTZHKbIYSdAJcw3bt
+[javascript] - https://www-edge.glb.paypal.com:443/auth/createchallenge/2f4975b4f4bc7a41/recaptchav3.js?_sessionID=6AB0DZdILN8KkOXf_FtvRCLi1RhftghD
+[javascript] - https://www.paypal.com/auth/createchallenge/1d0d4561723f4465/recaptchav3.js?_sessionID=hv7dm332Yqh5OYH-V20Bg8Xq52I9cdFF
+[javascript] - https://www.paypal.com/auth/createchallenge/2a032bdb0812c986/recaptchav3.js?_sessionID=JMa3xbhfnNySp6cVIs-34l2DyYG8RK1q
+[javascript] - https://www.paypal.com/auth/createchallenge/528efb54fa22664e/recaptchav3.js?_sessionID=l3EnjipMhJc1uGGbO6DNe5iOOpUHjAU5
+[javascript] - https://www.paypal.com/auth/createchallenge/56b381e5fa0e022f/recaptchav3.js?_sessionID=rLSAIcEnXkPFAj-H7MO5fenmzMcpmnNL
+[javascript] - https://www.paypal.com/auth/createchallenge/6116fdc56de776e7/recaptchav3.js?_sessionID=SroYhO0Ttnq5EcSeR7SbcYO4MIQ1YmsP
+[javascript] - https://www.paypal.com/auth/createchallenge/837176d1f941e001/recaptchav3.js?_sessionID=sx0ViuN31ZXlbXvkPDAWIb07nGzRjdNy
+[javascript] - https://www.paypal.com/auth/createchallenge/d88e0fdf09ae1a90/recaptchav3.js?_sessionID=-4BHH0gEhuQlhTFnwdLtlLq0tmgxVR5m
+[javascript] - https://www.paypal.com/auth/createchallenge/db0270cb4f2b6366/recaptchav3.js?_sessionID=R7WG1lsfnKYe23fbCyv86ODM-6vy7onv
+[javascript] - https://www.paypalobjects.com/web/res/3ef/57f55f5f1baec1c370603e465f7a3/js/lib/fn-sync-telemetry-min.js
+[javascript] - https://www.paypalobjects.com/web/res/3ef/57f55f5f1baec1c370603e465f7a3/js/lib/modernizr-2.6.1.js
+[javascript] - https://www.paypalobjects.com/web/res/3ef/57f55f5f1baec1c370603e465f7a3/js/signin-split.js
+[javascript] - https://www.salesforce.com/etc/clientlibs/sfdc-www/clientlibs_hgf_5056d74c.js
+[javascript] - https://zettleintegrations.paypal.com:443/auth/createchallenge/e43bfc120f275e6d/recaptchav3.js?_sessionID=riigD_IVqjL9S-x72lmFxwTotvK3Z_8y
+[url] - [code-200] - http://view.messages.xOom.com:80/Error.aspx
+[url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=e40b5b21-013f-31db-3e1c-26f52d16e63d&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=xoom.com&nonce=637928119651299408.fdae78f4-faa1-4c51-8fc4-19cd67dec51b&state=DYtBDsIwDMBa-Ari1m0ZXdscJt4SklZCooq0weD55GAfLNk7587GyfCTyeV0yzgXAEwLzIhxKkMTqrm0GBoRhMgLhNI4BkCWlKVaeHh7L6N-abxvlV59_an2gbVfD1np81Z57qxH3f4
