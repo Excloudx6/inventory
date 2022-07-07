@@ -16623,6 +16623,7 @@
 //finalstage.att.com/scripts/adobe/{environment}/{name}
 //finalstage.att.com/scripts/ssaf_universal_client/{environment}/{name}
 //fonts.googleapis.com/css
+//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic&amp;subset=latin,latin-ext
 //geotab/default.js
 //gvpcertvideos.att.com
 //gvpcertvideos.att.com/
@@ -17279,6 +17280,7 @@
 /NuGetApiToken
 /OOG
 /OPJ
+/OS4/
 /OSS-LICENSE.html
 /OpenAction [3 0 R /XYZ null null 1]
 /Oqt
@@ -17858,7 +17860,9 @@
 /adoption-and-usage
 /adoption-and-usage/:tab?
 /adrum-ext.396a4a3598e4fdd54b8073a93c951462.js
+/adrum-ext.a6720c95d03e8e8d9e4f122a106bf00d.js
 /adrum-xd.396a4a3598e4fdd54b8073a93c951462.html
+/adrum-xd.a6720c95d03e8e8d9e4f122a106bf00d.html
 /advancedIVR/#/scripts/
 /advancedIvr
 /advancedIvr/entryPoint/:id
@@ -17944,10 +17948,22 @@
 /api/audit/exportAuditLog?fileType=:fileType&amp;search=:search
 /api/audit/releaseNotes
 /api/audit/releaseVersions
+/api/auth/digest/{0}.cookie{1}
+/api/auth/login/{0}.cookie{1}
+/api/auth/logout
+/api/auth/obtain/domain/
+/api/auth/obtain/email/.cookie
+/api/auth/obtain/email/.json
+/api/auth/refreshcard/portaluser.cookie
+/api/auth/sso/
+/api/auth/supportpal/logout
+/api/auth/token/refresh/.json
 /api/auth_methods/
 /api/availableOffers
 /api/backup/
 /api/bet
+/api/bf/fetchlist
+/api/bf/folders
 /api/billing/canDownload/:userId
 /api/billing/customer-summaries
 /api/billing/customer/:customerId
@@ -18047,6 +18063,29 @@
 /api/customers/customerlist
 /api/customers/platform/:platformId/updateusermigrationflag
 /api/customers/sitegroups
+/api/db/account/info/
+/api/db/account/info/{0}.json
+/api/db/account/portallanguage.json
+/api/db/account/wsossession.json
+/api/db/acl/aclrules.json
+/api/db/applications/previewlink.json
+/api/db/f2e/faxtoemailurl.json
+/api/db/hprefs/branding.json
+/api/db/mail/accounts/.json?q=account,domain,emaildomain,type
+/api/db/portal/currentmailaccount.json
+/api/db/portal/customlink/{0}/{1}/{2}.json
+/api/db/portal/domaincreditlist
+/api/db/portal/passwordpolicy.json
+/api/db/portal/portalblockcontent/{0}/{1}/shop_upgrade.json
+/api/db/portal/portallinks/{0}/shop_upgrade.json
+/api/db/portal/portalsettings.txt
+/api/db/portal/portalusers/
+/api/db/portal/portalusers/{0}.json
+/api/db/portal/supportInfo/{0}/{1}
+/api/db/web/contact/{0}.json
+/api/db/web/domains/
+/api/db/web/domains/.json?Domain,Atype,ProductCode,DNS
+/api/db/web/domains/{domain300Level}.json?{fields}
 /api/downloadRequests?start=
 /api/dynamic-link-by?url=
 /api/email/ping
@@ -18479,6 +18518,7 @@
 /api/sites/:siteId/translation-pattern
 /api/sites/:siteName/:customerId/siteSettings
 /api/sso/google/startup
+/api/sso/register
 /api/sso/startup
 /api/start_session?
 /api/statistics
@@ -18673,7 +18713,9 @@
 /appleCertificate/info
 /appleCertificate/upload
 /appleCertificate\
+/applet/
 /application
+/application/
 /application/accountFederation
 /application/activities
 /application/adminHome
@@ -20104,6 +20146,7 @@
 /cordaelive/FAQ
 /cordaelive/sweepstakes
 /cordaelive/terms
+/core/application
 /corporate/home
 /cou/inqChat.html
 /coupons
@@ -20182,6 +20225,8 @@
 /css/icon-weather.css?timestamp=1487201995443
 /css/mod-cc-input-field.min.css?timestamp=1459278338332
 /css/quickstart.filmstrip.min.css?timestamp=1459278338332
+/css/styles.92c9a936cc4488fa3527b23eda7047ee.css
+/css/styles.b5b9f71d08806f229038cee6bea637f8.css
 /cti-management
 /cti-management/cti-ports
 /cti-management/cti-route-points
@@ -20195,6 +20240,7 @@
 /ctnLookup
 /current
 /custom
+/custom-root/
 /customFields
 /customer-groups
 /customer-groups/
@@ -20757,6 +20803,7 @@
 /error/unauthorized
 /error/unavailable
 /error500
+/errorCorrectLevel:
 /errorPage/E405
 /errors
 /es-us
@@ -20995,6 +21042,10 @@
 /faster.png
 /fastpass/login
 /favicon.ico
+/favicons/apple-touch-icon.png
+/favicons/favicon-16x16.png
+/favicons/favicon-32x32.png
+/favicons/safari-pinned-tab.svg
 /fax
 /fax/default.asp
 /fax/default.html
@@ -21815,8 +21866,11 @@
 /joinable-sites
 /joints/
 /jour
+/js
 /js/bootstrap-datepicker.js?timestamp=1487201995443
 /js/bootstrap-datepicker.min.js?timestamp=1459278338332
+/js/bundle.6fb250aa568a732bc071.js
+/js/bundle.957fc17c0e5910c2a1d9.js
 /js/ds2-filters.js?timestamp=1487201995443
 /js/ds2-tooltip.js?timestamp=1487201995443
 /js/filmstrip.js?timestamp=1487201995443
@@ -21954,11 +22008,14 @@
 /library/javascript/resp-tabs.js
 /library/media/player/skins/att/video.xml
 /library/shows
+/libs
 /libs/akamai-core/1.8.17/akamai-core.min.js
 /libs/cq/i18n/dict.
 /libs/cq/i18n/dict.{+locale}.json
 /libs/ffmpeg_asm.js
+/libs/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0
 /libs/granite/csrf/token.json
+/libs/js
 /libs/wcm/core/resources/languages.overlay.infinity.json
 /license 
 /license_events/
@@ -22643,6 +22700,7 @@
 /node_modules/ieee754/index.js
 /nodes
 /nodes/
+/nomad/load/{hid}/{appId}/{lang}
 /normalTexture
 /not
 /notSupported.html
@@ -23584,6 +23642,7 @@
 /rooms-and-devices
 /rooms-and-devices/:tab?/:type?/:id?
 /root
+/root/libs/js
 /route
 /routes
 /routing-profiles-summary/{InstanceId}\
@@ -24719,6 +24778,7 @@
 /thank-you?d
 /thankyou.aspx
 /theme
+/theme-structure/
 /theme/
 /theme_thumbnail_
 /themes
@@ -25365,6 +25425,7 @@
 /vehicles/v2/vehicle/update/data
 /vendors
 /vendors/
+/vendors/ableplayer/ableplayer.min.js
 /vendors/create
 /vendors/inicis/notifications
 /verbiage
@@ -27078,6 +27139,7 @@ LandingPageCategories/LOAD_CATEGORIES_SUCCEEDED
 LandingPageTopics/LOAD_LANDING_PAGE_TOPICS
 LandingPageTopics/LOAD_LANDING_PAGE_TOPICS_FAILED
 LandingPageTopics/LOAD_LANDING_PAGE_TOPICS_SUCCEEDED
+LandingPageTopics/REMOVE_LANDING_PAGE_TOPICS_INSTANCE
 LeaderboardPage/LOAD_LEADERS
 LeaderboardPage/LOAD_LEADERS_FAILED
 LeaderboardPage/LOAD_LEADERS_SUCCEEDED
@@ -30755,6 +30817,9 @@ m/d/yy
 m/dd/yyyy
 m/j/Y
 m/j/y
+mail/drafts
+mail/sent-mail
+mail/trash
 manageInventory/ctnInfo
 manageInventory/deviceInventory
 manageInventory/fanDeploymentProfile

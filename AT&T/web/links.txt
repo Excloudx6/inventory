@@ -484,6 +484,7 @@ https://about.att.com/privacy/rights_choices.html
 https://about.att.com/sites/accessibility
 https://about.att.com/sites/privacy_policy
 https://about.att.com/sites/privacy_policy?pid=2506
+https://about.att.com/static/2055ad3dbaf7a73f569b806233c9dc954522001624dcc5
 https://about.att.com/static/6e71218b67e7a73f569b806233c9dc954522001624dcc5
 https://about.att.com/static/890d8a764cf7a73f569b806233c9dc954522001624dcc5
 https://about.att.com/static/9487e1aee207a73f569b806233c9dc954522001624dcc5
@@ -947,6 +948,7 @@ https://apps.apple.com/us/app/smart-home-manager/id1258654743
 https://apps.bazaarvoice.com/deployments/att-protection/main_site/production/en_US/bv.js
 https://apps.firstnet.att.com
 https://apps.firstnet.att.com/
+https://apps.firstnet.att.com/favicons/apple-touch-icon.png
 https://apps.mapbox.com/feedback
 https://appsource.microsoft.com/en-us/product/office/wa200001594?tab=overview
 https://appwise.appdirect.com/beta/search/
@@ -1936,6 +1938,9 @@ https://cdnjs.cloudflare.com/ajax/libs/dashjs/VERSION/dash.all.min.js\
 https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.3/flags/4x3/
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\
 https://cdnjs.cloudflare.com/ajax/libs/hls.js/VERSION/hls.min.js
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
+https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js
+https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js
 https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js
 https://cdnjs.cloudflare.com/ajax/libs/zepto/1.2.0/zepto.min.js
 https://cdnssl.clicktale.net/
@@ -2529,6 +2534,7 @@ https://github.com/zloirock/core-js/blob/v3.22.5/LICENSE
 https://github.com/zloirock/core-js/blob/v3.22.8/LICENSE
 https://github.com/zloirock/core-js/blob/v3.23.1/LICENSE
 https://github.com/zloirock/core-js/blob/v3.23.2/LICENSE
+https://github.com/zloirock/core-js/blob/v3.23.3/LICENSE
 https://github.com/zloirock/core-js/raw/master/LICENSE
 https://github.com/{{id}}
 https://gitlab.com/{{id}}
@@ -3411,7 +3417,9 @@ https://test-www.firstnet.com/signup/utf-eligibility
 https://test.localcontrol-firstnet.com/
 https://test17-www.wireless.att.com/business/index.jsp?source=sapmp&amp;rdirect=false&amp;rkey=
 https://thecode.dev.att.com/auth
+https://training.firstnet.att.com
 https://training.firstnet.att.com/
+https://training.firstnet.att.com/favicons/apple-touch-icon.png
 https://trello.com
 https://troubleshoot.att.com
 https://troubleshoot.att.com/

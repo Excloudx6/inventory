@@ -783,6 +783,7 @@ http://hosp-cfg.hvs.att.com:80
 http://hosp-xs.hvs.att.com:80
 http://hosp.hvs.att.com:80
 http://hosting.bus.att.com:443
+http://hosting.eia.att.com:443
 http://hpaconf.test.att.com:80
 http://hpaconfsm.test.att.com:80
 http://hr-access-dev.att.com:80
@@ -863,6 +864,7 @@ http://insights.att.com:80
 http://integratedandpartnersol.att.com:80
 http://integratedandpartnersoldev.att.com:80
 http://internaltu.att.com:443
+http://internaltu.att.com:80
 http://interntraining.att.com:443
 http://interntraining.att.com:80
 http://intl-psfstg.att.com:80
@@ -924,6 +926,8 @@ http://korean.att.com:80
 http://labworx-fs-a.stage.att.com:80
 http://lacuna.research.att.com:80
 http://landisupport.att.com:80
+http://landlordportal-poc.att.com:80
+http://landlordportal.att.com:80
 http://later-haters.att.com:80
 http://laterhaters.att.com:80
 http://lbrandsmeeting.att.com:443
@@ -1537,6 +1541,7 @@ http://retailtraining.att.com:443
 http://retailtraining.att.com:80
 http://retailtutorials.att.com:80
 http://retiree.att.com:80
+http://reviews.wireless.att.com:443
 http://reviews.wireless.att.com:80
 http://rewardinfo.att.com:80
 http://rgdatadev.att.com:80
@@ -2071,6 +2076,7 @@ http://vnae07.acss.att.com:80
 http://vnam01.acss.att.com:80
 http://vnam02.acss.att.com:80
 http://vnam03.acss.att.com:80
+http://vnat01.acSs.att.com:80
 http://vnat01.acss.att.com:80
 http://vnat02.acss.att.com:80
 http://vnat03.acss.att.com:80
@@ -2415,6 +2421,7 @@ http://vriocaretlc.att.com:80
 http://vrl.att.com:80
 http://vttraining.att.com:443
 http://vttraining.att.com:80
+http://washington.att.com:443
 http://washington.att.com:80
 http://washington.att.com:8443
 http://wat-enhanced-mgmt.uc.att.com:443
@@ -2599,6 +2606,7 @@ https://about.att.com:443
 https://acc-npwt.att.com:443
 https://accbusinesspricing.att.com:443
 https://access.att.com:443
+https://access.esinet-911.att.com:443
 https://accesspartners.att.com:443
 https://accessportal.att.com:443
 https://accessr01.att.com:443
@@ -4023,6 +4031,8 @@ https://labworx-fs-a.stage.att.com:443
 https://lacuna.research.att.com:443
 https://lacuna.research.att.com:8080
 https://landisupport.att.com:443
+https://landlordportal-poc.att.com:443
+https://landlordportal.att.com:443
 https://later-haters.att.com:443
 https://laterhaters.att.com:443
 https://lbrandsmeeting.att.com:443
@@ -4447,6 +4457,7 @@ https://oidc-da.idp.flogin.att.com:443
 https://oidc-da.stage.elogin.att.com:443
 https://oidc-ff.idp.clogin.att.com:443
 https://oidc-pre.idp.clogin.att.com:443
+https://oidc-pre.idp.flogin.att.com:443
 https://oidc-sf.idp.clogin.att.com:443
 https://oidc-sf.idp.flogin.att.com:443
 https://oidc.idp.blogin.att.com:443
@@ -4711,6 +4722,7 @@ https://purchasingfun6.att.com:443
 https://purchasinguat1.att.com:443
 https://purchasinguat2.att.com:443
 https://purchasinguat4.att.com:443
+https://purchasinguat5.att.com:443
 https://purchasinguat6.att.com:443
 https://push-atlas.att.com:443
 https://push.test.att.com:443
@@ -4800,6 +4812,7 @@ https://rmsocatest.att.com:443
 https://rockymountain-attsn.att.com:443
 https://rog.att.com:443
 https://routeit.att.com:443
+https://rsu-prepaid.TEST.att.com:443
 https://rsu-prepaid.att.com:443
 https://rsu-prepaid.test.att.com:443
 https://rsvp.att.com:443
@@ -5311,6 +5324,7 @@ https://vfoesig.att.com:443
 https://vh.e-access.att.com:443
 https://vh.stage.att.com:443
 https://vhda.e-access.att.com:443
+https://vid.att.com:443
 https://vide.att.com:443
 https://videobill.att.com:443
 https://videobillal.att.com:443
@@ -5347,6 +5361,7 @@ https://vnae07.acss.att.com:443
 https://vnam01.acss.att.com:443
 https://vnam02.acss.att.com:443
 https://vnam03.acss.att.com:443
+https://vnat01.acSs.att.com:443
 https://vnat01.acss.att.com:443
 https://vnat02.acss.att.com:443
 https://vnat03.acss.att.com:443
@@ -5704,6 +5719,7 @@ https://webmeeting.att.com:443
 https://websites.att.com:443
 https://websitesmail.att.com:443
 https://websitesolutions.att.com:443
+https://websitesportal.att.com:443
 https://websplashpage-aldc01.att.com:443
 https://websplashpage-aldc02.att.com:443
 https://websplashpage-dadc01.att.com:443
