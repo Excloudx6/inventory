@@ -1762,6 +1762,7 @@
 /api/v1/business/account/city_search/
 /api/v1/business/account/convert_account/
 /api/v1/business/account/create_whatsapp_link/
+/api/v1/business/account/get_professional_conversion_nux_configuration
 /api/v1/business/account/get_professional_conversion_nux_configuration/
 /api/v1/business/account/get_public_business_contact_info
 /api/v1/business/account/get_public_business_contact_info/
@@ -1848,6 +1849,7 @@
 /api/v1/live/{broadcast_id}/start/
 /api/v1/location_search/
 /api/v1/locations/
+/api/v1/locations/{location_id}/story/
 /api/v1/lox/discovery_module/fetch_media/
 /api/v1/lox/discovery_module/related_interest_on_logged_out/
 /api/v1/media/
@@ -1858,6 +1860,7 @@
 /api/v1/media/{media_id}/comments/{parent_comment_id}/child_comments/
 /api/v1/media/{media_id}/edit_media/
 /api/v1/media/{media_id}/info/
+/api/v1/media/{media_id}/list_reel_media_viewer/
 /api/v1/mental_well_being/get_aggregated_screen_time_by_device/
 /api/v1/mental_well_being/get_daily_limit_settings/
 /api/v1/mental_well_being/update_screen_time/
@@ -2516,6 +2519,7 @@
 /id/{?param_primary}/{?param_secondary}/
 /ig-messenger
 /ignore/
+/igtv/configure_to_igtv
 /igtv/configure_to_igtv/
 /images/
 /images/comet/empty_states_icons/media/null_states_media_dark_mode.svg
