@@ -1831,6 +1831,10 @@
 ./application.prod.json
 ./application.staging.json
 ./ar
+./ar-EG/contentful
+./ar-EG/contentful.json
+./ar-EG/lep
+./ar-EG/lep.json
 ./ar-ae.json
 ./ar-dz
 ./ar-dz.js
@@ -2581,6 +2585,8 @@
 ./he
 ./he.js
 ./he.json
+./he/contentful
+./he/contentful.json
 ./he/lep
 ./he/lep.json
 ./helpMenu.styl
@@ -4757,6 +4763,8 @@
 ./lt-lv.json
 ./lt.js
 ./lt.json
+./lt/contentful
+./lt/contentful.json
 ./lv
 ./lv-lv.json
 ./lv.js
