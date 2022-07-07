@@ -1262,3 +1262,7 @@
 [href] - https://api.hackerone.com/assets/stylesheets/screen-fb7fa378.css
 [href] - https://api.hackerone.com:443/assets/stylesheets/print-c3fe4d09.css
 [href] - https://api.hackerone.com:443/assets/stylesheets/screen-fb7fa378.css
+[url] - [code-400] - http://errors.hACKERoNE.net:8443
+[url] - [code-403] - http://errors.hACKERoNE.net:80
+[url] - [code-403] - http://errors.hACKERoNE.net:8080
+[url] - [code-403] - https://errors.hACKERoNE.net:443
