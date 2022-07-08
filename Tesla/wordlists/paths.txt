@@ -1,5 +1,7 @@
 -es2015.js
 -es5.js
+../../../../assets/images/SM_Warning.png
+../../../../assets/images/red-error.png
 ../../../../doc/range
 ../../../assets/images/sad-panda.png
 ../../../components/color
@@ -7800,6 +7802,7 @@
 /campaign/signup/success
 /canPlaceOrder
 /cancel
+/cancellation/v2
 /candidate-dashboard/home
 /candidate-dashboard/profile
 /candidate-profile/
@@ -8080,11 +8083,19 @@
 /docProps/app.xml
 /docProps/core.xml
 /docs/Model3/ServiceManual/
+/docs/Model3/ServiceManual/en-us/
+/docs/Model3/ServiceManual/zh-cn/
 /docs/ModelS/ServiceManual/
 /docs/ModelS/ServiceManual/Palladium/
+/docs/ModelS/ServiceManual/Palladium/en-us/
+/docs/ModelS/ServiceManual/en-us/
 /docs/ModelX/ServiceManual/
 /docs/ModelX/ServiceManual/Palladium/
+/docs/ModelX/ServiceManual/Palladium/en-us/
+/docs/ModelX/ServiceManual/en-us/
 /docs/ModelY/ServiceManual/
+/docs/ModelY/ServiceManual/en-us/
+/docs/ModelY/ServiceManual/zh-cn/
 /docs/Public/Roadster/Original/1.2.5/tabmenuframebc75.html
 /docs/Public/Roadster/Original/Circuits/
 /docs/Public/Roadster/Original/Connectors/
@@ -8931,6 +8942,7 @@
 /restart
 /restore
 /returns
+/returns/v2
 /roadside
 /role
 /roles
@@ -9501,6 +9513,7 @@
 /view/
 /viewer-
 /vin-recall-search
+/vin-recall-search?VIN=
 /vin_access_reasons
 /vin_data_access_requests
 /vins?q=
@@ -10299,6 +10312,7 @@ Influenza/Virus
 Injury/Illness
 Intern/Apprentice
 KZ7r/LzC
+Kraj/region
 LMS/BulkSessionEnrollment/
 LMS/BulkSessionExternalEnrollment/
 LMS/CourseEnrollmentReport
@@ -10320,7 +10334,10 @@ LMS/RemoveLearnerTopic/
 LMS/SelfUnenrollLearningContent
 LMS/performanceindicatortype
 LOTO/Guarding
+Land/Region
 Land/Soil
+Land/regio
+Land/region
 Lh/UrUUV
 Loto/Guarding
 M/bzoXq/
@@ -10333,6 +10350,7 @@ MM/DD/YYYY
 MM/dd/yyyy
 MMM/DD/YYYY
 MMM/dd/yyy
+Maa/alue
 MasterData/suppliers/search-term
 Model3/lib/CID_TEST
 Model3/tasks/
@@ -11114,6 +11132,7 @@ Pacific/Tongatapu
 Pacific/Truk
 Pacific/Wake
 Pacific/Wallis
+Paese/regione
 Persian/Iran
 Personalized/Vanity
 Probation/AddOrUpdateProbationDetails
@@ -11196,6 +11215,7 @@ account/SearchAccount
 account/SearchContact
 account/SearchContactV3
 account/bulkRoleUpdate
+account/isdeleteaddressenabled
 account/roleContactType/
 account/searchById?
 account/updateCompanyDomains
@@ -11763,6 +11783,7 @@ assets/icons/static/spritemap.svg#tds-icon-search
 assets/images/404-back.png
 assets/images/404-front.png
 assets/images/404-middle.png
+assets/images/SM_Warning.png
 assets/images/badges/
 assets/images/blue-information.png
 assets/images/career-track.png
@@ -12100,6 +12121,7 @@ benefits/GetEmployeeBoosterVaccineShotInfoByWorkFlowExecutionID?workFlowExecutio
 benefits/LeaveOfAbsence/
 benefits/LeaveOfAbsence/Cancel
 benefits/LeaveOfAbsence/Correct
+benefits/LeaveOfAbsence/GetLeaveReasonsByLeaveTypeAndCountryCode
 benefits/LeaveOfAbsence/GetLeaveReasonsByLeaveTypeAndCountryCode?countryCode=
 benefits/LeaveOfAbsence/GetLeaveTypesByCountryCode?countryCode=
 benefits/LeaveOfAbsence/LeaveTypeCountryMappingFlagsByLeaveTypeAndReason?countryCode=
@@ -12329,11 +12351,14 @@ compensation/GetProposedCompDetailsForInbox?proposedJobProfileID=
 compensation/GetVestingScheduleByGrantType
 compensation/GetVestingScheduleByGrantType?GrantType={grantTypeID}
 compensation/HRSubmitECNDocument
+compensation/PromotionApprovalTasks
+compensation/PromotionApprovalTasks?pageNumber=
 compensation/SaveStockPlanningDetails
 compensation/SendBackMeritPlanning
 compensation/SubmitElection
 compensation/SubmitMeritPlanningForManagerDirectAndIndirectEmployees
 compensation/SubmitMeritPlanningForManagerDirectEmployees
+compensation/SubmitPromotionRequestBulkApproval
 compensation/SubmitSetRateElection
 compensation/UpdateCompensationChangeStatus
 compensation/UpdateMissingGEO
@@ -12776,6 +12801,7 @@ corehrworkflow/DeleteUserUploadedDocuments
 corehrworkflow/GetAllDocumentCategoryIdentificationsForCategory
 corehrworkflow/GetAllDocumentCategoryIdentificationsForCategory?countryCode=
 corehrworkflow/GetAllDocumentCategoryTypes
+corehrworkflow/GetAllImmigrationDocumentType
 corehrworkflow/GetApprovalsCountForFilter
 corehrworkflow/GetConnectIdentificationByUserDocumentID?referrentEmployeeID=
 corehrworkflow/GetDocumentByDocumentID
@@ -12789,6 +12815,7 @@ corehrworkflow/GetIdentificationByDocumentIdAndType?referrentEmployeeID=
 corehrworkflow/GetUserDocumentByCategoryGroup/
 corehrworkflow/GetUserIdentificationDocuments/
 corehrworkflow/IsCurrentChangeTrackerTheLatest/
+corehrworkflow/SaveBookMark
 corehrworkflow/SaveIndividualEmployeeIdentificationDocument?employeeId=
 corehrworkflow/SaveUserIdentificationDocumentDetails/
 corehrworkflow/UploadMultipleDocument
@@ -15602,10 +15629,12 @@ employeeprocess/GetPhoneList
 employeeprocess/GetReportingEmployeesRecursive?onlyManagers=
 employeeprocess/GetReportingManagersRecursive/
 employeeprocess/GetSchedulingQualifiedEmployees
+employeeprocess/GetVisaTypesForImmigrationModule
 employeeprocess/GetWorkerHistory/
 employeeprocess/GetWorkerTypeMasterData
 employeeprocess/HasAcessToLinkRecruiter
 employeeprocess/I9EnergyTrainerEmployeeSearch
+employeeprocess/ImmigrationModuleDetail/
 employeeprocess/ManagerManagementLevelSearch
 employeeprocess/ManagerSearch
 employeeprocess/ManagerSearchForCEO2
@@ -15618,6 +15647,7 @@ employeeprocess/UpdateLegalNameChangeRequest
 employeeprocess/UpdateManagerFlagByEmployeeId
 employeeprocess/UpdateSSNChangeRequest
 employeeprocess/UpsertEmployeeCitizenshipValues
+employeeprocess/UpsertImmigrationModuleEmployeeVisa
 employeeprocess/contSupplierSearch
 employeeprocess/contingentworkertypeSearch
 employeeprocess/export/employee-details
@@ -15630,6 +15660,9 @@ employeerequests/TerminationTurnover/
 employeerequests/TerminationTurnover/asset?referentUserID=
 employeerequests/TerminationTurnover/badge?referentUserID=
 employeerequests/TerminationTurnover/cgaassets?referentUserID=
+employeerequests/TerminationTurnover/itassets?referentUserID=
+employeerequests/TerminationTurnover?referentUserID=
+employeerequests/TerminationTurnoverWithDocuments?referentUserID=
 energy/list-view
 enroll/ACTIVATE_SMS_CANCEL
 enroll/ACTIVATE_SMS_FAILURE
@@ -16303,6 +16336,7 @@ onboarding/savespecificonboardingdata
 onboarding/select-manager
 onboarding/timezones
 onboarding/updateDistributorCode
+onboarding/validlocales
 onboarding/workScopes
 onboarding/workerlocation
 onboardingprocess/AddUpdateBankDetails
@@ -16718,6 +16752,9 @@ talentprocess/GetLatestTalenTaskDetails/
 talentprocess/GetLatestTalentTemplateScheduleByTemplateName/CNSetRateQuarterlyReview
 talentprocess/GetPastFeedbackData/
 talentprocess/GetPerformanceFeedbackTask/
+talentprocess/GetPipInitiationForm/
+talentprocess/GetPipSavedUnpublishedForm/
+talentprocess/GetPipsForCareerTab/
 talentprocess/GetQuarterlyReviewDirectManagerDistribution
 talentprocess/GetQuarterlyReviewRatingDistribution
 talentprocess/GetQuarterlyReviewSummaryInfo/
@@ -16734,7 +16771,9 @@ talentprocess/GetWarningDetailsByRange
 talentprocess/GetWarningInfractionTypes
 talentprocess/GetWarningMasterDataCatalog
 talentprocess/HRBPWarningProcess
+talentprocess/InitiatePipRequest
 talentprocess/ManagerSearch
+talentprocess/PublishPipRequest
 talentprocess/QuarterlyReviewRatingChanges
 talentprocess/ReOpenTask/
 talentprocess/ReassignOrDelegateTask
@@ -16754,6 +16793,7 @@ talentprocess/SaveManagerBaac
 talentprocess/SaveManagerFac
 talentprocess/SaveManagerOac
 talentprocess/SaveManagerQac
+talentprocess/SavePipRequest
 talentprocess/SearchHRBusinessPartners
 talentprocess/SearchMobilityPartners
 talentprocess/TaskParticipationDataToExcel?ManagerEmployeeID=
