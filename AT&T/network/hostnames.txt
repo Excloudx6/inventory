@@ -31580,6 +31580,7 @@ jss.dp.att.com
 jss.intl.att.com
 k2.att.com
 kafka-ext-0-labs-a.ecolabs.cloud.att.com
+kafka-ext-0.eco.cloud.att.com
 kafka-ext-1-labs-a.ecolabs.cloud.att.com
 kafka-ext-1.eco.cloud.att.com
 kafka-ext-2-labs-a.ecolabs.cloud.att.com
@@ -32323,6 +32324,7 @@ object-store.pdk1.ccp.att.com
 object-store.san3.ccp.att.com
 obt.bus.att.com
 obt.eia.att.com
+ocprd.att.com
 offers.att.COm
 offers.att.com
 offers.wireless.att.com
@@ -32899,6 +32901,7 @@ perf7.stage.att.com
 perf8.stage.att.com
 perfmap.RESeARCH.att.com
 perfmap.research.att.com
+performance-tool.acSs.att.com
 performance-tool.acss.att.com
 performance.acss.att.com
 perfreps.ipnetwork.att.com
@@ -33057,6 +33060,7 @@ primeaccess.att.com
 primeretail.att.com
 privacy.research.att.com
 private.gsw1.voicetone.att.com
+privatebackupelasticbeanstalk.cat1gsw.voicetone.att.com
 prnoc.att.com
 prnoc2-test.att.com
 prnoc2mx-dev.att.com
@@ -33805,6 +33809,7 @@ static-js-fcontent.att.com
 static-js-fcontent.stage.att.com
 static-js-fcontent.test.att.com
 stats.research.att.com
+status-adminadmin-backup.gsw1.voicetone.att.com
 status-firstnetcontrolcenter.att.com
 status-iotcontrolcenter.att.com
 status-m2x.att.com
@@ -33825,6 +33830,7 @@ stok.ha3.hvs.att.com
 stok.ha4.hvs.att.com
 stok.ha5.hvs.att.com
 stomp-labs-a.ecolabs.cloud.att.com
+stomp.eco.cloud.att.com
 storage1.chi1.synaptic.att.com
 storage1.dal2.synaptic.att.com
 storage1.nyc3.synaptic.att.com
@@ -34142,6 +34148,7 @@ txemp5.vpn.att.com
 txemp6.vpn.att.com
 txemp7.vpn.att.com
 txemp8.vpn.att.com
+txenc1.VpN.att.com
 txenc1.vpn.att.com
 txenc2.vpn.att.com
 txlab.gpvpn.att.com
@@ -34501,6 +34508,7 @@ vncoc02.acss.att.com
 vncoc03.acss.att.com
 vncoc04.acss.att.com
 vndh100.acss.att.com
+vndh101.acSs.att.com
 vndh101.acss.att.com
 vndh102.acss.att.com
 vndh103.acss.att.com
