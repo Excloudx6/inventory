@@ -72,6 +72,7 @@ http://api.uberinternal.com:80
 http://apollo-manager-dca.uberinternal.com:80
 http://appdash.uBerInTernAl.com:80
 http://appdash.uBerInTernAl.com:8080
+http://appdash.ubERIntErNAl.com:80
 http://appdash.uberinternal.com:80
 http://appdash.uberinternal.com:8080
 http://apphealth-monitor-staging.uberinternal.com:80
@@ -126,6 +127,7 @@ http://atg-lls.uberinternal.com:80
 http://atg-logsets.uberinternal.com:80
 http://atg-metrics-lab-staging.uberinternal.com:80
 http://atg-metrics-lab.uberinternal.com:80
+http://atg-partners.ubERIntErNAl.com:80
 http://atg-partners.uber.com:80
 http://atg-partners.uber.com:8080
 http://atg-partners.uberinternal.com:80
@@ -1001,6 +1003,7 @@ http://goproxy-beta.uberinternal.com:80
 http://goproxy.uberinternal.com:80
 http://grafana.uberinternal.com:80
 http://grafana4-dca1.uberinternal.com:80
+http://grafana4-gcp.ubERIntErNAl.com:80
 http://grafana4-gcp.uberinternal.com:80
 http://grafana4-phx2.uberinternal.com:80
 http://grafana4-phx3.uberinternal.com:80
@@ -1122,6 +1125,7 @@ http://iadm.uber.com:8080
 http://iam-console-staging.uberinternal.com:80
 http://iam.uberinternal.com:80
 http://icinga01-dca1.prod.uber.com:80
+http://icons.ubERIntErNAl.com:80
 http://icons.uberinternal.com:80
 http://icons.uberinternal.com:8080
 http://idata.uberinternal.com:80
@@ -1383,9 +1387,11 @@ http://metal-api.uberinternal.com:80
 http://metal-api.uberinternal.com:8080
 http://metaldash-staging.uberinternal.com:80
 http://metaldash.uberinternal.com:80
+http://metapod.ubERIntErNAl.com:80
 http://metapod.uberinternal.com:80
 http://metro-api-staging.uberinternal.com:80
 http://metro-api.uberinternal.com:80
+http://metro-staging.ubERIntErNAl.com:80
 http://metro-staging.uberinternal.com:80
 http://metro.uberinternal.com:80
 http://metro2.uberinternal.com:80
@@ -2626,6 +2632,7 @@ https://api.uber.com:443
 https://api.uberinternal.com:443
 https://apollo-manager-dca.uberinternal.com:443
 https://appdash.uBerInTernAl.com:443
+https://appdash.ubERIntErNAl.com:443
 https://appdash.uberinternal.com:443
 https://apphealth-monitor-staging.uberinternal.com:443
 https://apphealth-monitor.uberinternal.com:443
@@ -2673,6 +2680,7 @@ https://atg-lls.uberinternal.com:443
 https://atg-logsets.uberinternal.com:443
 https://atg-metrics-lab-staging.uberinternal.com:443
 https://atg-metrics-lab.uberinternal.com:443
+https://atg-partners.ubERIntErNAl.com:443
 https://atg-partners.uber.com:443
 https://atg-partners.uberinternal.com:443
 https://atg-simulation-dev.uberinternal.com:443
@@ -2973,6 +2981,7 @@ https://compute-swn-proxy-staging.uberinternal.com:443
 https://conan.uberinternal.com:443
 https://concierge.uber.com:443
 https://conecta.uber.com:443
+https://config.ubERIntErNAl.com:443
 https://config.uberinternal.com:443
 https://connmon-staging.uberinternal.com:443
 https://connmon.uberinternal.com:443
@@ -3394,6 +3403,7 @@ https://goproxy-beta.uberinternal.com:443
 https://goproxy.uberinternal.com:443
 https://grafana.uberinternal.com:443
 https://grafana4-dca1.uberinternal.com:443
+https://grafana4-gcp.ubERIntErNAl.com:443
 https://grafana4-gcp.uberinternal.com:443
 https://grafana4-phx2.uberinternal.com:443
 https://grafana4-phx3.uberinternal.com:443
@@ -3492,6 +3502,7 @@ https://iadm.uber.com:443
 https://iam-console-staging.uberinternal.com:443
 https://iam.uberinternal.com:443
 https://icinga01-dca1.prod.uber.com:443
+https://icons.ubERIntErNAl.com:443
 https://icons.uberinternal.com:443
 https://idata.uberinternal.com:443
 https://ieweb-staging.uberinternal.com:443
@@ -3721,9 +3732,11 @@ https://metal-api-staging.uberinternal.com:443
 https://metal-api.uberinternal.com:443
 https://metaldash-staging.uberinternal.com:443
 https://metaldash.uberinternal.com:443
+https://metapod.ubERIntErNAl.com:443
 https://metapod.uberinternal.com:443
 https://metro-api-staging.uberinternal.com:443
 https://metro-api.uberinternal.com:443
+https://metro-staging.ubERIntErNAl.com:443
 https://metro-staging.uberinternal.com:443
 https://metro.uberinternal.com:443
 https://metro2.uberinternal.com:443

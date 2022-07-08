@@ -4761,6 +4761,7 @@
 /aura?r\x3d
 /aura?r\x3d0
 /auraAnalytics
+/auraCmpDef?_au=0DbugOKt-DnBZOgYmuPNFg&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=62OYTb0JHp-CObF4A-NogQ&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=BeXC_Hah0tuCjI-k06CYWg&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=Vch3wESk1PHg9bGgICAqIA&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
@@ -5188,6 +5189,7 @@
 /blog/sw.js?ver=1654104581250&amp;scope=en-US
 /blog/sw.js?ver=1654104601802&amp;scope=en-US
 /blog/sw.js?ver=1656423185924&amp;scope=en-US
+/blog/sw.js?ver=1656423207285&amp;scope=en-US
 /blog/sw.js?ver=1656423207301&amp;scope=en-US
 /blog/sw.js?ver=1656423267948&amp;scope=en-US
 /blog/sw.js?ver=1656423286519&amp;scope=en-DE
@@ -5481,8 +5483,10 @@
 /desktop/cisco.css
 /desktop/dark.css
 /desktop/light.css
+/desktop_new_tab
 /details
 /dev/dm-1
+/dev/poll
 /develop
 /developer-space
 /developer/
@@ -11086,6 +11090,7 @@ uber/main/202206221252
 uber/main/202206240906
 uber/main/202206301024
 uber/main/202207071520
+uber/main/202207081019
 ui.html
 ui/appBarAriaLabel
 ui/appBarCommandAriaLabel

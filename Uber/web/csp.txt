@@ -64,6 +64,7 @@ http://d3dt5tsgfu6lcf.cloudfront.net
 http://local.shakeshack.com
 http://localhost:*
 http://localhost:3000
+http://localhost:4868
 http://localhost:6474
 http://staticxx.facebook.com
 http://www.google-analytics.com
@@ -122,6 +123,7 @@ https://apps.rokt.com
 https://assets.grooveapp.com/
 https://assets.zendesk.com
 https://auth.springcm.com
+https://auth.uber.com/
 https://auth.uberinternal.com
 https://b.stats.paypal.com
 https://b92.yahoo.co.jp
@@ -139,6 +141,7 @@ https://csi.gstatic.com
 https://csp-report.force.com/_/ContentDomainCSPNoAuth?type=communities
 https://csp-report.force.com/_/ContentDomainCSPNoAuth?type=lightning
 https://csp.uber.com/csp?a=arch-web&ro=false
+https://csp.uber.com/csp?a=bliss-helpdot&ro=false
 https://csp.uber.com/csp?a=bonjour&ro=false
 https://csp.uber.com/csp?a=clarity&ro=false
 https://csp.uber.com/csp?a=dome-web&ro=false
@@ -177,6 +180,7 @@ https://ec.walkme.com/
 https://events.uber.com
 https://fast.wistia.net
 https://fonts.googleapis.com
+https://fonts.googleapis.com/
 https://fonts.googleapis.com/css
 https://fonts.googleapis.com/css2
 https://fonts.gstatic.com/
@@ -205,6 +209,8 @@ https://match.adsrvr.org/
 https://maxcdn.bootstrapcdn.com
 https://medley-api-staging.uberinternal.com
 https://medmate.com.au
+https://merchants-staging.ubereats.com
+https://merchants-staging.uberinternal.com
 https://merchants.ubereats.com
 https://merchants.uberinternal.com
 https://na160.salesforce.com
@@ -232,6 +238,8 @@ https://pre-prod.shakeshack.com
 https://pullo.uberinternal.com
 https://rapi.walkme.com/
 https://recaptcha.google.com/recaptcha/
+https://restaurant-dashboard-staging.uber.com
+https://restaurant-dashboard-staging.uberinternal.com
 https://restaurant-dashboard.uber.com
 https://restaurant-dashboard.uberinternal.com
 https://s.yimg.jp/images/listing/tool/cv/ytag.js
@@ -264,6 +272,7 @@ https://stats.g.doubleclick.net
 https://stg.paypay-corp.co.jp
 https://stg.shakeshack.com
 https://stoq.shop
+https://survey.uber.com/
 https://tags.tiqcdn.com
 https://tb-static.uber.com
 https://tbs-static.uber.com
