@@ -6813,6 +6813,7 @@
 /Yfv
 /YourAccount
 /YourAccount?restartMembership=true
+/YourAccountLite
 /YourAccountPayment
 /Yw4zYzI3QZOa6ve67wNleXz
 /_$1
@@ -6850,6 +6851,7 @@
 /account/
 /account/borrowerExtraMemberContext
 /account/createAccountContext
+/account/delete/confirm
 /account/downloadinfo
 /account/getmyinfo
 /account/profile/createAccountTransferContext
@@ -6864,6 +6866,7 @@
 /account/profile/transferpassword
 /account/profile/updateProfileEmail
 /account/profile/updateProfileEmail/:guid
+/accountaccess
 /accountowner/addextramember
 /accountowner/extramemberadded
 /accountowner/extramembercontext
@@ -11397,6 +11400,7 @@ buyer/vendor/all/invite
 buyer/vendor/all/list
 buyer/vendor/all/unlock
 cG/v6cWFyOj/RPJvbFDrxwl4
+cHIWFSF20ccTo/MPqPrOyNaD
 campaigns/index
 campaigns/index/page-component
 campaigns/page-component
