@@ -5915,6 +5915,7 @@
 /details/edit
 /dev
 /dev/null
+/dev/poll
 /developer-guide/moving-from-server-to-cloud-for-developers/
 /developer-guide/start-building-with-atlassian/
 /devices
@@ -6654,6 +6655,7 @@
 /index.html
 /initiative/:initiative
 /initiative/:initiative/:tabName?
+/initiative/:name/manage/:reportType
 /initiatives
 /insights
 /integration/jira
@@ -7677,6 +7679,7 @@
 /program/:name
 /program/:name/:initiative
 /program/:name/:tabName?
+/program/:name/manage/:reportType
 /project
 /project/
 /project/:id/
@@ -13874,6 +13877,7 @@ packages/linking-platform/link-picker/examples/99-vr.tsx
 packages/linking-platform/link-picker/package.json
 packages/linking-platform/link-provider/CHANGELOG.md
 packages/linking-platform/link-provider/examples/00-basic.tsx
+packages/linking-platform/link-provider/examples/1-ff.tsx
 packages/linking-platform/link-provider/package.json
 packages/linking-platform/link-test-helpers/CHANGELOG.md
 packages/linking-platform/link-test-helpers/package.json
