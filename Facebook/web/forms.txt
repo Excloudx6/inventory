@@ -1972,6 +1972,7 @@ https://investor.fb.com/home/default.aspx
 https://investor.fb.com:443/home/default.aspx
 https://iofml.workplace.com:443/work/landing/input/
 https://iphone.facebook.com/
+https://iphone.facebook.com/login.php?next=https%3A%2F%2Fiphone.facebook.com%3A443%2F&refsrc=deprecated&_rdr
 https://iphone.facebook.com:443
 https://ipiranga.workplace.com:443/work/landing/input/
 https://ippf.m.workplace.com:443/work/landing/input/?_rdr
@@ -2834,6 +2835,7 @@ https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252F2019access.accessaccess.api.chef.internmc.facebook.com%253A443%252F&refsrc=deprecated&_rdr
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252F2019auth.secure.intern.facebook.com%253A443%252F&refsrc=deprecated&_rdr
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252F2019debug.secure.intern.facebook.com%253A443%252F&refsrc=deprecated&_rdr
+https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252F2019demo.fburl.facebook.com%253A443%252F&refsrc=deprecated&_rdr
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252F2020-access.accessaccess.api.chef.internmc.facebook.com%253A443%252F&refsrc=deprecated&_rdr
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252F2020-auth.secure.intern.facebook.com%253A443%252F&refsrc=deprecated&_rdr
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252F2020-bucket-errorgcp.extern.facebook.com%253A443%252F&refsrc=deprecated&_rdr
@@ -3300,7 +3302,9 @@ https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.internmc.facebook.com%253A443%252F&refsrc=deprecated&_rdr
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Faccountscenter.facebook.com%252F%26refsrc%3Ddeprecated&refsrc=deprecated&_rdr
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Faccountscenter.facebook.com%253A443%252F%26refsrc%3Ddeprecated&refsrc=deprecated&_rdr
+https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Ffree.facebook.com%253A443%252F%26refsrc%3Ddeprecated%26zero_e%3D2%26zero_et%3D1657388197&refsrc=deprecated&_rdr
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fgroups%26refsrc%3Ddeprecated&refsrc=deprecated&_rdr
+https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fn.facebook.com%253A443%252F%26refsrc%3Ddeprecated%26zero_e%3D1%26zero_et%3D1657388198&refsrc=deprecated&_rdr
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Fpmp&refsrc=deprecated&_rdr
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%2Fwatch&refsrc=deprecated&_rdr
 https://m.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.facebook.com%3A443%2F%3Flocale%3Daf_ZA&refsrc=deprecated&locale2=af_ZA&_rdr
@@ -7901,6 +7905,7 @@ https://m.fbjs.facebook.com:443/?locale=pt_BR&_rdr
 https://m.fbjs.facebook.com:443/?locale=ro_RO&_rdr
 https://m.fbjs.facebook.com:443/?locale=sk_SK&_rdr
 https://m.fdac93-1.prod.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.fdac93-1.prod.facebook.com%2F&refsrc=deprecated&_rdr
+https://m.fdcollege.alpha.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.fdcollege.alpha.facebook.com%3A443%2F&refsrc=deprecated&_rdr
 https://m.fi-fi.hide.lite.facebook.com:443/
 https://m.fi-fi.pt-pt.lite.facebook.com:443/?locale=ar_AR&_rdr
 https://m.fi-fi.ro-ro.c.facebook.com:443/?locale=pt_PT&_rdr
@@ -7961,6 +7966,7 @@ https://m.hi-in.fr-fr.pt-br.prod.facebook.com:443/?locale=zh_CN&_rdr
 https://m.hi-in.lite.facebook.com:443/?locale=en_GB&_rdr
 https://m.hi-in.m.lite.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.hi-in.m.lite.facebook.com%3A443%2F%3Flocale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
 https://m.hi-in.register.lite.facebook.com/?_rdr
+https://m.hi-in.th-th.fbjs.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.hi-in.th-th.fbjs.facebook.com%3A443%2F%3Flocale%3Dzh_CN&refsrc=deprecated&locale2=zh_CN&_rdr
 https://m.hi-in.th-th.fbjs.facebook.com:443/
 https://m.hi-in.th-th.fbjs.facebook.com:443/?locale=zh_CN&_rdr
 https://m.hitwhwlj.new.facebook.com:443/
@@ -8296,6 +8302,7 @@ https://m.s-n.fbjs.facebook.com:443/
 https://m.s-pointtown.fbjs.facebook.com:443/
 https://m.saboor.dns.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.saboor.dns.facebook.com%2F&refsrc=deprecated&_rdr
 https://m.saes.escom.new.facebook.com:443/
+https://m.sc.secure.alpha.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.sc.secure.alpha.facebook.com%3A443%2F&refsrc=deprecated&_rdr
 https://m.science.nature.prod.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.science.nature.prod.facebook.com%2F&refsrc=deprecated&_rdr
 https://m.secure.alpha.facebook.com/cookie/consent_prompt/?next_uri=https%3A%2F%2Fm.secure.alpha.facebook.com%2F&refsrc=deprecated&_rdr
 https://m.secure.alpha.facebook.com:443/
@@ -8781,6 +8788,7 @@ https://msm-mn.workplace.com:443/work/landing/input/
 https://mt.m.workplace.com:443/work/landing/input/?_rdr
 https://mt.workplace.com/work/landing/input/
 https://mt.workplace.com:443/work/landing/input/
+https://mtouch.facebook.com/login.php?next=https%3A%2F%2Fmtouch.facebook.com%3A443%2F&refsrc=deprecated&_rdr
 https://mtouch.facebook.com:443
 https://multichoice.workplace.com:443/work/landing/input/
 https://murmaidcom.m.workplace.com:443/work/landing/input/?_rdr
@@ -10585,6 +10593,7 @@ https://work.workplace.com/work/company_selector/?next=https%3A%2F%2Fwork-m.work
 https://work.workplace.com/work/company_selector/?next=https%3A%2F%2Fwork-m.workplace.com%2Fcookie%2Fconsent_prompt%2F%3Fnext_uri%3Dhttps%253A%252F%252Fwork-m.workplace.com%253A443%252F%253Fsession_id%253DBk50gZ0QtYF%26refsrc%3Ddeprecated&_rdr
 https://work.workplace.com/work/company_selector/?next=https%3A%2F%2Fwork-m.workplace.com%2Fcookie%2Fconsent_prompt%2F%3Fnext_uri%3Dhttps%253A%252F%252Fwork-m.workplace.com%253A443%252F%253Fsession_id%253DBy4QbBfOkRx%26refsrc%3Ddeprecated&_rdr
 https://work.workplace.com/work/company_selector/?next=https%3A%2F%2Fwork-m.workplace.com%2Fcookie%2Fconsent_prompt%2F%3Fnext_uri%3Dhttps%253A%252F%252Fwork-m.workplace.com%253A443%252F%253Fsession_id%253DCGMJ6yvzAAG%26refsrc%3Ddeprecated&_rdr
+https://work.workplace.com/work/company_selector/?next=https%3A%2F%2Fwork-m.workplace.com%2Fcookie%2Fconsent_prompt%2F%3Fnext_uri%3Dhttps%253A%252F%252Fwork-m.workplace.com%253A443%252F%253Fsession_id%253DDEtKqXAkjRi%26refsrc%3Ddeprecated&_rdr
 https://work.workplace.com/work/company_selector/?next=https%3A%2F%2Fwork-m.workplace.com%2Fcookie%2Fconsent_prompt%2F%3Fnext_uri%3Dhttps%253A%252F%252Fwork-m.workplace.com%253A443%252F%253Fsession_id%253DDPmHmUlh6pu%26refsrc%3Ddeprecated&_rdr
 https://work.workplace.com/work/company_selector/?next=https%3A%2F%2Fwork-m.workplace.com%2Fcookie%2Fconsent_prompt%2F%3Fnext_uri%3Dhttps%253A%252F%252Fwork-m.workplace.com%253A443%252F%253Fsession_id%253DDVEGSwbNcnv%26refsrc%3Ddeprecated&_rdr
 https://work.workplace.com/work/company_selector/?next=https%3A%2F%2Fwork-m.workplace.com%2Fcookie%2Fconsent_prompt%2F%3Fnext_uri%3Dhttps%253A%252F%252Fwork-m.workplace.com%253A443%252F%253Fsession_id%253DEEo25rKyX51%26refsrc%3Ddeprecated&_rdr
@@ -11128,6 +11137,7 @@ https://work.workplace.com:443/work/company_selector/?session_id=Ayyd6SHaeZf
 https://work.workplace.com:443/work/company_selector/?session_id=AyyiSKBqKJZ
 https://work.workplace.com:443/work/company_selector/?session_id=AzQXjMC05Jk
 https://work.workplace.com:443/work/company_selector/?session_id=Azk0eXQ2dtr
+https://work.workplace.com:443/work/company_selector/?session_id=AzoXIdUU3Ji
 https://work.workplace.com:443/work/company_selector/?session_id=Azpu5nbPb5f
 https://work.workplace.com:443/work/company_selector/?session_id=Azq87GXnbFT
 https://work.workplace.com:443/work/company_selector/?session_id=Azs%2FwNxPyba
@@ -11577,6 +11587,7 @@ https://work.workplace.com:443/work/company_selector/?session_id=BmkNBsPL3NK
 https://work.workplace.com:443/work/company_selector/?session_id=Bmw1lsu62kH
 https://work.workplace.com:443/work/company_selector/?session_id=BmypSGihag1
 https://work.workplace.com:443/work/company_selector/?session_id=BnJgFViwXFm
+https://work.workplace.com:443/work/company_selector/?session_id=BnQ2RI3ps%2BW
 https://work.workplace.com:443/work/company_selector/?session_id=BnW2%2BKGaHIU
 https://work.workplace.com:443/work/company_selector/?session_id=Bnqc1rKiyeK
 https://work.workplace.com:443/work/company_selector/?session_id=Bnt9AcDBJUT
@@ -11856,6 +11867,7 @@ https://work.workplace.com:443/work/company_selector/?session_id=CH9fUPvYUyA
 https://work.workplace.com:443/work/company_selector/?session_id=CHNQCLLF4cO
 https://work.workplace.com:443/work/company_selector/?session_id=CHNtHoxP51o
 https://work.workplace.com:443/work/company_selector/?session_id=CHPynnevw1g
+https://work.workplace.com:443/work/company_selector/?session_id=CHQHEjc1Xwl
 https://work.workplace.com:443/work/company_selector/?session_id=CHbWzNWB3Vg
 https://work.workplace.com:443/work/company_selector/?session_id=CHeg5nuB5Xl
 https://work.workplace.com:443/work/company_selector/?session_id=CI2TRbjOa81
@@ -12464,6 +12476,7 @@ https://work.workplace.com:443/work/company_selector/?session_id=DRGc%2FCYbdJj
 https://work.workplace.com:443/work/company_selector/?session_id=DRYoL6fFz7Z
 https://work.workplace.com:443/work/company_selector/?session_id=DRcCH1kOWx8
 https://work.workplace.com:443/work/company_selector/?session_id=DRsMuZ0q7Pr
+https://work.workplace.com:443/work/company_selector/?session_id=DS%2FXAbrRkix
 https://work.workplace.com:443/work/company_selector/?session_id=DS0KmWvizsR
 https://work.workplace.com:443/work/company_selector/?session_id=DS6U7yfoqnQ
 https://work.workplace.com:443/work/company_selector/?session_id=DSE0SVLG9cd
@@ -12508,6 +12521,7 @@ https://work.workplace.com:443/work/company_selector/?session_id=DWMEfxOfZ3Y
 https://work.workplace.com:443/work/company_selector/?session_id=DWWoOihhCq7
 https://work.workplace.com:443/work/company_selector/?session_id=DWavDk8uWYp
 https://work.workplace.com:443/work/company_selector/?session_id=DWnYBYaQ3pO
+https://work.workplace.com:443/work/company_selector/?session_id=DWoaj5aCPer
 https://work.workplace.com:443/work/company_selector/?session_id=DWsWNdRKUX5
 https://work.workplace.com:443/work/company_selector/?session_id=DX%2BgR%2Bucl9t
 https://work.workplace.com:443/work/company_selector/?session_id=DX%2FdvV3eLJ%2B
@@ -12790,6 +12804,7 @@ https://work.workplace.com:443/work/company_selector/?session_id=E0D5d2yITop
 https://work.workplace.com:443/work/company_selector/?session_id=E0DwXnXZA82
 https://work.workplace.com:443/work/company_selector/?session_id=E0XBlYxV%2BRW
 https://work.workplace.com:443/work/company_selector/?session_id=E0d6h%2BGfeyn
+https://work.workplace.com:443/work/company_selector/?session_id=E0lQUMTINQH
 https://work.workplace.com:443/work/company_selector/?session_id=E0sZYIV7Tii
 https://work.workplace.com:443/work/company_selector/?session_id=E0y1qYfpvjH
 https://work.workplace.com:443/work/company_selector/?session_id=E1%2B715K%2F6Y3
@@ -12950,6 +12965,7 @@ https://work.workplace.com:443/work/company_selector/?session_id=EIhnS%2B56Jsx
 https://work.workplace.com:443/work/company_selector/?session_id=EIm189uqkX5
 https://work.workplace.com:443/work/company_selector/?session_id=EIq8Rhbz3%2BI
 https://work.workplace.com:443/work/company_selector/?session_id=EIv9ioN2au8
+https://work.workplace.com:443/work/company_selector/?session_id=EIy6hPpAGQm
 https://work.workplace.com:443/work/company_selector/?session_id=EJ0l%2FwWZ61T
 https://work.workplace.com:443/work/company_selector/?session_id=EJ2b7oj0nAZ
 https://work.workplace.com:443/work/company_selector/?session_id=EJ2cKz1x42T
@@ -13353,6 +13369,7 @@ https://work.workplace.com:443/work/company_selector/?session_id=F3iDm%2BVGXBV
 https://work.workplace.com:443/work/company_selector/?session_id=F3wN2Gcho1d
 https://work.workplace.com:443/work/company_selector/?session_id=F3yXhQ1YvUG
 https://work.workplace.com:443/work/company_selector/?session_id=F4CigYj4WeY
+https://work.workplace.com:443/work/company_selector/?session_id=F4HM6EWAqbh
 https://work.workplace.com:443/work/company_selector/?session_id=F4JabNzUrEO
 https://work.workplace.com:443/work/company_selector/?session_id=F4P%2Bg3c4O09
 https://work.workplace.com:443/work/company_selector/?session_id=F4Y44qrS%2FZJ
@@ -13408,6 +13425,7 @@ https://work.workplace.com:443/work/company_selector/?session_id=F8p4J%2BnYtv%2B
 https://work.workplace.com:443/work/company_selector/?session_id=F9%2FvNUB1X4N
 https://work.workplace.com:443/work/company_selector/?session_id=F9AbZR5XtYY
 https://work.workplace.com:443/work/company_selector/?session_id=F9BTfc1APDO
+https://work.workplace.com:443/work/company_selector/?session_id=F9PmL%2BE9g2a
 https://work.workplace.com:443/work/company_selector/?session_id=F9UUAv7flKH
 https://work.workplace.com:443/work/company_selector/?session_id=F9Y%2B5WOSrN9
 https://work.workplace.com:443/work/company_selector/?session_id=F9mIOt0RKwk
@@ -13853,6 +13871,7 @@ https://work.workplace.com:443/work/company_selector/?session_id=FyHdqQAzCxj
 https://work.workplace.com:443/work/company_selector/?session_id=FytTTRpMzQf
 https://work.workplace.com:443/work/company_selector/?session_id=Fz0wmO1mmMB
 https://work.workplace.com:443/work/company_selector/?session_id=Fz9FCe2ThMV
+https://work.workplace.com:443/work/company_selector/?session_id=FzWJUbR5lOJ
 https://work.workplace.com:443/work/company_selector/?session_id=FzgD9ytIght
 https://work.workplace.com:443/work/company_selector/?session_id=FzljfIUwBq6
 https://work.workplace.com:443/work/company_selector/?session_id=G%2BCGCn5vvD6
@@ -14163,6 +14182,7 @@ https://work.workplace.com:443/work/company_selector/?session_id=GWXqe5MDhWJ
 https://work.workplace.com:443/work/company_selector/?session_id=GWZ26j4G6RJ
 https://work.workplace.com:443/work/company_selector/?session_id=GWbYVtdbYNs
 https://work.workplace.com:443/work/company_selector/?session_id=GWcOe1LUFwB
+https://work.workplace.com:443/work/company_selector/?session_id=GWsse%2F18q7P
 https://work.workplace.com:443/work/company_selector/?session_id=GWuwi5ijZDg
 https://work.workplace.com:443/work/company_selector/?session_id=GX7P4bUScRp
 https://work.workplace.com:443/work/company_selector/?session_id=GXExyRMUAvm
@@ -14662,6 +14682,7 @@ https://work.workplace.com:443/work/company_selector/?session_id=HVuhr5M%2BkwU
 https://work.workplace.com:443/work/company_selector/?session_id=HVwOlbE0Ex3
 https://work.workplace.com:443/work/company_selector/?session_id=HW%2BK8wPwSdV
 https://work.workplace.com:443/work/company_selector/?session_id=HW%2BZiMYwYW8
+https://work.workplace.com:443/work/company_selector/?session_id=HW4YV9LS1n1
 https://work.workplace.com:443/work/company_selector/?session_id=HWNwlBoJMV6
 https://work.workplace.com:443/work/company_selector/?session_id=HWU86OkLMd5
 https://work.workplace.com:443/work/company_selector/?session_id=HWX2FZrDs2k
