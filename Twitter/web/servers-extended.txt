@@ -2164,7 +2164,7 @@ http://geo6.probe.twitter.com:8080 ["404 Not Found"] [404] [277] ["text/html"] [
 http://geo6.tpop-api.twitter.com:80 [null] [404] [null] [null] ["104.244.42.66"] [null] ["tsa_f"] [null] [];
 http://geo6.twitter.com:80 [null] [404] [null] [null] ["104.244.42.65"] [null] ["tsa_f"] [null] [];
 http://geo7.api.twitter.com:80 ["ERROR: The request could not be satisfied"] [403] [915] ["text/html"] ["18.66.8.250"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
-http://geo7.twitter.com:80 [null] [404] [null] [null] ["104.244.42.1"] [null] ["tsa_f"] [null] [];
+http://geo7.twitter.com:80 [null] [404] [null] [null] ["104.244.42.129"] [null] ["tsa_f"] [null] [];
 http://geo8.api.twitter.com:80 [null] [404] [null] [null] ["104.244.42.130"] [null] ["tsa_o"] [null] [];
 http://geo8.twitter.com:80 [null] [404] [null] [null] ["104.244.42.193"] [null] ["tsa_f"] [null] [];
 http://georas.api.twitter.com:80 [null] [404] [null] [null] ["104.244.42.2"] [null] ["tsa_f"] [null] [];
@@ -3029,7 +3029,7 @@ http://upload-0-4-6.twitter.com:80 [null] [410] [120] ["text/plain"] ["104.244.4
 http://upload-0-4-7.twitter.com:80 [null] [410] [120] ["text/plain"] ["104.244.42.3"] ["https://upload-0-4-7.twitter.com/"] ["tsa_f"] [null] [];
 http://upload-0-4-8.twitter.com:80 [null] [410] [120] ["text/plain"] ["104.244.42.3"] ["https://upload-0-4-8.twitter.com/"] ["tsa_f"] [null] [];
 http://upload-0-5-0.twitter.com:80 [null] [410] [120] ["text/plain"] ["104.244.42.3"] ["https://upload-0-5-0.twitter.com/"] ["tsa_o"] [null] [];
-http://upload-1-0-0.twitter.com:80 [null] [410] [120] ["text/plain"] ["104.244.42.3"] ["https://upload-1-0-0.twitter.com/"] ["tsa_o"] [null] [];
+http://upload-1-0-0.twitter.com:80 [null] [410] [120] ["text/plain"] ["104.244.42.3"] ["https://upload-1-0-0.twitter.com/"] ["tsa_f"] [null] [];
 http://upload-2-0-0.twitter.com:80 [null] [410] [120] ["text/plain"] ["104.244.42.3"] ["https://upload-2-0-0.twitter.com/"] ["tsa_o"] [null] [];
 http://upload-21-0-0.twitter.com:80 [null] [410] [120] ["text/plain"] ["104.244.42.3"] ["https://upload-21-0-0.twitter.com/"] ["tsa_o"] [null] [];
 http://upload-23-0-0.twitter.com:80 [null] [410] [120] ["text/plain"] ["104.244.42.3"] ["https://upload-23-0-0.twitter.com/"] ["tsa_o"] [null] [];
@@ -3475,6 +3475,7 @@ https://2018-accessauthapiatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/
 https://2018-accessbetaaccess-admin.api-api-atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-accessbetaaebace.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-accessbucket.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [1595] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
+https://2018-accesschef-api.confluence.adultmensestheosaka.blog.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-accesschefalpha.chefaccessap.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-accordance.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-account-access-account.admin-accessbucket.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
@@ -3624,6 +3625,7 @@ https://2018-alpha.aafes.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["1
 https://2018-alpha.access.afar.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-alpha.account.obv-atla.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-alpha.adminbloggerpeer.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://2018-alpha.dbms.auth.berry.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-alpha.obv-smf1.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-alphaaccessbeta.confluenceadmin.atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-alphaaccount-confluence.account-beta.backup.obv-smf1.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -3666,6 +3668,7 @@ https://2018-beta.obv-smf1.vpn.twttr.com:443 [null] [302] [null] ["text/html"] [
 https://2018-betaadminadmin.access.account.admin.upload.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://2018-betaalphaatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-betulkarali.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://2018-boonehs.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-bucket-access.accessbeta.confluenceadmin.atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-bucket-accessaccess.alphaatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018-bucket.access.accessauthapiatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -3913,6 +3916,7 @@ https://2018.accountaccountbeta.staging.vpn.twttr.com:443 ["Pulse Connect Secure
 https://2018.accountactivities.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.accountadmin.api-41-0-0-41-5-2.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.accountadmin.atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://2018.accountadminalpha.access.chefatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.accountakadns.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.accountall-are-wonders.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.accountalpha-dbms-demo.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
@@ -3968,6 +3972,7 @@ https://2018.admin.backupconfig.betabrandsafety.vpn.twttr.com:443 [null] [302] [
 https://2018.admin.beta.backup.obv-smf1.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.admin.betaaccess-admin.api-api-atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.admin.betabrandsafety.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://2018.admin.chef.auth.berry.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.admin.config.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [1595] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://2018.admin.confluencecristbrian.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.admin.demo-account.beta.semantic-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -3980,6 +3985,7 @@ https://2018.adminadspy-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] 
 https://2018.adminadvisories.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.adminapi.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [1595] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://2018.adminauth.access-adminaccount.bucket-access-upload.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
+https://2018.adminauth.alaaskrillex.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.adminbloggerpeer.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.adminbucket.alpha.access.baboon.rce.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2018.admit.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -4739,6 +4745,7 @@ https://2019-atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.
 https://2019-attributes.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2019-auth-escalate-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2019-auth.account-alphaakhandsnet.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://2019-auth.api-berry.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2019-auth.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://2019-authbeta-brandsafety-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2019-authconfig-atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -5398,6 +5405,7 @@ https://2019alpha.apiatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"
 https://2019alpha.atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2019alpha.bucket-2019account.brandsafety.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2019alpha.bucket.admin.atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://2019alpha.dbms.auth.berry.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2019alpha.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://2019alphaaccess.atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2019alphaalpha.demo.semantic-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -6204,6 +6212,7 @@ https://2020account-betaadmin-confluence.obv-smf1.vpn.twttr.com:443 [null] [302]
 https://2020account-betaalphaatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2020account-betabrandsafety.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2020account-chef.admin-admin.confluencecristbrian.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://2020account-chefatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2020account.access.accessbrandsafety.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2020account.access.accountaccess.access-admin-alphaaccount.atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2020account.access.africa.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -6321,6 +6330,7 @@ https://2020alpha.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [1595
 https://2020alphaabadger.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2020alphaaccess-admin.alpha-access.adminap.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2020alphaalpha.demo.semantic-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://2020alphabeta-backup.aafes.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2020alphastevenmaglio.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2020alphonsus.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2020amardeepchandra.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -6593,6 +6603,7 @@ https://2021-anned20.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.1
 https://2021-antispam.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2021-ap.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2021-api-alpha-accessadmin.demo.semantic-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://2021-api.admin.accessconfluence.carirevolusi.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2021-api.ags.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2021-apiaccount.account-tcpip.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://2021-apiaccountdatabrandsafety.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -7938,6 +7949,7 @@ https://accessadmin.demo.semantic-lab.vpn.twttr.com:443 [null] [302] [null] ["te
 https://accessadminabelperezmartinez.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://accessadminaccountescalate-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://accessadminauth-account.alpha-apibeta.semantic-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://accessadminbeta.chef.auth.berry.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://accessadminbucketaccessadmininternal.atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://accessadmindev-account.config.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://accessadmininternal.atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -8351,6 +8363,7 @@ https://account.admin.alpha.another.vpn.twttr.com:443 [null] [302] [null] ["text
 https://account.admin.ap.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://account.admin.api-beta.semantic-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://account.admin.atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://account.admin.backup.admin.chef.auth.berry.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://account.admin.backupconfig.betabrandsafety.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://account.admin.betabrandsafety.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://account.admin.chef.auth.berry.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -9508,6 +9521,7 @@ https://alpha-adminauth.access-adminaccount.bucket-access-upload.staging.vpn.twt
 https://alpha-adspy-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://alpha-adultmensestheosaka.blog.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://alpha-aeschright.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://alpha-alaaskrillex.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://alpha-all-are-wonders.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://alpha-alpha-alpha-dbms-demo.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://alpha-alpha-auth.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
@@ -10136,6 +10150,7 @@ https://api-account-abelperezmartinez.vpn.twttr.com:443 [null] [302] [null] ["te
 https://api-account-access-accessaccess.alphaatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://api-account-access-account-admin-answering.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://api-account-account-alphaaccount.atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://api-account-account-chef-api.confluence.adultmensestheosaka.blog.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://api-account-actionsuses.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://api-account-admin-answering.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://api-account-api-smfc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -10360,6 +10375,7 @@ https://api.twitter.com:443 [null] [404] [null] [null] ["104.244.42.66"] [null] 
 https://api0.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://api2.twitter.com:443 [null] [404] [null] [null] ["199.59.149.200"] [null] ["tsa_a"] [null] [];
 https://api2.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://api2021-alphaatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://api4.twitter.com:443 [null] [404] [null] [null] ["199.59.149.232"] [null] ["tsa_a"] [null] [];
 https://apia082010.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://apiaccepts.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -10814,7 +10830,7 @@ https://auth.alaaskrillex.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["
 https://auth.alex.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://auth.alpha-access.adicahyaludin.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://auth.alpha-betabeta.confluenceadmin.atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
-https://auth.alpha.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [1595] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
+https://auth.alpha.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://auth.amer.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://auth.api-atlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://auth.api-berry.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -10852,6 +10868,7 @@ https://authaccess-account-accountbeta-alphaupload.staging.vpn.twttr.com:443 ["P
 https://authaccess-autoconfig.forum.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://authaccess-escalate.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://authaccess.access-aws.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://authaccess.accessadultmensestheosaka.blog.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://authaccess.accountadmin.api-41-0-0-41-5-2.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://authaccess.adicahyaludin.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://authaccess.admin-admin-answering.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -11211,6 +11228,7 @@ https://backupalpha-dbms-demo.staging.vpn.twttr.com:443 ["Pulse Connect Secure"]
 https://backupalpha-demo.confluence.obv-smf1.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://backupalpha.accessaccount.accountbeta.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://backupalpha.accessadmin.backupconfig.betabrandsafety.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://backupalpha.adminalpha.access.chefatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://backupalphaaccess-api-smfc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://backupalphaaccessaccess.access-arcadia.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://backupalphaaccessakadns.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -12094,6 +12112,7 @@ https://bucket.alpha.chef.access-upload.staging.vpn.twttr.com:443 ["Pulse Connec
 https://bucket.alpha.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://bucket.alphaadvocaciatrabalhistapassoapasso.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://bucket.americas.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://bucket.api-alpha.access.chefatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://bucket.api-beta.semantic-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://bucket.api.accountdxb1-cr1.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://bucket.api.dev-databrandsafety.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -12490,6 +12509,7 @@ https://chef-admin.ap.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.
 https://chef-admin.asw2.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://chef-admin.demo-account.beta.semantic-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://chef-adminadmin-alexandra.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://chef-adminauth.alaaskrillex.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://chef-adspy-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://chef-alexacosta.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://chef-alexandru.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -12501,6 +12521,7 @@ https://chef-alphaadmin.api.confluenceadmin.atlc-lab.vpn.twttr.com:443 [null] [3
 https://chef-alphaalpha.demo.semantic-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://chef-alphacodeneversleeps.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://chef-alphaupload.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
+https://chef-api-alpha.access.chefatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://chef-api.confluence.adultmensestheosaka.blog.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://chef-apiupload.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://chef-assigned.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -15731,7 +15752,7 @@ https://geo6.probe.twitter.com:443 [null] [404] [null] [null] ["104.244.42.195"]
 https://geo6.tpop-api.twitter.com:443 [null] [404] [null] [null] ["104.244.42.2"] [null] ["tsa_f"] [null] [];
 https://geo6.twitter.com:443 [null] [404] [null] [null] ["104.244.42.65"] [null] ["tsa_f"] [null] [];
 https://geo7.api.twitter.com:443 ["ERROR: The request could not be satisfied"] [403] [915] ["text/html"] ["18.66.8.250"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
-https://geo7.twitter.com:443 [null] [404] [null] [null] ["104.244.42.1"] [null] ["tsa_f"] [null] [];
+https://geo7.twitter.com:443 [null] [404] [null] [null] ["104.244.42.129"] [null] ["tsa_o"] [null] [];
 https://geo8.api.twitter.com:443 [null] [404] [null] [null] ["104.244.42.130"] [null] ["tsa_f"] [null] [];
 https://geo8.twitter.com:443 [null] [404] [null] [null] ["104.244.42.65"] [null] ["tsa_f"] [null] [];
 https://geoffburns.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -16812,6 +16833,7 @@ https://jenkins.debug.alpha.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [
 https://jenkins.demo.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://jenkins.elasticbeanstalkaccountsmfc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://jenkins.obv-smf1.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
+https://jenkins.smcdsb.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://jenkins.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [1595] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://jenkins.team-bucket.adminatlc-lab.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://jenkins.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -22360,7 +22382,7 @@ https://upload-0-4-7.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.1
 https://upload-0-4-8.twitter.com:443 [null] [410] [120] ["text/plain"] ["104.244.42.3"] [null] ["tsa_f"] [null] [];
 https://upload-0-4-8.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://upload-0-5-0.twitter.com:443 [null] [410] [120] ["text/plain"] ["104.244.42.3"] [null] ["tsa_o"] [null] [];
-https://upload-1-0-0.twitter.com:443 [null] [410] [120] ["text/plain"] ["104.244.42.3"] [null] ["tsa_f"] [null] [];
+https://upload-1-0-0.twitter.com:443 [null] [410] [120] ["text/plain"] ["104.244.42.3"] [null] ["tsa_o"] [null] [];
 https://upload-2-0-0.twitter.com:443 [null] [410] [120] ["text/plain"] ["104.244.42.3"] [null] ["tsa_f"] [null] [];
 https://upload-21-0-0.twitter.com:443 [null] [410] [120] ["text/plain"] ["104.244.42.3"] [null] ["tsa_f"] [null] [];
 https://upload-21-0-0.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
@@ -23182,7 +23204,7 @@ https://web-alpha-apibeta.semantic-lab.vpn.twttr.com:443 [null] [302] [null] ["t
 https://web-alpha.access.admin.config.staging.vpn.twttr.com:443 ["Pulse Connect Secure"] [404] [2547] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 https://web-ap-northeast-1.periscope.tv:443 [null] [403] [954] ["text/html"] ["18.176.183.128"] [null] [null] [null] [];
 https://web-ap-northeast-1.pscp.tv:443 [null] [403] [954] ["text/html"] ["54.65.68.103"] [null] [null] [null] [];
-https://web-ap-northeast-2.periscope.tv:443 [null] [403] [954] ["text/html"] ["3.34.36.67"] [null] [null] [null] [];
+https://web-ap-northeast-2.periscope.tv:443 [null] [403] [954] ["text/html"] ["13.209.225.5"] [null] [null] [null] [];
 https://web-ap-northeast-2.pscp.tv:443 [null] [403] [954] ["text/html"] ["13.124.153.53"] [null] [null] [null] [];
 https://web-ap-south-1.periscope.tv:443 [null] [403] [954] ["text/html"] ["13.235.204.228"] [null] [null] [null] [];
 https://web-ap-south-1.pscp.tv:443 [null] [403] [954] ["text/html"] ["13.235.46.216"] [null] [null] [null] [];
