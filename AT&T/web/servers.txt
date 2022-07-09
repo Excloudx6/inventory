@@ -460,6 +460,7 @@ http://dal02.um.att.com:80
 http://dal02.vm.att.com:80
 http://dal02.work.widgets.um.att.com:80
 http://dal03.em.att.com:80
+http://dal03.home.widgets.uM.att.com:80
 http://dal03.home.widgets.um.att.com:80
 http://dal03.um.att.com:80
 http://dal03.vm.att.com:80
@@ -615,6 +616,7 @@ http://electronics.att.com:80
 http://electronics.att.com:8080
 http://em.att.com:80
 http://emeaadmin.uc.att.com:443
+http://emeapress.att.com:80
 http://emergingtechtraining.att.com:443
 http://emergingtechtraining.att.com:80
 http://emergingvoices.att.com:80
@@ -934,6 +936,7 @@ http://lbrandsmeeting.att.com:443
 http://ldp.att.com:80
 http://ldp.att.com:8080
 http://leadershiphub.att.com:80
+http://learn-cybersecurity.att.com:80
 http://learn.att.com:80
 http://learnepicenter.att.com:80
 http://learningconnection.att.com:80
@@ -1864,6 +1867,7 @@ http://techdevtraining.att.com:443
 http://techdevtraining.att.com:80
 http://techtalent.att.com:80
 http://teleconference.att.com:80
+http://telephones.att.com:80
 http://tennessee.att.com:80
 http://tennessee.att.com:8080
 http://tennessee.att.com:8443
@@ -2136,6 +2140,7 @@ http://vnch0205.acss.att.com:80
 http://vnch0207.acss.att.com:80
 http://vnch0208.acss.att.com:80
 http://vnch0209.acss.att.com:80
+http://vnch021.acsS.att.com:80
 http://vnch021.acss.att.com:80
 http://vnch0210.acss.att.com:80
 http://vnch0211.acss.att.com:80
@@ -2207,6 +2212,7 @@ http://vndh701.acss.att.com:80
 http://vndh702.acss.att.com:80
 http://vndh703.acss.att.com:80
 http://vndh704.acss.att.com:80
+http://vndh705.acsS.att.com:80
 http://vndh705.acss.att.com:80
 http://vndh706.acss.att.com:80
 http://vndh867.acss.att.com:80
@@ -2236,6 +2242,7 @@ http://vneat1.acss.att.com:80
 http://vnel01.acss.att.com:80
 http://vnel02.acss.att.com:80
 http://vnel03.acss.att.com:80
+http://vnel04.acsS.att.com:80
 http://vnel04.acss.att.com:80
 http://vnfr03.acss.att.com:80
 http://vnfr04.aCSs.att.com:80
@@ -2401,6 +2408,7 @@ http://vnusda.acss.att.com:80
 http://vnusres01.acss.att.com:80
 http://vnusres02.acss.att.com:80
 http://vnusres03.acss.att.com:80
+http://vnusres04.acsS.att.com:80
 http://vnusres04.acss.att.com:80
 http://vnusres05.acss.att.com:80
 http://vnusres10.acss.att.com:80
@@ -2502,6 +2510,7 @@ http://www.customerservice.att.com:80
 http://www.developer.att.com:80
 http://www.em.att.com:80
 http://www.emea.att.com:80
+http://www.emeapress.att.com:80
 http://www.enterprise.att.com:80
 http://www.euro.att.com:80
 http://www.europe.att.com:80
@@ -2535,6 +2544,7 @@ http://www.vm.att.com:80
 http://www.webmeeting.att.com:80
 http://www.wireless.att.com:80
 http://www11.um.att.com:80
+http://www12.uM.att.com:80
 http://www12.um.att.com:80
 http://www13.um.att.com:80
 http://www14.um.att.com:80
@@ -2599,6 +2609,7 @@ https://365.att.com:443
 https://5gcentral.att.com:443
 https://911standalone.uc.att.com:443
 https://EdS-fFDC-pw17.wireless.att.com:8080
+https://FAcCESs.stage.att.com:443
 https://H-135-207-0-17.research.att.com:443
 https://H-135-207-1-17.research.att.com:443
 https://H-135-207-1-3.research.att.com:443
@@ -3352,6 +3363,7 @@ https://dal02.vm.att.com:443
 https://dal02.work.widgets.um.att.com:443
 https://dal03.c2bc.um.att.com:443
 https://dal03.em.att.com:443
+https://dal03.home.widgets.uM.att.com:443
 https://dal03.home.widgets.um.att.com:443
 https://dal03.um.att.com:443
 https://dal03.vm.att.com:443
@@ -3607,6 +3619,7 @@ https://electronics.att.com:443
 https://electronics.att.com:8443
 https://em.att.com:443
 https://emeaadmin.uc.att.com:443
+https://emeapress.att.com:443
 https://emergingtechtraining.att.com:443
 https://emergingvoices.att.com:443
 https://emm-ca01-crl.dp.att.com:443
@@ -4046,6 +4059,7 @@ https://laterhaters.att.com:443
 https://lbrandsmeeting.att.com:443
 https://ldp.att.com:443
 https://leadershiphub.att.com:443
+https://learn-cybersecurity.att.com:443
 https://learn.att.com:443
 https://learnepicenter.att.com:443
 https://learningconnection.att.com:443
@@ -5427,6 +5441,7 @@ https://vnch0205.acss.att.com:443
 https://vnch0207.acss.att.com:443
 https://vnch0208.acss.att.com:443
 https://vnch0209.acss.att.com:443
+https://vnch021.acsS.att.com:443
 https://vnch021.acss.att.com:443
 https://vnch0210.acss.att.com:443
 https://vnch0211.acss.att.com:443
@@ -5498,6 +5513,7 @@ https://vndh701.acss.att.com:443
 https://vndh702.acss.att.com:443
 https://vndh703.acss.att.com:443
 https://vndh704.acss.att.com:443
+https://vndh705.acsS.att.com:443
 https://vndh705.acss.att.com:443
 https://vndh706.acss.att.com:443
 https://vndh867.acss.att.com:443
@@ -5527,6 +5543,7 @@ https://vneat1.acss.att.com:443
 https://vnel01.acss.att.com:443
 https://vnel02.acss.att.com:443
 https://vnel03.acss.att.com:443
+https://vnel04.acsS.att.com:443
 https://vnel04.acss.att.com:443
 https://vnfr03.acss.att.com:443
 https://vnfr04.aCSs.att.com:443
@@ -5691,6 +5708,7 @@ https://vnusda.acss.att.com:443
 https://vnusres01.acss.att.com:443
 https://vnusres02.acss.att.com:443
 https://vnusres03.acss.att.com:443
+https://vnusres04.acsS.att.com:443
 https://vnusres04.acss.att.com:443
 https://vnusres05.acss.att.com:443
 https://vnusres10.acss.att.com:443
@@ -5789,6 +5807,7 @@ https://www.developer.att.com:443
 https://www.e-access.att.com:443
 https://www.em.att.com:443
 https://www.emea.att.com:443
+https://www.emeapress.att.com:443
 https://www.enterprise.att.com:443
 https://www.euro.att.com:443
 https://www.europe.att.com:443
@@ -5824,6 +5843,7 @@ https://www.vm.att.com:443
 https://www.webmeeting.att.com:443
 https://www.wireless.att.com:443
 https://www11.um.att.com:443
+https://www12.uM.att.com:443
 https://www12.um.att.com:443
 https://www13.um.att.com:443
 https://www14.um.att.com:443
