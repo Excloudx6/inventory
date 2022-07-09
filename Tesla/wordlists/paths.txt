@@ -8174,9 +8174,18 @@
 /encryption\
 /energy
 /energy/addocument
+/energy/createconcern
+/energy/createmessage
+/energy/dashboard
 /energy/design
+/energy/dismiss
 /energy/downloaddocumentbyid
+/energy/getconcern
+/energy/getconcernwithsv
 /energy/getdocumentsbyreferenceid
+/energy/getnotesbyreferenceid
+/energy/getnotifications
+/energy/getsites
 /energy/removedocument
 /engine
 /enroll/:stage
@@ -9432,6 +9441,8 @@
 /users/search/
 /users/verify
 /users/x_return_from_masquerade
+/usersearchpreference/deleteusersearchpreferences
+/usersearchpreference/saveusersearchpreferences
 /v1.0/groups/
 /v1/
 /v1/Action

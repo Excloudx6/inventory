@@ -268,6 +268,7 @@ http://vpn2.tesla.com:80 ["404 Not Found"] [404] [111] ["text/html"] ["8.47.24.2
 http://warehouse.tesla.com:80 ["302 Found"] [302] [427] ["text/html"] ["104.90.104.63"] ["https://warehouse.tesla.com/"] ["akamai/nginx"] [["Nginx"]] [];
 http://workforce.tesla.com:80 ["Workforce Management"] [200] [3760] ["text/html"] ["69.192.160.83"] ["https://workforce.tesla.com/"] [null] [["Akamai"]] [];
 http://www.engage.tesla.com:80 ["302 Found"] [302] [154] ["text/html"] ["52.222.139.17"] ["https://www.engage.tesla.com/"] ["nginx"] [["Amazon Cloudfront","Amazon Web Services","Nginx"]] [];
+http://www.teSLa.com:80 [null] [301] [null] [null] ["104.89.18.184"] [null] ["AkamaiGHost"] [null] [];
 http://www.tesla.com:80 ["Electric Cars, Solar & Clean Energy | Tesla"] [200] [278490] ["text/html"] ["104.89.18.184"] ["https://www.tesla.com/"] [null] [["Drupal","PHP","Varnish"]] [];
 http://www.ug.tesla.com:80 ["GF Berlin"] [200] [3973] ["text/html"] ["3.124.16.54"] [null] [null] [["Bootstrap","Google Font API","Popper"]] [];
 http://xapps.tesla.com:80 [null] [302] [2] ["text/html"] ["204.74.99.100"] [null] [null] [null] [];
@@ -531,7 +532,7 @@ https://url5347.tesla.com:443 ["404 Not Found"] [404] [162] ["text/html"] ["167.
 https://url6661.tesla.com:443 ["404 Not Found"] [404] [564] ["text/html"] ["167.89.115.120"] [null] ["nginx"] [["Nginx"]] [];
 https://url7051.tesla.com:443 ["Error"] [503] [176] ["text/html"] ["104.89.18.184"] [null] ["AkamaiGHost"] [null] [];
 https://url8833.tesla.com:443 ["404 Not Found"] [404] [564] ["text/html"] ["167.89.123.54"] [null] ["nginx"] [["Nginx"]] [];
-https://vehicle-files.eng.euw1.vn.cloud.tesla.com:443 ["Access Denied"] [403] [310] ["text/html"] ["23.36.162.77"] [null] ["AkamaiGHost"] [null] [];
+https://vehicle-files.eng.euw1.vn.cloud.tesla.com:443 [null] [403] [243] ["application/xml"] ["2.16.186.240"] [null] ["AmazonS3"] [["Amazon S3","Amazon Web Services"]] [];
 https://vehicle-files.eng.usw2.vn.cloud.tesla.com:443 ["Access Denied"] [403] [310] ["text/html"] ["95.101.77.101"] [null] ["AkamaiGHost"] [null] [];
 https://vehicle-files.prd.euw1.vn.cloud.tesla.com:443 [null] [403] [243] ["application/xml"] ["2.16.186.225"] [null] ["AmazonS3"] [["Amazon S3","Amazon Web Services"]] [];
 https://vehicle-files.prd.usw2.vn.cloud.tesla.com:443 [null] [403] [243] ["application/xml"] ["104.126.37.146"] [null] ["AmazonS3"] [["Amazon S3","Amazon Web Services"]] [];
@@ -543,6 +544,7 @@ https://vpn2.tesla.com:443 ["Tesla Motors VPN"] [404] [2543] ["text/html"] ["8.4
 https://warehouse.tesla.com:443 ["302 Found"] [302] [427] ["text/html"] ["104.90.104.63"] [null] ["akamai/nginx"] [["Nginx"]] [];
 https://workforce.tesla.com:443 ["Workforce Management"] [200] [3762] ["text/html"] ["69.192.160.83"] [null] [null] [["Akamai"]] [];
 https://www.engage.tesla.com:443 ["302 Found"] [302] [154] ["text/html"] ["13.225.78.76"] [null] ["nginx"] [["Amazon Cloudfront","Amazon Web Services","Nginx"]] [];
+https://www.teSLa.com:443 ["Electric Cars, Solar & Clean Energy | Tesla"] [200] [278490] ["text/html"] ["104.89.18.184"] [null] [null] [["Drupal","PHP","Varnish"]] [];
 https://www.tesla.com:443 ["Electric Cars, Solar & Clean Energy | Tesla"] [200] [278490] ["text/html"] ["104.89.18.184"] [null] [null] [["Drupal","PHP","Varnish"]] [];
 https://www.ug.tesla.com:443 ["GF Berlin"] [200] [3973] ["text/html"] ["3.124.16.54"] [null] [null] [["Bootstrap","Google Font API","Popper"]] [];
 https://zta-setup.tesla.com:443 ["302 Found"] [302] [428] ["text/html"] ["92.122.179.195"] [null] ["akamai/nginx"] [["Nginx"]] [];
