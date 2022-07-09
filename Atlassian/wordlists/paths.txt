@@ -78,6 +78,9 @@
 ../assets/logo-inverted.png
 ../assets/logo.png
 ../assets/this-is-new-jira.png
+../auth-consent
+../auth-endpoints
+../auth-local-storage-keys
 ../braintree-error
 ../browser-detection
 ../cancel/isCancel
@@ -92,6 +95,7 @@
 ../common/sample-header\
 ../common/sample-logo
 ../common\
+../community-analytics
 ../community-logger
 ../core
 ../core/buildFullPath
@@ -104,6 +108,7 @@
 ../fetcher/errors
 ../fetcher/types
 ../flexbox
+../get-local-storage-data
 ../glyph/*
 ../helpers/buildURL
 ../helpers/combineURLs
@@ -320,6 +325,7 @@
 ../read
 ../reduce
 ../s3/managed_upload
+../segment-event-names
 ../shared/ProfilePopup\
 ../shared/assets/atlassian-icon.png
 ../shared/assets/custom-logo-wide.png
@@ -332,6 +338,7 @@
 ../src
 ../src/types
 ../storage
+../store-local-storage-data
 ../string/escapeRegExp
 ../subscriptions
 ../support
@@ -712,6 +719,7 @@
 ./assets/this-is-new-jira.png
 ./assign
 ./async
+./atl-autologin
 ./atl-event-types
 ./atl-me-endpoint-request
 ./atl-recommended-answer
@@ -1056,6 +1064,9 @@
 ./community-license-request/community-license-request-page/community-license-request-page
 ./community-logger
 ./community-login
+./community-login/atl-autologin
+./community-login/atl-login-spotlight
+./community-login/utils-community-login
 ./component
 ./component.d
 ./component.d.ts
@@ -2393,6 +2404,7 @@
 ./masterpass
 ./mc-developer-app-submissions.js
 ./md5
+./md5.js
 ./me
 ./me.js
 ./media-services/actual-size
@@ -2667,6 +2679,7 @@
 ./new-feature/24.d
 ./new-feature/24.d.ts
 ./new-feature/24.js
+./nil.js
 ./nitro-apis
 ./nitro-apis-ids
 ./nitro-constants
@@ -3007,6 +3020,7 @@
 ./panel-warning-275KZFJI.6c9f8181.js
 ./param_validator
 ./parse-body
+./parse.js
 ./payment-request
 ./paypal
 ./paypal-checkout
@@ -3381,6 +3395,7 @@
 ./refresh.d.ts
 ./refresh.js
 ./refreshModePicker.styl
+./regex.js
 ./region_config
 ./region_config.json
 ./register-global-error-handler.js
@@ -3414,6 +3429,7 @@
 ./revisionHistory/pugs/revisionHistoryDialog.pug
 ./revisionHistoryDialog.styl
 ./rng
+./rng.js
 ./ro
 ./ro.js
 ./ro.json
@@ -3556,6 +3572,7 @@
 ./setup.7d1d1391.js
 ./setup.eadc4b56.js
 ./sha
+./sha1.js
 ./sha256
 ./shape
 ./share
@@ -3918,6 +3935,7 @@
 ./strategies/modal
 ./strategies/popup
 ./strategies/popup-bridge
+./stringify.js
 ./strings/c932221/index/{locale}.json
 ./strings/e75fb86/index/{locale}.json
 ./subtask
@@ -4119,6 +4137,7 @@
 ./utility/utility.js
 ./utility/versions.js
 ./utils
+./utils-community-login
 ./utils/date-time
 ./utils/get-endpoint-base-path
 ./utils/lazy-load-script
@@ -4126,16 +4145,23 @@
 ./uz-latn
 ./uz-latn.js
 ./uz.js
+./v1.js
 ./v2
 ./v3
+./v3.js
+./v35.js
 ./v3https
 ./v4
+./v4.js
+./v5.js
+./validate.js
 ./vault-manager
 ./vendor.c20b869a.js
 ./vendor.e69420a6.js
 ./vendor/sjcl
 ./venmo
 ./version
+./version.js
 ./vi
 ./vi-VN.json
 ./vi.js
@@ -5830,6 +5856,7 @@
 /create-issue
 /create-issue\
 /create-plus.dbb9e889.svg
+/create-strategy
 /create/
 /createblogpost.action
 /createnew
@@ -6479,6 +6506,7 @@
 /img/avatars-teams/ava_0002-34.png
 /img/avatars-teams/ava_0002-44.png
 /img/avatars/user_shapes/ava_00
+/img/billing/lockin_rocket.svg
 /img/browsers/user-groups-empty.png
 /img/calendar/google-calendar/dk-google-calendar-status-sync.png
 /img/calendar/google-calendar/gCal-logo.png
@@ -7598,6 +7626,7 @@
 /player?autoplay=true
 /plugin
 /plugins/
+/plugins/common/feature/oauth2sso_v2/sso_login_redirect
 /plugins/jquery.browser.js
 /plugins/newcode/getlanguages.action
 /plugins/servlet
@@ -8310,6 +8339,9 @@
 /storm-with-meeples.svg
 /stp/current/
 /stp/qa/
+/strategy
+/strategy/create-strategy
+/strategy/view-strategies
 /stream-renderer.worker.js
 /streamhub/
 /strong
@@ -8520,6 +8552,7 @@
 /verify-email/change-email
 /verify-email/sent
 /video-conferencing
+/view-strategies
 /views
 /vim
 /vizportal/api/clientxml/auth/pkce
