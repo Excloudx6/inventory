@@ -20447,6 +20447,7 @@
 /details/prod0001\
 /details?predictionCount=ALL
 /detalhes
+/dev/poll
 /devcenter
 /develop
 /developer
@@ -32151,6 +32152,7 @@ src/scripts/components/ReferralRedemption.vue
 src/scripts/components/Reporting.vue
 src/scripts/components/SignatureRequestModal.vue
 src/scripts/components/SignatureRequests.vue
+src/scripts/components/events/DuplicateEventModal.vue
 src/scripts/components/events/EventApproveReject.vue
 src/scripts/components/events/EventDetails.vue
 src/scripts/components/events/EventEdit.vue

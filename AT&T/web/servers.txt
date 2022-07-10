@@ -195,6 +195,7 @@ http://att-fedsnowprd.blogin.att.com:80
 http://att-fedsnowprd.idp.blogin.att.com:80
 http://att-fedsnowtst.stage.blogin.att.com:80
 http://att-globys.idp.blogin.att.com:80
+http://att-globys.stage.BLogiN.att.com:80
 http://att-globys.stage.blogin.att.com:80
 http://att-glwire.idp.blogin.att.com:80
 http://att-glwire.stage.blogin.att.com:80
@@ -1341,6 +1342,7 @@ http://opssp9w6.att.com:80
 http://opssp9w7.att.com:80
 http://opssp9w8.att.com:80
 http://opssp9w9.att.com:80
+http://opssqa1.stage.att.com:80
 http://optimize.att.com:80
 http://optimize.att.com:8080
 http://opusisdtraining.att.com:443
@@ -1509,6 +1511,10 @@ http://publicpolicy.att.com:80
 http://publicpolicy.att.com:8080
 http://publicpolicy.att.com:8443
 http://push-atlas.att.com:80
+http://q1cng1w1.stage.att.com:80
+http://q1cng1w2.stage.att.com:80
+http://q2cng1w1.stage.att.com:80
+http://q2cng1w2.stage.att.com:80
 http://qa-developer.att.com:80
 http://qb.att.com:80
 http://qb.att.com:8080
@@ -1536,6 +1542,7 @@ http://remotesupport.att.com:443
 http://remotesupport.att.com:80
 http://request.att.com:80
 http://request.att.com:8080
+http://resourcecenter-tmp.asi.att.com:443
 http://resourcecenter.asi.att.com:443
 http://resourcecenterbbt.asi.att.com:443
 http://resources.att.com:80
@@ -1764,6 +1771,7 @@ http://small.eia.att.com:80
 http://smallbiz.att.COm:80
 http://smallbiz.att.com:80
 http://smartanalytics.att.com:80
+http://smartforms.att.com:443
 http://smartvideo.att.com:443
 http://smartvideo.att.com:80
 http://smb.att.com:80
@@ -2443,6 +2451,11 @@ http://wat-enhanced-mgmt.uc.att.com:443
 http://watch.att.com:80
 http://wb.att.com:80
 http://wb.att.com:8080
+http://wbslqa1.stage.att.com:80
+http://wbslqa2.stage.att.com:80
+http://wbslqa3.stage.att.com:80
+http://wbslqa4.stage.att.com:80
+http://wbslqa6.stage.att.com:80
 http://webdesign.att.com:443
 http://webhosting.att.com:80
 http://webinars.att.com:80
@@ -2475,7 +2488,12 @@ http://wireless.firstnet.att.com:80
 http://wirelessgiftcard.att.com:80
 http://wisconsin.att.com:443
 http://wisconsin.att.com:80
+http://wisconsin.att.com:8080
 http://wisconsin.att.com:8443
+http://wkmnpqa1.stage.att.com:80
+http://wkmnpqa3.stage.att.com:80
+http://wkmnpqa5.stage.att.com:80
+http://wkmnpqa7.stage.att.com:80
 http://wlnp.att.com:80
 http://wlnpdev.att.com:80
 http://wm.att.com:80
@@ -2926,6 +2944,7 @@ https://att-fedsnowprd.blogin.att.com:443
 https://att-fedsnowprd.idp.blogin.att.com:443
 https://att-fedsnowtst.stage.blogin.att.com:443
 https://att-globys.idp.blogin.att.com:443
+https://att-globys.stage.BLogiN.att.com:443
 https://att-globys.stage.blogin.att.com:443
 https://att-glwire.idp.blogin.att.com:443
 https://att-glwire.stage.blogin.att.com:443
@@ -4751,6 +4770,10 @@ https://purchasinguat6.att.com:443
 https://push-atlas.att.com:443
 https://push.test.att.com:443
 https://push.test.att.com:8443
+https://q1cng1w1.stage.att.com:443
+https://q1cng1w2.stage.att.com:443
+https://q2cng1w1.stage.att.com:443
+https://q2cng1w2.stage.att.com:443
 https://qa-developer.att.com:443
 https://qb.att.com:443
 https://queue.att.com:443
@@ -5081,6 +5104,7 @@ https://storefun6.att.com:443
 https://storeuat1.att.com:443
 https://storeuat3.att.com:443
 https://storeuat4.att.com:443
+https://storeuat5.att.com:443
 https://storeuat6.att.com:443
 https://sts.att.com:443
 https://suppliers.att.com:443
@@ -5743,6 +5767,11 @@ https://wat-enhanced-rm.uc.att.com:443
 https://wat-login-enhanced-rm.uc.att.com:443
 https://watch.att.com:443
 https://wb.att.com:443
+https://wbslqa1.stage.att.com:443
+https://wbslqa2.stage.att.com:443
+https://wbslqa3.stage.att.com:443
+https://wbslqa4.stage.att.com:443
+https://wbslqa6.stage.att.com:443
 https://webhosting.att.com:443
 https://webinars.att.com:443
 https://webmail.research.att.com:443
@@ -5772,6 +5801,10 @@ https://wfna-cl1-expe.wellsfargovideo.att.com:8443
 https://wireless.att.com:443
 https://wireless.firstnet.att.com:443
 https://wirelessgiftcard.att.com:443
+https://wkmnpqa1.stage.att.com:443
+https://wkmnpqa3.stage.att.com:443
+https://wkmnpqa5.stage.att.com:443
+https://wkmnpqa7.stage.att.com:443
 https://wlnp.att.com:443
 https://wlnpdev.att.com:443
 https://wm.att.com:443
