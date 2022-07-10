@@ -1019,6 +1019,7 @@ http://graphql.uberinternal.com:80
 http://gratitude.uber.com:80
 http://gratitude.uber.com:8080
 http://gratitude.uberinternal.com:80
+http://griffith.UberiNternAl.com:80
 http://griffith.uberinternal.com:80
 http://grocery.uber.com:80
 http://groove.uber.com:80
@@ -1539,6 +1540,7 @@ http://optimus-staging-sandbox.uberinternal.com:80
 http://optimus-staging.uberinternal.com:80
 http://optimus.uberinternal.com:80
 http://opusimageserver-staging.uberinternal.com:80
+http://opusimageserver.ubERIntErNAl.com:80
 http://opusimageserver.uberinternal.com:80
 http://order-tracker.uber.com:80
 http://order-tracker.uber.com:8080
@@ -1627,6 +1629,7 @@ http://permissions.uberinternal.com:80
 http://permissions2.uberinternal.com:80
 http://personal.uberinternal.com:80
 http://pgwebhook.uberinternal.com:80
+http://phabby.ubERIntErNAl.com:80
 http://phabby.uberinternal.com:80
 http://phantom.uberinternal.com:80
 http://pharma.uber.com:80
@@ -2328,6 +2331,7 @@ http://udeploy-dev.uberinternal.com:80
 http://udeploy-full-staging.uberinternal.com:80
 http://udeploy-staging.uberinternal.com:80
 http://udeploy.uberinternal.com:80
+http://udestroy.ubERIntErNAl.com:80
 http://udestroy.uberinternal.com:80
 http://udls-staging.uberinternal.com:80
 http://udls.uberinternal.com:80
@@ -3419,6 +3423,7 @@ https://graphite.uberinternal.com:443
 https://graphql.uberinternal.com:443
 https://gratitude.uber.com:443
 https://gratitude.uberinternal.com:443
+https://griffith.UberiNternAl.com:443
 https://griffith.uberinternal.com:443
 https://grocery.uber.com:443
 https://groove.uber.com:443
@@ -3863,6 +3868,7 @@ https://optimus-staging-sandbox.uberinternal.com:443
 https://optimus-staging.uberinternal.com:443
 https://optimus.uberinternal.com:443
 https://opusimageserver-staging.uberinternal.com:443
+https://opusimageserver.ubERIntErNAl.com:443
 https://opusimageserver.uberinternal.com:443
 https://order-tracker.uber.com:443
 https://order.ubereats.com:443
@@ -3933,6 +3939,7 @@ https://permissions.uberinternal.com:443
 https://permissions2.uberinternal.com:443
 https://personal.uberinternal.com:443
 https://pgwebhook.uberinternal.com:443
+https://phabby.ubERIntErNAl.com:443
 https://phabby.uberinternal.com:443
 https://phantom.uberinternal.com:443
 https://pharma.uber.com:443
@@ -4534,6 +4541,7 @@ https://udeploy-dev.uberinternal.com:443
 https://udeploy-full-staging.uberinternal.com:443
 https://udeploy-staging.uberinternal.com:443
 https://udeploy.uberinternal.com:443
+https://udestroy.ubERIntErNAl.com:443
 https://udestroy.uberinternal.com:443
 https://udls-staging.uberinternal.com:443
 https://udls.uberinternal.com:443
