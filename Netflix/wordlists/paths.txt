@@ -8620,6 +8620,10 @@
 /firmwareVersions/
 /firmwareVersions/esn/
 /firmwareVersions/submissions/
+/flatfile/job_openings/
+/flatfile/payments/
+/flatfile/tasks/
+/flatfile/vendors/
 /flow-editor
 /flowendpoint
 /flows
@@ -8848,6 +8852,7 @@
 /locations/:slug
 /locationsDef
 /login
+/login/?email&amp;error&amp;google_auth_error&amp;logged_out&amp;redirect&amp;next
 /login/?email&amp;error&amp;logged_out&amp;redirect&amp;next
 /login?nextpage=
 /loginVerification/logoutSuccess
@@ -11388,6 +11393,7 @@ buyer/review/all/delete
 buyer/settings/all/all
 buyer/settings/all/edit
 buyer/settings/all/portal
+buyer/task/all/create
 buyer/team/all/invite
 buyer/template/all/create
 buyer/template/all/delete
