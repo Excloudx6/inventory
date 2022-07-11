@@ -55,6 +55,7 @@ http://afmfe22.att.com:80
 http://afmfe23.att.com:80
 http://afmfe24.att.com:80
 http://afmfe29.att.com:80
+http://afmfe30.att.com:80
 http://afmfe31.att.com:80
 http://afmfe32.att.com:80
 http://afmfe33.att.com:80
@@ -987,6 +988,8 @@ http://marketplace.att.com:80
 http://marketplace.iot.att.com:443
 http://marketplace.iot.att.com:80
 http://marriottmeeting.att.com:443
+http://maryland.AtT.com:80
+http://maryland.AtT.com:8443
 http://maryland.att.com:80
 http://maryland.att.com:8443
 http://massachusetts.att.com:80
@@ -1780,6 +1783,7 @@ http://smbsolutions.att.com:80
 http://smetrics.att.com:80
 http://smo.att.com:80
 http://smo.att.com:8080
+http://smrc.att.com:80
 http://sms.test-e.att.com:80
 http://sngivvpve.att.com:443
 http://soapservices.bus.att.com:443
@@ -1803,6 +1807,7 @@ http://speedtest-ffdc.wireless.att.com:80
 http://speedtest-sfdc.wireless.att.com:80
 http://speedtest-test.wireless.att.com:80
 http://speedtest.att.com:80
+http://speedtest.wireless.att.com:443
 http://speedtest.wireless.att.com:80
 http://sponsoreddata.att.com:80
 http://src.att.com:80
@@ -2197,6 +2202,7 @@ http://vndh11329.acss.att.com:80
 http://vndh11396.acss.att.com:80
 http://vndh11397.acss.att.com:80
 http://vndh150.acss.att.com:80
+http://vndh151.acSs.att.com:80
 http://vndh151.acss.att.com:80
 http://vndh152.acss.att.com:80
 http://vndh201.acss.att.com:80
@@ -3272,6 +3278,7 @@ https://collabportal.stage.att.com:443
 https://college.att.com:443
 https://coloadmin.uc.att.com:443
 https://colorado.att.com:443
+https://colorado.att.com:8443
 https://comms.att.com:443
 https://communitiesmember.att.com:443
 https://community-apimarket.att.com:443
@@ -3763,6 +3770,7 @@ https://fnetsp-sf.idp.flogin.att.com:443
 https://fnetsp.idp.flogin.att.com:443
 https://fnetsp.stage.flogin.att.com:443
 https://fnmkqa.stage.att.com:443
+https://foauthaccess.StAGe.att.com:443
 https://foauthaccess.att.com:443
 https://foauthaccess.stage.att.com:443
 https://focus.att.com:443
@@ -4132,6 +4140,7 @@ https://mapw.eia.att.com:443
 https://mapwrapper.bus.att.com:443
 https://marketplace.att.com:443
 https://marketplace.iot.att.com:443
+https://maryland.AtT.com:443
 https://maryland.att.com:443
 https://massachusetts.att.com:443
 https://massachusetts.att.com:8443
@@ -4175,6 +4184,7 @@ https://metrics.att.com:443
 https://mevrl.att.com:443
 https://mex.att.com:443
 https://mfa.acdn.att.com:443
+https://mico-cl1-expe.miLlERCOorsvIdeO.att.com:8443
 https://mico-cl1-expe.millercoorsvideo.att.com:8443
 https://midatlanticregion.att.com:443
 https://midatlanticregion.att.com:8443
@@ -5514,6 +5524,7 @@ https://vndh11329.acss.att.com:443
 https://vndh11396.acss.att.com:443
 https://vndh11397.acss.att.com:443
 https://vndh150.acss.att.com:443
+https://vndh151.acSs.att.com:443
 https://vndh151.acss.att.com:443
 https://vndh152.acss.att.com:443
 https://vndh201.acss.att.com:443

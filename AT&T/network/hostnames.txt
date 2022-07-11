@@ -14775,6 +14775,7 @@ about.att.com
 absent.research.att.com
 acc-npwt.att.com
 accbusinesspricing.att.com
+access-adminadmin-backup.gsw1.voicetone.att.com
 access.att.com
 access.esinet-911.att.com
 access.gsw1.voicetone.att.com
@@ -14808,6 +14809,7 @@ admin-plfmdev.test.dlife.att.com
 admin-systest.digitallife.att.com
 admin-systest.test.dlife.att.com
 admin-workforcemanager.att.com
+admin.cat1gsw.voicetone.att.com
 admin.mas.att.com
 admin.techchannel.att.com
 admin1-awem.att.com
@@ -15605,6 +15607,7 @@ bellcaiotgw.att.com
 benchmark.uc.att.com
 best-az.test.att.com
 beta-admin-backup.gsw1.voicetone.att.com
+beta-backupelasticbeanstalk.cat1gsw.voicetone.att.com
 beta-cis.att.com
 beta-www.att.com
 betam.att.com
@@ -15852,6 +15855,7 @@ chclm.att.com
 chclm.stage.att.com
 chclm.test.att.com
 chcssd3.uccentral.att.com
+chef.cat1gsw.voicetone.att.com
 chi.att.com
 chinese.att.com
 chinesestage.att.com
@@ -15995,6 +15999,7 @@ comrest-directvcommercial.att.com
 conf.uc.att.com
 conferencecenter.uc.att.com
 confhpa.att.com
+config-admin-backup.gsw1.voicetone.att.com
 confluence.iqidev.labs.att.com
 confluenceapiadmin-backup.gsw1.voicetone.att.com
 confssp.att.com
@@ -16258,6 +16263,7 @@ dbactmgr.att.com
 dbhddgrhs.hvs.att.com
 dbhddswsh.hvs.att.com
 dbhddwcghr.hvs.att.com
+dbms-backupelasticbeanstalk.cat1gsw.voicetone.att.com
 dbms.cat1gsw.voicetone.att.com
 dbmsbackupelasticbeanstalk.cat1gsw.voicetone.att.com
 dc.att.com
@@ -16907,6 +16913,7 @@ expressticketing.cloud.att.com
 expressticketing.stage-e.att.com
 expressticketingtest.cloud.att.com
 expressway.uccentral.att.com
+expressway2.uccentral.att.com
 exspider.research.att.com
 ext-mpsys-frma-lgw.att.com
 ext-mpsys-frma-lgw.test.att.com
@@ -16970,6 +16977,7 @@ fnetsp-sf.idp.flogin.att.com
 fnetsp.idp.flogin.att.com
 fnetsp.stage.flogin.att.com
 fnmkqa.stage.att.com
+foauthaccess.StAGe.att.com
 foauthaccess.att.com
 foauthaccess.stage.att.com
 focus.att.com
@@ -31798,6 +31806,7 @@ mapwrapper.bus.att.com
 marketplace.att.com
 marketplace.iot.att.com
 marriottmeeting.att.com
+maryland.AtT.com
 maryland.att.com
 mas.att.com
 mash.att.com
@@ -31878,6 +31887,7 @@ mex.att.com
 mexcotlc4351-0-5.mx.att.com
 mfa.acdn.att.com
 michigan.att.com
+mico-cl1-expe.miLlERCOorsvIdeO.att.com
 mico-cl1-expe.millercoorsvideo.att.com
 midatlanticregion.att.com
 midwestregion.att.com
@@ -33516,6 +33526,7 @@ seasons.desp.hvs.att.com
 seasons.doral.hvs.att.com
 seasons.ga.hvs.att.com
 seasons.glenb.hvs.att.com
+seasons.grape.hVs.att.com
 seasons.grape.hvs.att.com
 seasons.hou.hvs.att.com
 seasons.ind.hvs.att.com
@@ -33930,6 +33941,7 @@ tcchatrouter.att.com
 tccobrowse.att.com
 tcdirectorylink.att.com
 tcforms.att.com
+tchosted.acSs.att.com
 tchosted.acss.att.com
 tchosted.att.com
 tchosted.bus.att.com
@@ -34226,8 +34238,10 @@ unisphere01.wireless.labs.att.com
 unlock.att.com
 up2date.research.att.com
 upd-expe-vid2.uscfpdweb.att.com
+updatebackupelasticbeanstalk.cat1gsw.voicetone.att.com
 upgrade.cat1gsw.voicetone.att.com
 upliftmgmt.firstnet.att.com
+upload-admin-backup.gsw1.voicetone.att.com
 upload-gr1.dlife.att.com
 upload.cat1gsw.voicetone.att.com
 upload.research.att.com
@@ -34330,6 +34344,7 @@ uvpsystest2a.stage.att.com
 uxd.wireless.att.com
 v3-access.gsw1.voicetone.att.com
 v3.cat1gsw.voicetone.att.com
+v3backupelasticbeanstalk.cat1gsw.voicetone.att.com
 v4-access.gsw1.voicetone.att.com
 v4access.gsw1.voicetone.att.com
 vNdW13.acss.att.com
@@ -34543,6 +34558,7 @@ vndh11329.acss.att.com
 vndh11396.acss.att.com
 vndh11397.acss.att.com
 vndh150.acss.att.com
+vndh151.acSs.att.com
 vndh151.acss.att.com
 vndh152.acss.att.com
 vndh201.acss.att.com

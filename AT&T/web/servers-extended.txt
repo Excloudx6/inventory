@@ -55,6 +55,7 @@ http://afmfe22.att.com:80 [null] [200] [103230] ["text/html"] ["104.197.125.88"]
 http://afmfe23.att.com:80 [null] [200] [103230] ["text/html"] ["104.198.196.79"] ["https://afmfe23.att.com/"] ["Kestrel"] [["Kestrel","Microsoft ASP.NET"]] [];
 http://afmfe24.att.com:80 [null] [200] [103230] ["text/html"] ["34.72.107.128"] ["https://afmfe24.att.com/"] ["Kestrel"] [["Kestrel","Microsoft ASP.NET"]] [];
 http://afmfe29.att.com:80 [null] [200] [103230] ["text/html"] ["35.243.144.204"] ["https://afmfe29.att.com/"] ["Kestrel"] [["Kestrel","Microsoft ASP.NET"]] [];
+http://afmfe30.att.com:80 [null] [200] [103230] ["text/html"] ["35.196.231.138"] ["https://afmfe30.att.com/"] ["Kestrel"] [["Kestrel","Microsoft ASP.NET"]] [];
 http://afmfe31.att.com:80 [null] [200] [103230] ["text/html"] ["34.123.60.122"] ["https://afmfe31.att.com/"] ["Kestrel"] [["Kestrel","Microsoft ASP.NET"]] [];
 http://afmfe32.att.com:80 [null] [200] [104316] ["text/html"] ["34.74.49.110"] ["https://afmfe32.att.com/"] ["Kestrel"] [["Kestrel","Microsoft ASP.NET"]] [];
 http://afmfe33.att.com:80 [null] [200] [104316] ["text/html"] ["34.138.24.181"] ["https://afmfe33.att.com/"] ["Kestrel"] [["Kestrel","Microsoft ASP.NET"]] [];
@@ -88,7 +89,7 @@ http://alaska.att.com:8443 ["400 The plain HTTP request was sent to HTTPS port"]
 http://alcs.att.com:80 ["Access Denied"] [403] [262] ["text/html"] ["104.75.89.140"] [null] [null] [null] [];
 http://alliance.att.com:80 [null] [301] [null] [null] ["92.123.225.27"] [null] [null] [null] [];
 http://alliancepartnersolutions.att.com:443 ["Error Page"] [400] [891275] ["text/html"] ["85.222.140.6"] [null] ["sfdcedge"] [null] [];
-http://alliancepartnersolutions.att.com:80 [null] [200] [1743] ["text/html"] ["160.8.22.253"] ["https://alliancepartnersolutions.att.com/s/"] [null] [null] [];
+http://alliancepartnersolutions.att.com:80 [null] [200] [1743] ["text/html"] ["85.222.140.6"] ["https://alliancepartnersolutions.att.com/s/"] ["sfdcedge"] [null] [];
 http://alliancepartnersolutions.att.com:8443 ["Error Page"] [400] [891275] ["text/html"] ["85.222.140.6"] [null] ["sfdcedge"] [null] [];
 http://alp.acss.att.com:80 ["Network Error"] [504] [868] ["text/html"] ["144.160.230.254"] ["https://alp.acss.att.com/"] [null] [null] [];
 http://am.att.com:80 ["Request Error"] [400] [911] ["text/html"] ["144.161.69.22"] [null] [null] [null] [];
@@ -284,7 +285,7 @@ http://bizcommunity.att.com:80 ["Access Denied"] [403] [269] ["text/html"] ["104
 http://bizconsole.stage.att.com:80 ["Access Denied"] [403] [277] ["text/html"] ["104.89.40.21"] [null] ["AkamaiGHost"] [null] [];
 http://bizsoltraining.att.com:80 [null] [302] [null] ["text/html"] ["104.111.216.57"] ["https://bizsoltraining.att.com/"] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
 http://bizsummit.att.com:80 ["AT&T Business Summit – Dallas, TX | November 1-4, 2022"] [200] [92268] ["text/html"] ["104.89.37.241"] ["https://bizsummit.att.com/"] ["Apache"] [["Apache","Bootstrap","Font Awesome","MySQL","PHP","WordPress","Yoast SEO"]] [];
-http://bjs.att.com:80 ["Service Unavailable"] [503] [269] ["text/html"] ["104.92.71.16"] ["https://bjs.att.com/"] [null] [null] [];
+http://bjs.att.com:80 ["Service Unavailable"] [503] [269] ["text/html"] ["104.90.138.133"] ["https://bjs.att.com/"] [null] [null] [];
 http://bma.att.com:80 ["Welcome to bma-intd.test.att.com"] [200] [361] ["text/html"] ["144.160.233.24"] ["https://bma.att.com/"] [null] [null] [];
 http://bma.test.att.com:80 ["Network Error"] [504] [868] ["text/html"] ["144.160.233.25"] ["https://bma.test.att.com/"] [null] [null] [];
 http://bmad.test.att.com:80 ["Network Error"] [504] [868] ["text/html"] ["144.160.233.26"] ["https://bmad.test.att.com/"] [null] [null] [];
@@ -502,7 +503,7 @@ http://delaware.att.com:8443 ["400 The plain HTTP request was sent to HTTPS port
 http://designthinking.att.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [650] ["text/html"] ["35.237.11.233"] [null] ["nginx"] [["Nginx"]] [];
 http://designthinking.att.com:80 ["403 Forbidden"] [403] [146] ["text/html"] ["35.237.11.233"] [null] ["nginx"] [["Nginx"]] [];
 http://dev-brandshop.att.com:80 ["AT&T Brand Shop"] [200] [106567] ["text/html"] ["104.92.71.16"] ["https://dev-brandshop.att.com/"] ["cloudflare"] [["Cloudflare","Font Awesome"]] [];
-http://dev-cybersecurityservices.att.com:80 ["Cybersecurity Operations"] [200] [26795] ["text/html"] ["149.96.30.6"] ["https://dev-cybersecurityservices.att.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Fsaml.e-access.att.com%2Fisam%2Fsps%2FATTIDP%2Fsaml20%2Flogin%3FSAMLRequest%3DlVLBbtswDP0VQ3fbsmE0rhAH8BIMC9B2RuPtsJssMa0AWXJFOW3%252BfoqSrd1hRXslH%252Fke3%252BMS%252BajLibWzfzT38DQD%252BuRl1AbZudOQ2RlmOSpkho%252BAzAu2a29vWJlRNjnrrbCaJC0iOK%252BsWVuD8whuB%252B6gBPy4v2nIo%252FcTsjyXcEjFcQCHIGan%252FBHPIMy495mwI0k2QYAy%252FLTpde4kJYOUiwD9i81VKOc4Yd72%252FXbTRVRJc20flCHJV%252BsExLMasucagSTbTUN2d%252BtrgELWVNZXi7IarmspKknlfqDVUAzVIAMQO46oDvA6ijjD1qDnxjekpGWZ0kVa0L64YlXNyjpb0OIXSbqLIV%252BUkco8vO%252FecAYh%252B9b3Xdp93%252FVxwUFJcHcB%252FSnjfoZmNC1sJqtlNINF2e5toO8r4n9SJKsPUy%252Fzt1wX5omdDgipWK3EMWm1ts9rB9yHo7ybIeYzcv9%252FOUVWxIqS6T5CGYxc6VZKF56A5KsL77%252B%252Fu%252FoN%26RelayState%3Dhttps%253A%252F%252Fdev-cybersecurityservices.att.com"] ["snow_adc"] [null] [];
+http://dev-cybersecurityservices.att.com:80 [null] [302] [null] [null] ["149.96.30.6"] ["https://dev-cybersecurityservices.att.com/"] ["snow_adc"] [null] [];
 http://dev-developer.att.com:80 ["403 Forbidden"] [403] [146] ["text/html"] ["69.192.161.120"] ["https://dev-developer.att.com/"] [null] [null] [];
 http://dev-paymentstatus.att.com:80 ["Network Error"] [504] [868] ["text/html"] ["144.160.230.100"] [null] [null] [null] [];
 http://dev-wm.att.com:80 ["Access Denied"] [403] [267] ["text/html"] ["104.90.138.133"] [null] ["AkamaiGHost"] [null] [];
@@ -617,7 +618,7 @@ http://electronics.att.com:80 ["video-play"] [200] [173218] ["text/html"] ["23.2
 http://electronics.att.com:8080 ["Attention Required! | Cloudflare"] [403] [4517] ["text/html"] ["23.227.38.32"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://em.att.com:80 ["AT&T Unified Messaging (SM)"] [200] [7234] ["text/html"] ["199.108.23.16"] ["https://em.att.com/"] ["Apache"] [["Apache"]] [];
 http://emeaadmin.uc.att.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [666] ["text/html"] ["32.42.47.150"] [null] ["CUCDM 10"] [null] [];
-http://emeapress.att.com:80 [null] [301] [null] [null] ["23.48.23.186"] [null] [null] [null] [];
+http://emeapress.att.com:80 [null] [301] [null] [null] ["2.16.238.134"] [null] [null] [null] [];
 http://emergingtechtraining.att.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [650] ["text/html"] ["35.237.11.233"] [null] ["nginx"] [["Nginx"]] [];
 http://emergingtechtraining.att.com:80 [null] [302] [null] ["text/html"] ["35.237.11.233"] ["https://emergingtechtraining.att.com/"] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
 http://emergingvoices.att.com:80 ["AT&T Emerging Voices"] [200] [9241] ["text/html"] ["104.75.89.140"] ["https://emergingvoices.att.com/"] [null] [["Akamai","Amazon Cloudfront","Amazon Web Services"]] [];
@@ -937,7 +938,7 @@ http://lbrandsmeeting.att.com:443 [null] [400] [18] ["text/html"] ["12.130.54.89
 http://ldp.att.com:80 ["Request Error"] [400] [911] ["text/html"] ["144.161.69.22"] [null] [null] [null] [];
 http://ldp.att.com:8080 ["Access Denied"] [403] [772] ["text/html"] ["144.161.69.22"] [null] [null] [null] [];
 http://leadershiphub.att.com:80 [null] [302] [null] ["text/html"] ["104.89.44.55"] ["https://leadershiphub.att.com/"] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
-http://learn-cybersecurity.att.com:80 ["PathFactory - Resource Not Found"] [404] [1864] ["text/html"] ["104.92.71.16"] ["https://learn-cybersecurity.att.com/"] [null] [null] [];
+http://learn-cybersecurity.att.com:80 ["PathFactory - Resource Not Found"] [404] [1864] ["text/html"] ["72.246.169.113"] ["https://learn-cybersecurity.att.com/"] [null] [null] [];
 http://learn.att.com:80 [null] [302] [null] ["text/html"] ["104.90.138.133"] [null] ["nginx"] [["Nginx","PHP","WP Engine","WordPress"]] [];
 http://learnepicenter.att.com:80 ["301 Moved Permanently"] [301] [162] ["text/html"] ["104.89.44.55"] [null] ["nginx"] [["Nginx"]] [];
 http://learningconnection.att.com:80 [null] [302] [null] ["text/html"] ["35.237.243.45"] ["https://learningconnection.att.com/"] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
@@ -957,7 +958,7 @@ http://live.att.com:80 [null] [301] [null] [null] ["104.89.44.55"] [null] ["Akam
 http://livestream-mp.att.com:80 ["Access Denied"] [403] [274] ["text/html"] ["84.53.177.90"] [null] ["AkamaiGHost"] [null] [];
 http://llportalext.test.att.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["144.161.115.5"] [null] [null] [null] [];
 http://loc-test.firstnet.att.com:80 ["Error"] [503] [177] ["text/html"] ["2.16.241.150"] [null] [null] [null] [];
-http://loc.firstnet.att.com:80 ["Error"] [503] [176] ["text/html"] ["95.101.77.172"] [null] [null] [null] [];
+http://loc.firstnet.att.com:80 ["Error"] [503] [175] ["text/html"] ["2.16.241.150"] [null] [null] [null] [];
 http://localcontrol.firstnet.att.com:80 ["FirstNet Central"] [200] [12452] ["text/html"] ["104.89.36.80"] ["https://localcontrol.firstnet.att.com/"] ["Apache"] [["Akamai","Apache"]] [];
 http://localization.att.com:80 ["301 Moved Permanently"] [301] [235] ["text/html"] ["144.160.36.36"] ["https://localization.att.com/"] ["unknown"] [null] [];
 http://login-officeathand.att.com:80 ["Sign In"] [200] [7732] ["text/html"] ["104.89.44.55"] ["https://login-officeathand.att.com/"] ["nginx"] [["Akamai","Nginx"]] [];
@@ -984,9 +985,11 @@ http://maps.firstnet.att.com:80 ["Access Denied"] [403] [274] ["text/html"] ["23
 http://mapwrapper.bus.att.com:443 ["400 Bad Request"] [400] [362] ["text/html"] ["144.160.149.176"] [null] ["Apache/2.4.53 (Unix) OpenSSL/1.1.1o mod_jk/1.2.48"] [["Apache","Apache Tomcat","OpenSSL","UNIX","mod_jk"]] [];
 http://marketplace.att.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["54.183.134.17"] [null] ["awselb/2.0"] [null] [];
 http://marketplace.att.com:80 ["301 Moved Permanently"] [301] [134] ["text/html"] ["54.183.134.17"] [null] ["awselb/2.0"] [null] [];
-http://marketplace.iot.att.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["52.52.196.88"] [null] ["awselb/2.0"] [null] [];
+http://marketplace.iot.att.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.52.196.88"] [null] ["awselb/2.0"] [null] [];
 http://marketplace.iot.att.com:80 ["301 Moved Permanently"] [301] [134] ["text/html"] ["54.219.149.68"] [null] ["awselb/2.0"] [null] [];
 http://marriottmeeting.att.com:443 [null] [400] [18] ["text/html"] ["12.130.54.89"] [null] ["Apache/2.4.51 (Ubuntu)"] [["Apache","Ubuntu"]] [];
+http://maryland.AtT.com:80 ["301 Moved Permanently"] [301] [162] ["text/html"] ["141.193.213.20"] [null] ["cloudflare"] [["Cloudflare"]] [];
+http://maryland.AtT.com:8443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [655] ["text/html"] ["141.193.213.20"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://maryland.att.com:80 ["301 Moved Permanently"] [301] [162] ["text/html"] ["141.193.213.21"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://maryland.att.com:8443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [655] ["text/html"] ["141.193.213.21"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://massachusetts.att.com:80 ["301 Moved Permanently"] [301] [162] ["text/html"] ["141.193.213.20"] [null] ["cloudflare"] [["Cloudflare"]] [];
@@ -1225,7 +1228,7 @@ http://mydesktop-east04u.att.com:80 ["VMware Horizon"] [200] [6687] ["text/html"
 http://mydesktop-east05u.att.com:80 ["VMware Horizon"] [200] [6753] ["text/html"] ["144.161.106.98"] ["https://mydesktop-east05u.att.com/"] [null] [["Java"]] [];
 http://mydesktop-west02u.att.com:80 ["VMware Horizon"] [200] [6749] ["text/html"] ["144.160.19.129"] ["https://mydesktop-west02u.att.com/"] [null] [["Java"]] [];
 http://mydesktop-west03u.att.com:80 ["VMware Horizon"] [200] [6753] ["text/html"] ["144.161.77.189"] ["https://mydesktop-west03u.att.com/"] [null] [["Java"]] [];
-http://mydesktop-west04u.att.com:80 ["VMware Horizon"] [200] [6753] ["text/html"] ["144.161.77.190"] ["https://mydesktop-west04u.att.com/"] [null] [["Java"]] [];
+http://mydesktop-west04u.att.com:80 ["VMware Horizon"] [200] [6691] ["text/html"] ["144.161.77.190"] ["https://mydesktop-west04u.att.com/"] [null] [["Java"]] [];
 http://mydesktop-west05u.att.com:80 ["VMware Horizon"] [200] [6675] ["text/html"] ["144.161.77.191"] ["https://mydesktop-west05u.att.com/"] [null] [["Java"]] [];
 http://myexp.att.com:80 ["WW84AR"] [200] [10719] ["text/html"] ["104.111.216.57"] ["https://myexp.att.com/ww84ar/"] ["AmazonS3"] [["A-Frame","Akamai","Amazon Cloudfront","Amazon S3","Amazon Web Services","three.js"]] [];
 http://myfleet2017.test.att.com:80 ["Not Found"] [404] [315] ["text/html"] ["144.161.109.229"] [null] ["Microsoft-HTTPAPI/2.0"] [["Microsoft HTTPAPI"]] [];
@@ -1390,7 +1393,7 @@ http://p0-hywdcsidmaccess.att.com:80 ["Weblogic Bridge Message"] [500] [184] ["t
 http://p0-hywdcsidmgate.att.com:80 ["Welcome to AT&T !"] [200] [293] ["text/html"] ["144.160.84.228"] [null] ["Apache"] [["Apache"]] [];
 http://p9portal.acss.att.com:80 ["Network Error"] [504] [868] ["text/html"] ["144.160.233.128"] ["https://p9portal.acss.att.com/"] [null] [null] [];
 http://pacificregion.att.com:80 ["301 Moved Permanently"] [301] [162] ["text/html"] ["141.193.213.21"] [null] ["cloudflare"] [["Cloudflare"]] [];
-http://pacificregion.att.com:8080 ["Attention Required! | Cloudflare"] [403] [4514] ["text/html"] ["141.193.213.21"] [null] ["cloudflare"] [["Cloudflare"]] [];
+http://pacificregion.att.com:8080 [null] [403] [16] ["text/plain"] ["141.193.213.21"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://pacificregion.att.com:8443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [655] ["text/html"] ["141.193.213.21"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://pages.att.COm:80 ["404 - Not found or no permission to access"] [404] [1330] ["text/html"] ["142.0.165.165"] ["https://pages.att.COm/"] [null] [["Bootstrap"]] [];
 http://pages.att.com:80 ["404 - Not found or no permission to access"] [404] [1330] ["text/html"] ["142.0.165.165"] ["https://pages.att.com/"] [null] [["Bootstrap"]] [];
@@ -1451,7 +1454,7 @@ http://power-tools-dev.att.com:80 ["Error"] [503] [175] ["text/html"] ["104.89.4
 http://power-tools-test.att.com:80 ["Error"] [503] [176] ["text/html"] ["104.92.71.16"] ["https://power-tools-test.att.com/"] [null] [null] [];
 http://pr.att.com:80 ["403 Forbidden"] [403] [162] ["text/html"] ["54.149.27.249"] ["https://pr.att.com/"] ["nginx"] [["Nginx"]] [];
 http://pre-brandcenter.test.att.com:80 ["404 Not Found"] [404] [581] ["text/html"] ["23.45.110.226"] ["https://pre-brandcenter.test.att.com/"] ["Microsoft-Azure-Application-Gateway/v2"] [null] [];
-http://pre-developer.att.com:80 ["APIs, SDKs, and tools that bring ideas to life. | AT&T Developer"] [200] [22004] ["text/html"] ["23.202.242.164"] ["https://pre-developer.att.com/"] [null] [["Akamai","Bootstrap","Font Awesome","Google Tag Manager"]] [];
+http://pre-developer.att.com:80 ["APIs, SDKs, and tools that bring ideas to life. | AT&T Developer"] [200] [22001] ["text/html"] ["23.202.242.164"] ["https://pre-developer.att.com/"] [null] [["Akamai","Bootstrap","Font Awesome","Google Tag Manager"]] [];
 http://pre-finalstage.att.com:80 ["Access Denied"] [403] [275] ["text/html"] ["23.202.250.16"] [null] ["AkamaiGHost"] [null] [];
 http://pre-fs.att.com:80 ["Error"] [403] [176] ["text/html"] ["23.202.250.16"] [null] ["AkamaiGHost"] [null] [];
 http://pre-ptt.firstnet.att.com:80 ["Access Denied"] [403] [222] ["text/html"] ["23.44.123.20"] ["https://pre-ptt.firstnet.att.com/"] ["AkamaiGHost"] [null] [];
@@ -1550,7 +1553,7 @@ http://retail-api-dev.att.com:80 [null] [404] [null] [null] ["104.90.138.133"] [
 http://retail2.dp.att.com:8080 [null] [403] [129] ["text/html"] ["144.160.40.88"] [null] ["server"] [null] [];
 http://retailleadershiptraining.att.com:80 [null] [302] [null] ["text/html"] ["104.89.44.55"] ["https://retailleadershiptraining.att.com/"] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
 http://retailpodcast.att.com:80 [null] [302] [null] ["text/html"] ["104.92.71.16"] ["https://retailpodcast.att.com/"] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
-http://retailtraining.att.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [248] ["text/html"] ["35.237.243.45"] [null] ["nginx"] [["Nginx"]] [];
+http://retailtraining.att.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [650] ["text/html"] ["35.237.243.45"] [null] ["nginx"] [["Nginx"]] [];
 http://retailtraining.att.com:80 [null] [302] [null] ["text/html"] ["35.237.243.45"] ["https://retailtraining.att.com/"] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
 http://retailtutorials.att.com:80 [null] [302] [null] ["text/html"] ["104.92.71.16"] ["https://retailtutorials.att.com/"] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
 http://retiree.att.com:80 [null] [301] [null] [null] ["104.92.71.16"] [null] ["AkamaiGHost"] [null] [];
@@ -1780,6 +1783,7 @@ http://smbsolutions.att.com:80 [null] [301] [null] [null] ["104.92.70.196"] [nul
 http://smetrics.att.com:80 [null] [200] [null] [null] ["104.111.216.57"] ["https://smetrics.att.com/"] ["jag"] [null] [];
 http://smo.att.com:80 ["Request Error"] [400] [869] ["text/html"] ["144.161.69.22"] [null] [null] [null] [];
 http://smo.att.com:8080 ["Access Denied"] [403] [772] ["text/html"] ["144.161.69.22"] [null] [null] [null] [];
+http://smrc.att.com:80 [null] [301] [null] [null] ["72.246.169.113"] [null] ["AkamaiGHost"] [null] [];
 http://sms.test-e.att.com:80 ["404 Not Found"] [404] [556] ["text/html"] ["35.173.147.209"] ["https://sms.test-e.att.com/"] ["nginx/1.17.10"] [["Nginx"]] [];
 http://sngivvpve.att.com:443 ["400 Bad Request"] [400] [362] ["text/html"] ["122.248.134.181"] [null] ["Apache/2.4.39 (Unix) OpenSSL/1.0.2r mod_jk/1.2.42"] [["Apache","Apache Tomcat","OpenSSL","UNIX","mod_jk"]] [];
 http://soapservices.bus.att.com:443 ["400 Bad Request"] [400] [362] ["text/html"] ["144.160.149.185"] [null] ["Apache/2.4.53 (Unix) OpenSSL/1.1.1n mod_jk/1.2.48"] [["Apache","Apache Tomcat","OpenSSL","UNIX","mod_jk"]] [];
@@ -1803,6 +1807,7 @@ http://speedtest-ffdc.wireless.att.com:80 ["ERROR 404"] [404] [158] ["text/html"
 http://speedtest-sfdc.wireless.att.com:80 ["ERROR 404"] [404] [158] ["text/html"] ["144.160.19.56"] [null] [null] [null] [];
 http://speedtest-test.wireless.att.com:80 ["ERROR 404"] [404] [158] ["text/html"] ["144.161.106.39"] [null] [null] [null] [];
 http://speedtest.att.com:80 [null] [301] [null] [null] ["104.111.216.57"] [null] ["AkamaiGHost"] [null] [];
+http://speedtest.wireless.att.com:443 [null] [400] [62] ["text/plain"] ["144.160.149.203"] [null] [null] [null] [];
 http://speedtest.wireless.att.com:80 ["ERROR 404"] [404] [158] ["text/html"] ["144.160.149.203"] [null] [null] [null] [];
 http://sponsoreddata.att.com:80 ["APIs, SDKs, and tools that bring ideas to life. | AT&T Developer"] [200] [22000] ["text/html"] ["104.89.44.55"] ["https://sponsoreddata.att.com/"] [null] [["Akamai","Bootstrap","Font Awesome","Google Tag Manager"]] [];
 http://src.att.com:80 ["301 Moved Permanently"] [301] [195] ["text/html"] ["104.92.71.16"] [null] ["Microsoft-Azure-Application-Gateway/v2"] [null] [];
@@ -1884,7 +1889,7 @@ http://test-apps.firstnet.att.com:80 ["FirstNet App Catalog"] [200] [11727] ["te
 http://test-atttv-shopauth.att.com:80 ["Service Unavailable - Fail to connect"] [503] [272] ["text/html"] ["23.37.49.43"] [null] ["AkamaiGHost"] [null] [];
 http://test-ci.att.com:80 ["Request Error"] [400] [869] ["text/html"] ["144.160.219.167"] [null] [null] [null] [];
 http://test-cso-sa.att.com:80 ["307 Temporary Redirect"] [307] [197] ["text/html"] ["52.156.98.50"] ["https://test-cso-sa.att.com/"] ["Microsoft-Azure-Application-Gateway/v2"] [null] [];
-http://test-cybersecurityservices.att.com:80 [null] [302] [null] [null] ["149.96.45.254"] ["https://test-cybersecurityservices.att.com/"] ["snow_adc"] [null] [];
+http://test-cybersecurityservices.att.com:80 [null] [302] [null] [null] ["149.96.30.6"] ["https://test-cybersecurityservices.att.com/"] ["snow_adc"] [null] [];
 http://test-developer.firstnet.att.com:80 ["Access Denied"] [403] [289] ["text/html"] ["104.89.36.80"] [null] ["AkamaiGHost"] [null] [];
 http://test-expressticketing.acss.att.com:80 ["Express Ticketing"] [200] [6873] ["text/html"] ["2.16.241.140"] ["https://test-expressticketing.acss.att.com/"] [null] [["Akamai","Google Font API"]] [];
 http://test-localcontrol.firstnet.att.com:80 ["FirstNet Central"] [200] [12459] ["text/html"] ["95.101.77.171"] ["https://test-localcontrol.firstnet.att.com/"] ["Apache"] [["Akamai","Apache"]] [];
@@ -1919,7 +1924,7 @@ http://test2-ptt.firstnet.att.com:80 [null] [200] [7183] ["text/html"] ["2.16.24
 http://test2-wireless.firstnet.att.com:80 [null] [200] [2472] ["text/html"] ["95.101.77.171"] ["https://test2-wireless.firstnet.att.com/"] [null] [null] [];
 http://test2.att.com:80 ["AT&T Official Site - Unlimited Data Plans, Internet Service, & TV"] [200] [1351640] ["text/html"] ["104.89.44.55"] ["https://test2.att.com/"] ["nginx"] [["Adobe Experience Manager","Akamai","Java","Nginx"]] [];
 http://test3-wireless.firstnet.att.com:80 [null] [200] [2448] ["text/html"] ["2.16.186.234"] ["https://test3-wireless.firstnet.att.com/"] [null] [null] [];
-http://test3.att.com:80 ["502 Bad Gateway"] [502] [259633] ["text/html"] ["104.92.71.16"] ["https://test3.att.com/"] ["nginx"] [["Akamai","Nginx"]] [];
+http://test3.att.com:80 ["AT&T Official Site - Unlimited Data Plans, Internet Service, & TV"] [200] [1353236] ["text/html"] ["104.92.71.16"] ["https://test3.att.com/"] ["nginx"] [["Adobe Experience Manager","Akamai","Java","Nginx"]] [];
 http://test4-businesscenter.att.com:80 [null] [200] [1434] ["text/html"] ["104.92.71.16"] ["https://test4-businesscenter.att.com/"] [null] [null] [];
 http://test4.att.com:80 ["Page Not Found"] [404] [77519] ["text/html"] ["104.90.138.133"] ["https://test4.att.com/"] ["AkamaiNetStorage"] [["Akamai"]] [];
 http://texas.att.com:80 ["301 Moved Permanently"] [301] [162] ["text/html"] ["141.193.213.21"] [null] ["cloudflare"] [["Cloudflare"]] [];
@@ -2197,6 +2202,7 @@ http://vndh11329.acss.att.com:80 ["VitalSuite login"] [200] [2147] ["text/html"]
 http://vndh11396.acss.att.com:80 ["VitalSuite login"] [200] [2147] ["text/html"] ["144.160.230.254"] ["https://vndh11396.acss.att.com/"] ["unknown"] [null] [];
 http://vndh11397.acss.att.com:80 ["VitalSuite login"] [200] [2147] ["text/html"] ["144.160.230.254"] ["https://vndh11397.acss.att.com/"] ["unknown"] [null] [];
 http://vndh150.acss.att.com:80 ["VitalSuite login"] [200] [2148] ["text/html"] ["144.160.230.254"] ["https://vndh150.acss.att.com/"] ["unknown"] [null] [];
+http://vndh151.acSs.att.com:80 ["VitalSuite login"] [200] [2148] ["text/html"] ["144.160.230.254"] ["https://vndh151.acSs.att.com/"] ["unknown"] [null] [];
 http://vndh151.acss.att.com:80 ["VitalSuite login"] [200] [2148] ["text/html"] ["144.160.230.254"] ["https://vndh151.acss.att.com/"] ["unknown"] [null] [];
 http://vndh152.acss.att.com:80 ["VitalSuite login"] [200] [2148] ["text/html"] ["144.160.230.254"] ["https://vndh152.acss.att.com/"] ["unknown"] [null] [];
 http://vndh201.acss.att.com:80 ["VitalSuite login"] [200] [2147] ["text/html"] ["144.160.230.254"] ["https://vndh201.acss.att.com/"] ["unknown"] [null] [];
@@ -2426,7 +2432,7 @@ http://vnusres14.acss.att.com:80 ["Network Error"] [504] [868] ["text/html"] ["1
 http://vnusres15.acss.att.com:80 ["Network Error"] [504] [868] ["text/html"] ["144.160.230.254"] ["https://vnusres15.acss.att.com/"] [null] [null] [];
 http://vnusres16.acss.att.com:80 ["Network Error"] [504] [868] ["text/html"] ["144.160.230.254"] ["https://vnusres16.acss.att.com/"] [null] [null] [];
 http://vnusres17.acss.att.com:80 ["Network Error"] [504] [868] ["text/html"] ["144.160.230.254"] ["https://vnusres17.acss.att.com/"] [null] [null] [];
-http://vnusres20.acss.att.com:80 ["VitalSuite login"] [200] [2148] ["text/html"] ["144.160.230.254"] ["https://vnusres20.acss.att.com/"] ["unknown"] [null] [];
+http://vnusres20.acss.att.com:80 ["Request Error"] [400] [857] ["text/html"] ["144.160.230.254"] ["https://vnusres20.acss.att.com/"] [null] [null] [];
 http://vnusres21.acss.att.com:80 ["VitalSuite login"] [200] [2148] ["text/html"] ["144.160.230.254"] ["https://vnusres21.acss.att.com/"] ["unknown"] [null] [];
 http://vnusres23.acss.att.com:80 ["VitalSuite login"] [200] [2148] ["text/html"] ["144.160.230.254"] ["https://vnusres23.acss.att.com/"] ["unknown"] [null] [];
 http://vnusres41.acss.att.com:80 ["Network Error"] [504] [868] ["text/html"] ["144.160.230.254"] ["https://vnusres41.acss.att.com/"] [null] [null] [];
@@ -2509,7 +2515,7 @@ http://ws.att.com:8080 ["Access Denied"] [403] [730] ["text/html"] ["144.161.69.
 http://wug.uc.att.com:80 ["Not Found"] [404] [315] ["text/html"] ["206.19.56.180"] [null] ["Microsoft-HTTPAPI/2.0"] [["Microsoft HTTPAPI"]] [];
 http://www.RESEARCH.att.COm:80 [null] [301] [null] [null] ["23.45.106.179"] [null] ["AkamaiGHost"] [null] [];
 http://www.about.att.com:80 [null] [301] [null] [null] ["104.92.71.16"] [null] ["AkamaiGHost"] [null] [];
-http://www.adworks.att.com:80 ["Invalid URL"] [400] [207] ["text/html"] ["104.90.138.133"] [null] ["AkamaiGHost"] [null] [];
+http://www.adworks.att.com:80 ["Invalid URL"] [400] [209] ["text/html"] ["104.92.71.16"] [null] ["AkamaiGHost"] [null] [];
 http://www.ap.att.com:80 [null] [200] [45] ["text/html"] ["122.248.166.67"] [null] ["Apache"] [["Apache"]] [];
 http://www.att.com:80 ["Access Denied"] [403] [260] ["text/html"] ["104.92.71.16"] [null] ["AkamaiGHost"] [null] [];
 http://www.bizcircle.att.com:80 [null] [301] [null] [null] ["104.92.70.196"] [null] ["AkamaiGHost"] [null] [];
@@ -2524,7 +2530,7 @@ http://www.consumer.att.com:80 ["Network Error"] [504] [826] ["text/html"] ["144
 http://www.corp.att.COm:80 [null] [301] [null] [null] ["104.92.102.211"] [null] ["AkamaiGHost"] [null] [];
 http://www.corp.att.com:80 [null] [302] [null] ["text/html"] ["104.89.30.190"] ["https://www.corp.att.com/"] ["Apache"] [["Apache","PHP"]] [];
 http://www.customerservice.att.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [683] ["text/html"] ["52.251.8.193"] [null] ["Microsoft-Azure-Application-Gateway/v2"] [null] [];
-http://www.customerservice.att.com:80 ["My Account"] [200] [12823] ["text/html"] ["52.251.8.193"] ["https://www.customerservice.att.com/"] ["Apache/2.4.53 (Unix) OpenSSL/1.1.1n"] [["Apache","OpenSSL","UNIX"]] [];
+http://www.customerservice.att.com:80 ["My Account"] [200] [12823] ["text/html"] ["52.251.8.193"] ["https://www.customerservice.att.com/"] ["Apache/2.4.53 (Unix) OpenSSL/1.1.1o"] [["Apache","OpenSSL","UNIX"]] [];
 http://www.developer.att.com:80 ["APIs, SDKs, and tools that bring ideas to life. | AT&T Developer"] [200] [21998] ["text/html"] ["104.90.138.133"] ["https://www.developer.att.com/"] [null] [["Akamai","Bootstrap","Font Awesome","Google Tag Manager"]] [];
 http://www.em.att.com:80 ["AT&T Unified Messaging (SM)"] [200] [7234] ["text/html"] ["199.108.23.16"] ["https://www.em.att.com/"] ["Apache"] [["Apache"]] [];
 http://www.emea.att.com:80 ["301 Moved Permanently"] [301] [228] ["text/html"] ["144.160.36.42"] [null] ["unknown"] [null] [];
@@ -2609,7 +2615,7 @@ http://youknow.att.com:80 [null] [302] [null] ["text/html"] ["104.92.71.16"] ["h
 http://youlead.att.COm:80 ["301 Moved Permanently"] [301] [162] ["text/html"] ["184.25.158.41"] [null] ["nginx"] [["Nginx"]] [];
 http://youlead.att.com:80 ["301 Moved Permanently"] [301] [162] ["text/html"] ["104.92.71.16"] [null] ["nginx"] [["Nginx"]] [];
 http://youleaddev.att.com:80 [null] [302] [null] ["text/html"] ["104.89.44.55"] ["https://youleaddev.att.com/"] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
-http://yourefer.att.com:80 ["you Achieve | Landing"] [200] [12683] ["text/html"] ["104.90.138.133"] ["https://yourefer.att.com/"] ["Microsoft-IIS/8.5"] [["Bootstrap","Font Awesome","IIS","Microsoft ASP.NET","Windows Server"]] [];
+http://yourefer.att.com:80 ["you Achieve | Landing"] [200] [12683] ["text/html"] ["104.89.44.55"] ["https://yourefer.att.com/"] ["Microsoft-IIS/8.5"] [["Bootstrap","Font Awesome","IIS","Microsoft ASP.NET","Windows Server"]] [];
 http://youshare.att.com:80 [null] [200] [6309] ["text/html"] ["207.189.149.16"] ["https://youshare.att.com/portal"] ["cloudflare"] [["Cloudflare","Cloudflare Network Error Logging","Google Cloud"]] [];
 http://yt.att.com:80 ["Request Error"] [400] [911] ["text/html"] ["144.161.69.22"] [null] [null] [null] [];
 http://yt.att.com:8080 ["Access Denied"] [403] [730] ["text/html"] ["144.161.69.22"] [null] [null] [null] [];
@@ -3071,7 +3077,7 @@ https://bizcommunity.att.COm:443 ["AT&T Business Forums"] [200] [456463] ["text/
 https://bizcommunity.att.com:443 ["Access Denied"] [403] [269] ["text/html"] ["69.192.161.120"] [null] ["AkamaiGHost"] [null] [];
 https://bizconsole.stage.att.com:443 ["Access Denied"] [403] [277] ["text/html"] ["23.45.104.28"] [null] ["AkamaiGHost"] [null] [];
 https://bizsoltraining.att.com:443 [null] [302] [null] ["text/html"] ["104.89.44.55"] [null] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
-https://bizsummit.att.com:443 ["AT&T Business Summit – Dallas, TX | November 1-4, 2022"] [200] [92268] ["text/html"] ["23.67.139.120"] [null] ["Apache"] [["Apache","Bootstrap","Font Awesome","MySQL","PHP","WordPress","Yoast SEO"]] [];
+https://bizsummit.att.com:443 ["AT&T Business Summit – Dallas, TX | November 1-4, 2022"] [200] [92268] ["text/html"] ["84.53.165.28"] [null] ["Apache"] [["Apache","Bootstrap","Font Awesome","MySQL","PHP","WordPress","Yoast SEO"]] [];
 https://bjs.att.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["104.90.138.133"] [null] [null] [null] [];
 https://bma.att.com:443 ["Welcome to bma-intd.test.att.com"] [200] [361] ["text/html"] ["144.160.233.24"] [null] [null] [null] [];
 https://bma.test.att.com:443 ["Network Error"] [504] [868] ["text/html"] ["144.160.233.25"] [null] [null] [null] [];
@@ -3272,6 +3278,7 @@ https://collabportal.stage.att.com:443 [null] [401] [130] ["application/json"] [
 https://college.att.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["104.75.89.140"] [null] [null] [null] [];
 https://coloadmin.uc.att.com:443 ["CUCDM"] [200] [2709] ["text/html"] ["12.130.10.151"] ["https://coloadmin.uc.att.com/login/"] ["CUCDM 10"] [["Django","Python"]] [];
 https://colorado.att.com:443 ["301 Moved Permanently"] [301] [162] ["text/html"] ["141.193.213.20"] [null] ["cloudflare"] [["Cloudflare"]] [];
+https://colorado.att.com:8443 ["Attention Required! | Cloudflare"] [403] [4514] ["text/html"] ["141.193.213.21"] [null] ["cloudflare"] [["Cloudflare"]] [];
 https://comms.att.com:443 ["Access Denied"] [403] [730] ["text/html"] ["144.161.69.22"] [null] [null] [null] [];
 https://communitiesmember.att.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["104.89.44.55"] [null] ["AkamaiGHost"] [null] [];
 https://community-apimarket.att.com:443 ["AT&T API Marketplace Developer Community - Welcome to the AT&T API Marketplace Developer Community!"] [200] [130921] ["text/html"] ["184.105.176.43"] [null] ["nginx"] [["Discourse","Nginx","Ruby on Rails"]] [];
@@ -3638,7 +3645,7 @@ https://electronics.att.com:443 ["video-play"] [200] [173218] ["text/html"] ["23
 https://electronics.att.com:8443 ["Attention Required! | Cloudflare"] [403] [4517] ["text/html"] ["23.227.38.32"] [null] ["cloudflare"] [["Cloudflare"]] [];
 https://em.att.com:443 ["AT&T Unified Messaging (SM)"] [200] [7234] ["text/html"] ["199.108.23.16"] [null] ["Apache"] [["Apache"]] [];
 https://emeaadmin.uc.att.com:443 ["CUCDM EMEA"] [200] [2714] ["text/html"] ["32.42.47.151"] ["https://emeaadmin.uc.att.com/login/"] ["CUCDM 10"] [["Django","Python"]] [];
-https://emeapress.att.com:443 [null] [301] [null] [null] ["2.19.126.154"] [null] [null] [null] [];
+https://emeapress.att.com:443 [null] [301] [null] [null] ["23.48.23.186"] [null] [null] [null] [];
 https://emergingtechtraining.att.com:443 [null] [302] [null] ["text/html"] ["35.237.11.233"] [null] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
 https://emergingvoices.att.com:443 ["AT&T Emerging Voices"] [200] [9241] ["text/html"] ["104.75.89.140"] [null] [null] [["Akamai","Amazon Cloudfront","Amazon Web Services"]] [];
 https://emm-ca01-crl.dp.att.com:443 ["503 Service Temporarily Unavailable"] [503] [397] ["text/html"] ["144.160.40.57"] ["https://emm-ca01-crl.dp.att.com/mics/mics.html"] [null] [null] [];
@@ -3763,6 +3770,7 @@ https://fnetsp-sf.idp.flogin.att.com:443 [null] [200] [371] ["text/html"] ["144.
 https://fnetsp.idp.flogin.att.com:443 [null] [200] [2778] ["text/html"] ["144.160.125.230"] [null] [null] [null] [];
 https://fnetsp.stage.flogin.att.com:443 [null] [200] [359] ["text/html"] ["144.161.8.149"] [null] [null] [null] [];
 https://fnmkqa.stage.att.com:443 [null] [401] [104] ["text/html"] ["144.161.9.202"] [null] [null] [null] [];
+https://foauthaccess.StAGe.att.com:443 [null] [401] [104] ["text/html"] ["144.161.9.202"] [null] [null] [null] [];
 https://foauthaccess.att.com:443 [null] [401] [104] ["text/html"] ["144.160.125.212"] [null] [null] [null] [];
 https://foauthaccess.stage.att.com:443 [null] [401] [104] ["text/html"] ["144.161.9.202"] [null] [null] [null] [];
 https://focus.att.com:443 ["404 Not Found"] [404] [581] ["text/html"] ["20.75.101.58"] [null] ["Microsoft-Azure-Application-Gateway/v2"] [null] [];
@@ -4078,7 +4086,7 @@ https://laterhaters.att.com:443 ["Site Not Configured | 404 Not Found"] [404] [5
 https://lbrandsmeeting.att.com:443 [null] [503] [26] ["text/html"] ["12.130.54.89"] [null] ["Apache/2.4.51 (Ubuntu)"] [["Apache","Ubuntu"]] [];
 https://ldp.att.com:443 ["Access Denied"] [403] [772] ["text/html"] ["144.161.69.22"] [null] [null] [null] [];
 https://leadershiphub.att.com:443 [null] [302] [null] ["text/html"] ["104.111.216.57"] [null] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
-https://learn-cybersecurity.att.com:443 ["PathFactory - Resource Not Found"] [404] [1864] ["text/html"] ["104.111.216.57"] [null] [null] [null] [];
+https://learn-cybersecurity.att.com:443 ["PathFactory - Resource Not Found"] [404] [1864] ["text/html"] ["72.246.169.113"] [null] [null] [null] [];
 https://learn.att.com:443 [null] [302] [null] ["text/html"] ["104.76.201.120"] [null] ["nginx"] [["Nginx","PHP","WP Engine","WordPress"]] [];
 https://learnepicenter.att.com:443 ["301 Moved Permanently"] [301] [162] ["text/html"] ["104.92.71.16"] [null] ["nginx"] [["Nginx"]] [];
 https://learningconnection.att.com:443 [null] [302] [null] ["text/html"] ["35.237.243.45"] [null] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
@@ -4130,8 +4138,9 @@ https://maps-test.firstnet.att.com:443 ["Access Denied"] [403] [282] ["text/html
 https://maps.firstnet.att.com:443 ["Access Denied"] [403] [273] ["text/html"] ["2.16.186.153"] [null] ["AkamaiGHost"] [null] [];
 https://mapw.eia.att.com:443 ["HTTP Status 503 – Service Unavailable"] [503] [770] ["text/html"] ["144.160.149.176"] [null] ["Apache/2.4.53 (Unix) OpenSSL/1.1.1o mod_jk/1.2.48"] [["Apache","Apache Tomcat","OpenSSL","UNIX","mod_jk"]] [];
 https://mapwrapper.bus.att.com:443 ["HTTP Status 503 – Service Unavailable"] [503] [770] ["text/html"] ["144.160.149.176"] [null] ["Apache/2.4.53 (Unix) OpenSSL/1.1.1o mod_jk/1.2.48"] [["Apache","Apache Tomcat","OpenSSL","UNIX","mod_jk"]] [];
-https://marketplace.att.com:443 ["AT&T IoT Marketplace"] [200] [4994] ["text/html"] ["54.219.149.68"] [null] [null] [["Google Tag Manager"]] [];
+https://marketplace.att.com:443 ["AT&T IoT Marketplace"] [200] [4994] ["text/html"] ["54.176.147.75"] [null] [null] [["Google Tag Manager"]] [];
 https://marketplace.iot.att.com:443 ["AT&T IoT Marketplace"] [200] [4994] ["text/html"] ["54.183.134.17"] [null] [null] [["Google Tag Manager"]] [];
+https://maryland.AtT.com:443 ["301 Moved Permanently"] [301] [162] ["text/html"] ["141.193.213.21"] [null] ["cloudflare"] [["Cloudflare"]] [];
 https://maryland.att.com:443 ["301 Moved Permanently"] [301] [162] ["text/html"] ["141.193.213.21"] [null] ["cloudflare"] [["Cloudflare"]] [];
 https://massachusetts.att.com:443 ["301 Moved Permanently"] [301] [162] ["text/html"] ["141.193.213.20"] [null] ["cloudflare"] [["Cloudflare"]] [];
 https://massachusetts.att.com:8443 ["Attention Required! | Cloudflare"] [403] [4514] ["text/html"] ["141.193.213.20"] [null] ["cloudflare"] [["Cloudflare"]] [];
@@ -4175,6 +4184,7 @@ https://metrics.att.com:443 [null] [200] [null] [null] ["104.111.216.57"] [null]
 https://mevrl.att.com:443 ["301 Moved Permanently"] [301] [162] ["text/html"] ["104.90.138.133"] [null] ["nginx"] [["Nginx"]] [];
 https://mex.att.com:443 ["Access Denied"] [403] [772] ["text/html"] ["144.161.69.22"] [null] [null] [null] [];
 https://mfa.acdn.att.com:443 [null] [301] [null] [null] ["2.16.186.139"] [null] [null] [null] [];
+https://mico-cl1-expe.miLlERCOorsvIdeO.att.com:8443 ["Bad Request"] [400] [65] ["text/html"] ["12.130.54.94"] [null] ["CE_E"] [null] [];
 https://mico-cl1-expe.millercoorsvideo.att.com:8443 ["Bad Request"] [400] [65] ["text/html"] ["12.130.54.94"] [null] ["CE_E"] [null] [];
 https://midatlanticregion.att.com:443 ["301 Moved Permanently"] [301] [162] ["text/html"] ["141.193.213.21"] [null] ["cloudflare"] [["Cloudflare"]] [];
 https://midatlanticregion.att.com:8443 ["Attention Required! | Cloudflare"] [403] [3923] ["text/html"] ["141.193.213.21"] [null] ["cloudflare"] [["Cloudflare"]] [];
@@ -4779,7 +4789,7 @@ https://qb.att.com:443 ["Access Denied"] [403] [772] ["text/html"] ["144.161.69.
 https://queue.att.com:443 ["Error 404"] [404] [1995] ["text/html"] ["44.235.102.26"] [null] ["Kestrel"] [["Kestrel","Microsoft ASP.NET"]] [];
 https://queue.wireless.att.com:443 ["Error 404"] [404] [1995] ["text/html"] ["35.82.104.251"] [null] ["Kestrel"] [["Kestrel","Microsoft ASP.NET"]] [];
 https://r-tst1.stage.att.com:443 ["Page Not Found"] [404] [77519] ["text/html"] ["104.89.40.21"] [null] ["AkamaiNetStorage"] [["Akamai"]] [];
-https://r-tst1.test-e.att.com:443 ["AT&T Official Site - Unlimited Data Plans, Internet Service, & TV"] [200] [1351682] ["text/html"] ["104.117.200.20"] [null] ["nginx"] [["Adobe Experience Manager","Akamai","Java","Nginx"]] [];
+https://r-tst1.test-e.att.com:443 ["AT&T Official Site - Unlimited Data Plans, Internet Service, & TV"] [200] [1352313] ["text/html"] ["104.89.22.124"] [null] ["nginx"] [["Adobe Experience Manager","Akamai","Java","Nginx"]] [];
 https://r-tst2.test-e.att.com:443 ["Page Not Found"] [404] [77526] ["text/html"] ["23.45.110.226"] [null] ["AkamaiNetStorage"] [["Akamai"]] [];
 https://r-tst3.test-e.att.com:443 ["Page Not Found"] [404] [77527] ["text/html"] ["23.45.110.226"] [null] ["AkamaiNetStorage"] [["Akamai"]] [];
 https://r-tst4.test-e.att.com:443 ["Access Denied"] [403] [282] ["text/html"] ["104.89.22.124"] [null] ["AkamaiGHost"] [null] [];
@@ -5019,7 +5029,7 @@ https://smetrics.att.com:443 [null] [200] [null] [null] ["104.90.138.133"] [null
 https://smo.att.com:443 ["Access Denied"] [403] [772] ["text/html"] ["144.161.69.22"] [null] [null] [null] [];
 https://smpp-ssl-ngeag.att.com:443 ["Error 404 Not Found"] [404] [1267] ["text/html"] ["135.209.156.51"] [null] ["Jetty(8.1.15.v20140411)"] [["Java","Jetty"]] [];
 https://smpp-vpn-ngeag.att.com:443 ["Error 404 Not Found"] [404] [1267] ["text/html"] ["135.209.156.51"] [null] ["Jetty(8.1.15.v20140411)"] [["Java","Jetty"]] [];
-https://smrc.att.com:443 ["AT&T : GMO SMRC"] [200] [3218] ["text/html"] ["50.22.10.150"] ["https://smrc.att.com/login?redirect=%2F"] ["Microsoft-IIS/8.5"] [["AngularJS","IIS","Windows Server"]] [];
+https://smrc.att.com:443 [null] [301] [null] [null] ["104.89.44.55"] [null] ["AkamaiGHost"] [null] [];
 https://sms.att.com:443 [null] [404] [21] ["text/plain"] ["3.212.242.56"] [null] ["nginx/1.15.10"] [["Nginx"]] [];
 https://sms.test-e.att.com:443 ["404 Not Found"] [404] [556] ["text/html"] ["35.173.147.209"] [null] ["nginx/1.17.10"] [["Nginx"]] [];
 https://smsws-ssl-ngeag.att.com:443 ["Error 404 Not Found"] [404] [1267] ["text/html"] ["135.209.156.51"] [null] ["Jetty(8.1.15.v20140411)"] [["Java","Jetty"]] [];
@@ -5173,7 +5183,7 @@ https://test-ci.att.com:443 ["Network Error"] [504] [826] ["text/html"] ["144.16
 https://test-cso-sa.att.com:443 ["307 Temporary Redirect"] [307] [197] ["text/html"] ["52.156.98.50"] [null] ["Microsoft-Azure-Application-Gateway/v2"] [null] [];
 https://test-cybersecurityservices.att.com:443 [null] [302] [null] [null] ["149.96.45.254"] [null] ["snow_adc"] [null] [];
 https://test-developer.firstnet.att.com:443 ["Access Denied"] [403] [289] ["text/html"] ["23.45.102.175"] [null] ["AkamaiGHost"] [null] [];
-https://test-expressticketing.acss.att.com:443 ["Express Ticketing"] [200] [6876] ["text/html"] ["2.16.186.152"] [null] [null] [["Akamai","Google Font API"]] [];
+https://test-expressticketing.acss.att.com:443 ["Express Ticketing"] [200] [6876] ["text/html"] ["2.16.241.152"] [null] [null] [["Akamai","Google Font API"]] [];
 https://test-localcontrol.firstnet.att.com:443 ["FirstNet Central"] [200] [12455] ["text/html"] ["95.101.77.171"] [null] ["Apache"] [["Akamai","Apache"]] [];
 https://test-meetings.officeathand.att.com:443 ["AT&T Office@Hand Meetings"] [200] [8704] ["text/html"] ["23.32.242.195"] [null] ["nginx"] [["Akamai","Nginx"]] [];
 https://test-portal.wholesale.att.com:443 [null] [403] [9] ["text/html"] ["23.45.106.179"] [null] [null] [null] [];
@@ -5514,6 +5524,7 @@ https://vndh11329.acss.att.com:443 ["VitalSuite login"] [200] [2147] ["text/html
 https://vndh11396.acss.att.com:443 ["VitalSuite login"] [200] [2147] ["text/html"] ["144.160.230.254"] [null] ["unknown"] [null] [];
 https://vndh11397.acss.att.com:443 ["VitalSuite login"] [200] [2147] ["text/html"] ["144.160.230.254"] [null] ["unknown"] [null] [];
 https://vndh150.acss.att.com:443 ["VitalSuite login"] [200] [2148] ["text/html"] ["144.160.230.254"] [null] ["unknown"] [null] [];
+https://vndh151.acSs.att.com:443 ["VitalSuite login"] [200] [2148] ["text/html"] ["144.160.230.254"] [null] ["unknown"] [null] [];
 https://vndh151.acss.att.com:443 ["VitalSuite login"] [200] [2148] ["text/html"] ["144.160.230.254"] [null] ["unknown"] [null] [];
 https://vndh152.acss.att.com:443 ["VitalSuite login"] [200] [2148] ["text/html"] ["144.160.230.254"] [null] ["unknown"] [null] [];
 https://vndh201.acss.att.com:443 ["VitalSuite login"] [200] [2147] ["text/html"] ["144.160.230.254"] [null] ["unknown"] [null] [];
@@ -5821,7 +5832,7 @@ https://wtownmeeting.att.com:443 [null] [500] [33] ["text/html"] ["12.130.54.89"
 https://wug.uc.att.com:443 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["206.19.56.180"] [null] ["Microsoft-IIS/7.5"] [["IIS","Microsoft ASP.NET","Windows Server"]] [];
 https://www.RESEARCH.att.COm:443 ["AT&T Labs | AT&T"] [200] [27527] ["text/html"] ["23.45.106.179"] [null] ["nginx"] [["Adobe Experience Manager","Java","Nginx"]] [];
 https://www.about.att.com:443 [null] [301] [null] [null] ["104.111.216.57"] [null] ["AkamaiGHost"] [null] [];
-https://www.adworks.att.com:443 ["Invalid URL"] [400] [207] ["text/html"] ["104.90.138.133"] [null] ["AkamaiGHost"] [null] [];
+https://www.adworks.att.com:443 ["Invalid URL"] [400] [208] ["text/html"] ["104.92.71.16"] [null] ["AkamaiGHost"] [null] [];
 https://www.ap.att.com:443 [null] [200] [45] ["text/html"] ["122.248.166.67"] [null] ["Apache"] [["Apache"]] [];
 https://www.att.com:443 ["Access Denied"] [403] [260] ["text/html"] ["104.92.71.16"] [null] ["AkamaiGHost"] [null] [];
 https://www.bizcircle.att.com:443 [null] [301] [null] [null] ["104.111.233.56"] [null] ["AkamaiGHost"] [null] [];
@@ -5840,7 +5851,7 @@ https://www.developer.att.com:443 ["APIs, SDKs, and tools that bring ideas to li
 https://www.e-access.att.com:443 ["AT&T Global Logon"] [200] [2381] ["text/html"] ["144.161.71.241"] [null] [null] [null] [];
 https://www.em.att.com:443 ["AT&T Unified Messaging (SM)"] [200] [7234] ["text/html"] ["199.108.23.16"] [null] ["Apache"] [["Apache"]] [];
 https://www.emea.att.com:443 ["Access Denied"] [403] [730] ["text/html"] ["144.160.36.42"] [null] [null] [null] [];
-https://www.emeapress.att.com:443 [null] [301] [null] [null] ["2.16.241.16"] [null] [null] [null] [];
+https://www.emeapress.att.com:443 [null] [301] [null] [null] ["23.48.23.166"] [null] [null] [null] [];
 https://www.enterprise.att.com:443 [null] [301] [null] [null] ["104.89.43.146"] [null] ["AkamaiGHost"] [null] [];
 https://www.euro.att.com:443 ["Invalid URL"] [400] [208] ["text/html"] ["104.92.102.211"] [null] ["AkamaiGHost"] [null] [];
 https://www.europe.att.com:443 ["Invalid URL"] [400] [208] ["text/html"] ["104.92.102.211"] [null] ["AkamaiGHost"] [null] [];
@@ -5861,7 +5872,7 @@ https://www.research.att.com:443 ["Error"] [503] [175] ["text/html"] ["23.45.106
 https://www.resources.att.com:443 ["404 - Not found or no permission to access"] [404] [1330] ["text/html"] ["209.167.231.15"] [null] [null] [["Bootstrap"]] [];
 https://www.routeit.att.com:443 [null] [200] [59] ["text/html"] ["144.160.233.90"] [null] ["unknown"] [null] [];
 https://www.serviceguide.att.com:443 ["AT&T Business Service Guide"] [200] [3260] ["text/html"] ["52.177.90.173"] [null] ["Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips"] [["Apache","OpenSSL","Red Hat"]] [];
-https://www.shop.att.com:443 ["Error 301--Moved Permanently"] [301] [747] ["text/html"] ["52.251.8.193"] [null] ["Apache/2.4.53 (Unix) OpenSSL/1.1.1n"] [["Apache","OpenSSL","UNIX"]] [];
+https://www.shop.att.com:443 ["Error 301--Moved Permanently"] [301] [747] ["text/html"] ["52.251.8.193"] [null] ["Apache/2.4.53 (Unix) OpenSSL/1.1.1o"] [["Apache","OpenSSL","UNIX"]] [];
 https://www.smallbiz.att.com:443 [null] [301] [null] [null] ["2.16.238.144"] [null] [null] [null] [];
 https://www.support.att.com:443 ["404 Not Found"] [404] [581] ["text/html"] ["20.75.101.58"] [null] ["Microsoft-Azure-Application-Gateway/v2"] [null] [];
 https://www.synaptic.att.com:443 [null] [200] [5530] ["text/html"] ["23.45.106.179"] [null] [null] [["Akamai"]] [];
