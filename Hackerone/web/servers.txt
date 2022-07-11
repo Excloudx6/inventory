@@ -670,6 +670,7 @@ http://hacker101.com:80
 http://hacker101.com:8080
 http://hackerone-ext-content.com:80
 http://hackerone-ext-content.com:8080
+http://hackerone.com:443
 http://hackerone.com:80
 http://hackerone.com:8080
 http://hackerone.com:8443
@@ -1085,6 +1086,7 @@ https://2018.2019error-new.update.ctf.hacker101.com:443
 https://2018.2020-alphaaccount.access.accessteamupgrade-update.ctf.hacker101.com:443
 https://2018.2020account-account.confluence.dev.v1update.ctf.hacker101.com:443
 https://2018.2020system.redirect.ctf.hacker101.com:443
+https://2018.2020systemtripoftwins.ctf.hacker101.com:443
 https://2018.2020vpn.update.autherror.ctf.hacker101.com:443
 https://2018.2021-status.ctf.hacker101.com:443
 https://2018.2021debug.error.ctf.hacker101.com:443
@@ -1161,6 +1163,7 @@ https://2018.admin.auth-access-beta-beta.jenkins.access-new.update.ctf.hacker101
 https://2018.admin.debugjenkins.access-new.update.ctf.hacker101.com:443
 https://2018.admin2018.beta.alpha.2020-v2-elasticbeanstalkupdate.ctf.hacker101.com:443
 https://2018.admin2021alpha.config.user-s3.debug.ctf.hacker101.com:443
+https://2018.adminaccess-2021.admin.v4knome.ctf.hacker101.com:443
 https://2018.adminaccess.data-chef.autherror.ctf.hacker101.com:443
 https://2018.adminadminnew.gcp.admin.ctf.hacker101.com:443
 https://2018.adminalpha-update-alpha.2020-v2-elasticbeanstalkupdate.ctf.hacker101.com:443
@@ -1520,6 +1523,7 @@ https://2018internal-system.redirect.ctf.hacker101.com:443
 https://2018internal.2018-elasticbeanstalk-dbms.authupdate.ctf.hacker101.com:443
 https://2018internal.account.status-v1-admin.ctf.hacker101.com:443
 https://2018internalgcp.confluence-admin.ctf.hacker101.com:443
+https://2018iris1.ctf.hacker101.com:443
 https://2018jenkins-gcp.confluence-admin.ctf.hacker101.com:443
 https://2018jenkins.2018.confluence.redirect.ctf.hacker101.com:443
 https://2018preferences-alphaadmin.ctf.hacker101.com:443
@@ -1552,6 +1556,7 @@ https://2019-2019beta.config.status.ctf.hacker101.com:443
 https://2019-2019beta.dev-maysuryan.ctf.hacker101.com:443
 https://2019-2019preferences.ctf.hacker101.com:443
 https://2019-2021-chef.alpha.status.ctf.hacker101.com:443
+https://2019-2021-www.fac-droit.ctf.hacker101.com:443
 https://2019-2021.api-private.auth.ctf.hacker101.com:443
 https://2019-access-alpha.access-access-user.update.update.ctf.hacker101.com:443
 https://2019-access-staging-data.alpha-bucket.devdbms.authupdate.ctf.hacker101.com:443
@@ -1741,6 +1746,7 @@ https://2019.2020-alpha.preferences.alpha.status.ctf.hacker101.com:443
 https://2019.2020.access-new.update.ctf.hacker101.com:443
 https://2019.2020.v2.accountaccountaccount.adminalpha.elasticbeanstalkupdate.update.ctf.hacker101.com:443
 https://2019.20202020systemredirect.ctf.hacker101.com:443
+https://2019.2021staging-user.startrek-discovery.ctf.hacker101.com:443
 https://2019.access-2018-engineering.chef.new.update.ctf.hacker101.com:443
 https://2019.access-2018-gcp-accounterror.v3-alphaupdate.ctf.hacker101.com:443
 https://2019.access-accessupgrade.admin-upload-update.ctf.hacker101.com:443
@@ -2078,6 +2084,7 @@ https://2019error-new.update.ctf.hacker101.com:443
 https://2019errorerror.ctf.hacker101.com:443
 https://2019gcp-access-access-access.access-access-v3upgrade-update.ctf.hacker101.com:443
 https://2019gcp.chef-admin.ctf.hacker101.com:443
+https://2019gcp.elektronik.ctf.hacker101.com:443
 https://2019internal-alpha.betaaccessredirect-access-new.update.ctf.hacker101.com:443
 https://2019internal-system.redirect.ctf.hacker101.com:443
 https://2019internal.2020-alphaaccount.access.accessteamupgrade-update.ctf.hacker101.com:443
@@ -2134,6 +2141,7 @@ https://2020-access-demo.elasticbeanstalk.error.ctf.hacker101.com:443
 https://2020-access-user.update.update.ctf.hacker101.com:443
 https://2020-access-v4.debug.error.ctf.hacker101.com:443
 https://2020-access.2018-accountdebugnew.update.ctf.hacker101.com:443
+https://2020-access.20182018-elasticbeanstalk.v4knome.ctf.hacker101.com:443
 https://2020-access.2019update.2020authupdate.ctf.hacker101.com:443
 https://2020-access.2020-v1update.ctf.hacker101.com:443
 https://2020-access.accessconfig-backup-upload-update.ctf.hacker101.com:443
@@ -2255,6 +2263,7 @@ https://2020-elasticbeanstalk.admin.ctf.hacker101.com:443
 https://2020-elasticbeanstalk.alphagcp.error-new.update.ctf.hacker101.com:443
 https://2020-engineering-private2019-status.ctf.hacker101.com:443
 https://2020-engineering.preferences-error-status.ctf.hacker101.com:443
+https://2020-error.oweril46.ctf.hacker101.com:443
 https://2020-error.upgrade.v3www.fac-droit.ctf.hacker101.com:443
 https://2020-gcp.confluence-admin.ctf.hacker101.com:443
 https://2020-internal.2020-alphaaccount.access.accessteamupgrade-update.ctf.hacker101.com:443
@@ -2312,6 +2321,7 @@ https://2020.access-access-v3upgrade-update.ctf.hacker101.com:443
 https://2020.access-access.access-access-v3upgrade-update.ctf.hacker101.com:443
 https://2020.access-new.update.ctf.hacker101.com:443
 https://2020.access-user.update.update.ctf.hacker101.com:443
+https://2020.access.20182018-elasticbeanstalk.v4knome.ctf.hacker101.com:443
 https://2020.access.2019.error.ctf.hacker101.com:443
 https://2020.access.2020-admin.account.preferences-2020.v2-update.ctf.hacker101.com:443
 https://2020.access.accessnew.system.authupdate.ctf.hacker101.com:443
@@ -2560,6 +2570,7 @@ https://2020alphaauth-update.ctf.hacker101.com:443
 https://2020alphav1-vpndemo.error.ctf.hacker101.com:443
 https://2020api-2018betaaccessredirect-access-new.update.ctf.hacker101.com:443
 https://2020api-errorerror.ctf.hacker101.com:443
+https://2020api-v2-accountsystem.internal.iris1.ctf.hacker101.com:443
 https://2020api.account.access.accessteamupgrade-update.ctf.hacker101.com:443
 https://2020api.account.private-statuserror.ctf.hacker101.com:443
 https://2020api.api2018-elasticbeanstalk2020.2019.alpha-preferences.ctf.hacker101.com:443
@@ -2774,6 +2785,7 @@ https://2021-system-alpha.status.ctf.hacker101.com:443
 https://2021-team.config.user-error.ctf.hacker101.com:443
 https://2021-team.demo.elasticbeanstalk.error.ctf.hacker101.com:443
 https://2021-upgrade-chef-2018-alpha.system-gcp.ctf.hacker101.com:443
+https://2021-upload.maysuryan.ctf.hacker101.com:443
 https://2021-uploadsystemredirect.ctf.hacker101.com:443
 https://2021-user.alphaupgrade.elasticbeanstalk.error.ctf.hacker101.com:443
 https://2021-v1-new.update.ctf.hacker101.com:443
@@ -2808,6 +2820,7 @@ https://2021.access-bucket.jenkins-preferences.config-datachefauth.ctf.hacker101
 https://2021.access.2018admin.account.preferences-2020.v2-update.ctf.hacker101.com:443
 https://2021.access.accessteamupgrade-update.ctf.hacker101.com:443
 https://2021.access.accountaccess.teamchef.backup.update.ctf.hacker101.com:443
+https://2021.access.denis4inet.ctf.hacker101.com:443
 https://2021.access.elasticbeanstalkerror.ctf.hacker101.com:443
 https://2021.access.v4alphaupdate.ctf.hacker101.com:443
 https://2021.access2018-dbms.demostatus-adminautherror.ctf.hacker101.com:443
@@ -2899,6 +2912,7 @@ https://2021.bucket2019systemredirect.ctf.hacker101.com:443
 https://2021.bucketaccess-user.update.update.ctf.hacker101.com:443
 https://2021.chef-access.2018.auth-update.ctf.hacker101.com:443
 https://2021.chef-backup.2019.error.ctf.hacker101.com:443
+https://2021.chef-gcp.hdreports.ctf.hacker101.com:443
 https://2021.chef-preferences-error-status.ctf.hacker101.com:443
 https://2021.chef.autherror.ctf.hacker101.com:443
 https://2021.chef.demo.elasticbeanstalk.error.ctf.hacker101.com:443
@@ -2950,6 +2964,7 @@ https://2021.team.upgradev3.ctf.hacker101.com:443
 https://2021.update.autherror.ctf.hacker101.com:443
 https://2021.upgrade.elasticbeanstalk.error.ctf.hacker101.com:443
 https://2021.upgradealpha.access-account.account-config2018upgrade-update.ctf.hacker101.com:443
+https://2021.upgradechef-alnen.ctf.hacker101.com:443
 https://2021.upgradepreferences.ctf.hacker101.com:443
 https://2021.upload-deverror.ctf.hacker101.com:443
 https://2021.usernew-backupdenis4inet.ctf.hacker101.com:443
@@ -3879,6 +3894,7 @@ https://admin.2018.gcp.chef-admin.ctf.hacker101.com:443
 https://admin.2018v4-access-gcp.error.ctf.hacker101.com:443
 https://admin.2019-preferences.ctf.hacker101.com:443
 https://admin.2020account-dbms.authupdate.ctf.hacker101.com:443
+https://admin.2021-auth.account.alpha.baldis-basics-in-education-and-learning.ctf.hacker101.com:443
 https://admin.access-2018-accountdebugnew.update.ctf.hacker101.com:443
 https://admin.access-2019.account-authbackup.update.ctf.hacker101.com:443
 https://admin.access-bucket.jenkins-preferences.config-datachefauth.ctf.hacker101.com:443
@@ -3942,6 +3958,7 @@ https://admin.engineering.upload.ctf.hacker101.com:443
 https://admin.errorerror.ctf.hacker101.com:443
 https://admin.gcp-alphanew.adminchefadmin.ctf.hacker101.com:443
 https://admin.iris1.ctf.hacker101.com:443
+https://admin.knome.ctf.hacker101.com:443
 https://admin.new.adminchefadmin.ctf.hacker101.com:443
 https://admin.new.update.ctf.hacker101.com:443
 https://admin.newupdate.autherror.ctf.hacker101.com:443
@@ -3972,6 +3989,7 @@ https://adminaccess.data-chef.autherror.ctf.hacker101.com:443
 https://adminaccess.upgrade-2020.2019.alpha-preferences.ctf.hacker101.com:443
 https://adminaccessaccess.vpnerror.ctf.hacker101.com:443
 https://adminaccessauth-access-beta-beta.jenkins.access-new.update.ctf.hacker101.com:443
+https://adminaccount.2018-elasticbeanstalk.v4knome.ctf.hacker101.com:443
 https://adminaccountalpha.dbmsaccessnew.adminchefadmin.ctf.hacker101.com:443
 https://adminaccountengineering-upload-internal.engineeringupdate.ctf.hacker101.com:443
 https://adminadminadminnew.gcp.admin.ctf.hacker101.com:443
@@ -4021,6 +4039,7 @@ https://admindevelasticbeanstalk.error.ctf.hacker101.com:443
 https://adminerror-2018.2021debug.error.ctf.hacker101.com:443
 https://adminerror-accessalpha.access-account.account-config2018upgrade-update.ctf.hacker101.com:443
 https://adminerror-preferencesvpndemo.error.ctf.hacker101.com:443
+https://adminerror.oweril46.ctf.hacker101.com:443
 https://adminjenkins-2021.api.redirect.ctf.hacker101.com:443
 https://adminnew-alpha-account.v3iris1.ctf.hacker101.com:443
 https://adminnew-v1-backup.www.orf.od.ctf.hacker101.com:443
@@ -4246,6 +4265,7 @@ https://alphaauthupdate.ctf.hacker101.com:443
 https://alphabackupengineering.redirect.ctf.hacker101.com:443
 https://alphabackupgcp.error-new.update.ctf.hacker101.com:443
 https://alphabeta-istanbul.ctf.hacker101.com:443
+https://alphabeta.vpnmaysuryan.ctf.hacker101.com:443
 https://alphabeta2018.alpha.chef-2019update.update.ctf.hacker101.com:443
 https://alphabetaaccessredirect-access-new.update.ctf.hacker101.com:443
 https://alphabucketprivate-status.ctf.hacker101.com:443
@@ -4438,6 +4458,7 @@ https://apibucketdataadmin.ctf.hacker101.com:443
 https://apichef.demo.elasticbeanstalk.error.ctf.hacker101.com:443
 https://apiconfluence.stagingauthupdate.ctf.hacker101.com:443
 https://apidata.v2-gcp.error.ctf.hacker101.com:443
+https://apidataalpha-elasticbeanstalk.knome.ctf.hacker101.com:443
 https://apidebug-2018.s3.debug.ctf.hacker101.com:443
 https://apidebug.engineering.redirect.ctf.hacker101.com:443
 https://apidemo-data-maysuryan.ctf.hacker101.com:443
@@ -5094,6 +5115,7 @@ https://chefaccessstagingdebug.error.ctf.hacker101.com:443
 https://chefaccount-api2019.auth2019-statuserror.ctf.hacker101.com:443
 https://chefaccount-elasticbeanstalk-2018-accountdebugnew.update.ctf.hacker101.com:443
 https://chefaccountauth-status.ctf.hacker101.com:443
+https://chefaccountv1.backup.oweril46.ctf.hacker101.com:443
 https://chefadmin.ctf.hacker101.com:443
 https://chefalpha.backup.ctf.hacker101.com:443
 https://chefalpha.preferencesv2-gcp.error.ctf.hacker101.com:443
@@ -5149,6 +5171,7 @@ https://config.access.vpn-status.ctf.hacker101.com:443
 https://config.accessauth2019-statuserror.ctf.hacker101.com:443
 https://config.account.access-gcp.error.ctf.hacker101.com:443
 https://config.account.alphaupgradepreferences.ctf.hacker101.com:443
+https://config.admin-denis4inet.ctf.hacker101.com:443
 https://config.admin.v4knome.ctf.hacker101.com:443
 https://config.apierror.chefgcp-user.debug.error.ctf.hacker101.com:443
 https://config.authelasticbeanstalk.data.status-demo.error.ctf.hacker101.com:443
@@ -5622,6 +5645,7 @@ https://dev.jenkins-authupdate.ctf.hacker101.com:443
 https://dev.preferences-status.ctf.hacker101.com:443
 https://dev.stagingadmin.admin.alphaadmin.backupgcp.error-new.update.ctf.hacker101.com:443
 https://dev.v1update.ctf.hacker101.com:443
+https://dev.webknome.ctf.hacker101.com:443
 https://dev2018-beta.bucket-staging.backup.ctf.hacker101.com:443
 https://dev2018-internal-chefadmin.ctf.hacker101.com:443
 https://devaccess-elasticbeanstalk.update.ctf.hacker101.com:443
@@ -6207,6 +6231,7 @@ https://private-2018-accountdebugnew.update.ctf.hacker101.com:443
 https://private-2018-jenkins.error-status.ctf.hacker101.com:443
 https://private-2018.2018-authbackup.update.ctf.hacker101.com:443
 https://private-alpha-account.confluence.dev.v1update.ctf.hacker101.com:443
+https://private-beta.debug-error.oweril46.ctf.hacker101.com:443
 https://private-beta.jenkins.access-new.update.ctf.hacker101.com:443
 https://private-betaalpha.jenkins.system.redirect.ctf.hacker101.com:443
 https://private-confluence.v2-preferences-status.ctf.hacker101.com:443
