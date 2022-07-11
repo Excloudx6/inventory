@@ -45,6 +45,7 @@ https://fleet.example.com/hosts/2
 https://fleetdm.com/docs
 https://fleetdm.com/docs/deploying/configuration#osquery-policy-update-interval
 https://fleetdm.com/docs/deploying/configuration#osquery-result-log-plugin
+https://fleetdm.com/docs/deploying/configuration#session-duration?utm_medium=fleetui&amp;utm_campaign=get-api-token
 https://fleetdm.com/docs/using-fleet/adding-hosts#osquery-installer
 https://fleetdm.com/docs/using-fleet/automations
 https://fleetdm.com/docs/using-fleet/configuration-files#host-settings
@@ -52,6 +53,7 @@ https://fleetdm.com/docs/using-fleet/configuration-files#overrides-option
 https://fleetdm.com/docs/using-fleet/faq#how-do-i-downgrade-from-fleet-premium-to-fleet-free
 https://fleetdm.com/docs/using-fleet/faq#why-my-host-is-not-updating-a-policys-response
 https://fleetdm.com/docs/using-fleet/fleet-ui#configuring-agent-options
+https://fleetdm.com/docs/using-fleet/fleetctl-cli#using-fleetctl-with-an-api-only-user?utm_medium=fleetui&amp;utm_campaign=get-api-token
 https://fleetdm.com/docs/using-fleet/learn-how-to-use-fleet
 https://fleetdm.com/docs/using-fleet/permissions#team-member-permissions
 https://fleetdm.com/docs/using-fleet/permissions#user-permissions
@@ -245,6 +247,7 @@ https://github.com/osquery/osquery/blob/master/specs/posix/cpu_time.table
 https://github.com/osquery/osquery/blob/master/specs/posix/crontab.table
 https://github.com/osquery/osquery/blob/master/specs/posix/disk_encryption.table
 https://github.com/osquery/osquery/blob/master/specs/posix/dns_resolvers.table
+https://github.com/osquery/osquery/blob/master/specs/posix/docker_container_envs.table
 https://github.com/osquery/osquery/blob/master/specs/posix/docker_container_fs_changes.table
 https://github.com/osquery/osquery/blob/master/specs/posix/docker_container_labels.table
 https://github.com/osquery/osquery/blob/master/specs/posix/docker_container_mounts.table
