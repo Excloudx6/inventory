@@ -2,7 +2,7 @@ http://api.bugcrowd.com:80 [null] [403] [16] ["text/plain"] ["104.20.6.68"] [nul
 http://api.bugcrowd.com:8080 [null] [403] [16] ["text/plain"] ["104.20.6.68"] [null] ["cloudflare"] [["Cloudflare","Cloudflare Bot Management"]] [];
 http://api.bugcrowd.com:8443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [253] ["text/html"] ["104.20.6.68"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://assetinventory.bugcrowd.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [253] ["text/html"] ["104.20.6.68"] [null] ["cloudflare"] [["Cloudflare"]] [];
-http://assetinventory.bugcrowd.com:80 ["Bit Discovery - Attack Surface Management"] [200] [5685] ["text/html"] ["104.20.7.68"] ["https://assetinventory.bugcrowd.com/"] ["cloudflare"] [["Cloudflare"]] [];
+http://assetinventory.bugcrowd.com:80 ["Bit Discovery - Attack Surface Management"] [200] [5683] ["text/html"] ["104.20.6.68"] ["https://assetinventory.bugcrowd.com/"] ["cloudflare"] [["Cloudflare"]] [];
 http://assetinventory.bugcrowd.com:8080 [null] [403] [16] ["text/plain"] ["104.20.7.68"] [null] ["cloudflare"] [["Cloudflare","Cloudflare Bot Management"]] [];
 http://assetinventory.bugcrowd.com:8443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [655] ["text/html"] ["104.20.6.68"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://blog.bugcrowd.com:80 ["Just a moment..."] [503] [8983] ["text/html"] ["104.20.7.68"] [null] ["cloudflare"] [["Cloudflare","Cloudflare Bot Management"]] [];
