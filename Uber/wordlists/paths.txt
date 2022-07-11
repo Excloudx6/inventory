@@ -4285,6 +4285,7 @@
 /api/loginpage/
 /api/mapbox/style-uri
 /api/mapbox/temporary-access-token
+/api/marketplace-app
 /api/marketplace-app/
 /api/marketplace-app/list
 /api/marketplace-app?surface=createAsset
@@ -4761,6 +4762,7 @@
 /aura?r\x3d
 /aura?r\x3d0
 /auraAnalytics
+/auraCmpDef?_au=0DbugOKt-DnBZOgYmuPNFg&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-1031669178&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=0DbugOKt-DnBZOgYmuPNFg&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=62OYTb0JHp-CObF4A-NogQ&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=BeXC_Hah0tuCjI-k06CYWg&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
@@ -4826,6 +4828,7 @@
 /blog/arkansas/
 /blog/athens/
 /blog/atlanta/
+/blog/atlanta/business/page/2
 /blog/austin/
 /blog/baltimore/
 /blog/bellingham/
@@ -5199,6 +5202,7 @@
 /blog/sw.js?ver=1656423305916&amp;scope=en-DE
 /blog/sw.js?ver=1656423326195&amp;scope=en-DE
 /blog/sw.js?ver=1656423326327&amp;scope=en-CA
+/blog/sw.js?ver=1656423326327&amp;scope=en-US
 /blog/tacoma/
 /blog/tallahassee/
 /blog/tampa-bay/
@@ -6072,6 +6076,7 @@
 /guest-add
 /guideline
 /guideline/
+/guideline/*
 /guideline/:guidelineId
 /guideline/:guidelineId/*
 /guideline/:project_id
@@ -6475,12 +6480,14 @@
 /marketplace/installed-blocks
 /marketplace/installed/content-block
 /marketplace/installed/integration
+/marketplace/installed/theme
 /marketplace/type/
 /marketplace/type/:id
 /marketplace/type/content-block
 /marketplace/type/content-block/app/:id
 /marketplace/type/integration
 /marketplace/type/integration/app/:id
+/marketplace/type/theme
 /mashup
 /me
 /me/account
@@ -7222,6 +7229,7 @@
 /stories$\
 /story/
 /story/id1542695115
+/story/id1604959672
 /streamhub/
 /styleguide
 /styles/v1
