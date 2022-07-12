@@ -7547,6 +7547,7 @@
 /comparison/:id/:key/
 /competition
 /competition/
+/competition/award/count
 /complete_upload
 /compliance/
 /components

@@ -22,6 +22,7 @@ http://netflix-backup.s3.amazonaws.com/
 http://netflix-backups.s3.amazonaws.com/
 http://netflix-bucket.s3.amazonaws.com/
 http://netflix-data.s3.amazonaws.com/
+http://netflix-db.s3.amazonaws.com/
 http://netflix-dev.s3.amazonaws.com/
 http://netflix-files.s3.amazonaws.com/
 http://netflix-git.s3.amazonaws.com/
