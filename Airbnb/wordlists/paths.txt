@@ -1748,6 +1748,7 @@
 /_/api/tutu/users/{userId}/blocks
 /_/api/tutu/users/{userId}/blocks/{blockedUserId}
 /_/api/tutu/users/{userId}/collection-onboarding-seen
+/_/api/tutu/users/{userId}/customer
 /_/api/tutu/users/{userId}/dismiss-flag
 /_/api/tutu/users/{userId}/followers
 /_/api/tutu/users/{userId}/followersFollowedBy/{sourceUserId}
@@ -4903,7 +4904,7 @@ DD/M/YYYY
 DD/MM/YY
 DD/MM/YYYY
 DEPk/7St
-Error: invalid input defined or SSL error: IncompleteRead(376452 bytes read, 80706 more expected)
+Error: invalid input defined or SSL error: IncompleteRead(392836 bytes read, 64322 more expected)
 Etc/GMT-0|Etc/GMT
 Etc/GMT-0|Etc/GMT+0
 Etc/GMT-0|Etc/GMT0
