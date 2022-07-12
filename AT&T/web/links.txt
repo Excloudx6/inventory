@@ -426,7 +426,7 @@ http://www.w3.org/TR/SVG11/feature#Image
 http://www.w3.org/TR/html4/loose.dtd
 http://www.w3.org/TR/html4/strict.dtd
 http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
-http://www.w3.org/XML/1998/namespace
+http://www.w3.org/XML/1998/namespace id
 http://www.w3.org/ns/ttml
 http://www.w3.org/ns/ttml#parameter
 http://www.w3.org/ns/ttml#styling zIndex
@@ -927,6 +927,7 @@ https://api.weglot.com/projects/settings?api_key=wg_
 https://apis.google.com/js/api.js
 https://apis.google.com/js/plusone.js
 https://app.clearml.srs.lab.nordigy.ru/projects/3dfeb120785f46bc9324bdf7efa1a3ca/models/d0c6efa5059948cf9a247b5430afed6a
+https://app.clearml.srs.lab.nordigy.ru/projects/3dfeb120785f46bc9324bdf7efa1a3ca/models/fd1d9908ed6e4606ba9819234f1a2e44
 https://app.five9.com/consoles/
 https://app.five9.com/consoles/SocialWidget/five9-social-widget.min.js
 https://app.geotab.com
@@ -2422,6 +2423,7 @@ https://forums.att.com/t5/Business-Forum/ct-p/Business_Community
 https://forums.att.com/t5/Home-Phone-Forum/ct-p/attphone
 https://foursquare.com/${id}
 https://foursquare.com/intent/venue.html
+https://fpsp-c3-west-nprd-e2e.az.3pc.att.com
 https://fpt.fm/app/31677/cordae-from-a-birds-eye-view
 https://frontier.com/corporate/terms
 https://fs.att.com/scripts/goldeneye/staging/scripts/goldeneye.business.staging.js

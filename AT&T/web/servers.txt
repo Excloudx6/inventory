@@ -5,6 +5,7 @@ http://365.att.com:80
 http://365.att.com:8080
 http://5gcentral.att.com:80
 http://911standalone.uc.att.com:443
+http://CONNecTmeEtINg.att.com:80
 http://Home.att.com:80
 http://aa.att.com:80
 http://aa.att.com:8080
@@ -145,6 +146,14 @@ http://applyhorizons.att.com:80
 http://apps.firstnet.att.com:80
 http://aprimoadobeprod.att.com:80
 http://aprimoadobeuat.att.com:80
+http://aps.att.com:3000
+http://aps.att.com:4080
+http://aps.att.com:5000
+http://aps.att.com:80
+http://aps.att.com:8000
+http://aps.att.com:8080
+http://aps.att.com:8443
+http://aps.att.com:8888
 http://apsapidev1.att.com:80
 http://apsapidev2.att.com:80
 http://apstesmp1.att.com:3000
@@ -263,6 +272,7 @@ http://bcuat4.stage-e.att.com:80
 http://bd-asa1.research.att.com:80
 http://bd-asa2.research.att.com:80
 http://believeatlanta.att.com:80
+http://believeatlanta.att.com:8080
 http://believeatlanta.att.com:8443
 http://believechicago.att.com:80
 http://believechicago.att.com:8080
@@ -600,6 +610,7 @@ http://ec.att.com:80
 http://ec.att.com:8080
 http://ecare-mat.test-e.att.com:80
 http://ecat.em.att.com:80
+http://ecmng-prod.att.com:80
 http://ecommerce.wireless.att.com:80
 http://edd.att.com:80
 http://edd.att.com:8080
@@ -632,6 +643,7 @@ http://ems2.hvs.att.com:80
 http://ems201.hvs.att.com:80
 http://ems202.hvs.att.com:80
 http://ems2pub-cfg.hvs.att.com:80
+http://enable-extlb.att.com:80
 http://encode-atlas.att.com:80
 http://engage.att.com:80
 http://engage.att.com:8443
@@ -669,6 +681,7 @@ http://eservices.bus.att.com:443
 http://eservices.bus.att.com:80
 http://eservices.eia.att.com:80
 http://eservices2.bus.att.com:80
+http://eservices3.bus.att.com:443
 http://eservices3.bus.att.com:80
 http://eservices4.bus.att.com:80
 http://eshop-mat.test-e.att.com:80
@@ -689,6 +702,7 @@ http://exp.att.com:80
 http://exp.att.com:8080
 http://experience.att.com:80
 http://explore.att.com:80
+http://expressticketing.acsS.att.com:80
 http://expressticketing.acss.att.com:80
 http://ext-mpsys-frma-lgw.att.com:443
 http://fame.att.com:80
@@ -804,6 +818,7 @@ http://ibmmeeting.att.com:443
 http://icapoffer-decisioning.att.com:8443
 http://ice-projectone.att.com:80
 http://idaho.att.com:80
+http://idaho.att.com:8080
 http://idaho.att.com:8443
 http://identity.att.com:80
 http://identity.stage.att.com:80
@@ -1822,6 +1837,7 @@ http://stacm.ccgwsl-st.teleconference.att.com:80
 http://stacm.teleconference.att.com:80
 http://stage-solutions.firstnet.att.com:80
 http://stage-wireless.firstnet.att.com:80
+http://stage-www.wireless.att.com:80
 http://staging.uc.att.com:80
 http://stagingbootstrap.dm.iot.att.com:80
 http://staginglwm2m.dm.iot.att.com:80
@@ -1867,6 +1883,7 @@ http://tchosted.synaptic.att.com:80
 http://tchosted.wireless.att.com:80
 http://tdata-offers.att.com:80
 http://tdp.att.com:80
+http://tdpdev.att.com:80
 http://teams-e911.att.com:80
 http://teams-e911.cloud.att.com:80
 http://tech360.att.com:443
@@ -2218,6 +2235,7 @@ http://vndh671.acss.att.com:80
 http://vndh672.acss.att.com:80
 http://vndh673.acss.att.com:80
 http://vndh696.acss.att.com:80
+http://vndh697.acsS.att.com:80
 http://vndh697.acss.att.com:80
 http://vndh698.acss.att.com:80
 http://vndh699.acss.att.com:80
@@ -2416,6 +2434,7 @@ http://vnten04.acss.att.com:80
 http://vnuhg2.acss.att.com:80
 http://vnusc01.aCSs.att.com:80
 http://vnusc01.acss.att.com:80
+http://vnusc02.acsS.att.com:80
 http://vnusc02.acss.att.com:80
 http://vnusc03.acss.att.com:80
 http://vnusda.acss.att.com:80
@@ -2632,6 +2651,7 @@ https://28days.att.com:443
 https://365.att.com:443
 https://5gcentral.att.com:443
 https://911standalone.uc.att.com:443
+https://CONNecTmeEtINg.att.com:443
 https://EdS-fFDC-pw17.wireless.att.com:8080
 https://FAcCESs.stage.att.com:443
 https://H-135-207-0-17.research.att.com:443
@@ -2935,6 +2955,7 @@ https://astra-preprod.att.com:443
 https://astra-test-api.att.com:443
 https://astra-test.att.com:443
 https://astra.att.com:443
+https://athome.vpn.att.com:443
 https://atlabvpn.wireless.labs.att.com:443
 https://atlas.att.com:443
 https://atlaserror.smc.att.com:443
@@ -3542,6 +3563,7 @@ https://ebta.test.att.com:443
 https://ec.att.com:443
 https://ecare-mat.test-e.att.com:443
 https://ecat.em.att.com:443
+https://ecmng-prod.att.com:443
 https://ecommerce.wireless.att.com:443
 https://ed-dev-directvcommercial.test.att.com:443
 https://ed-dev-directvcommercial.test.att.com:8443
@@ -3723,6 +3745,7 @@ https://expressordering.att.com:443
 https://expressordering.cloud.att.com:443
 https://expressordering.stage-e.att.com:443
 https://expressportal.att.com:443
+https://expressticketing.acsS.att.com:443
 https://expressticketing.acss.att.com:443
 https://expressticketing.cloud.att.com:443
 https://expressticketing.stage-e.att.com:443
@@ -3783,6 +3806,7 @@ https://foundry.att.com:443
 https://fow.att.com:443
 https://fpspc3-dev-west.az.cloud.att.com:443
 https://fpspc3-stage-west.az.cloud.att.com:443
+https://fpspc3.az.cloud.att.com:443
 https://fpspc3.az.cloud.att.com:8443
 https://fraud.att.com:443
 https://frca-about.att.com:443
@@ -4795,6 +4819,7 @@ https://r-tst3.test-e.att.com:443
 https://r-tst4.test-e.att.com:443
 https://r.research.att.com:443
 https://rcscatt.wireless.labs.att.com:443
+https://rcscattg.wireless.labops.att.com:443
 https://rcscattg.wireless.labs.att.com:443
 https://rds.bus.att.com:443
 https://rds.eia.att.com:443
@@ -5540,6 +5565,7 @@ https://vndh671.acss.att.com:443
 https://vndh672.acss.att.com:443
 https://vndh673.acss.att.com:443
 https://vndh696.acss.att.com:443
+https://vndh697.acsS.att.com:443
 https://vndh697.acss.att.com:443
 https://vndh698.acss.att.com:443
 https://vndh699.acss.att.com:443
@@ -5737,6 +5763,7 @@ https://vnten04.acss.att.com:443
 https://vnuhg2.acss.att.com:443
 https://vnusc01.aCSs.att.com:443
 https://vnusc01.acss.att.com:443
+https://vnusc02.acsS.att.com:443
 https://vnusc02.acss.att.com:443
 https://vnusc03.acss.att.com:443
 https://vnusda.acss.att.com:443
