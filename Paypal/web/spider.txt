@@ -6093,3 +6093,28 @@
 [javascript] - https://www.paypal.com/auth/createchallenge/fe8324f4a8a8d08f/recaptchav3.js?_sessionID=4sFv8h0du3oGKMy8wIK1wwQtKnM5M9Od
 [javascript] - https://zettleintegrations.paypal.com:443/auth/createchallenge/76a8f5265245f8d5/recaptchav3.js?_sessionID=idm6Cro2TXaFZm8OsPSpkKykB1sVai85
 [url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=bad5d901-e3a0-909d-34d3-0190fee7fa1f&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=xoom.com&nonce=637931571298874667.3bc3104a-15d4-4ebd-bd0e-0e176f889aaf&state=DctBDsIgEEBR0KsYd7SMUAYWjWcZmGliIpmkavX4snh_960x5jycButHDKaAJcCCcCs5Y0wJp1BbAB_JwcLRRansKntxXgDTlnMh2ux4L7N-ab7vQs--_lT71LRfD17p81Z-vJoesv8B
+[href] - https://www.paypal.com/signin/authorize?client_id=AQnRNmwKLyKURzmUN7IGrYNIcaXKc2xMhjj5iRgXQHmRlL_yWgRRlEyHvtUn0wfkT0394HGHKlldnkFl&redirect_uri=https%3A%2F%2Fwww.braintreegateway.com%2Flogin_with_paypal_redirect&response_type=code&scope=openid+email&state=login-y0KxRLHAT4x4PjKR2d%2Bkc7jvcFsSxXx7n3OL3xo%2FavZZo6Tlg1V3cVP8myCsjmOagSWgOrYLnRH6KeeAZiTpig%3D%3D-%2Flogin
+[href] - https://www.paypal.com/signin/authorize?client_id=Aawr2vOkpQGNTXQAYIOQPVJoSCI2OnIIsTjmEM1Yx1MooV2aGxUqXeACIDZLS1AWVqUlBapiO0CJzG2F&redirect_uri=https%3A%2F%2Fsandbox.braintreegateway.com%2Flogin_with_paypal_redirect&response_type=code&scope=openid+email&state=login-LMI7%2BfsBXsaxch861CfvoDEP0uf9ymj32HWGAIHVfQAoH%2F1ExHUgu1RZS7p25L8AWaXga%2BmlllT4PFHVtYWsow%3D%3D-%2Flogin
+[javascript] - https://aadcdn.msftauth.net/shared/1.0/content/js/ConvergedLogin_PCore_BdGsyKr09CEVooArpGMldQ2.js
+[javascript] - https://history.paypal.com/auth/createchallenge/9928fd9e97b7bdce/recaptchav3.js?_sessionID=I2kyyypYm_RCLmyXJZdXQoBo-_oVlt1P
+[javascript] - https://history.paypal.com:443/auth/createchallenge/4279a32a250febcd/recaptchav3.js?_sessionID=0o9HonXf7aRYbYL8XtJhJ1gQvZ88FZmG
+[javascript] - https://paypalmanager.sandbox.paypal.com/_avirum_/AVIi051A62CDAF930002AVIl0AVIr1/rum.js
+[javascript] - https://qwac.paypal.com/auth/createchallenge/18a7a045565552ca/recaptchav3.js?_sessionID=EyLYv_LgtVStDdLLVxYw8RU6y9uvmn9e
+[javascript] - https://qwac.paypal.com:443/auth/createchallenge/bdddced6010e94b7/recaptchav3.js?_sessionID=c84mH2g7d6j-a8sZEWkjn-SppaLocSEQ
+[javascript] - https://securepayments.paypal.com/auth/createchallenge/5f458ce8933b1264/recaptchav3.js?_sessionID=cx2vY-Nnd7VYPqTN9ksLtoHoo8ZiPJ1R
+[javascript] - https://securepayments.paypal.com:443/auth/createchallenge/ea08e3b4bf4f4a11/recaptchav3.js?_sessionID=P2y1EnK2jyiFsBnNHAX3jBpsJ3JjYjWG
+[javascript] - https://www.blogger.com/static/v1/widgets/3892750800-widgets.js
+[javascript] - https://www.paypal.com/auth/createchallenge/129dab5783c038ff/recaptchav3.js?_sessionID=iQAGcIH10ig0-97qBY3U1ctVr2V_5yso
+[javascript] - https://www.paypal.com/auth/createchallenge/5fd6e4a8d17520e9/recaptchav3.js?_sessionID=5p-uXe9x9ETg3cVySrj6nkygV_cIbS-T
+[javascript] - https://www.paypal.com/auth/createchallenge/6e233a600e559f12/recaptchav3.js?_sessionID=AFS8jwD_kZilCUc2ZGVqvNS23hZ1-_wX
+[javascript] - https://www.paypal.com/auth/createchallenge/9b743d5301e011bf/recaptchav3.js?_sessionID=11VCbVKOx8oil515YDcEOIhkUGM6DWkE
+[javascript] - https://www.paypal.com/auth/createchallenge/a25a1bd4ffd1df93/recaptchav3.js?_sessionID=RJkUKqMBaf0ZGFyXj0YSvk-Wq2U9EMf5
+[javascript] - https://www.paypal.com/auth/createchallenge/da120f500dacb3a3/recaptchav3.js?_sessionID=dSLxt9aHnVDqyavkFhcey6kwsPzX1sZo
+[javascript] - https://www.paypal.com/auth/createchallenge/e6c5b570ce59bc08/recaptchav3.js?_sessionID=hdERGBLruRy6JHxI8Nn-HfCbd6So2YQT
+[javascript] - https://www.paypal.com/auth/createchallenge/e9cd4d273a81aa05/recaptchav3.js?_sessionID=vKfw234Ru2xXuis1-KVy327ahtGSky1l
+[javascript] - https://www.paypal.com/auth/createchallenge/f080c9d2e79f3783/recaptchav3.js?_sessionID=rwu8cwBZ_k01whJD4nA8kCnOEBgUz7TN
+[javascript] - https://www.paypal.com/auth/createchallenge/ff4437c88393ef8b/recaptchav3.js?_sessionID=P_Kt9cSnm3pWnjybsSUeoYrOnl1IReOd
+[javascript] - https://zettleintegrations.paypal.com:443/auth/createchallenge/87e8d610dc647691/recaptchav3.js?_sessionID=z216fgtQCEVmiAGo42-pRPhntQJ64IH-
+[url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=5ca2aa35-ef01-8f2b-ab63-f83762608639&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=xoom.com&nonce=637932438289486736.62d4e727-857b-47e9-8c7b-feadfaecbf2e&state=DYtBDsIwDMBa-Ari1g2lpUkPE2_J2lRCooq0weD55GDLF3vn3Nk4Gf5mcpgjlggpElBJlDHmKUNLgoCB7riGhFICVasu3DpLXTuIt_cy65fnxyb8GstPdUxVx_VoC3_e2p571UO2Pw
+[url] - [code-400] - http://help.xoom.com:443
+[url] - [code-403] - https://blog.xoom.com:8443

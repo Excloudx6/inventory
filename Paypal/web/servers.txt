@@ -100,6 +100,7 @@ http://fpdbs.paypal.com:80
 http://github-global.paypal.com:80
 http://gslink.paypal.com:80
 http://gsslink.paypal.com:80
+http://help.xoom.com:443
 http://help.xoom.com:80
 http://history.paypal.com:80
 http://id.sandbox.xoom.com:80
@@ -363,6 +364,7 @@ https://b.stats.paypal.com:443
 https://baas.stats.paypal.com:443
 https://balancepayout.paypal.com:443
 https://blog.xoom.com:443
+https://blog.xoom.com:8443
 https://business-signup.paypal.com:443
 https://business-v2.sandbox.paypal.com:443
 https://business.paypal.com:443
@@ -464,6 +466,7 @@ https://github-global.paypal.com:443
 https://gslink.paypal.com:443
 https://gsslink.paypal.com:443
 https://help.xoom.com:443
+https://help.xoom.com:8443
 https://history.paypal.com:443
 https://hnd.stats.paypal.com:443
 https://id.sandbox.xoom.com:443
