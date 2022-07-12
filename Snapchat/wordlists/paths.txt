@@ -13352,6 +13352,7 @@
 /minis-c97
 /minis-d40
 /minis-f64
+/minis-f74
 /minis/
 /minis/:app
 /minis/developer-portal/build-assets
@@ -13364,6 +13365,8 @@
 /minis/developer-portal/linked-minis-04e
 /minis/developer-portal/manage-users
 /minis/developer-portal/manage-users-716
+/minis/developer-portal/public-profiles
+/minis/developer-portal/public-profiles-76a
 /minis/developer-portal/snapcodes
 /minis/developer-portal/snapcodes-6c1
 /minis/developer-portal/submit-release
@@ -35189,6 +35192,7 @@ developer-portal/developing-your-app
 developer-portal/launch-mini
 developer-portal/linked-minis
 developer-portal/manage-users
+developer-portal/public-profiles
 developer-portal/snapcodes
 developer-portal/submit-release
 discover/asset/claimMedia
@@ -40764,6 +40768,7 @@ static/css/8599d9bc05303663.css
 static/css/85e66b229f6ba9a1.css
 static/css/87fb063fce404de1.css
 static/css/8bc0e8a0924f0fde.css
+static/css/8c62f24a24ddb16c.css
 static/css/91c1b69950cf9219.css
 static/css/93e0a41e372255fb.css
 static/css/986e548d33359790.css

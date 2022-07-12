@@ -7659,3 +7659,51 @@
 [url] - [code-400] - https://2021admin.access.chef-goodyearbr.ats.snapchat.com:443
 [url] - [code-400] - https://access.access.chef-goodyearbr.ats.snapchat.com:443
 [url] - [code-400] - https://access.backupaccess.chef-goodyearbr.ats.snapchat.com:443
+[form] - http://iosbeta.snapchat.com/?rb.routing.mode=proxy&rb.routing.signature=603552
+[form] - https://accounts.google.com/v3/signin/identifier?dsh=S-1241495360%3A1657647118412869&continue=https%3A%2F%2Fuc.appengine.google.com%2F_ah%2Fconflogin%3Fstate%3D%7EAJKiYcGd0LkEu2_y73bYq4AIma-gelvfGWFns9O0XfcK6iluDJVudLxyYLkMZiUWnkh3pgMWw3czKdsY1FrLDHLH6wJNTd-LVr79kE-4O1jCYt6WsATVBlAMZ4gHH6SCqVzE3YAP5a4XCTxCVuzJL7_bsvMrdOJLAk0P3GippOUra1oanL8sUcud9LdDqkp_33fRv19dhfPP&passive=true&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AX3vH39n8SscE6eOs7Rd3ZAhrJDnXk37GoTGmZcM256QXWNzpQELrT-MtaMUCHZ9DP-3JB_Fm6sZVQ
+[form] - https://accounts.google.com/v3/signin/identifier?dsh=S-251625954%3A1657647118651691&continue=https%3A%2F%2Fuc.appengine.google.com%2F_ah%2Fconflogin%3Fstate%3D%7EAJKiYcGxOWBhOz2v-2et4AKV0WcIzOPacS1oWkpfYwhR_jF-GHciczdT-zb2Jb7lj7fxNsEN35SS8vBTp7li1NANRrKh97XgQOHgRUc2fHiNDSxiApE_LP0x4ecpetMDcnmqpX0cpjWEqgUV39COLMZxUVWjuWlNe0_h2zcYstMjfnt3o6ZcJqgNMPLjc4Jbjo9OvPShqsUh&passive=true&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AX3vH38EiuqrArHouQBrebJgQMmMHv-GjlUM8n774cUIBR_KpeMQ2FBHJOgJyljnKOU66OLpl-RrnA
+[form] - https://iosbeta.snapchat.com/?rb.routing.mode=proxy&rb.routing.signature=603552
+[href] - https://accounts.google.com/SignUp?continue=https://uc.appengine.google.com/_ah/conflogin?state%3D~AJKiYcGd0LkEu2_y73bYq4AIma-gelvfGWFns9O0XfcK6iluDJVudLxyYLkMZiUWnkh3pgMWw3czKdsY1FrLDHLH6wJNTd-LVr79kE-4O1jCYt6WsATVBlAMZ4gHH6SCqVzE3YAP5a4XCTxCVuzJL7_bsvMrdOJLAk0P3GippOUra1oanL8sUcud9LdDqkp_33fRv19dhfPP&dsh=S-1241495360:1657647118412869&flowEntry=ServiceLogin&flowName=WebLiteSignIn&ifkv=AX3vH39n8SscE6eOs7Rd3ZAhrJDnXk37GoTGmZcM256QXWNzpQELrT-MtaMUCHZ9DP-3JB_Fm6sZVQ
+[href] - https://accounts.google.com/SignUp?continue=https://uc.appengine.google.com/_ah/conflogin?state%3D~AJKiYcGxOWBhOz2v-2et4AKV0WcIzOPacS1oWkpfYwhR_jF-GHciczdT-zb2Jb7lj7fxNsEN35SS8vBTp7li1NANRrKh97XgQOHgRUc2fHiNDSxiApE_LP0x4ecpetMDcnmqpX0cpjWEqgUV39COLMZxUVWjuWlNe0_h2zcYstMjfnt3o6ZcJqgNMPLjc4Jbjo9OvPShqsUh&dsh=S-251625954:1657647118651691&flowEntry=ServiceLogin&flowName=WebLiteSignIn&ifkv=AX3vH38EiuqrArHouQBrebJgQMmMHv-GjlUM8n774cUIBR_KpeMQ2FBHJOgJyljnKOU66OLpl-RrnA
+[href] - https://accounts.google.com/signin/usernamerecovery?continue=https://uc.appengine.google.com/_ah/conflogin?state%3D~AJKiYcGd0LkEu2_y73bYq4AIma-gelvfGWFns9O0XfcK6iluDJVudLxyYLkMZiUWnkh3pgMWw3czKdsY1FrLDHLH6wJNTd-LVr79kE-4O1jCYt6WsATVBlAMZ4gHH6SCqVzE3YAP5a4XCTxCVuzJL7_bsvMrdOJLAk0P3GippOUra1oanL8sUcud9LdDqkp_33fRv19dhfPP&dsh=S-1241495360:1657647118412869&flowEntry=ServiceLogin&flowName=WebLiteSignIn&ifkv=AX3vH39n8SscE6eOs7Rd3ZAhrJDnXk37GoTGmZcM256QXWNzpQELrT-MtaMUCHZ9DP-3JB_Fm6sZVQ
+[href] - https://accounts.google.com/signin/usernamerecovery?continue=https://uc.appengine.google.com/_ah/conflogin?state%3D~AJKiYcGxOWBhOz2v-2et4AKV0WcIzOPacS1oWkpfYwhR_jF-GHciczdT-zb2Jb7lj7fxNsEN35SS8vBTp7li1NANRrKh97XgQOHgRUc2fHiNDSxiApE_LP0x4ecpetMDcnmqpX0cpjWEqgUV39COLMZxUVWjuWlNe0_h2zcYstMjfnt3o6ZcJqgNMPLjc4Jbjo9OvPShqsUh&dsh=S-251625954:1657647118651691&flowEntry=ServiceLogin&flowName=WebLiteSignIn&ifkv=AX3vH38EiuqrArHouQBrebJgQMmMHv-GjlUM8n774cUIBR_KpeMQ2FBHJOgJyljnKOU66OLpl-RrnA
+[href] - https://docs.snap.com/assets/js/main.492948ae.js
+[href] - https://docs.snap.com/assets/js/runtime~main.64b4d27e.js
+[href] - https://my.snapchat.com/_next/static/chunks/f4b42bcd9824823e37b3d3186439099d81e2dac1.8e46d4b30551b5e01394.js
+[href] - https://my.snapchat.com:443/_next/static/chunks/f4b42bcd9824823e37b3d3186439099d81e2dac1.8e46d4b30551b5e01394.js
+[href] - https://snapchat.com/unlock/?type=SNAPCODE&uuid=470174b166c9406ea4bc4cca1f55ee90&metadata=01
+[href] - https://snapchat.com/unlock/?type=SNAPCODE&uuid=6457e9ebad0945fe9fd1df0ac1edddb9&metadata=01
+[href] - https://snapchat.com/unlock/?type=SNAPCODE&uuid=690f81f869484935bacd1123d4b2316b&metadata=01
+[href] - https://snapchat.com/unlock/?type=SNAPCODE&uuid=9b4ad5f8d718449b81dec438f8eefc15&metadata=01
+[href] - https://snapchat.com/unlock/?type=SNAPCODE&uuid=9fe5745b0367498ca92a40d7f20ed9e8&metadata=01
+[href] - https://story.snapchat.com/p/686ae83c-e2f4-4ca3-8cc6-5218ddad6979
+[href] - https://story.snapchat.com/p/77968e58-68de-48a7-ba2f-cfb62f0714ba
+[href] - https://story.snapchat.com/p/86cb2dde-ede5-47d1-9e59-7a412a02e0d7
+[href] - https://story.snapchat.com/p/898dd317-f637-4429-aa8f-4cd294f6597a
+[href] - https://story.snapchat.com/p/a35d9914-1295-4c75-a1bd-99e1ce03325e
+[href] - https://story.snapchat.com/p/f3584623-d96d-456a-acf0-b369af4cdb41
+[href] - https://story.snapchat.com/p/f97e050e-b4be-475c-a37f-f4ff3f62eb41
+[href] - https://www.snapchat.com/add/berbiedoll1
+[javascript] - https://accounts.snapchat.com:443/accounts/static/scripts/main.en-us.js?v=c9520fb01c8cde796161b550faba940467b6ee1f7e7e6a2e9e59a5da5a31bc4e
+[javascript] - https://ads-interfaces.sc-cdn.net/470e3335835b2ffa9de7.min.js
+[javascript] - https://ads-interfaces.sc-cdn.net/543e4170f1df977f18c7.min.js
+[javascript] - https://ads-interfaces.sc-cdn.net/d8922b0bb94d8b043818.min.js
+[javascript] - https://lens.snapchat.com/_next/static/25288-4fc0e90e513e3e1884c59ba79b3e751b0dd98f63/_buildManifest.js
+[javascript] - https://lens.snapchat.com/_next/static/25288-4fc0e90e513e3e1884c59ba79b3e751b0dd98f63/_middlewareManifest.js
+[javascript] - https://lens.snapchat.com/_next/static/25288-4fc0e90e513e3e1884c59ba79b3e751b0dd98f63/_ssgManifest.js
+[javascript] - https://lens.snapchat.com/_next/static/chunks/webpack-6eb741582df5e8cb.js
+[javascript] - https://lens.snapchat.com:443/_next/static/25288-4fc0e90e513e3e1884c59ba79b3e751b0dd98f63/_buildManifest.js
+[javascript] - https://lens.snapchat.com:443/_next/static/25288-4fc0e90e513e3e1884c59ba79b3e751b0dd98f63/_middlewareManifest.js
+[javascript] - https://lens.snapchat.com:443/_next/static/25288-4fc0e90e513e3e1884c59ba79b3e751b0dd98f63/_ssgManifest.js
+[javascript] - https://lens.snapchat.com:443/_next/static/chunks/webpack-6eb741582df5e8cb.js
+[javascript] - https://my-lenses-staging.snapchat.com:443/498.bda4805c.bundle.js
+[javascript] - https://my-lenses-staging.snapchat.com:443/app.701388d0.bundle.js
+[javascript] - https://my-lenses.snapchat.com:443/350.867997db.bundle.js
+[javascript] - https://my-lenses.snapchat.com:443/app.56285382.bundle.js
+[javascript] - https://my.snapchat.com/_next/static/sBfEF5Y_B0vwkTf8I1OUU/_buildManifest.js
+[javascript] - https://my.snapchat.com/_next/static/sBfEF5Y_B0vwkTf8I1OUU/_ssgManifest.js
+[javascript] - https://my.snapchat.com:443/_next/static/sBfEF5Y_B0vwkTf8I1OUU/_buildManifest.js
+[javascript] - https://my.snapchat.com:443/_next/static/sBfEF5Y_B0vwkTf8I1OUU/_ssgManifest.js
+[javascript] - https://puppy.snapchat.com/cms-portal/static/js/main.1a829a33.js
+[url] - [code-400] - https://account-access.chef-goodyearbr.ats.snapchat.com:443
+[url] - [code-400] - https://configaccess.backupaccess.chef-goodyearbr.ats.snapchat.com:443
