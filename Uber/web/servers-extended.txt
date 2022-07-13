@@ -1247,6 +1247,7 @@ http://learning-hub.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] 
 http://learning.UBEriNtERNaL.com:80 [null] [301] [null] [null] ["104.36.195.150"] ["https://learning.UBEriNtERNaL.com/"] ["ufe"] [null] [];
 http://learning.uberinternal.com:80 [null] [301] [null] [null] ["104.36.195.150"] ["https://learning.uberinternal.com/"] ["ufe"] [null] [];
 http://legaldb.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://legaldb.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
+http://lert.uber.com:443 ["Error Page"] [400] [891275] ["text/html"] ["85.222.140.6"] [null] ["sfdcedge"] [null] [];
 http://lert.uber.com:80 [null] [200] [5882] ["text/html"] ["85.222.140.6"] ["https://lert.uber.com/"] ["sfdcedge"] [["ApexPages","Salesforce"]] [];
 http://libra.uBERinterNaL.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.197.214"] ["https://libra.uBERinterNaL.com/"] ["ufe"] [["Envoy"]] [];
 http://libra.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.197.214"] ["https://libra.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
