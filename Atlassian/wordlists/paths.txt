@@ -659,6 +659,7 @@
 ./app-access.js
 ./app-switcher
 ./app-switcher.135a04f1.js
+./app-switcher.cd5fe306.js
 ./app-switcher.d
 ./app-switcher.d.ts
 ./app-switcher.js
@@ -1163,6 +1164,7 @@
 ./de.json
 ./de/messages.json
 ./debug-ui.a8814733.js
+./debug-ui.f799a251.js
 ./debug.js
 ./debuggability
 ./decision
@@ -3569,6 +3571,7 @@
 ./settings/pug/siteSettings/siteSettingsShouldShowBridge.pug
 ./settings/pug/siteSettings/siteSettingsShouldShowExtensions.pug
 ./settle.js
+./setup.7c06acad.js
 ./setup.7d1d1391.js
 ./setup.eadc4b56.js
 ./sha
@@ -3595,6 +3598,7 @@
 ./shortcut.js
 ./si
 ./si.js
+./sidebar-panel-content.58cb510f.js
 ./sidebar-panel-content.b443db9d.js
 ./sign-in
 ./sign-in.d
@@ -4014,6 +4018,7 @@
 ./threads.js
 ./three-d-secure
 ./thumbnail.styl
+./tile.graphql
 ./tileCreation.html
 ./timePicker.styl
 ./timers.js
@@ -4156,6 +4161,7 @@
 ./v5.js
 ./validate.js
 ./vault-manager
+./vendor.2a278175.js
 ./vendor.c20b869a.js
 ./vendor.e69420a6.js
 ./vendor/sjcl
@@ -4553,6 +4559,7 @@
 /419
 /4Pv
 /4Xn
+/4ls.7a617fe1.svg
 /4o0
 /500.html
 /583.073954c2.js
@@ -5386,6 +5393,7 @@
 /atlassian-access
 /atlassian-account/resources/
 /atlassian-connect/all
+/atlassian-logo.45ffdd6b.svg
 /atlassian-plugins-jquery/jquery.4.0.2-atlassian-patched.js
 /atlassian-stands-with-ukraine
 /audit-log
@@ -5406,6 +5414,7 @@
 /authorization
 /authorize
 /authorize?
+/auto-assign
 /available-products/api/available-products
 /available-products/api/product-configuration
 /avatar
@@ -5468,6 +5477,7 @@
 /blog/
 /boot
 /boot/defaults
+/brainwriting.a20a2aa4.svg
 /brand
 /brand-guidelines
 /bridge
@@ -5494,10 +5504,15 @@
 /campaign_id/
 /cancel
 /canvas
+/canvas-favicon.prod.d8b51c40.svg
 /canvas-icon.459c0db2.svg
+/canvas-logo-preview-dark.d5a36e40.svg
 /canvas-logo-preview.177bbc26.svg
 /canvas-logo-preview.2340beea.svg
+/canvas-logo-preview.3c473c78.svg
 /canvas/
+/canvas/create
+/canvas/feedback/:product
 /canvas/whiteboard/:boardId
 /capabilities/
 /capabilities/:capabilityId
@@ -5966,6 +5981,7 @@
 /display/:spaceKey/customcontent/list/ac%3Acom.addonengine.analytics%3Aspace-analytics
 /display/:spaceKey/customcontent/list/ac%3Acom.atlassian.confluence.plugins.confluence-questions%3Aquestion
 /display/~
+/disruptive-brainstorm.c66aaa03.svg
 /dist/
 /dist/connect/plugin.min.js
 /dist/icons-sprite.svg
@@ -6461,6 +6477,7 @@
 /iframe.js
 /ignoreinvite
 /image
+/image-icon.5793eb17.svg
 /image-icon.59b48dd4.svg
 /image/metadata
 /images/
@@ -7195,6 +7212,7 @@
 /net
 /new-authoring/
 /new-question
+/new-whiteboard.b69d7e5c.svg
 /newWorkbook/
 /nmq
 /noaccess
@@ -7659,6 +7677,7 @@
 /post-migration/resources/
 /post_error_to_splunk?err_source=
 /post_install
+/postmortem.202c8c2e.svg
 /posts
 /posts/
 /pre
@@ -7679,6 +7698,7 @@
 /pricing/standard
 /pricing?ui_step=
 /pricing?ui_step=314&amp;ui_element=5
+/prioritization.38a59a01.svg
 /privacy-policy
 /private
 /private/tmp
@@ -8197,6 +8217,7 @@
 /signup/rename/site
 /signup/welcome
 /signup/welcome/sent
+/simple-retro.0f29856a.svg
 /site
 /site/
 /siteSamlSignedOut
@@ -8336,6 +8357,8 @@
 /statuspage/resources/
 /step-up/start
 /step/1
+/sticker-default.10ce6f6c.svg
+/sticky-note-pack.bd549ecd.svg
 /stop
 /storage
 /store/

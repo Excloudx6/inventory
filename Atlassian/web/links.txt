@@ -806,6 +806,7 @@ https://app.boxcn.net
 https://app.contentful.com/spaces
 https://app.getbeamer.com
 https://app.getbeamer.com/
+https://app.getbeamer.com/js/beamer-embed.js
 https://app.launchdarkly.com
 https://app.opsgenie.com
 https://app.optimizely.com/js/innie.js
@@ -881,6 +882,7 @@ https://b045f3d1c2354543a294d717bee1898f@o55978.ingest.sentry.io/5988903
 https://backend.getbeamer.com
 https://backend.getbeamer.com/
 https://bb-chats-integration.services.atlassian.com/api/slack/teams/login?source=pi-apps
+https://bb8cc6431d694cd9929d63152eb7436f@o55978.ingest.sentry.io/5988964
 https://bdb974119d4f4ca68f0f0b92f88b03f4@api.atlassian.com/sentry/1183
 https://bitbucket.org
 https://bitbucket.org/
@@ -2114,6 +2116,8 @@ https://docs.atlassian.com/jira-software/REST/latest/
 https://docs.atlassian.com/software/jira/docs/api/REST/latest/
 https://docs.atlassian.com/software/jira/docs/api/latest/
 https://docs.centrify.com/Content/Applications/AppsWeb/JIRACloud.htm
+https://docs.google.com/forms/d/e/1FAIpQLSc1L5LtK5cLG6cITy-xD64Qld7X8OZAPvTimKFePfQOHjezlA/viewform?usp=sf_link
+https://docs.google.com/forms/d/e/1FAIpQLSeznfsmwXry4iWjMJ01qGPA9qYsdX3qSZXFp30ror24WWH96A/viewform?usp=sf_link
 https://docs.microsoft.com/en-us/azure/active-directory/active-directory-saas-atlassian-cloud-tutorial
 https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/atlassian-cloud-provisioning-tutorial
 https://domain-check.atlassian.com/submit
@@ -2135,6 +2139,7 @@ https://events.atlassian.com/developer_day22?ref=Developer-Day-22&amp;utm_source
 https://events.launchdarkly.com
 https://example.com
 https://example.com/
+https://fabric-development.jira-dev.com
 https://fb.me/react-async-component-lifecycle-hooks
 https://fcca54ff96264820ae59f8220b8769a9@api.atlassian.com/sentry-cloud/5988890
 https://fcca54ff96264820ae59f8220b8769a9@api.atlassian.com/sentry/1167
@@ -2168,6 +2173,8 @@ https://github.com/indutny/elliptic/issues
 https://github.com/launchdarkly/react-client-sdk
 https://github.com/zloirock/core-js
 https://github.com/zloirock/core-js/blob/v3.21.1/LICENSE
+https://github.com/zloirock/core-js/blob/v3.22.7/LICENSE
+https://github.com/zloirock/core-js/blob/v3.23.3/LICENSE
 https://github.com/{u}
 https://gitlab.tableausoftware.com/DataCatalog/data-catalog-shared.git
 https://go.alvexo.com/
@@ -2829,6 +2836,7 @@ https://wac-cdn.atlassian.com/static/master/1144/assets/build/js/
 https://wac-cdn.atlassian.com/static/master/1185/assets/build/js/
 https://wac-cdn.atlassian.com/static/master/1233/assets/build/js/
 https://wac-cdn.atlassian.com/static/master/1318/assets/build/js/
+https://wac-cdn.atlassian.com/static/master/1369/assets/build/js/
 https://wac-cdn.atlassian.com/static/master/321/assets/build/js/
 https://wac-cdn.atlassian.com/static/master/369/assets/build/js/
 https://wac-cdn.atlassian.com/static/master/391/assets/build/js/
