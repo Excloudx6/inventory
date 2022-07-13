@@ -108,6 +108,8 @@ api.au-cdr.stage.paypal.com
 api.au10tix.stage.paypal.com
 api.bofa.stage.paypal.com
 api.braintree.stage.paypal.com
+api.browserstack-vip1.stage.paypal.com
+api.browserstack-vip2.stage.paypal.com
 api.bt-fraud-protection.stage.paypal.com
 api.cardinal.stage.paypal.com
 api.china-fitenv-1.stage.paypal.com
@@ -1046,6 +1048,7 @@ dub.stats.paypal.com
 duo.xoom.com
 earthbound.stats.paypal.com
 earthport.partners.xoom.com
+eastsac.stats.paypal.com
 ebayreports.paypal.com
 ecommerce.paypal.com
 educacionysociedadprimaria.stats.paypal.com
@@ -1132,8 +1135,12 @@ furtherglory.stats.paypal.com
 furukawa-jimusho.stats.paypal.com
 gadget.paypal.com
 garigariweb.blog66.stats.paypal.com
+gateway.isdh.stats.paypal.com
 gayathrisrinivasan.stats.paypal.com
+gcp.skripnikmarina.stats.paypal.com
 geekwhisperer.stats.paypal.com
+gfc.stats.paypal.com
+gis.co.dakota.stats.paypal.com
 git.xoom.com
 github-global.paypal.com
 globaled.paypal.com
@@ -1249,6 +1256,7 @@ m.paypal.com
 m.stage2mobile01.paypal.com
 m.xoom.com
 maddyhacking.stats.paypal.com
+madebytheo.stats.paypal.com
 madeinjilso.stats.paypal.com
 madisoncrossroads.stats.paypal.com
 magrelay.xoom.com
@@ -1293,6 +1301,7 @@ mobile.xoom.com
 mobileclient.paypal.com
 mobileclient.sandbox.paypal.com
 mobilepayments.paypal.com
+modelerkiyo.blog.stats.paypal.com
 modifiedcarblog.blog.stats.paypal.com
 moneyadmin.stage2mb101.paypal.com
 moneyadmin.stage2mb102.paypal.com
@@ -1446,6 +1455,7 @@ oma.staging.xoom.com
 onboarding.glb.paypal.com
 onboarding.paypal.com
 ontvfree.stats.paypal.com
+oomizuao.stats.paypal.com
 origin-ad.paypal.com
 origin-api-m.sandbox.paypal.com
 origin-api-s.sandbox.paypal.com
@@ -1494,6 +1504,7 @@ partner-monitoring.paypal.com
 partner-test.stage.paypal.com
 partner.stage.paypal.com
 partner.xoom.com
+partnerassessment.secure.stats.paypal.com
 partnermanager-migration.glb.paypal.com
 partnermanager.paypal.com
 partnerships.sandbox.xoom.com
@@ -1790,6 +1801,7 @@ shororitubd.stats.paypal.com
 shq.stats.paypal.com
 shrpt.paypal.com
 siNONimos.staging.xoom.com
+siTUSmp3z.xoom.com
 siesacrm.stats.paypal.com
 sign-on.stats.paypal.com
 simconnect.stats.paypal.com
@@ -2105,6 +2117,7 @@ white.stats.paypal.com
 whiteslut4blackkings.stats.paypal.com
 who.stats.paypal.com
 whocares.stats.paypal.com
+wichitariverfest.stats.paypal.com
 wifi100.stats.paypal.com
 wild.stats.paypal.com
 wildcatz.stats.paypal.com
@@ -2132,6 +2145,8 @@ wowcirclewow.stats.paypal.com
 wpslsoccer.stats.paypal.com
 ws.sandbox.xoom.com
 wuprzeszow.stats.paypal.com
+wwW.Bhaswanth.stats.paypal.com
+wwW.Venus.es.paypal.com
 wwW26.sandbox.xoom.com
 www-945.stats.paypal.com
 www-awd.stats.paypal.com
@@ -2163,6 +2178,9 @@ www.bofa.staGE.paypal.com
 www.bofa.stage.paypal.com
 www.braintree.stage.paypal.com
 www.bres.stats.paypal.com
+www.browserstack-vip1.stage.paypal.com
+www.browserstack-vip2.stage.paypal.com
+www.browserstack.stage.paypal.com
 www.bt-fraud-protection.stage.paypal.com
 www.cardinal.stage.paypal.com
 www.casopis.stats.paypal.com
@@ -2239,6 +2257,7 @@ www.gopaychrome.stage.paypal.com
 www.gopaye2e.stage.paypal.com
 www.gopaye2e3.stage.paypal.com
 www.h.ims.stats.paypal.com
+www.habitatge.stats.paypal.com
 www.headspin.stage.paypal.com
 www.heroku.stage.paypal.com
 www.honey-paypal.stage.paypal.com
@@ -2270,6 +2289,7 @@ www.lnes.stats.paypal.com
 www.lnpdmz.stage.paypal.com
 www.locus.stats.paypal.com
 www.lovell.fhcc.stats.paypal.com
+www.marforcom.stats.paypal.com
 www.mdac.stats.paypal.com
 www.meka-elgoibar.stats.paypal.com
 www.menu.stats.paypal.com
@@ -2283,6 +2303,7 @@ www.networktoken.stage.paypal.com
 www.nnvl.stats.paypal.com
 www.nrvs.stats.paypal.com
 www.ogawa.stats.paypal.com
+www.opel-astra-h.stats.paypal.com
 www.partner.stage.paypal.com
 www.partner.stage2.paypal.com
 www.paypal.com
@@ -2293,6 +2314,7 @@ www.ppcpn.stage.paypal.com
 www.ppro.stage.paypal.com
 www.publicaffairs.stats.paypal.com
 www.quickbooks.stage2.paypal.com
+www.regione.stats.paypal.com
 www.reibi.stats.paypal.com
 www.rib.stats.paypal.com
 www.risku.stage.paypal.com
@@ -2423,6 +2445,7 @@ www.stage2d0117.stage.paypal.com
 www.stage2d0118.stage.paypal.com
 www.stage2d0119.stage.paypal.com
 www.stage2d0120.stage.paypal.com
+www.stage2d0121.STAGE.paypal.com
 www.stage2d0121.stage.paypal.com
 www.stage2d0122.stage.paypal.com
 www.stage2d0123.stage.paypal.com
@@ -2847,8 +2870,10 @@ www.tsp.stage.paypal.com
 www.uszn.stats.paypal.com
 www.venmo.stage.paypal.com
 www.venmomsm.stage.paypal.com
+www.verwaltung.personal.stats.paypal.com
 www.vestibular.stats.paypal.com
 www.videosfoda.stats.paypal.com
+www.vinv.stats.paypal.com
 www.webhnotifications-perf.stage.paypal.com
 www.webhnotifications.stage.paypal.com
 www.xoom.com
@@ -2871,6 +2896,7 @@ xn--6trp61j.stats.paypal.com
 xoom.com
 xpsft.xoom.com
 yasashiinosekaiwa.stats.paypal.com
+ychen0203.stats.paypal.com
 yekaterinburg.stats.paypal.com
 yolosolucionoasi.stats.paypal.com
 zazitky.stats.paypal.com
