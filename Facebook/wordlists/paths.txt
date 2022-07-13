@@ -1638,6 +1638,7 @@
 /accounts/recovery/landing/
 /accounts/recovery/password_reset/
 /accounts/registered/
+/accounts/remove/request/post/temporary/
 /accounts/remove/request/temporary
 /accounts/remove/request/temporary/
 /accounts/remove/revoke_wrong_email/
@@ -1866,6 +1867,9 @@
 /api/v1/media/
 /api/v1/media/configure/
 /api/v1/media/configure_sidecar/
+/api/v1/media/update_like_and_view_counts_visibility/
+/api/v1/media/{compound_media_id}/disable_comments/
+/api/v1/media/{compound_media_id}/enable_comments/
 /api/v1/media/{media_id_str}/{slider_id_str}/story_slider_voters/
 /api/v1/media/{media_id}/comments/
 /api/v1/media/{media_id}/comments/{parent_comment_id}/child_comments/
