@@ -116,6 +116,7 @@ http://apextoolkit.att.com:80
 http://api-dmp.wireless.att.com:80
 http://api-east.dataflow.iot.att.com:80
 http://api-east.flow.cloud.att.com:80
+http://api-simmanagement.att.com:443
 http://api-solutions.firstnet.att.com:80
 http://api-test-dmp.wireless.att.com:80
 http://api-test-solutions.firstnet.att.com:80
@@ -279,6 +280,7 @@ http://believechicago.att.com:8080
 http://believechicago.att.com:8443
 http://believedallas.att.com:80
 http://believelosangeles.att.com:443
+http://believelosangeles.att.com:8080
 http://believelosangeles.att.com:8443
 http://believeneworleans.att.com:80
 http://believeneworleans.att.com:8443
@@ -559,6 +561,7 @@ http://dss-p2dss1w8.att.com:8000
 http://dss-p2mbw30.att.com:8000
 http://dss-p2mbw30.att.com:8443
 http://dss-p2mbw8.att.com:8000
+http://dss-p2mbw8.att.com:8443
 http://dss-p9mbw11.att.com:8000
 http://dss-p9mbw22.att.com:8000
 http://dss-p9mbw30.att.com:8000
@@ -643,6 +646,7 @@ http://ems2.hvs.att.com:80
 http://ems201.hvs.att.com:80
 http://ems202.hvs.att.com:80
 http://ems2pub-cfg.hvs.att.com:80
+http://enable-ext.att.com:80
 http://enable-extlb.att.com:80
 http://encode-atlas.att.com:80
 http://engage.att.com:80
@@ -852,6 +856,7 @@ http://iiwc2-da.dlife.att.com:8888
 http://il.att.com:80
 http://illinois.att.com:443
 http://illinois.att.com:80
+http://illinois.att.com:8080
 http://illinois.att.com:8443
 http://imgiptv.att.com:80
 http://imo.att.com:80
@@ -1281,6 +1286,7 @@ http://new.serviceguide.att.com:80
 http://newbusinesslicense.att.com:80
 http://newhampshire.att.com:443
 http://newhampshire.att.com:80
+http://newhampshire.att.com:8080
 http://newhampshire.att.com:8443
 http://newjersey.att.com:443
 http://newjersey.att.com:80
@@ -2912,14 +2918,22 @@ https://apkrepo.iqidev.labs.att.com:443
 https://apollo-a.att.com:443
 https://app.officeathand.att.com:443
 https://appcontrol.firstnet.att.com:443
+https://applesso.att.com:443
 https://applyhorizons.att.com:443
 https://apps.bd.labs.att.com:443
 https://apps.firstnet.att.com:443
 https://apps.wholesale.att.com:8888
 https://aprimoadobeprod.att.com:443
 https://aprimoadobeuat.att.com:443
+https://aps.att.com:3000
+https://aps.att.com:4080
 https://aps.att.com:443
+https://aps.att.com:5000
 https://aps.att.com:80
+https://aps.att.com:8000
+https://aps.att.com:8080
+https://aps.att.com:8443
+https://aps.att.com:8888
 https://apsapidev1.att.com:443
 https://apsapidev2.att.com:443
 https://apstesmp1.att.com:443
@@ -3685,6 +3699,7 @@ https://ems2.hvs.att.com:443
 https://ems201.hvs.att.com:443
 https://ems202.hvs.att.com:443
 https://ems2pub-cfg.hvs.att.com:443
+https://enable-extlb.att.com:443
 https://encode-atlas.att.com:443
 https://engage.att.com:443
 https://engage.att.com:8443
@@ -5187,6 +5202,7 @@ https://tdctest.att.com:443
 https://tdice-recommendations-test.stage.att.com:443
 https://tdm.att.com:443
 https://tdp.att.com:443
+https://tdpdev.att.com:443
 https://teams-e911.att.com:443
 https://teams-e911.cloud.att.com:443
 https://techbuzz.att.com:443
@@ -5385,6 +5401,7 @@ https://utildl3r4vdna.att.com:443
 https://utildl3r4vdna.itn.labs.att.com:443
 https://utildl4r4vdna.att.com:443
 https://utildl4r4vdna.itn.labs.att.com:443
+https://uverseactivation-cert.att.com:443
 https://uverseactivation.att.com:443
 https://uversecentral-bpe.att.com:443
 https://uversecentral-bpea.att.com:443

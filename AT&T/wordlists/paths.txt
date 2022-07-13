@@ -24381,6 +24381,7 @@
 /subscriptions
 /subscriptions/
 /subscriptions/:tab?/:type?/:id?
+/subscriptions/unsubscribe
 /subscriptions/v2/subscription/cancel/data?uri=
 /subscriptions/v2/subscription/create/data?uri=
 /subscriptions/v2/subscription/decrypt/account
