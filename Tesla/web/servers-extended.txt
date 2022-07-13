@@ -204,6 +204,7 @@ http://reassignment-ui.tesla.com:80 ["Contract Reassignment UI"] [200] [3679] ["
 http://recycling.tesla.com:80 ["Access Denied"] [403] [268] ["text/html"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 http://referral.tesla.com:80 ["The Tesla Mosaic"] [200] [6659] ["text/html"] ["72.10.32.90"] ["https://referral.tesla.com/error.php?error=0"] ["nginx"] [["Nginx","PHP"]] [];
 http://repair.tesla.com:80 ["Repair"] [200] [34716] ["text/html"] ["104.90.109.222"] ["https://repair.tesla.com/"] [null] [["Google Font API"]] [];
+http://roadside.tesla.com:80 [null] [301] [null] [null] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 http://roadsideinvoice.tesla.com:80 [null] [401] [14] ["text/plain"] ["104.90.109.222"] ["https://roadsideinvoice.tesla.com/"] [null] [null] [];
 http://sales-prd.tesla.com:80 ["Access Denied"] [403] [272] ["text/html"] ["104.90.109.222"] [null] ["AkamaiGHost"] [null] [];
 http://schedule.teSLa.com:80 [null] [301] [null] [null] ["104.76.200.116"] [null] ["AkamaiGHost"] [null] [];
@@ -480,6 +481,7 @@ https://reassignment-ui.tesla.com:443 ["Contract Reassignment UI"] [200] [3679] 
 https://recycling.tesla.com:443 ["Access Denied"] [403] [268] ["text/html"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 https://referral.tesla.com:443 ["The Tesla Mosaic"] [200] [6659] ["text/html"] ["72.10.32.90"] ["https://referral.tesla.com/error.php?error=0"] ["nginx"] [["Nginx","PHP"]] [];
 https://repair.tesla.com:443 ["Repair"] [200] [37790] ["text/html"] ["104.90.109.222"] [null] [null] [["Akamai","Google Font API"]] [];
+https://roadside.tesla.com:443 [null] [301] [null] [null] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 https://roadsideinvoice.tesla.com:443 [null] [401] [14] ["text/plain"] ["104.90.109.222"] [null] [null] [null] [];
 https://sales-prd.tesla.com:443 ["Access Denied"] [403] [271] ["text/html"] ["104.90.109.222"] [null] ["AkamaiGHost"] [null] [];
 https://schedule.teSLa.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["104.76.200.116"] [null] ["AkamaiGHost"] [null] [];

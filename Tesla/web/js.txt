@@ -991,6 +991,7 @@ https://mobile.tesla.com/appstore/lib/jquery/jquery.js
 https://mobile.tesla.com/appstore/lib/modernizr/modernizr.js
 https://mobile.tesla.com/appstore/lib/spinjs/spin.js
 https://myapps.microsoft.com/bundle/low-change-freq-vendors.444ed699.js
+https://myapps.microsoft.com/bundle/low-change-freq-vendors.617da133.js
 https://myapps.microsoft.com/bundle/low-change-freq-vendors.99614edd.js
 https://myapps.microsoft.com/bundle/low-change-freq-vendors.a2671605.js
 https://myapps.microsoft.com/bundle/low-change-freq-vendors.dbd47316.js
@@ -998,6 +999,7 @@ https://myapps.microsoft.com/bundle/main.1c5efadf.js
 https://myapps.microsoft.com/bundle/main.2544e424.js
 https://myapps.microsoft.com/bundle/main.37ed32c7.js
 https://myapps.microsoft.com/bundle/main.69982790.js
+https://myapps.microsoft.com/bundle/main.743c82e7.js
 https://myapps.microsoft.com/bundle/main.7abf4c72.js
 https://myapps.microsoft.com/bundle/main.8b6336e4.js
 https://myapps.microsoft.com/bundle/main.a586e0b0.js
@@ -1010,6 +1012,7 @@ https://myapps.microsoft.com/bundle/moderate-change-freq-vendors.5927f0ff.js
 https://myapps.microsoft.com/bundle/moderate-change-freq-vendors.74c28090.js
 https://myapps.microsoft.com/bundle/moderate-change-freq-vendors.7a3ad98b.js
 https://myapps.microsoft.com/bundle/moderate-change-freq-vendors.8d4e8f51.js
+https://myapps.microsoft.com/bundle/moderate-change-freq-vendors.b7dc6d8a.js
 https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/1.7.0/js/okta-sign-in.min.js
 https://origin-assets-teslaaccount-ownership-ownership.tesla.com/static/js/main.02341a2e.js
 https://origin-assets-teslaaccount-ownership-ownership.tesla.com/static/js/main.0353e72c.js
@@ -1137,9 +1140,11 @@ https://repair.tesla.com/main-es5.ef5bc81137f20ce620f6.js
 https://repair.tesla.com/main.035815f4c2f83714.js
 https://repair.tesla.com/main.3756a0afe81185c6.js
 https://repair.tesla.com/main.396ce7b50029d074.js
+https://repair.tesla.com/main.437c609597f2ba07.js
 https://repair.tesla.com/main.f022849b4482c59f.js
 https://repair.tesla.com/polyfills-es2015.3578e78db5f6cfee80a8.js
 https://repair.tesla.com/polyfills-es5.5a5e42bd04669ae2bc6c.js
+https://repair.tesla.com/polyfills.1e4efad7f7474df2.js
 https://repair.tesla.com/polyfills.a59c78599cfddb93.js
 https://repair.tesla.com/runtime-es2015.01e20dd6ab5117ae734e.js
 https://repair.tesla.com/runtime-es2015.0f2c5a189a05ea6b83c8.js
@@ -1152,6 +1157,7 @@ https://repair.tesla.com/runtime-es5.7c7c0fa5cc50fe9aedeb.js
 https://repair.tesla.com/runtime-es5.c8f0da909f30e255d2a8.js
 https://repair.tesla.com/runtime-es5.d94692a36ebd717009bc.js
 https://repair.tesla.com/runtime.20cf804b09fbd57d.js
+https://repair.tesla.com/runtime.611a63542b9a3c83.js
 https://repair.tesla.com/runtime.9ea8aeda29c4c975.js
 https://repair.tesla.com/runtime.f2c0c1df65479f2a.js
 https://repair.tesla.com/runtime.fa0c51e760f4aaaa.js
@@ -1458,13 +1464,16 @@ https://toolbox.tesla.com/js/vendors.685f65e94c59c0717173.js
 https://toolbox.tesla.com:443/js/app.072d6878cfc9fe0f73db.js
 https://toolbox.tesla.com:443/js/app.094f1e6f1f8bc683b8f3.js
 https://toolbox.tesla.com:443/js/app.1b06b5d4418d64c60c98.js
+https://toolbox.tesla.com:443/js/app.26722dfe560680b0ccbc.js
 https://toolbox.tesla.com:443/js/app.4061a722d0dc98125f72.js
 https://toolbox.tesla.com:443/js/app.d1c7e09ea8721c5b3000.js
 https://toolbox.tesla.com:443/js/external.prod.53968ed78676c12e1a16.js
 https://toolbox.tesla.com:443/js/external.prod.63b8b0e7771b3f1d8a54.js
 https://toolbox.tesla.com:443/js/external.prod.6bb3eabb342074747bea.js
 https://toolbox.tesla.com:443/js/external.prod.81c04131c4ac42a4cd9f.js
+https://toolbox.tesla.com:443/js/external.prod.f264a493bcddb67db0b9.js
 https://toolbox.tesla.com:443/js/manifest.59dc4ca66a93b22b5b21.js
+https://toolbox.tesla.com:443/js/vendors.1267d39e9682db8cf8fd.js
 https://toolbox.tesla.com:443/js/vendors.33f981e1f29e368373fa.js
 https://toolbox.tesla.com:443/js/vendors.3947b81b3d875b08cb13.js
 https://toolbox.tesla.com:443/js/vendors.4cc73c5cab84ed7c2c23.js
@@ -1688,6 +1697,7 @@ https://workforce.tesla.com/runtime.25e4906fe594103b3654.js
 https://workforce.tesla.com/runtime.3827e988bbe33f3c2dc1.js
 https://workforce.tesla.com/runtime.3f0ca7fe4a0d03ebefb3.js
 https://workforce.tesla.com/runtime.4902756864b234592d5e.js
+https://workforce.tesla.com/runtime.62b019540f256556eaa4.js
 https://workforce.tesla.com/runtime.66d74bb78dbdcaacf94a.js
 https://workforce.tesla.com/runtime.74a4ca3cbff6595a7736.js
 https://workforce.tesla.com/runtime.8cfb4c29839d506e926d.js
@@ -1712,6 +1722,7 @@ https://workforce.tesla.com:443/runtime.25e4906fe594103b3654.js
 https://workforce.tesla.com:443/runtime.3827e988bbe33f3c2dc1.js
 https://workforce.tesla.com:443/runtime.3f0ca7fe4a0d03ebefb3.js
 https://workforce.tesla.com:443/runtime.4902756864b234592d5e.js
+https://workforce.tesla.com:443/runtime.62b019540f256556eaa4.js
 https://workforce.tesla.com:443/runtime.66d74bb78dbdcaacf94a.js
 https://workforce.tesla.com:443/runtime.74a4ca3cbff6595a7736.js
 https://workforce.tesla.com:443/runtime.8cfb4c29839d506e926d.js
