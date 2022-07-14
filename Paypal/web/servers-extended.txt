@@ -168,7 +168,7 @@ http://partner-monitoring.paypal.com:80 ["404 Not Found"] [404] [277] ["text/htm
 http://partner-monitoring.paypal.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["35.190.0.194"] [null] [null] [null] [];
 http://partner.xoom.com:80 ["Send Money Online | Xoom, a PayPal Service"] [200] [59103] ["text/html"] ["151.101.129.21"] ["https://partner.xoom.com/"] [null] [["Contentful","Envoy","Varnish"]] [];
 http://partnermanager-migration.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.188"] [null] [null] [null] [];
-http://partnermanager-migration.glb.paypal.com:80 [null] [200] [6891] ["text/html"] ["173.0.93.189"] ["https://partnermanager-migration.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
+http://partnermanager-migration.glb.paypal.com:80 ["Digital Wallets, Money Management, and More | PayPal US | PayPal US"] [200] [199082] ["text/html"] ["173.0.93.189"] ["https://partnermanager-migration.glb.paypal.com/us/home"] ["nginx"] [["Nginx"]] [];
 http://partnermanager.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.214"] [null] [null] [null] [];
 http://partnermanager.paypal.com:80 ["PayPal Partner Manager"] [200] [61799] ["text/html"] ["173.0.93.189"] ["https://partnermanager.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://payflowlink-edgemigration.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.188"] [null] [null] [null] [];
