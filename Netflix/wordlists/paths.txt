@@ -6952,6 +6952,9 @@
 /api/choices/?format=json
 /api/commerce/fullstory/getId
 /api/config
+/api/custom/nx/activate-user?ServerId=
+/api/custom/nx/tableau-integration/html/change-role-toolbar-button
+/api/custom/nx/tableau-integration/walkme-script?serverId=
 /api/custom_notifications/
 /api/custom_rates/:vendorType/
 /api/data
@@ -6962,6 +6965,7 @@
 /api/documents/?vendor=
 /api/documents/\
 /api/documents/upload_file_config/
+/api/email-integration-button/send-email
 /api/embed/error-page/
 /api/events/RecordEvent
 /api/events/RecordJavascriptErrors
@@ -10231,6 +10235,7 @@
 /stats/view.json
 /status
 /status/
+/stm
 /stop
 /stop_timer/\
 /store/
@@ -10997,7 +11002,15 @@ alloy/debugging/Debugging
 analytics.js
 angular-services-ca90e5181296a61b9423.js
 api.js
+api/custom/nx/tableau-integration/change-role
+api/custom/nx/tableau-integration/get-roles
+api/custom/nx/tableau-integration/html/change-role-popup
+api/email-integration-button/info
 api/onboarding/integrations/
+api/tableau-server-alerts/client/dismiss?alertId=
+api/tableau-server-alerts/client/get-alerts?serverId=
+api/tableau-server-alerts/client/store-statistics?serverId=
+api/tableauintegration/tableauserveralert
 api/users/current/
 api/users/sign_out
 api/v/onboarding/
@@ -13008,6 +13021,8 @@ static/chunks/pages/404-94284400d0ee15920203.js
 static/chunks/pages/_error-737a04e9a0da63c9d162.js
 static/locales
 styles.xml
+tableauIntegration/EmailIntegrationButton?disabled=
+tableauIntegration/EmailIntegrationPopup
 task_groups/attachments/
 task_groups/attachments/?no_history=1
 task_groups/attachments/?task__id=

@@ -130,6 +130,7 @@ https://analytics.twitter.com/i/adsct?p_id=Twitter&amp;p_user_id=0&amp;txn_id=nx
 https://analytics.twitter.com/i/adsct?txn_id=nuhib&amp;p_id=Twitter&amp;tw_sale_amount=0&amp;tw_order_quantity=0
 https://api.airbrake.io
 https://api.ipify.org?format=json
+https://api.periscope.prod.netflix.net
 https://api.swiftype.com/api/v1/public/analytics/
 https://api.swiftype.com/api/v1/public/engines/search
 https://api.vandam.netflix.com
@@ -145,6 +146,9 @@ https://artifacts.netflix.com/api/npm/npm-netflix/@inovua/reactdatagrid-enterpri
 https://artifacts.netflix.com/api/npm/npm-netflix/@inovua/reactdatagrid-enterprise/-/reactdatagrid-enterprise-4.16.7.tgz
 https://artifacts.netflix.com/api/npm/npm-netflix/@inovua/reactdatagrid-enterprise/-/reactdatagrid-enterprise-4.17.0.tgz
 https://artifacts.netflix.com/api/npm/npm-netflix/@inovua/reactdatagrid-enterprise/-/reactdatagrid-enterprise-4.18.0.tgz
+https://assessmenthub.prod.netflixpartners.com
+https://assessmenthub.staging.netflixpartners.com
+https://assessmenthub.test.netflixpartners.com
 https://assets.adobedtm.com/6055abd7bbba/d4daa566f179/0b0ac73b2910/RC1db64ced6b4a457d9cd8ba139012b295-source.min.js
 https://assets.adobedtm.com/6055abd7bbba/d4daa566f179/0b0ac73b2910/RC1de4c8431d7f4f588a6c7120341f988e-source.min.js
 https://assets.adobedtm.com/6055abd7bbba/d4daa566f179/0b0ac73b2910/RC35a83c0eea874d96ac23213a0d124a3f-source.min.js
@@ -631,6 +635,7 @@ https://docs.google.com/document/d/19AGm0Rhrg0Y7boyKqS1TgPepzCCxC8o0Sy-E42SiH64/
 https://docs.google.com/document/d/1cuUnTh-gmOW_KNgFXFYu9Z-oWuCt0-Pa_NQEwgikCro
 https://docs.google.com/document/d/1rIIUGVuoK1LVopmbAd1hO_au38AvkBsur1r207FJ3Gg/
 https://docs.google.com/forms/d/e/1FAIpQLSfLIwOMgN4lROloIV_WQhm6GCEsfkdnNK2rzyEpCORkc0E53g/viewform?usp=sf_link
+https://docs.netflixpartners.com/docs/payments
 https://docs.netflixpartners.com/docs/payments/
 https://docs.netflixpartners.com/docs/payments/test/legacy-pi/web/\\
 https://docs.nrd.netflix.com/docs/nrdp/cert/netflix-test-studio/getting-started-with-nts-testing
@@ -742,11 +747,13 @@ https://jwlfyc-public-us-east-1.s3.amazonaws.com/1648562787934-arcane-background
 https://jwlfyc-public-us-east-1.s3.amazonaws.com/1648563425469-jeenyuhs-background.jpeg
 https://jwlfyc-public-us-east-1.s3.amazonaws.com/1648563425619-jeenyuhs-background.mp4
 https://jwlfyc-public-us-east-1.s3.amazonaws.com/1649209671068-1649174262919-strangerthings-s4_tt_v1-bw.png
+https://jwlfyc-public-us-east-1.s3.amazonaws.com/1657737738725-nb_bbw_tt_b-w.png
 https://kb.tableau.com
 https://kiosk-lite.flatfile.io/?key=:key
 https://leportal.test.netflix.net
 https://local-iaas-eco.nrd.netflix.com/REST/v2
 https://local-npp.netflix.com/pi/REST/v1
+https://local-npp.nrd.netflix.com/pi/REST/v1
 https://local.connectme.us:
 https://local.connectme.us:43003
 https://login.windows.net/
@@ -1056,6 +1063,7 @@ https://support.zendesk.com/hc/en-us/articles/360054096153
 https://support.zendesk.com/hc/en-us/community/topics/1260801308530
 https://support.zendesk.com/hc/en-us/sections/360004109213
 https://t.co/i/adsct?txn_id=nuhib&amp;p_id=Twitter&amp;tw_sale_amount=0&amp;tw_order_quantity=0
+https://tableaumanager.prod.netflix.net/
 https://tag.demandbase.com/lJdrm4D0.min.js
 https://tagassistant.google.com/
 https://talkgadget.google.com/:session_prefix:talkgadget/_/widget
