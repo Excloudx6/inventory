@@ -200,6 +200,10 @@
 ../../../../eventHandler
 ../../../../exceptions/commonExceptions
 ../../../../stub/content
+../../../../styles/mixins
+../../../../styles/mixins\
+../../../../styles/settings
+../../../../styles/settings\
 ../../../../utils
 ../../../../utils/groupUtils
 ../../../../utils/languageUtils
@@ -297,6 +301,8 @@
 ../../../src/addons/search/SearchHelper.ts
 ../../../src/addons/search/search.ts
 ../../../src/js/tracks/text-track.js
+../../../styles/settings
+../../../styles/settings\
 ../../../task
 ../../../timeZoneInfo
 ../../../traces/scatter/attributes
@@ -906,6 +912,7 @@
 ../../storeinventory/product
 ../../string/is-string
 ../../style/color-xform
+../../styles/settings
 ../../stylus/components/_calendar-daily.styl
 ../../subplot_defaults
 ../../team/44/user/22
@@ -1912,6 +1919,10 @@
 ../style/color-xform
 ../style/font-xform
 ../styles/att/rwd/1.0.0
+../styles/fonts
+../styles/fonts\
+../styles/settings
+../styles/settings\
 ../subplot_defaults
 ../sunburst/attributes
 ../sunburst/calc
@@ -4319,6 +4330,7 @@
 ./font_attributes
 ./fonts/mathjax_config
 ./fonts/ploticon
+./fonts/searchicons.woff?29298249
 ./foo.js
 ./football.svg
 ./footballL.svg
@@ -5666,6 +5678,7 @@
 ./manage
 ./manage_arrays
 ./managenotifications/managenotifications.component
+./manifest.json
 ./manual.svg
 ./manualL.svg
 ./manualrecording.svg
@@ -13881,6 +13894,10 @@
 ./star.svg
 ./starL.svg
 ./static/app-scooby/js/default.js
+./static/css/48.d703eb75.chunk.css
+./static/css/main.9c8aecdc.chunk.css
+./static/js/48.4eb64d51.chunk.js
+./static/js/main.4d49fba7.chunk.js
 ./static/modules-aol/aol-slideshow/js/default.js
 ./static/modules-article2_web/article2_web-immersive/js/default.js
 ./static/modules-caas/caas-base/js/default.js

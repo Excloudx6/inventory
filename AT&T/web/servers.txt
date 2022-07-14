@@ -21,6 +21,7 @@ http://acedev.att.com:80
 http://acenpw.att.com:80
 http://acetng.att.com:80
 http://acr.att.com:80
+http://action.att.com:80
 http://admin.techchannel.att.com:443
 http://admin.techchannel.att.com:80
 http://adportal.att.com:80
@@ -172,6 +173,7 @@ http://arizona.att.com:443
 http://arizona.att.com:80
 http://arizona.att.com:8443
 http://arkansas.att.com:80
+http://arkansas.att.com:8080
 http://arkansas.att.com:8443
 http://aro1.research.att.com:443
 http://aro1.research.att.com:80
@@ -550,6 +552,7 @@ http://doc.att.com:80
 http://doc.att.com:8080
 http://down.uc.att.com:80
 http://dreaminblack.att.com:80
+http://drivetest.wireless.att.com:443
 http://drop.att.com:80
 http://drop.att.com:8080
 http://dropbox-lidbas.att.com:80
@@ -683,6 +686,7 @@ http://eservice5.eia.att.com:443
 http://eservice5.eia.att.com:80
 http://eservices.bus.att.com:443
 http://eservices.bus.att.com:80
+http://eservices.eia.att.com:443
 http://eservices.eia.att.com:80
 http://eservices2.bus.att.com:80
 http://eservices3.bus.att.com:443
@@ -1568,6 +1572,7 @@ http://request.att.com:80
 http://request.att.com:8080
 http://resourcecenter-tmp.asi.att.com:443
 http://resourcecenter.asi.att.com:443
+http://resourcecenterbbt-tmp.asi.att.com:443
 http://resourcecenterbbt.asi.att.com:443
 http://resources.att.com:80
 http://retail-api-dev.att.com:80
@@ -1743,6 +1748,7 @@ http://securedocs.wireless.att.com:80
 http://securefamily.stage.att.com:80
 http://securefamilylink.wireless.att.com:443
 http://securefamilylink.wireless.att.com:80
+http://securefamilymdm.wireless.att.com:443
 http://securefamilyweb.wireless.att.com:80
 http://securityinnovation.att.com:80
 http://securityresourcecenter.att.com:80
@@ -1870,6 +1876,8 @@ http://support.dataflow.iot.att.com:80
 http://support.marketplace.att.com:443
 http://support.marketplace.att.com:80
 http://support.uc.att.com:80
+http://svd.att.com:80
+http://svd.att.com:8080
 http://systemmigrationtraining.att.com:80
 http://tagalog.att.com:80
 http://tags.att.com:80
@@ -2689,6 +2697,7 @@ https://acetng.att.com:443
 https://acm.TELEcONfErEnce.att.com:443
 https://acm.teleconference.att.com:443
 https://acr.att.com:443
+https://action.att.com:443
 https://adip-api-xandr.att.com:443
 https://adip-api-xandr.test.att.com:443
 https://adip-impr-xandr.att.com:443
@@ -2806,6 +2815,7 @@ https://afmfe8.att.com:8443
 https://afmfe9.att.com:443
 https://afmfe9.att.com:8443
 https://agile.att.com:443
+https://agns.vpn.att.com:443
 https://agsdesktop.att.com:443
 https://agsdesktop.att.com:8443
 https://ai-dlife.test.att.com:443
@@ -3766,6 +3776,7 @@ https://expressticketing.cloud.att.com:443
 https://expressticketing.stage-e.att.com:443
 https://expressticketingtest.cloud.att.com:443
 https://expressway.uccentral.att.com:8443
+https://expressway2.uccentral.att.com:8443
 https://ext-mpsys-frma-lgw.att.com:443
 https://ext-mpsys-frma-lgw.att.com:8443
 https://ext-mpsys-frma-lgw.test.att.com:443
@@ -5170,6 +5181,7 @@ https://support.marketplace.att.com:443
 https://support.uc.att.com:443
 https://svcdev.digitallife.att.com:443
 https://svcdev.test.dlife.att.com:443
+https://svd.att.com:443
 https://sxm360iotgw.att.com:443
 https://sxmchrysleriotgw.att.com:443
 https://synaptic.att.com:443
