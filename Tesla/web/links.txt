@@ -216,6 +216,7 @@ https://billing.tesla.com/
 https://bit.ly/ofi-old-browser
 https://bolt-stg.tesla.com
 https://bolt.tesla.com
+https://bost.ocks.org/mike
 https://breeze.aimon.applicationinsights.io/v2/track
 https://browser.events.data.microsoft.com/OneCollector/1.0/
 https://browser.pipe.aria.microsoft.com/Collector/3.0/
@@ -274,6 +275,7 @@ https://courses.tesla.com/
 https://customers.mattermost.com/signup
 https://d30c7q6mj7e17a.cloudfront.net/Tesla_Tequila_Thumbnail.jpg
 https://d30c7q6mj7e17a.cloudfront.net/tesla-tequila-set-product@2x.jpg
+https://d3js.org
 https://dashboard.stripe.com/customers/
 https://dashboard.stripe.com/login
 https://dashboard.stripe.com/subscriptions/
@@ -346,6 +348,7 @@ https://github.com/crypto-browserify/crypto-browserify
 https://github.com/d3/d3-3.x-api-reference/blob/master/Formatting.md#d3_format
 https://github.com/d3/d3-3.x-api-reference/blob/master/Time-Formatting.md#format
 https://github.com/d3/d3-time-format#locale_format
+https://github.com/d3/d3.git
 https://github.com/emberjs/rfcs/blob/master/text/0176-javascript-module-api.md
 https://github.com/facebook/react/issues/3236).
 https://github.com/highlightjs/highlight.js/issues/2886
@@ -559,6 +562,10 @@ https://reactjs.org/link/unsafe-component-lifecycles
 https://registry.npmjs.org/elliptic/-/elliptic-6.5.3.tgz
 https://registry.npmjs.org/elliptic/-/elliptic-6.5.4.tgz
 https://repair-api-dev.tesla.com/api
+https://roadside${environment}.tesla.com/rsinvoicing/
+https://roadside.tesla.com/rsinvoicing/auth/callback
+https://roadsideinvoice.tesla.com/rsinvoicingapi/api
+https://roadsideinvoice.tesla.com/rsinvoicingapi/api/User/UserInfo
 https://s3-us-west-2.amazonaws.com/countable-us/share/compatibility-quiz-facebook.png
 https://s3-us-west-2.amazonaws.com/countable-us/share/compatibility-quiz-twitter.png
 https://sample.okta.com
@@ -642,6 +649,7 @@ https://suppliers.tesla.com/
 https://suppliers.tesla.com/api
 https://suppliers.tesla.com/auth/callback
 https://suppliers.teslamotors.com
+https://suppliers.teslamotors.com/rsinvoicing/
 https://support.google.com/accounts/answer/1066447
 https://support.office.com
 https://support.office.com/f1/home/inappfeedbackaddin?helpid=161255
