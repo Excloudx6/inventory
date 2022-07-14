@@ -6320,6 +6320,7 @@
 /guardian
 /gyN
 /gzV
+/h/
 /h8w
 /h9T
 /hTd
@@ -6327,6 +6328,9 @@
 /hackathon
 /hackathon-dashboard
 /hackathon-vote-redirect?project.id=
+/hackathon/dash2
+/hackathon/dash2/demote_nodemo
+/hackathon/dash2/promote_round1
 /hackathon/dates
 /hackathon/jql/test
 /hackathon/leaderboard
@@ -7347,6 +7351,7 @@
 /overview
 /owners
 /ownership/summary/
+/p/
 /p3b
 /pFH
 /pFX
@@ -7407,6 +7412,7 @@
 /panel/hackathon-team-view
 /panel/jira/reminder/simple
 /panel/jira/reminders/view
+/panel/team-dashboard
 /panel/v2/jira/reminder/create
 /panelOTP
 /parsec slash command
@@ -7501,6 +7507,7 @@
 /platform/disaster-recovery/
 /platform/druid-platform-service/
 /platform/edge-services-docs/
+/platform/emoji/
 /platform/entitlement-templates/
 /platform/entity-relationship-store/
 /platform/esp-integrators/
@@ -7929,6 +7936,7 @@
 /rest/mfa/authorize?
 /rest/mfa/authorize?transactionToken=
 /rest/mfa/resend-sms
+/rest/mfa/resend?transactionToken=
 /rest/mfa/verify
 /rest/mfa/verify/recoverycode
 /rest/mfa/verify?transactionToken=
@@ -7984,6 +7992,7 @@
 /room/:roomid/round/:roundid/leaderboard/team/:teamid
 /room/:roomid/round/:roundid/review-ranking
 /room/:roomid/round/:roundid/team/:teamid
+/rooms
 /root
 /round-room
 /round-room/allocation
@@ -8411,6 +8420,7 @@
 /team/
 /team/${e.id}
 /team/anonymous-feedback
+/team/attachments
 /team/description
 /team/refresh
 /team/team-member
@@ -8579,7 +8589,12 @@
 /verify-email
 /verify-email/change-email
 /verify-email/sent
+/video
 /video-conferencing
+/video/playlists
+/video/team/
+/video/team/:teamid
+/videos
 /view-strategies
 /views
 /vim
@@ -14173,6 +14188,7 @@ packages/media/smart-card/examples/vr-block-card-collaborators.tsx
 packages/media/smart-card/examples/vr-block-card-default-icon.tsx
 packages/media/smart-card/examples/vr-block-card-lozenge.tsx
 packages/media/smart-card/examples/vr-block-card-preview.tsx
+packages/media/smart-card/examples/vr-card-atlas.tsx
 packages/media/smart-card/examples/vr-card-bitbucket.tsx
 packages/media/smart-card/examples/vr-flexible-ui-accessibility.tsx
 packages/media/smart-card/examples/vr-flexible-ui-action-delete.tsx
