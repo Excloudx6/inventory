@@ -6851,7 +6851,9 @@
 /account/
 /account/borrowerExtraMemberContext
 /account/createAccountContext
+/account/delete
 /account/delete/confirm
+/account/delete/error
 /account/downloadinfo
 /account/getmyinfo
 /account/profile/createAccountTransferContext
