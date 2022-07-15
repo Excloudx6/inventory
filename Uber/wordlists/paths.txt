@@ -2275,6 +2275,7 @@
 ./job-input
 ./jobs
 ./js/frontify-styleguide/colorswatch.0f2a710802993d0262a9.js
+./js/frontify-styleguide/colorswatch.199f42a2b1705e65090d.js
 ./js/frontify-styleguide/colorswatch.1a1bc48bcb27011075c4.js
 ./js/frontify-styleguide/colorswatch.1c616d70f63b3735250e.js
 ./js/frontify-styleguide/colorswatch.275a147b0bd735d53fea.js
@@ -3695,6 +3696,7 @@
 /:languageCountryPair?/:citySlug/food-delivery/:storeSlug/:encodedStoreUuid/too-far/
 /:languageCountryPair?/:slugName/categories/
 /:languageCountryPair?/_menu/:storeSlug/:encodedStoreUuid/:sectionUuid?
+/:languageCountryPair?/aisle-feed/:verticalType
 /:languageCountryPair?/brand-city/:slugName/:secondarySlugName
 /:languageCountryPair?/brand/:slugName
 /:languageCountryPair?/cart/
@@ -3852,6 +3854,7 @@
 /?groupby=granularity
 /?limit=
 /?ll=
+/?origin=
 /?query=
 /?team_id=
 /?type=
@@ -4502,6 +4505,8 @@
 /api/subscription-account
 /api/subscription/
 /api/subscription/payment-form-configuration
+/api/subscription/payment-form-configuration?token=
+/api/subscription/payment-page-configuration
 /api/subscription/payment-page-params
 /api/subscription?account_id=
 /api/tag
@@ -4907,6 +4912,7 @@
 /blog/eat/eats-products/
 /blog/eat/eats-promotions/
 /blog/eat/eats-stories/
+/blog/elevated-business-meals/
 /blog/engineering/
 /blog/erie/
 /blog/fargo/
@@ -5030,6 +5036,7 @@
 /blog/north-carolina/
 /blog/north-dakota/
 /blog/oakland/
+/blog/oakland/business/page/2
 /blog/ohio/
 /blog/oklahoma-city/
 /blog/oklahoma/
@@ -6847,6 +6854,7 @@
 /ntp
 /nugget/
 /oRT
+/oauth
 /object-info/\
 /object-info/batch/\
 /objects\
@@ -6911,6 +6919,8 @@
 /payload.json
 /payment
 /payment-method
+/payment-method/
+/payment-method/:token
 /performance_to_heatpipe
 /permission-token
 /permissions/
@@ -7398,6 +7408,7 @@
 /signup
 /signup/rename/site
 /signup_submit/
+/signup_with_google_sso
 /simple.gif?
 /singularity-marketplace
 /site
@@ -7507,6 +7518,7 @@
 /svg
 /switch
 /switch-payment
+/switch_user
 /system-initialization/clear-dynamic-data
 /system-initialization/upload-entity-catalog
 /system/customization

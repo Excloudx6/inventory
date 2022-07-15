@@ -50,6 +50,7 @@ http://airportcontrol-ext.uberinternal.com:80
 http://airportcontrol-staging.uberinternal.com:80
 http://airportcontrol.uberinternal.com:80
 http://airwatch-staging.uberinternal.com:80
+http://airwatch.uBEriNtERNal.com:80
 http://airwatch.uberinternal.com:80
 http://airwatch3p-staging.uber.com:80
 http://airwatch3p.uber.com:80
@@ -660,6 +661,7 @@ http://devpod.uberinternal.com:80
 http://devseries.uberinternal.com:80
 http://devseries.uberinternal.com:8080
 http://dexter.uberinternal.com:80
+http://dfi.uberinternal.com:80
 http://digrafviz.uberinternal.com:80
 http://dint.uberinternal.com:80
 http://direct-beta.uber.com:80
@@ -1080,6 +1082,7 @@ http://healthline-staging.uberinternal.com:80
 http://healthline.uberinternal.com:80
 http://heaven-livemap.uberinternal.com:80
 http://heaven-staging.uberinternal.com:80
+http://heaven.uBEriNtERNal.com:80
 http://heaven.uberinternal.com:80
 http://hedwig.uberinternal.com:80
 http://helix-adoption.uberinternal.com:80
@@ -1475,6 +1478,7 @@ http://myprivacy.uber.com:8080
 http://myprivacy.uberinternal.com:80
 http://mystique-staging.uberinternal.com:80
 http://mystique.uberinternal.com:80
+http://myteam.uberinternal.com:80
 http://nagios-dca1.uberinternal.com:80
 http://nagios-phx2.uberinternal.com:80
 http://nagios.uberinternal.com:80
@@ -1726,6 +1730,7 @@ http://pt-jump.uber.com:8080
 http://pt.uber.com:80
 http://pt.uber.com:8080
 http://publicsafety.uber.com:80
+http://publicsafety.uber.com:8443
 http://pullo-frontend.uberinternal.com:80
 http://pullo-staging.uberinternal.com:80
 http://pullo.uberinternal.com:80
@@ -2628,6 +2633,7 @@ https://airportcontrol-ext.uberinternal.com:443
 https://airportcontrol-staging.uberinternal.com:443
 https://airportcontrol.uberinternal.com:443
 https://airwatch-staging.uberinternal.com:443
+https://airwatch.uBEriNtERNal.com:443
 https://airwatch.uberinternal.com:443
 https://airwatch3p-staging.uber.com:443
 https://airwatch3p.uber.com:443
@@ -3481,6 +3487,7 @@ https://healthline-staging.uberinternal.com:443
 https://healthline.uberinternal.com:443
 https://heaven-livemap.uberinternal.com:443
 https://heaven-staging.uberinternal.com:443
+https://heaven.uBEriNtERNal.com:443
 https://heaven.uberinternal.com:443
 https://hedwig.uberinternal.com:443
 https://helix-adoption.uberinternal.com:443
@@ -3821,6 +3828,7 @@ https://myprivacy.uber.com:443
 https://myprivacy.uberinternal.com:443
 https://mystique-staging.uberinternal.com:443
 https://mystique.uberinternal.com:443
+https://myteam.uberinternal.com:443
 https://nagios-dca1.uberinternal.com:443
 https://nagios-phx2.uberinternal.com:443
 https://nagios.uberinternal.com:443
