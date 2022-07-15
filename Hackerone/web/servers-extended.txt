@@ -19,6 +19,7 @@ http://2018-s3.debug.ctf.hacker101.com:443 ["400 The plain HTTP request was sent
 http://2018-user2018-authbackup.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.161.190.65"] [null] ["awselb/2.0"] [null] [];
 http://2018-web.confluence-admin.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["44.235.9.210"] [null] ["awselb/2.0"] [null] [];
 http://2018.2019.account-debug-v1-user-authupdate.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["52.13.50.29"] [null] ["awselb/2.0"] [null] [];
+http://2018.2020-adminnew-v1-backup.www.orf.od.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["34.210.210.18"] [null] ["awselb/2.0"] [null] [];
 http://2018.access-alpha.authchef.new.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.162.108.207"] [null] ["awselb/2.0"] [null] [];
 http://2018.access.backup.auth-new.gcp.admin.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["34.211.88.5"] [null] ["awselb/2.0"] [null] [];
 http://2018.accessbackup-2019.jenkins-gcp.confluence-admin.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.27.184.30"] [null] ["awselb/2.0"] [null] [];
@@ -36,6 +37,7 @@ http://2018.beta.account.api.accessnew.system.authupdate.ctf.hacker101.com:443 [
 http://2018.data.auth.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["100.20.6.136"] [null] ["awselb/2.0"] [null] [];
 http://2018.data.v3.debug.engineering.redirect.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.27.184.30"] [null] ["awselb/2.0"] [null] [];
 http://2018.dbms.auth-update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["35.161.190.65"] [null] ["awselb/2.0"] [null] [];
+http://2018.demo-data-maysuryan.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["44.236.191.207"] [null] ["awselb/2.0"] [null] [];
 http://2018.demo-redirect-dbms.new.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.161.190.65"] [null] ["awselb/2.0"] [null] [];
 http://2018.update-userconfluence.2018.errorerror.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.86.13.172"] [null] ["awselb/2.0"] [null] [];
 http://2018.update.2020authupdate.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.161.190.65"] [null] ["awselb/2.0"] [null] [];
@@ -43,6 +45,7 @@ http://2018.update.stagingdebug.error.ctf.hacker101.com:443 ["400 The plain HTTP
 http://20182018-accessaccount.backup-adminv3-auth-update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["54.191.238.193"] [null] ["awselb/2.0"] [null] [];
 http://20182018-elasticbeanstalk.v4knome.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.240.239.183"] [null] ["awselb/2.0"] [null] [];
 http://20182019-update.stagingdebug.error.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.35.58.141"] [null] ["awselb/2.0"] [null] [];
+http://20182020.v3iris1.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.236.191.207"] [null] ["awselb/2.0"] [null] [];
 http://2018access-accountbeta.alpha.2020-v2-elasticbeanstalkupdate.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["52.13.50.29"] [null] ["awselb/2.0"] [null] [];
 http://2018access.errorerror.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.35.58.141"] [null] ["awselb/2.0"] [null] [];
 http://2018access.vpnerror.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.86.13.172"] [null] ["awselb/2.0"] [null] [];
@@ -82,6 +85,7 @@ http://2019-gcp.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to H
 http://2019-jenkins.deverror.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.86.13.172"] [null] ["awselb/2.0"] [null] [];
 http://2019-v3upload-update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.35.85.28"] [null] ["awselb/2.0"] [null] [];
 http://2019-v4-status.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["34.211.88.5"] [null] ["awselb/2.0"] [null] [];
+http://2019-web.2020-system.internal.iris1.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.236.191.207"] [null] ["awselb/2.0"] [null] [];
 http://2019.20182020.2019.alpha-preferences.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["35.161.190.65"] [null] ["awselb/2.0"] [null] [];
 http://2019.access-status-adminautherror.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.86.13.172"] [null] ["awselb/2.0"] [null] [];
 http://2019.access.2020-v1update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["54.214.179.73"] [null] ["awselb/2.0"] [null] [];
@@ -134,6 +138,7 @@ http://2019s3access-elasticbeanstalk2020.2019.alpha-preferences.ctf.hacker101.co
 http://2019system-engineering-private2019-status.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.236.250.240"] [null] ["awselb/2.0"] [null] [];
 http://2019v1-admin.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["44.235.9.210"] [null] ["awselb/2.0"] [null] [];
 http://2019v4.userconfluence.2018.errorerror.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.86.13.172"] [null] ["awselb/2.0"] [null] [];
+http://2020-2019.admin.v4knome.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["44.236.191.207"] [null] ["awselb/2.0"] [null] [];
 http://2020-access.backup.auth-new.gcp.admin.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.27.184.30"] [null] ["awselb/2.0"] [null] [];
 http://2020-accesschefv2-gcp.error.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.86.13.172"] [null] ["awselb/2.0"] [null] [];
 http://2020-accountelasticbeanstalksystemredirect.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["52.27.184.30"] [null] ["awselb/2.0"] [null] [];
@@ -223,6 +228,7 @@ http://2021.access-user-admin.ctf.hacker101.com:443 ["400 The plain HTTP request
 http://2021.access.dbms.dbms.access.gcpredirect.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.167.129.199"] [null] ["awselb/2.0"] [null] [];
 http://2021.accessdebug-chef.autherror.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["52.35.58.141"] [null] ["awselb/2.0"] [null] [];
 http://2021.account-accessaccessalpha-update-alpha.2020-v2-elasticbeanstalkupdate.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["100.20.6.136"] [null] ["awselb/2.0"] [null] [];
+http://2021.account-account-upload.alpha.baldis-basics-in-education-and-learning.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.236.191.207"] [null] ["awselb/2.0"] [null] [];
 http://2021.account-apiaccesschef.team-preferences.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["54.191.238.193"] [null] ["awselb/2.0"] [null] [];
 http://2021.account.beta-elasticbeanstalkupdate.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.35.85.28"] [null] ["awselb/2.0"] [null] [];
 http://2021.admin.update.newauth.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["100.20.6.136"] [null] ["awselb/2.0"] [null] [];
@@ -257,7 +263,9 @@ http://2021jenkins-access.accessaccount-access2019.alpha-preferences.ctf.hacker1
 http://2021v4-status.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.235.9.210"] [null] ["awselb/2.0"] [null] [];
 http://a5s.hackerone-ext-content.com:80 ["ERROR: The request could not be satisfied"] [403] [915] ["text/html"] ["108.138.17.62"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
 http://access-2018-engineering.chef.new.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.161.190.65"] [null] ["awselb/2.0"] [null] [];
+http://access-2019.2021staging-user.startrek-discovery.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["34.210.210.18"] [null] ["awselb/2.0"] [null] [];
 http://access-access-v3upgrade-update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["35.161.190.65"] [null] ["awselb/2.0"] [null] [];
+http://access-access2020-error.upgrade.v3www.fac-droit.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.236.191.207"] [null] ["awselb/2.0"] [null] [];
 http://access-accessaccess.vpnerror.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.35.58.141"] [null] ["awselb/2.0"] [null] [];
 http://access-accountgcpapi.accessaccount.backup-adminv3-auth-update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["54.191.238.193"] [null] ["awselb/2.0"] [null] [];
 http://access-admin.debugjenkins.access-new.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["54.68.148.168"] [null] ["awselb/2.0"] [null] [];
@@ -309,12 +317,14 @@ http://accesspreferences-status.ctf.hacker101.com:443 ["400 The plain HTTP reque
 http://accesspreferences.beta.2019-private.access.vpn-status.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.235.9.210"] [null] ["awselb/2.0"] [null] [];
 http://accesss3-accountadmin-democonfig.upload.alphaupdate.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["54.191.238.193"] [null] ["awselb/2.0"] [null] [];
 http://accessstatusdbms-error.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["52.35.58.141"] [null] ["awselb/2.0"] [null] [];
+http://accessteam.updatewww.fac-droit.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.236.191.207"] [null] ["awselb/2.0"] [null] [];
 http://accessupdate-bucket.configchefstatus.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["44.236.250.240"] [null] ["awselb/2.0"] [null] [];
 http://accessupgrade.dbmsstatusengineeringalpha-authv3-2018-engineering.chef.new.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["54.191.238.193"] [null] ["awselb/2.0"] [null] [];
 http://account-2018-apisystem.v3upload-update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["52.35.173.35"] [null] ["awselb/2.0"] [null] [];
 http://account-2018-dev-v1-new.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.35.85.28"] [null] ["awselb/2.0"] [null] [];
 http://account-2018-elasticbeanstalk2020.2019.alpha-preferences.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["52.35.85.28"] [null] ["awselb/2.0"] [null] [];
 http://account-2020.2018-apisystem.v3upload-update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["54.191.238.193"] [null] ["awselb/2.0"] [null] [];
+http://account-2021alpha.accountconfig.elasticbeanstalk.teamuser.startrek-discovery.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["34.210.210.18"] [null] ["awselb/2.0"] [null] [];
 http://account-access-new.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["54.214.179.73"] [null] ["awselb/2.0"] [null] [];
 http://account-access2019.alpha-preferences.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["100.20.6.136"] [null] ["awselb/2.0"] [null] [];
 http://account-admin.access-v3upgrade-update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["54.68.148.168"] [null] ["awselb/2.0"] [null] [];
@@ -328,6 +338,7 @@ http://account-jenkinsvpn-status.ctf.hacker101.com:443 ["400 The plain HTTP requ
 http://account-staging.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.240.73.50"] [null] ["awselb/2.0"] [null] [];
 http://account-upload.2018.access.stagingdebug-updateelasticbeanstalkerror.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["35.86.13.172"] [null] ["awselb/2.0"] [null] [];
 http://account-webdbms2021.beta.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.236.250.240"] [null] ["awselb/2.0"] [null] [];
+http://account.2019-mosteligible.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["34.210.210.18"] [null] ["awselb/2.0"] [null] [];
 http://account.2021.authelasticbeanstalk-debugnew.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["52.35.173.35"] [null] ["awselb/2.0"] [null] [];
 http://account.20212020-engineering.preferences-error-status.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.235.9.210"] [null] ["awselb/2.0"] [null] [];
 http://account.accessbackup-2019.jenkins-gcp.confluence-admin.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.27.184.30"] [null] ["awselb/2.0"] [null] [];
@@ -406,6 +417,7 @@ http://alpha-v1update.ctf.hacker101.com:443 ["400 The plain HTTP request was sen
 http://alpha.accessalpha-update-alpha.2020-v2-elasticbeanstalkupdate.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.88.18.49"] [null] ["awselb/2.0"] [null] [];
 http://alpha.accountgcpapi.accessaccount.backup-adminv3-auth-update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.33.0.95"] [null] ["awselb/2.0"] [null] [];
 http://alpha.api-2018betaaccessredirect-access-new.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["54.191.238.193"] [null] ["awselb/2.0"] [null] [];
+http://alpha.apierror.oweril46.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["34.210.210.18"] [null] ["awselb/2.0"] [null] [];
 http://alpha.chef-2019update.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.88.18.49"] [null] ["awselb/2.0"] [null] [];
 http://alpha.chef.v1.chef-elasticbeanstalk.data.status-demo.error.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.35.58.141"] [null] ["awselb/2.0"] [null] [];
 http://alpha.config.user-s3.debug.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.27.69.103"] [null] ["awselb/2.0"] [null] [];
@@ -452,6 +464,7 @@ http://asd-and-rizzo.ctf.hacker101.com:443 ["400 The plain HTTP request was sent
 http://auth-2018-beta.2018dbmsstatus.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.236.250.240"] [null] ["awselb/2.0"] [null] [];
 http://auth-2018.2020-alphaaccount.access.accessteamupgrade-update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["52.33.0.95"] [null] ["awselb/2.0"] [null] [];
 http://auth-access-beta-beta.jenkins.access-new.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.161.190.65"] [null] ["awselb/2.0"] [null] [];
+http://auth-beta-error.oweril46.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.236.191.207"] [null] ["awselb/2.0"] [null] [];
 http://auth-data.chefstatus.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["100.21.79.181"] [null] ["awselb/2.0"] [null] [];
 http://auth-engineeringstatus.status.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["34.211.88.5"] [null] ["awselb/2.0"] [null] [];
 http://auth-redirectaccess.gcpredirect.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["44.235.9.210"] [null] ["awselb/2.0"] [null] [];
@@ -502,6 +515,7 @@ http://beta.2021api2018.redirect-chef.backup.update.ctf.hacker101.com:443 ["400 
 http://beta.access-2018.dev-v1-new.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["35.161.190.65"] [null] ["awselb/2.0"] [null] [];
 http://beta.account.api.accessnew.system.authupdate.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.33.0.95"] [null] ["awselb/2.0"] [null] [];
 http://beta.admin.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["44.235.9.210"] [null] ["awselb/2.0"] [null] [];
+http://beta.alpha.v1.backup.oweril46.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["34.210.210.18"] [null] ["awselb/2.0"] [null] [];
 http://beta.api-debug.system.upload-update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["54.212.211.52"] [null] ["awselb/2.0"] [null] [];
 http://beta.backupredirect.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.235.9.210"] [null] ["awselb/2.0"] [null] [];
 http://beta.bucket-status.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.236.250.240"] [null] ["awselb/2.0"] [null] [];
@@ -944,6 +958,7 @@ https://2018-alpha.system-gcp.ctf.hacker101.com:443 [null] [404] [22] ["text/htm
 https://2018-alpha.v1update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.88.18.49"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2018-alphabeta2018.alpha.chef-2019update.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.191.238.193"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://2018-alphachef-v1update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["100.20.6.136"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://2018-alphaerror.upgrade.v3www.fac-droit.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["34.210.210.18"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://2018-api-account.alphaupdate.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.161.190.65"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2018-api-chef.demo.elasticbeanstalk.error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.58.141"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2018-api-demo.error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.58.141"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
@@ -1507,6 +1522,7 @@ https://2018data-v3.2020access.accountstagingauth.ctf.hacker101.com:443 [null] [
 https://2018data.status-demo.error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.58.141"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2018dbms-data.dbms.system.upload-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.191.238.193"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://2018dbms-v4data.backup-upload-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.180.206"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
+https://2018dbms.v1-backup.www.orf.od.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.236.191.207"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://2018dbms2018-admindata.dev-dbms.authupdate.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.203.181.7"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://2018dbmsstatus.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.73.50"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2018debug-system-elasticbeanstalk.knome.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.236.87.19"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
@@ -1677,6 +1693,7 @@ https://2019-bucketalphaupdate.ctf.hacker101.com:443 [null] [404] [22] ["text/ht
 https://2019-bucketauth.admin-upload-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.165.193"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://2019-bucketchefv2-gcp.error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.32.228.149"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2019-chef.dbms-team.2018debug.demochefadmin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.167.129.199"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://2019-chefaccountv1.backup.oweril46.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.236.191.207"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://2019-configaccess-auth-new.gcp.admin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.27.184.30"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2019-configv2.v1update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.214.179.73"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2019-confluence.2021-account.statusdbms-error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.244.81.0"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
@@ -2581,6 +2598,7 @@ https://2020admin.account-account.confluence.dev.v1update.ctf.hacker101.com:443 
 https://2020admin.accountchef.develasticbeanstalk.error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.244.81.0"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2020admin.admin-vpnv1-new.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.162.108.207"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2020admin.update.newauth.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.236.200.28"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://2020adminbackup.oweril46.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["34.210.210.18"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://2020adminupdateelasticbeanstalkerror.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.86.13.172"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2020alpha-2020.alpha.access.2018accessredirect-access-new.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.191.238.193"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://2020alpha-redirectdevsystem.redirect.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.27.184.30"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
@@ -2723,6 +2741,7 @@ https://2021-admin.admin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] [
 https://2021-admin.backup.beta.access-jenkins-error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.86.13.172"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2021-admin.chef.v4-access-gcp.error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.86.13.172"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2021-admin.demo2018.datanew.system.authupdate.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.88.18.49"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://2021-admin.knome.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.236.191.207"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://2021-adminbucket-2021.s3.elasticbeanstalkupdate.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.88.18.49"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2021-alpha-account.confluence.dev.v1update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.85.28"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2021-alpha.demo.upgrade.admin-upload-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["100.20.6.136"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
@@ -3928,6 +3947,7 @@ https://admin-upload-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"
 https://admin-v3.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["34.211.88.5"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://admin-v4jenkins.deverror.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.86.13.172"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://admin-vpnv1-new.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.85.28"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://admin-webknome.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.236.191.207"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://admin.2018-access-gcp.error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.58.141"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://admin.2018.alpha.system-gcp.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.27.69.103"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://admin.2018.gcp.chef-admin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.27.69.103"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
@@ -4882,6 +4902,7 @@ https://beta.accountbucket.access-2018-gcp-accounterror.v3-alphaupdate.ctf.hacke
 https://beta.admin-auth.s3-v3-auth-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.165.193"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://beta.admin.account-account.confluence.dev.v1update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.13.50.29"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://beta.admin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.233.7.171"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://beta.admin.knome.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.236.191.207"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://beta.admin2019-beta-beta.2018-redirectdbms.authupdate.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.203.181.7"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://beta.adminaccess-account-config2018upgrade-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.236.200.28"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://beta.adminbeta.admin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.71.17.146"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
@@ -4895,6 +4916,7 @@ https://beta.auth-2019update.update.ctf.hacker101.com:443 [null] [404] [22] ["te
 https://beta.auth-chef-account-2018-dev-v1-new.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.165.193"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://beta.auth-v2.v1update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.161.190.65"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://beta.auth.2019.alpha-preferences.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["100.20.6.136"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://beta.auth.account.alpha.baldis-basics-in-education-and-learning.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.236.191.207"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://beta.auth.auth-redirectaccess.gcpredirect.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.71.17.146"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://beta.backup-redirect-v2-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.85.28"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://beta.backupconfiggcpupdate.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.161.190.65"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
@@ -6052,6 +6074,7 @@ https://jenkins-account.internaldemo.error.ctf.hacker101.com:443 [null] [404] [2
 https://jenkins-admin.dbms-beta-demo.system.2019.error-upload-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.13.50.29"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://jenkins-alpha-redirect.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["100.21.79.181"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://jenkins-alpha.datanew.system.authupdate.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.88.18.49"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://jenkins-api.chefinternal.iris1.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["34.210.210.18"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://jenkins-authbackup.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["100.20.6.136"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://jenkins-authupdate.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.85.28"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://jenkins-beta-accountbeta-beta.jenkins.access-new.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.165.193"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
