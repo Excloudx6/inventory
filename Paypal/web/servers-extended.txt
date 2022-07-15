@@ -142,6 +142,7 @@ http://mobile.paypal.com:80 ["Digital Wallets, Money Management, and More | PayP
 http://msoid.paypal.com:80 [null] [404] [10] ["text/HTML"] ["20.190.159.4"] [null] [null] [null] [];
 http://msoid.xoom.com:80 [null] [404] [10] ["text/HTML"] ["20.190.159.73"] [null] [null] [null] [];
 http://mymail.xoom.com:80 [null] [301] [null] [null] ["52.98.208.50"] [null] ["Microsoft-IIS/10.0"] [["IIS","Microsoft ASP.NET","Windows Server"]] [];
+http://news.xoom.com:443 ["Error Page"] [400] [891275] ["text/html"] ["85.222.140.10"] [null] ["sfdcedge"] [null] [];
 http://news.xoom.com:80 [null] [503] [3207] ["text/html"] ["161.71.22.169"] ["https://news.xoom.com/s/"] [null] [["ApexPages","Salesforce"]] [];
 http://o365a.paypal.com:80 [null] [301] [null] [null] ["52.98.171.232"] [null] ["Microsoft-IIS/10.0"] [["IIS","Microsoft ASP.NET","Windows Server"]] [];
 http://o365b.paypal.com:80 [null] [301] [null] [null] ["40.99.150.120"] [null] ["Microsoft-IIS/10.0"] [["IIS","Microsoft ASP.NET","Windows Server"]] [];
@@ -505,7 +506,7 @@ https://msoid.paypal.com:443 ["Object moved"] [302] [146] ["text/html"] ["20.190
 https://msoid.xoom.com:443 ["Object moved"] [302] [146] ["text/html"] ["40.126.32.74"] [null] [null] [null] [];
 https://mymail.xoom.com:443 ["Object moved"] [302] [779] ["text/html"] ["52.97.137.210"] ["https://mymail.xoom.com/owa/"] ["Microsoft-IIS/10.0"] [["IIS","Windows Server"]] [];
 https://news.xoom.com:443 [null] [503] [3207] ["text/html"] ["161.71.22.169"] ["https://news.xoom.com/s/"] [null] [["ApexPages","Salesforce"]] [];
-https://news.xoom.com:8443 [null] [301] [null] [null] ["85.222.140.11"] [null] ["sfdcedge"] [null] [];
+https://news.xoom.com:8443 [null] [301] [null] [null] ["85.222.140.13"] [null] ["sfdcedge"] [null] [];
 https://oma.staging.xoom.com:443 ["Send Money Online | Xoom, a PayPal Service"] [200] [55981] ["text/html"] ["34.117.123.18"] [null] [null] [["Contentful","Envoy","Google Cloud"]] [];
 https://onboarding.glb.paypal.com:443 ["Access Denied"] [403] [222] ["text/html"] ["23.67.136.173"] [null] ["AkamaiGHost"] [null] [];
 https://onboarding.paypal.com:443 ["404 Not Found"] [404] [162] ["text/html"] ["52.222.214.85"] [null] ["nginx"] [["Amazon Cloudfront","Amazon Web Services","Nginx"]] [];
