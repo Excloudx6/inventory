@@ -4607,3 +4607,26 @@
 [javascript] - https://suppliers-stg.tesla.com/runtime.98e958821f032e50a676.js
 [javascript] - https://suppliers-stg.tesla.com:443/runtime.98e958821f032e50a676.js
 [url] - [code-200] - https://roadside.tesla.com/rsinvoicing
+[href] - https://engage.tesla.com/assets/countable-1657832111.css
+[href] - https://engage.tesla.com/assets/vendor-1657832111.css
+[href] - https://referral.tesla.com/css/text.css?t=1657906319
+[href] - https://referral.tesla.com/css/viewer.css?t=1657906319
+[href] - https://referral.tesla.com/css/web.css?t=1657906319
+[href] - https://referral.tesla.com/upload/css/uploadText.css?t=1657906319
+[javascript] - https://engage.tesla.com/assets/countable-1657832111.js
+[javascript] - https://engage.tesla.com/assets/vendor-1657832111.js
+[url] - [code-403] - http://akamai-apigateway-shipmentplanningapi.tesla.com:80
+[url] - [code-403] - http://logcollection.tesla.com:80
+[url] - [code-403] - http://partners.tesla.com:80
+[url] - [code-403] - http://schedule.tesla.com:80
+[url] - [code-403] - http://serviceapp.tesla.com:80
+[url] - [code-403] - http://sso.tesla.com:80
+[url] - [code-403] - https://akamai-apigateway-ops-warp3pl.tesla.com:443
+[url] - [code-403] - https://akamai-apigateway-stg-ops-warp3pl.tesla.com:443
+[url] - [code-403] - https://logcollection.tesla.com:443
+[url] - [code-403] - https://partners.tesla.com:443
+[url] - [code-403] - https://schedule.tesla.com:443
+[url] - [code-403] - https://serviceapp.tesla.com:443
+[url] - [code-403] - https://sso.tesla.com:443
+[url] - [code-403] - https://stg-uc-twilio-bpm-webhook.tesla.com:443
+[url] - [code-403] - https://zta-setup.tesla.com:443
