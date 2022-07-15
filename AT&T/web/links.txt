@@ -166,6 +166,7 @@ http://netstorage.ringcentral.com/datasheets/phones/polycom/bt_ip_6000.pdf
 http://netstorage.ringcentral.com/datasheets/phones/polycom/vvx_101.pdf
 http://netstorage.ringcentral.com/datasheets/phones/polycom/vvx_201.pdf
 http://netstorage.ringcentral.com/inproduct/whatsnew-
+http://new.uplinkearth.com/
 http://ok.ru/{{id}}
 http://olympicdevelop.att.com
 http://open.spotify.com/{{id}}
@@ -2095,6 +2096,8 @@ https://attsuppliers.com/downloads/SupplierFinancingProgram.pdf
 https://atttest.ice.ibmcloud.com/oidc/endpoint/default
 https://auctions.godaddy.com/trpItemListing.aspx?ci=6711&amp;domain=${domain}
 https://auth-att.touchcommerce.com/oauth-server/oauth/token
+https://auth.deluxeforbusiness.com/main/social/deluxesus
+https://auth.deluxeforbusiness.com/pass/forgetpassform/
 https://authorize.music.apple.com
 https://authorize.music.apple.com/upsell?
 https://avatars.githubusercontent.com/
@@ -2132,6 +2135,7 @@ https://basemaps-api.arcgis.com/arcgis/rest/services/styles/OSM:Streets
 https://basemaps-api.arcgis.com/arcgis/rest/services/styles/OSM:StreetsRelief:Base
 https://bcontent.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=https://dmp.wireless.att.com/businessconsole/home
 https://bcontent.stage.att.com/dynamic/iamLRR/LrrController?IAM_OP=logout&amp;returnURL=https://test-dmp.wireless.att.com/businessconsole/home
+https://bid.g.doubleclick.net/xbbe/pixel?d=KAE
 https://bitbucket.org
 https://bitbucket.org/
 https://bitbucket.org/{{id}}
@@ -3592,6 +3596,7 @@ https://services.att.com/search/v1/kms?q=[[KEY]]&amp;fq=tags:[[GROUP]]&amp;start
 https://services.att.com/search/v1/newsroom?app-id=attnews&amp;fq=-rejectDoc:true&amp;callback=getResults
 https://services.att.com/search/v1/shortlegaloffers?app-id=plp&amp;fq=offerID:
 https://services.att.com/search/v2/sitesearchapi/suggestions?app-id=sales&amp;customer=consumer&amp;q=
+https://services.google.com/sitestats/
 https://services.it.att.com
 https://services01.dev.att.com/search/v2/sitesearchapi/suggestions
 https://services03.dev.att.com
@@ -3693,6 +3698,7 @@ https://syndication.twitter.com/i/jot
 https://t.sharethis.com/1/d/t.dhj?rnd=
 https://tag.demandbase.com/4OOOk26c.min.js
 https://tag.idsync.analytics.yahoo.com/sp.js
+https://tagassistant.google.com/
 https://tbsila.cdn.turner.com/toonla/images/cnlatam/site/static-3.1.91.1/img/cnlogo_social.png
 https://tdice-recommendations-test-qa28.stage.att.com/
 https://tdice-recommendations-test-qa28.stage.att.com/restservices/customerrecommendation/v1/recommend/ESUPPORT/[[VALUE]]?userId=[[VALUE1]]&amp;userIdType=UUID
@@ -4497,6 +4503,7 @@ https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&amp;playlistId=
 https://www.googleapis.com/youtube/v3/videos?id=
 https://www.googletagmanager.com/
 https://www.googletagmanager.com/a?id=
+https://www.googletagmanager.com/debug/bootstrap
 https://www.googletagmanager.com/gtag/js?id=
 https://www.googletagmanager.com/gtm.js?id=
 https://www.googletagmanager.com/ns.html?id=GTM-KT46X7P&amp;

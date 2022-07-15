@@ -336,6 +336,7 @@ http://c3.firstnet.att.com:80
 http://c360-api-dev.att.com:80
 http://caaid.att.com:80
 http://cabling.att.com:80
+http://cacti.uc.att.com:80
 http://cal.att.com:80
 http://california.att.com:443
 http://california.att.com:80
@@ -698,6 +699,7 @@ http://esp.att.com:8080
 http://espanol.att.com:80
 http://estore.att.com:80
 http://esupport.att.com:80
+http://ethernet-reports-test-eastus2.cloud.att.com:443
 http://ethernet-reports-test-eastus2.cloud.att.com:80
 http://etsa.att.com:80
 http://etsa.att.com:8080
@@ -3177,6 +3179,7 @@ https://cabling.att.com:443
 https://caccess-al.att.com:443
 https://caccess.att.com:443
 https://caccess.stage.att.com:443
+https://cacti.uc.att.com:443
 https://caemp1.vpn.att.com:443
 https://caemp2.vpn.att.com:443
 https://caemp3.vpn.att.com:443

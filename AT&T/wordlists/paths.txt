@@ -16705,6 +16705,7 @@
 //m.att.com/my
 //maps.google.
 //munchkin.marketo.net/munchkin.js
+//my.deluxe.com/
 //myattzone-dsk.att.com/my
 //myattzone.att.com
 //platform.foursquare.com/js/widgets.js
@@ -17887,6 +17888,7 @@
 /admin/clear-user-session-view
 /admin/cobc-admin-view
 /admin/configure-mdm
+/admin/content/approvals/force/blocks
 /admin/default-tags
 /admin/devices
 /admin/devices/
@@ -17991,6 +17993,10 @@
 /api/1/services/common/prepopulation.json
 /api/21630/pokerFace/00D09E-41161N028856/forYouCard/WIFI_INTERFERENCE
 /api/21630/pokerFace/00D09E-41161N028856/networks/wifi/combined
+/api/?req=/dns/fullLookup/
+/api/?req=/email
+/api/BulkBuy/
+/api/Shipping.ajax.php
 /api/account-links
 /api/account-links/:id
 /api/account-links/:id/open
@@ -18245,6 +18251,7 @@
 /api/no-auth/google-signon
 /api/nonExemptAcknowledgement
 /api/number-parser/parse?homeCountry=
+/api/oasis/auth/login/account.cookie
 /api/oauth/:customerId/spark-enabled
 /api/oauth/:customerId/spark-status
 /api/oauth/ringcentral
@@ -18510,6 +18517,8 @@
 /api/rog/auth/signin
 /api/rog/auth/valid
 /api/rog/requests
+/api/rrad/auth/login/autologin.cookie
+/api/rrad/db/billing/listsummary/
 /api/scanners
 /api/scanners/
 /api/scanners/ping
@@ -19814,6 +19823,7 @@
 /call-routing
 /call-routing/
 /call-routing/new-pattern
+/callbacks/callbacks.js
 /callrecords
 /calls/
 /camera
@@ -20159,6 +20169,7 @@
 /containers/layout
 /containers/layout.html
 /containers/modal
+/containers/popover
 /containers/product-card
 /containers/toast
 /content
@@ -20194,6 +20205,7 @@
 /content/link
 /content/list
 /content/micro-banner
+/content/pricing
 /content/tags
 /content/tooltip
 /content/users/
@@ -20282,6 +20294,7 @@
 /css/ds2-progressbar.min.css?timestamp=1487201995443
 /css/ds2-step-indicator.min.css?timestamp=1487201995443
 /css/ds2-tooltip.min.css?timestamp=1487201995443
+/css/foundation-datepicker.min.css
 /css/icon-arrows.css?timestamp=1487201995443
 /css/icon-buildings.css?timestamp=1487201995443
 /css/icon-content.css?timestamp=1487201995443
@@ -21100,6 +21113,7 @@
 /exportRegistrations/
 /exports/\
 /expresskiosk
+/extclk
 /extendedTrial/availability
 /extends
 /extension/
@@ -21968,6 +21982,7 @@
 /js/ds2-tooltip.js?timestamp=1487201995443
 /js/filmstrip.js?timestamp=1487201995443
 /js/filmstrip.min.js?timestamp=1487201995443
+/js/foundation-datepicker.min.js
 /js/jquery.creditCardValidator.js?timestamp=1487201995443
 /js/jquery.creditCardValidator.min.js?timestamp=1459278338332
 /js/jquery.creditCardValidator.min.js?timestamp=1487201995443
@@ -24003,6 +24018,9 @@
 /services/Soap/
 /services/TrackingHub?
 /services/logout_new.cgi
+/services/web-design
+/services/webpages/
+/services/webpages/announcer/
 /servlet/AddressBookServlet?Action=
 /servlet/AddressBookServlet?Action=HelpPage&amp;PageTemplate=helpcenter.html&amp;OuterTemplate=helptemplatenav.html&amp;from=wizard
 /servlet/AddressBookServlet?Action=ManageMailbox&amp;Template=wizardtesttemplate.html&amp;Page=wizardaccountsettings.html&amp;CMBRequired=true
@@ -24070,6 +24088,7 @@
 /sharing/rest/portals/self
 /sheenColorTexture
 /sheenRoughnessTexture
+/shop
 /shop/
 /shop/address/
 /shop/hostingtechservices/smb/configwebsite.html
@@ -24172,6 +24191,8 @@
 /sites
 /sites/APSS/CardProg/SiteAssets/inqChat.html
 /sites/APSS/EETPolicy/expenses/rental/SiteAssets/inqChat.html
+/sites/all/modules/custom/ckeditor/sushi_plugins/
+/sites/all/modules/custom/loader/img/
 /sites/new-site
 /skin
 /skin/images/detect_conn.gif?ac=
@@ -24187,6 +24208,7 @@
 /slottypes/{name}/versions\
 /slottypes/{name}\
 /slower.png
+/small-business/printing/services
 /smallbusiness
 /smallbusiness/
 /smallbusiness/explore/quickflow/?address=
@@ -24816,6 +24838,8 @@
 /survey
 /survey?surveyUrl=
 /surveys
+/sushi_forms/ajax/send_mail
+/sushimemory/eventdata/Form.Submitted/Forms
 /suspend
 /suspicious-login
 /svg
@@ -25009,6 +25033,7 @@
 /trending?
 /trial
 /trivia
+/true.json
 /try-it-free
 /try/cloud/signup
 /tspusermgmt/authenticateuser
@@ -25689,6 +25714,7 @@
 /wfe/rest/5.2/instances/
 /wfe/rest/7.0/instances/
 /what-is-firstnet
+/whats-new
 /whats-next
 /whats-next.html
 /whole?flag=true
@@ -25827,6 +25853,7 @@
 06/14/2022
 06/28/2022
 07/02/2021
+07/12/2022
 07/27/2021
 08/01/2020
 08/10/2021
@@ -29125,6 +29152,7 @@ care/searchFan
 care/selectFanTable
 cart/terms
 catcher.js
+ccm/conversion/
 cdp/addOrUpdateTags
 cdp/addSecondaryUser
 cdp/adduserpermissions
@@ -29299,6 +29327,7 @@ containers/collapse
 containers/horizontal-rule
 containers/layout
 containers/modal
+containers/popover
 containers/product-card
 containers/toast
 content-gateway/embedded/embed.js
@@ -29654,6 +29683,7 @@ content/js/asyncchunk/convergedlogin_p
 content/link
 content/list
 content/micro-banner
+content/pricing
 content/selected
 content/tags
 content/tooltip
@@ -30257,6 +30287,7 @@ dynamic_brand/configs/7710/zh-TW.json
 ebiz/registration
 ecdsa/rsa
 ecms/dam
+ecommerce.js
 editorial/books/brick-compositing
 editorial/books/brick-row
 editorial/books/single-book-widget
@@ -30435,6 +30466,7 @@ emergencyAddress/EmergencyAddressEditor.js
 emergencyAddress/ForbiddenWithoutDLWarning.js
 emergencyAddress/OutOfCountryDisclaimer.js
 emptyHtmlDoc.html
+en_US.html
 enabled/false
 enabled/true
 endpointSetup/addEndpoints
@@ -31067,6 +31099,7 @@ hls.js
 holder.js
 home.aspx
 home.html
+home/creativebrief
 home/home.html
 home/status
 home/video.html
@@ -31822,6 +31855,10 @@ p/ul/ol
 p1p/api/
 p1p/api/flow/
 package.json
+pagead/1p-conversion/
+pagead/conversion/
+pagead/privacysandbox/conversion/
+pagead/viewthroughconversion/
 pages/app
 pages/app-bundle
 pages/app-event
@@ -31912,6 +31949,8 @@ pc/profile/
 pc/profiles
 people.html
 people.json
+phpajax/ajaxFieldName.php
+phpajax/ajaxFieldUser.php
 pip_requirements.txt
 piwik.js
 piwik.php
@@ -32447,6 +32486,7 @@ simlet.json
 simlet.xml
 sip.js
 site-groups/new-site-group
+sites/all/modules/custom/loader/js/sound.wav
 sites/dial-plan/
 sites/settings/
 skins/darkness/
@@ -32458,6 +32498,7 @@ skins/showcase/
 skins/vertical/
 skip/landingpage
 small-business.html
+small-business/website/deluxe-marketing-suite
 smart-home-manager/network
 smb-cards/count?requireNPA=true
 snippet/songs
@@ -33008,6 +33049,7 @@ system/makeClickToCallbackCall
 system/saveLegalData
 taste/taste-preferences
 tbauth://login.windows.net?context=
+td/rul/
 tellfriend_v2.php
 template.html
 templates/Breadcrumb.html
