@@ -7380,6 +7380,7 @@
 /assets/img/left-alignment-icon.svg
 /assets/img/lens-explorer-preview.png
 /assets/img/open-previous-project.png
+/assets/img/product-viz-mock.png
 /assets/img/right-alignment-icon.svg
 /assets/img/rocket-icon.png
 /assets/img/static-phone-model.png
@@ -7388,6 +7389,7 @@
 /assets/svg/chillah-icon.svg
 /assets/svg/copy.svg
 /assets/svg/creative-placeholder.svg
+/assets/svg/crop.svg
 /assets/svg/no-results.svg
 /assets/svg/plus.svg
 /assets/svg/sound.svg
@@ -8244,6 +8246,8 @@
 /featured-item/list/recommended$\
 /featured-item/list/related$\
 /featuregates
+/featuregates/assets
+/featuregates/webinterface
 /features
 /feed/ContentAsset.svc/GetContentAssetList
 /feed/ContentAsset.svc/GetContentAssetYearList
