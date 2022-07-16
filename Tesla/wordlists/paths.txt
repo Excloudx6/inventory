@@ -9494,6 +9494,8 @@
 /docs/Roadster/Owner/Roadster_2_Owners_Manual.pdf
 /docs/root/index.html
 /document
+/documents/
+/documents:batch
 /documents?rn=
 /domain
 /download
@@ -10896,6 +10898,8 @@
 /v1/attachment/
 /v1/compositor/?model=
 /v1/inquiry
+/v1/stats/
+/v2/indices/
 /v3
 /validate
 /validatetoken
@@ -13476,6 +13480,7 @@ auth/network-call/token-error
 auth/unauthorized
 authorization/RefreshAccessToken
 authorization/token
+autocomplete/document-field
 autologin/success
 bIYP/k3x
 bLrB/LRr
@@ -13726,6 +13731,7 @@ compensation/GenerateTotalCompensationStatement?employeeID=
 compensation/GetActiveCompensationProgram
 compensation/GetAllBudgetAndSpendByManager
 compensation/GetBasePayProgressionForEmployee?employeeID=
+compensation/GetChinaESignPhoneNumber?employeeID=
 compensation/GetCompChangeRequestDetails?workflowExecutionId=
 compensation/GetCompPlanningComments?employeeID=
 compensation/GetCompTabBenefitGraphAssumed
@@ -18120,6 +18126,7 @@ suite-header/business-event/switch-app
 suite-header/business-event/switch-organization
 suite-header/tenant-picker/change-tenant
 support/multi-factor-authentication#mfa-set-up
+support/results
 system-initiated-feedback/business-event/cancel-feedback
 system-initiated-feedback/business-event/dimiss-prompt
 system-initiated-feedback/business-event/interact-with-toast
