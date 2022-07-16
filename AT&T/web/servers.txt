@@ -56,6 +56,7 @@ http://afmfe21.att.com:80
 http://afmfe22.att.com:80
 http://afmfe23.att.com:80
 http://afmfe24.att.com:80
+http://afmfe25.att.com:80
 http://afmfe29.att.com:80
 http://afmfe30.att.com:80
 http://afmfe31.att.com:80
@@ -87,6 +88,7 @@ http://alabama.att.com:8080
 http://alabama.att.com:8443
 http://alaska.att.com:443
 http://alaska.att.com:80
+http://alaska.att.com:8080
 http://alaska.att.com:8443
 http://alcs.att.com:80
 http://alliance.att.com:80
@@ -552,6 +554,7 @@ http://dmp.wireless.att.com:80
 http://doc.att.com:80
 http://doc.att.com:8080
 http://down.uc.att.com:80
+http://dpt.bus.att.com:443
 http://dreaminblack.att.com:80
 http://drivetest.wireless.att.com:443
 http://drop.att.com:80
@@ -925,6 +928,7 @@ http://iotpartnerprogram.att.com:80
 http://iotscoe.att.com:80
 http://iowa.att.com:443
 http://iowa.att.com:80
+http://iowa.att.com:8080
 http://iowa.att.com:8443
 http://iptf360.att.com:80
 http://ipusagereports.att.com:80
@@ -933,6 +937,7 @@ http://itacm.teleconference.att.com:80
 http://ixsp.att.com:80
 http://japanese.att.com:80
 http://jss-intl.att.com:8080
+http://jss.dp.att.com:443
 http://jss.dp.att.com:8443
 http://jss.intl.att.com:8080
 http://kamo.att.com:80
@@ -1961,6 +1966,7 @@ http://test3.att.com:80
 http://test4-businesscenter.att.com:80
 http://test4.att.com:80
 http://texas.att.com:80
+http://texas.att.com:8080
 http://texas.att.com:8443
 http://thesummit.att.com:80
 http://touchtrivia.att.com:80
@@ -2845,6 +2851,7 @@ https://ais.vpn.att.com:443
 https://akamai.att.com:443
 https://akastage-finalstage.att.com:443
 https://alabama.att.com:443
+https://alabama.att.com:8443
 https://albls.vpn.att.com:443
 https://albls1.vpn.att.com:443
 https://albls2.vpn.att.com:443
@@ -3519,6 +3526,7 @@ https://dmp.att.com:443
 https://dmp.stage.att.com:443
 https://dmp.test-e.att.com:443
 https://dmp.wireless.att.com:443
+https://dna.az.cloud.att.com:443
 https://doc.att.com:443
 https://dpe-gr1.dlife.att.com:443
 https://dpt.bus.att.com:443

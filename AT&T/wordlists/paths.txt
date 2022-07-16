@@ -16635,6 +16635,7 @@
 //cdn.8thwall.com/web/fonts/raleway-regular.woff
 //cdn.8thwall.com/web/img/almostthere/v1/google-chrome.png
 //cdn.8thwall.com/web/img/almostthere/v2/poweredby-horiz-white-2.svg
+//cdn.8thwall.com/web/img/almostthere/v2/poweredby-horiz-white-4.svg
 //cdn.8thwall.com/web/img/almostthere/v2/safari-fallback.png
 //cdn.8thwall.com/web/img/almostthere/v2/xtra-arrow.svg
 //cdn.8thwall.com/web/img/hosting/pb8-11dbca.svg
@@ -17833,6 +17834,7 @@
 /acctmgmt/login
 /acctmgmt/loginexp
 /acctmgmt/passthrough/dtvnlander
+/acctmgmt/signin?intent=
 /action/
 /actionRequired
 /actions/
@@ -20132,6 +20134,7 @@
 /connected-devices
 /connected-devices-and-more
 /connected-devices-and-more/details
+/connected-devices/agent
 /consent
 /consent/
 /consents
@@ -20536,6 +20539,7 @@
 /device-support/tutorial/km1273410/apple/iphone11
 /device/
 /device/add
+/device/add/agent
 /device/get_configuration
 /device/update_state_store/
 /deviceInventory
@@ -22563,6 +22567,7 @@
 /msapi/idp-content-orchestration/v1/idpcms/support/contactus/[[VALUE]]
 /msapi/idp-content-orchestration/v1/idpcms/support/contactus/[[VALUE]]?raw-mode=true
 /msapi/idp-content-orchestration/v1/idpcms/support/contactus/smb/[[VALUE]]?raw-mode=true
+/msapi/idp-content-orchestration/v1/idpcms/support/internet?raw-mode=true
 /msapi/idp-content-orchestration/v1/idpcms/support/outages?pageName=outages&amp;referrerUrl=
 /msapi/idp-content-orchestration/v1/idpcms/support/robocalldetails?raw-mode=true
 /msapi/idp-content-orchestration/v1/idpcms/support/smarthomemanager
@@ -22602,6 +22607,7 @@
 /msapi/managewirednetwork/v1/getwifiequipmentsdetails
 /msapi/managewirednetwork/v1/getwifiequipmentsdetails?action=[[VALUE]]
 /msapi/managewirednetwork/v1/initiateFlow
+/msapi/managewirednetwork/v1/internetdatausage
 /msapi/managewirednetwork/v1/locationcode
 /msapi/managewirednetwork/v1/locations
 /msapi/managewirednetwork/v1/networkmanagement
@@ -23321,6 +23327,7 @@
 /profile/passcode/v2/validate
 /profile/v1/user/session/refresh
 /profile/{profileID}/edit
+/profile/{profileID}/edit/agent
 /profile?action=logout
 /profilePics/
 /profiles/
@@ -24550,6 +24557,7 @@
 /support/internet/home/att-security/agent/
 /support/internet/home/connected-devices/
 /support/internet/home/connected-devices/agent/
+/support/internet/home/device
 /support/internet/home/device/
 /support/internet/home/device/add/
 /support/internet/home/device/add/agent/
@@ -24568,11 +24576,17 @@
 /support/internet/home/hardware/agent/
 /support/internet/home/hardwareDevice/
 /support/internet/home/hardwareDevice/agent/
+/support/internet/home/hardwareDevice/details/
+/support/internet/home/hardwareDevice/details/agent/
+/support/internet/home/hardwareDevice/location/
+/support/internet/home/hardwareDevice/location/agent/
 /support/internet/home/internet-security/contentfilters
 /support/internet/home/internet-security/contentfilters/applysettings/modal
 /support/internet/home/internet-security/filters/error/modal
 /support/internet/home/internet-security/id-monitoring
+/support/internet/home/internet-security/id-monitoring/agent/
 /support/internet/home/internet-security/threat-dashboard
+/support/internet/home/internet-security/threat-dashboard/agent/
 /support/internet/home/internet-security/vpn/chooselocation/modal
 /support/internet/home/internet-security/websitefilters
 /support/internet/home/internet-speed/
@@ -24635,6 +24649,7 @@
 /support/services/v1/device/make/[[VALUE1]]/model/[[VALUE2]].json?appId=ecare
 /support/services/v1/device/make/[[VALUE]]/model.json?appId=ecare&amp;troubleshooting=false
 /support/services/v1/dsm/genericSearch.json?appId=ecare&amp;troubleshooting=false
+/support/showarticle/
 /support/smalbusiness/index
 /support/smallbusiness
 /support/smallbusiness/
@@ -24659,6 +24674,8 @@
 /support/smallbusiness/internet/home/devices/usage/hourly/
 /support/smallbusiness/internet/home/hardware/
 /support/smallbusiness/internet/home/hardwareDevice/
+/support/smallbusiness/internet/home/hardwareDevice/details/
+/support/smallbusiness/internet/home/hardwareDevice/location/
 /support/smallbusiness/internet/home/internet-security/id-monitoring
 /support/smallbusiness/internet/home/internet-security/id-monitoring/agent/
 /support/smallbusiness/internet/home/internet-security/threat-dashboard
