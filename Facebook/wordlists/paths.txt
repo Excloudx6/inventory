@@ -1887,6 +1887,7 @@
 /api/v1/notifications/badge/
 /api/v1/notifications/preferences/
 /api/v1/notifications/settings/
+/api/v1/public/landing_info/
 /api/v1/save/media/{media_id}/saved_collections_for_media/
 /api/v1/save/products/{product_id}/save/
 /api/v1/save/products/{product_id}/unsave/
