@@ -4,6 +4,21 @@ https://ajax.aspnetcdn.com/ajax/bootstrap/4.1.1/bootstrap.min.js
 https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.2.1.min.js
 https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
 https://amaicdn.com/preorder2/common.js
+https://animal.githubapp.com:443/app.js?v=1.0.0
+https://animal.githubapp.com:443/relocateParameters.js
+https://animal.githubapp.com:443/webjars/angular-module-shim/0.0.4/angular-module-shim.js
+https://animal.githubapp.com:443/webjars/angular-route/1.6.9/angular-route.min.js
+https://animal.githubapp.com:443/webjars/angular-touch/1.6.9/angular-touch.min.js
+https://animal.githubapp.com:443/webjars/angular-translate-interpolation-messageformat/2.16.0/angular-translate-interpolation-messageformat.min.js
+https://animal.githubapp.com:443/webjars/angular-translate-loader-static-files/2.16.0/angular-translate-loader-static-files.min.js
+https://animal.githubapp.com:443/webjars/angular-translate/2.16.0/angular-translate.min.js
+https://animal.githubapp.com:443/webjars/angular/1.6.9/angular.min.js
+https://animal.githubapp.com:443/webjars/blob-polyfill/1.0.20150320/Blob.js
+https://animal.githubapp.com:443/webjars/filesaver/1.3.3/FileSaver.min.js
+https://animal.githubapp.com:443/webjars/jquery-migrate/3.1.0/jquery-migrate.js
+https://animal.githubapp.com:443/webjars/jquery/3.5.1/dist/jquery.min.js
+https://animal.githubapp.com:443/webjars/lodash/4.17.21/dist/lodash.min.js
+https://animal.githubapp.com:443/webjars/messageformat/1.0.2/messageformat.min.js
 https://appservice.azureedge.net/scripts/app-service/v3/loc.min.js
 https://bundle.enormapps.com/frontend/bundleapp/bundle.js
 https://buttons.github.io/buttons.js
@@ -232,6 +247,9 @@ https://docs.github.com/_next/static/CIaosA_Y_gpE18jDdx-9K/_buildManifest.js
 https://docs.github.com/_next/static/CIaosA_Y_gpE18jDdx-9K/_ssgManifest.js
 https://docs.github.com/_next/static/DaHb8nahoYkEBfb-z9oX4/_buildManifest.js
 https://docs.github.com/_next/static/DaHb8nahoYkEBfb-z9oX4/_ssgManifest.js
+https://docs.github.com/_next/static/EyC_FwRD1uAElBItzB8HL/_buildManifest.js
+https://docs.github.com/_next/static/EyC_FwRD1uAElBItzB8HL/_middlewareManifest.js
+https://docs.github.com/_next/static/EyC_FwRD1uAElBItzB8HL/_ssgManifest.js
 https://docs.github.com/_next/static/G5ykPS37Cnqx0Blzd9zzs/_buildManifest.js
 https://docs.github.com/_next/static/G5ykPS37Cnqx0Blzd9zzs/_ssgManifest.js
 https://docs.github.com/_next/static/GNqK6E1SsUXQKVaKVb4IF/_buildManifest.js
@@ -313,6 +331,7 @@ https://docs.github.com/_next/static/chunks/109-a1a56ea953446076.js
 https://docs.github.com/_next/static/chunks/109-e3b61e516d300bb0.js
 https://docs.github.com/_next/static/chunks/19-3a6de53dd93b05ec.js
 https://docs.github.com/_next/static/chunks/19-ac9e756974145332.js
+https://docs.github.com/_next/static/chunks/19-ef6cfd20100b2818.js
 https://docs.github.com/_next/static/chunks/19-f8462e429105d257.js
 https://docs.github.com/_next/static/chunks/236-431bfaddc4bee1e58771.js
 https://docs.github.com/_next/static/chunks/236-966b0a7f5875d5d14c6a.js
@@ -481,6 +500,9 @@ https://docs.github.com:443/_next/static/DaHb8nahoYkEBfb-z9oX4/_buildManifest.js
 https://docs.github.com:443/_next/static/DaHb8nahoYkEBfb-z9oX4/_ssgManifest.js
 https://docs.github.com:443/_next/static/DlJQM73AYSRalYkZKGEN-/_buildManifest.js
 https://docs.github.com:443/_next/static/DlJQM73AYSRalYkZKGEN-/_ssgManifest.js
+https://docs.github.com:443/_next/static/EyC_FwRD1uAElBItzB8HL/_buildManifest.js
+https://docs.github.com:443/_next/static/EyC_FwRD1uAElBItzB8HL/_middlewareManifest.js
+https://docs.github.com:443/_next/static/EyC_FwRD1uAElBItzB8HL/_ssgManifest.js
 https://docs.github.com:443/_next/static/G4k5W0xOsSf7si10cv-Yn/_buildManifest.js
 https://docs.github.com:443/_next/static/G4k5W0xOsSf7si10cv-Yn/_ssgManifest.js
 https://docs.github.com:443/_next/static/G5ykPS37Cnqx0Blzd9zzs/_buildManifest.js
@@ -584,6 +606,7 @@ https://docs.github.com:443/_next/static/chunks/109-a1a56ea953446076.js
 https://docs.github.com:443/_next/static/chunks/109-e3b61e516d300bb0.js
 https://docs.github.com:443/_next/static/chunks/19-3a6de53dd93b05ec.js
 https://docs.github.com:443/_next/static/chunks/19-ac9e756974145332.js
+https://docs.github.com:443/_next/static/chunks/19-ef6cfd20100b2818.js
 https://docs.github.com:443/_next/static/chunks/19-f8462e429105d257.js
 https://docs.github.com:443/_next/static/chunks/236-431bfaddc4bee1e58771.js
 https://docs.github.com:443/_next/static/chunks/236-966b0a7f5875d5d14c6a.js
@@ -904,6 +927,7 @@ https://github.githubassets.com/assets/app_assets_modules_github_behaviors_pjax_
 https://github.githubassets.com/assets/app_assets_modules_github_behaviors_pjax_ts-683fa5a6e739.js
 https://github.githubassets.com/assets/app_assets_modules_github_behaviors_pjax_ts-70799c3f6d95.js
 https://github.githubassets.com/assets/app_assets_modules_github_behaviors_pjax_ts-8ab68dc18f9f.js
+https://github.githubassets.com/assets/app_assets_modules_github_behaviors_pjax_ts-9e0418a1e099.js
 https://github.githubassets.com/assets/app_assets_modules_github_behaviors_pjax_ts-9f84f27e2e5c.js
 https://github.githubassets.com/assets/app_assets_modules_github_behaviors_pjax_ts-be77899ce422.js
 https://github.githubassets.com/assets/app_assets_modules_github_behaviors_pjax_ts-bfa38045000f.js
@@ -948,6 +972,7 @@ https://github.githubassets.com/assets/behaviors-6991d15f.js
 https://github.githubassets.com/assets/behaviors-6a5c67171a9c.js
 https://github.githubassets.com/assets/behaviors-6bfe152f16d8.js
 https://github.githubassets.com/assets/behaviors-706a3abf83b4.js
+https://github.githubassets.com/assets/behaviors-746a204a690d.js
 https://github.githubassets.com/assets/behaviors-74966acde8ee.js
 https://github.githubassets.com/assets/behaviors-7e7460b6a034.js
 https://github.githubassets.com/assets/behaviors-81829b610122.js
@@ -1043,6 +1068,7 @@ https://github.githubassets.com/assets/element-registry-ef38a96eff7c.js
 https://github.githubassets.com/assets/element-registry-f2d13d7793cb74e9c058.js
 https://github.githubassets.com/assets/element-registry-f39e69b8070d.js
 https://github.githubassets.com/assets/environment-23c9b3873295.js
+https://github.githubassets.com/assets/environment-318014894642.js
 https://github.githubassets.com/assets/environment-3c44797b33f2.js
 https://github.githubassets.com/assets/environment-3ccf192d151f.js
 https://github.githubassets.com/assets/environment-3df5f0e36b40.js
@@ -1196,6 +1222,7 @@ https://github.githubassets.com/assets/runtime-09b314e168f0.js
 https://github.githubassets.com/assets/runtime-0d56b92eb0b1.js
 https://github.githubassets.com/assets/runtime-13df081c3a09.js
 https://github.githubassets.com/assets/runtime-1b4e2df2ac54.js
+https://github.githubassets.com/assets/runtime-1bfd88b4dac4.js
 https://github.githubassets.com/assets/runtime-225c6b5777cf.js
 https://github.githubassets.com/assets/runtime-22cd87e2a306.js
 https://github.githubassets.com/assets/runtime-26a5c8e6755e.js
@@ -1612,6 +1639,7 @@ https://stars.github.com/_nuxt/static/1657646138/state.js
 https://stars.github.com/_nuxt/static/1657728958/state.js
 https://stars.github.com/_nuxt/static/1657819186/state.js
 https://stars.github.com/_nuxt/static/1657905421/state.js
+https://stars.github.com/_nuxt/static/1657991665/state.js
 https://stars.github.com:443/_nuxt/0024b22.js
 https://stars.github.com:443/_nuxt/071e2cb.js
 https://stars.github.com:443/_nuxt/12ee868.js
@@ -1745,6 +1773,7 @@ https://stars.github.com:443/_nuxt/static/1657646138/state.js
 https://stars.github.com:443/_nuxt/static/1657728958/state.js
 https://stars.github.com:443/_nuxt/static/1657819186/state.js
 https://stars.github.com:443/_nuxt/static/1657905421/state.js
+https://stars.github.com:443/_nuxt/static/1657991665/state.js
 https://static.education.github.com:443/external-assets/github-global-campus/41d3e6d.js
 https://static.education.github.com:443/external-assets/github-global-campus/4d2cf88.js
 https://static.education.github.com:443/external-assets/github-global-campus/7af5209.js
