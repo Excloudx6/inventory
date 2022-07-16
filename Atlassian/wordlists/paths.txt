@@ -6599,6 +6599,9 @@
 /img/slackbot/slackbot_72.png
 /img/support/setup/contextpaneeditor/
 /img/trial/
+/img/trial/clips-repackaging-hero.mp4
+/img/trial/clips-repackaging-hero.png
+/img/trial/clips-repackaging-hero.webm
 /img/trial/modal_external_partners.png
 /img/trial/modal_group_calls.png
 /img/trial/modal_messages_apps.png
@@ -14869,6 +14872,7 @@ src/tokens/atlassian-light/utility/utility.tsx
 src/tokens/palette.tsx
 ssb/redirect
 ssb/signin_redirect
+ssb/signin_redirect?aswebauth=1
 ssr-output/html
 ssr-output/state
 ssr-output/styles
