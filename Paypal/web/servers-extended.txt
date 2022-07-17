@@ -174,7 +174,7 @@ http://partnermanager.paypal.com:443 ["400 The plain HTTP request was sent to HT
 http://partnermanager.paypal.com:80 ["PayPal Partner Manager"] [200] [61799] ["text/html"] ["173.0.93.189"] ["https://partnermanager.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://payflowlink-edgemigration.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.188"] [null] [null] [null] [];
 http://payflowlink-edgemigration.glb.paypal.com:80 [null] [200] [6882] ["text/html"] ["173.0.93.191"] ["https://payflowlink-edgemigration.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
-http://payflowlink-edgemigration.payflow.edge.paypal.com:80 [null] [200] [6882] ["text/html"] ["173.0.93.189"] ["https://payflowlink-edgemigration.payflow.edge.paypal.com/"] ["nginx"] [["Nginx"]] [];
+http://payflowlink-edgemigration.payflow.edge.paypal.com:80 [null] [200] [6887] ["text/html"] ["173.0.93.189"] ["https://payflowlink-edgemigration.payflow.edge.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://payflowlink-migration.payflow.edge.paypal.com:80 [null] [200] [6883] ["text/html"] ["173.0.93.189"] ["https://payflowlink-migration.payflow.edge.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://payflowlink.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.189"] [null] [null] [null] [];
 http://payflowlink.paypal.com:80 ["Payflow Link"] [200] [1661] ["text/html"] ["173.0.93.189"] ["https://payflowlink.paypal.com/"] ["nginx"] [["Nginx"]] [];
@@ -271,6 +271,7 @@ http://slc-a-origin-pointofsale.paypal.com:80 [null] [200] [6884] ["text/html"] 
 http://slc-b-origin-history-1.paypal.com:80 ["Fastly error: unknown domain slc-b-origin-history-1.paypal.com"] [500] [286] ["text/html"] ["151.101.1.21"] [null] ["Varnish"] [["Varnish"]] [];
 http://slc-b-origin-history-2.paypal.com:80 ["Fastly error: unknown domain slc-b-origin-history-2.paypal.com"] [500] [287] ["text/html"] ["151.101.193.21"] [null] ["Varnish"] [["Varnish"]] [];
 http://slc-b-origin-history.paypal.com:80 ["Fastly error: unknown domain slc-b-origin-history.paypal.com"] [500] [282] ["text/html"] ["151.101.65.21"] [null] ["Varnish"] [["Varnish"]] [];
+http://slc-b-origin-pointofsale.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.88.104"] [null] [null] [null] [];
 http://slc-b-origin-pointofsale.paypal.com:80 ["302 Found"] [302] [161] ["text/html"] ["173.0.88.72"] [null] [null] [null] [];
 http://stage-api-m.edge.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["64.4.250.44"] [null] [null] [null] [];
 http://stage-api.edge.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["64.4.250.42"] [null] [null] [null] [];
@@ -506,7 +507,7 @@ https://msoid.paypal.com:443 ["Object moved"] [302] [146] ["text/html"] ["20.190
 https://msoid.xoom.com:443 ["Object moved"] [302] [146] ["text/html"] ["40.126.32.74"] [null] [null] [null] [];
 https://mymail.xoom.com:443 ["Object moved"] [302] [779] ["text/html"] ["52.97.137.210"] ["https://mymail.xoom.com/owa/"] ["Microsoft-IIS/10.0"] [["IIS","Windows Server"]] [];
 https://news.xoom.com:443 [null] [503] [3207] ["text/html"] ["161.71.22.169"] ["https://news.xoom.com/s/"] [null] [["ApexPages","Salesforce"]] [];
-https://news.xoom.com:8443 [null] [301] [null] [null] ["85.222.140.13"] [null] ["sfdcedge"] [null] [];
+https://news.xoom.com:8443 [null] [301] [null] [null] ["85.222.140.10"] [null] ["sfdcedge"] [null] [];
 https://oma.staging.xoom.com:443 ["Send Money Online | Xoom, a PayPal Service"] [200] [55981] ["text/html"] ["34.117.123.18"] [null] [null] [["Contentful","Envoy","Google Cloud"]] [];
 https://onboarding.glb.paypal.com:443 ["Access Denied"] [403] [222] ["text/html"] ["23.67.136.173"] [null] ["AkamaiGHost"] [null] [];
 https://onboarding.paypal.com:443 ["404 Not Found"] [404] [162] ["text/html"] ["52.222.214.85"] [null] ["nginx"] [["Amazon Cloudfront","Amazon Web Services","Nginx"]] [];
@@ -590,7 +591,7 @@ https://qwac.paypal.com:443 [null] [200] [6885] ["text/html"] ["151.101.193.21"]
 https://refer.xOom.com:443 [null] [204] [null] ["application/json"] ["52.6.220.202"] [null] ["Extole"] [null] [];
 https://refer.xoom.com:443 [null] [204] [null] ["application/json"] ["52.6.220.202"] [null] ["Extole"] [null] [];
 https://registration-edgemigration.glb.paypal.com:443 [null] [200] [6871] ["text/html"] ["173.0.93.191"] [null] ["nginx"] [["Nginx"]] [];
-https://registration-migration.glb.paypal.com:443 [null] [200] [6883] ["text/html"] ["173.0.93.135"] [null] ["nginx"] [["Nginx"]] [];
+https://registration-migration.glb.paypal.com:443 [null] [200] [6969] ["text/html"] ["173.0.93.135"] [null] ["nginx"] [["Nginx"]] [];
 https://registration.paypal.com:443 [null] [200] [null] ["text/html"] ["173.0.93.190"] [null] ["nginx"] [["Java","Nginx"]] [];
 https://safebreach.paypal.com:443 [null] [404] [null] [null] ["23.32.242.197"] [null] [null] [null] [];
 https://safetyhub.paypal.com:443 [null] [200] [124] ["text/html"] ["173.0.93.196"] [null] [null] [["Java"]] [];
