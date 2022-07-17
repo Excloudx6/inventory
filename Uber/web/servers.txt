@@ -1558,6 +1558,7 @@ http://order.ubereats.com:80
 http://order.ubereats.com:8080
 http://osiris-api.uberinternal.com:80
 http://osiris.uberinternal.com:80
+http://oss.uberinternal.com:80
 http://ots.uberinternal.com:80
 http://outages.uberinternal.com:80
 http://outages.uberinternal.com:8080
@@ -2082,6 +2083,7 @@ http://submitqueue-view-mesos.uberinternal.com:80
 http://submitqueue-view-staging.uberinternal.com:80
 http://submitqueue-view.uberinternal.com:80
 http://submitqueue.uberinternal.com:80
+http://subscriptions.ubeRINTErNAl.com:80
 http://subscriptions.uber.com:80
 http://subscriptions.uber.com:8080
 http://subscriptions.uberinternal.com:80
@@ -3847,6 +3849,7 @@ https://notifier.uber.com:443
 https://nova-dev.uberinternal.com:443
 https://nova-staging.uberinternal.com:443
 https://nova-training.uberinternal.com:443
+https://nova.ubeRINTErNAl.com:443
 https://nova.uberinternal.com:443
 https://npope.UbEriNTErnAL.com:443
 https://npope.uberinternal.com:443
@@ -3897,6 +3900,7 @@ https://order-tracker.uber.com:443
 https://order.ubereats.com:443
 https://osiris-api.uberinternal.com:443
 https://osiris.uberinternal.com:443
+https://oss.uberinternal.com:443
 https://ots.uberinternal.com:443
 https://outages.uberinternal.com:443
 https://overwatch.uberinternal.com:443
@@ -4353,6 +4357,7 @@ https://submitqueue-view-mesos.uberinternal.com:443
 https://submitqueue-view-staging.uberinternal.com:443
 https://submitqueue-view.uberinternal.com:443
 https://submitqueue.uberinternal.com:443
+https://subscriptions.ubeRINTErNAl.com:443
 https://subscriptions.uber.com:443
 https://subscriptions.uberinternal.com:443
 https://suggestions.uberinternal.com:443
