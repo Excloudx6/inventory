@@ -7922,3 +7922,24 @@
 [url] - [code-400] - https://access.chefchef-goodyearbr.ats.snapchat.com:443
 [url] - [code-400] - https://authchef-goodyearbr.ats.snapchat.com:443
 [url] - [code-400] - https://beta.chefchef-goodyearbr.ats.snapchat.com:443
+[form] - http://iosbeta.snapchat.com/?rb.routing.mode=proxy&rb.routing.signature=13450
+[form] - https://accounts.google.com/v3/signin/identifier?dsh=S-1023066681%3A1658079311843589&continue=https%3A%2F%2Fuc.appengine.google.com%2F_ah%2Fconflogin%3Fstate%3D%7EAJKiYcF__eoHEsb-Q2yrncSyglbyQNuH5ryOK830SyuoPjAgchPpidjlqFujx8w15t8v7_yoHxk-0_NIL-WJjuhGvuTUAkiv7XtIlm00rKbmiKRIPC8jC5wAgT4sJNfxGKSBvBUu_w-nMpk3yzQ11IzJGJ3LVxDr53lKiEiVRt7mWtPY-Np7w6X1eRT4g1QsRyFo10aD3_E0&passive=true&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AX3vH39CAbsRAAhAyk35wDU1HFAikCxzqQyE-5nvJ3h7oBJEK687gVXiyVhCyLZGvrD95E0Il47IbA
+[form] - https://accounts.google.com/v3/signin/identifier?dsh=S-1626920270%3A1658079312006084&continue=https%3A%2F%2Fuc.appengine.google.com%2F_ah%2Fconflogin%3Fstate%3D%7EAJKiYcHg2huNdfjCNG3NVxWnobp66NHIBL_WXLoQSV200_hFXt-VRWIG3FlBFaYhaHiXpBczqxH5GiR6wAUp5CwlmjLxra7pWrVP0gOpiyISj1ZZFsWdogoU_ZQcz0LeFXKrUgj6rjSp-6Wx_YYU1UEPDdNZCQYkkOk6_uDJYueHCju51oqn7hlcAB9gMU6gf_dCTqDEK_PJ&passive=true&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AX3vH3-Jxqkbn-h7j97KcQtdZsuz5TARZNXOXzuDzfBNJeWpS3kHdYA9pyHR1TMcuB8cCvHZITU-
+[form] - https://iosbeta.snapchat.com/?rb.routing.mode=proxy&rb.routing.signature=13450
+[href] - https://accounts.google.com/SignUp?continue=https://uc.appengine.google.com/_ah/conflogin?state%3D~AJKiYcF__eoHEsb-Q2yrncSyglbyQNuH5ryOK830SyuoPjAgchPpidjlqFujx8w15t8v7_yoHxk-0_NIL-WJjuhGvuTUAkiv7XtIlm00rKbmiKRIPC8jC5wAgT4sJNfxGKSBvBUu_w-nMpk3yzQ11IzJGJ3LVxDr53lKiEiVRt7mWtPY-Np7w6X1eRT4g1QsRyFo10aD3_E0&dsh=S-1023066681:1658079311843589&flowEntry=ServiceLogin&flowName=WebLiteSignIn&ifkv=AX3vH39CAbsRAAhAyk35wDU1HFAikCxzqQyE-5nvJ3h7oBJEK687gVXiyVhCyLZGvrD95E0Il47IbA
+[href] - https://accounts.google.com/SignUp?continue=https://uc.appengine.google.com/_ah/conflogin?state%3D~AJKiYcHg2huNdfjCNG3NVxWnobp66NHIBL_WXLoQSV200_hFXt-VRWIG3FlBFaYhaHiXpBczqxH5GiR6wAUp5CwlmjLxra7pWrVP0gOpiyISj1ZZFsWdogoU_ZQcz0LeFXKrUgj6rjSp-6Wx_YYU1UEPDdNZCQYkkOk6_uDJYueHCju51oqn7hlcAB9gMU6gf_dCTqDEK_PJ&dsh=S-1626920270:1658079312006084&flowEntry=ServiceLogin&flowName=WebLiteSignIn&ifkv=AX3vH3-Jxqkbn-h7j97KcQtdZsuz5TARZNXOXzuDzfBNJeWpS3kHdYA9pyHR1TMcuB8cCvHZITU-
+[href] - https://accounts.google.com/signin/usernamerecovery?continue=https://uc.appengine.google.com/_ah/conflogin?state%3D~AJKiYcF__eoHEsb-Q2yrncSyglbyQNuH5ryOK830SyuoPjAgchPpidjlqFujx8w15t8v7_yoHxk-0_NIL-WJjuhGvuTUAkiv7XtIlm00rKbmiKRIPC8jC5wAgT4sJNfxGKSBvBUu_w-nMpk3yzQ11IzJGJ3LVxDr53lKiEiVRt7mWtPY-Np7w6X1eRT4g1QsRyFo10aD3_E0&dsh=S-1023066681:1658079311843589&flowEntry=ServiceLogin&flowName=WebLiteSignIn&ifkv=AX3vH39CAbsRAAhAyk35wDU1HFAikCxzqQyE-5nvJ3h7oBJEK687gVXiyVhCyLZGvrD95E0Il47IbA
+[href] - https://accounts.google.com/signin/usernamerecovery?continue=https://uc.appengine.google.com/_ah/conflogin?state%3D~AJKiYcHg2huNdfjCNG3NVxWnobp66NHIBL_WXLoQSV200_hFXt-VRWIG3FlBFaYhaHiXpBczqxH5GiR6wAUp5CwlmjLxra7pWrVP0gOpiyISj1ZZFsWdogoU_ZQcz0LeFXKrUgj6rjSp-6Wx_YYU1UEPDdNZCQYkkOk6_uDJYueHCju51oqn7hlcAB9gMU6gf_dCTqDEK_PJ&dsh=S-1626920270:1658079312006084&flowEntry=ServiceLogin&flowName=WebLiteSignIn&ifkv=AX3vH3-Jxqkbn-h7j97KcQtdZsuz5TARZNXOXzuDzfBNJeWpS3kHdYA9pyHR1TMcuB8cCvHZITU-
+[href] - https://snapchat.com/unlock/?type=SNAPCODE&uuid=21efbb79358241458b4d5051a0fb09b8&metadata=01
+[href] - https://snapchat.com/unlock/?type=SNAPCODE&uuid=eea7186f7924478ba218c22f93b8d84a&metadata=01
+[href] - https://snapchat.com/unlock/?type=SNAPCODE&uuid=eec1e232a8fc4c67a11cf1a8ac9dd8c3&metadata=01
+[href] - https://story.snapchat.com/p/092e9b73-5311-45fb-8744-8eb181a1ed24
+[href] - https://story.snapchat.com/p/4be883a5-13bc-40c3-9700-22b66fc7c88d
+[href] - https://story.snapchat.com/p/cac96319-a25d-4e1e-a22e-f4d4987f4653
+[javascript] - https://ads-interfaces.sc-cdn.net/32d6a8046f0034977c8a.min.js
+[javascript] - https://ads-interfaces.sc-cdn.net/7152a209e9c41ae22680.min.js
+[javascript] - https://ads-interfaces.sc-cdn.net/7286f4faafd2edb52569.min.js
+[javascript] - https://snappublisher.snapchat.com/24bee11fa467bf5dc38f.min.js
+[javascript] - https://snappublisher.snapchat.com/70123d3dabe46a943d59.min.js
+[url] - [code-400] - https://accesschef-goodyearbr.ats.snapchat.com:443
+[url] - [code-400] - https://meta.ats.snapchat.com:443
