@@ -1282,6 +1282,7 @@ http://ndr.att.com:8080
 http://neblog.att.com:80
 http://nebraska.att.com:443
 http://nebraska.att.com:80
+http://nebraska.att.com:8080
 http://nebraska.att.com:8443
 http://nemakmeeting.att.com:443
 http://neo.att.com:80
@@ -1453,6 +1454,7 @@ http://perf5.stage.att.com:80
 http://perf6.stage.att.com:80
 http://perf7.stage.att.com:80
 http://perf8.stage.att.com:80
+http://performance-tool.aCsS.att.com:80
 http://performance-tool.acSs.att.com:80
 http://perks.att.com:80
 http://personalcloud.att.com:443
@@ -1745,6 +1747,7 @@ http://scl.att.com:8080
 http://scoc-miamidade.att.com:80
 http://scoc-miamidade.stage.att.com:80
 http://scoc-miamidade.test.att.com:80
+http://screenready.att.com:443
 http://screenready.att.com:80
 http://sct.att.com:80
 http://sct.att.com:8080
@@ -1897,6 +1900,7 @@ http://tchosted.att.com:80
 http://tchosted.bus.att.com:443
 http://tchosted.bus.att.com:80
 http://tchosted.business.att.com:80
+http://tchosted.businessdirect.att.com:443
 http://tchosted.businessdirect.att.com:80
 http://tchosted.cnm.att.com:443
 http://tchosted.firstnet.att.com:80
@@ -2470,6 +2474,7 @@ http://vnusres10.acss.att.com:80
 http://vnusres11.acss.att.com:80
 http://vnusres13.acss.att.com:80
 http://vnusres14.acss.att.com:80
+http://vnusres15.aCsS.att.com:80
 http://vnusres15.acss.att.com:80
 http://vnusres16.acss.att.com:80
 http://vnusres17.acss.att.com:80
@@ -4716,6 +4721,7 @@ https://perf5.stage.att.com:443
 https://perf6.stage.att.com:443
 https://perf7.stage.att.com:443
 https://perf8.stage.att.com:443
+https://performance-tool.aCsS.att.com:443
 https://performance-tool.acSs.att.com:443
 https://perks.att.com:443
 https://pessig.dlife.att.com:443
@@ -5115,6 +5121,7 @@ https://social.att.com:443
 https://solutions.firstnet.att.com:443
 https://southdakota.att.com:443
 https://southregion.att.com:443
+https://southregion.att.com:8443
 https://southwest-attsn.att.com:443
 https://southwestregion.att.com:443
 https://spark.att.com:443
@@ -5143,6 +5150,7 @@ https://stacm.ccgwsl-st.teleconference.att.com:443
 https://stacm.teleconference.att.com:443
 https://stage-solutions.firstnet.att.com:443
 https://stage-wireless.firstnet.att.com:443
+https://stage-www.wireless.att.com:443
 https://stage1-dcp2.att.com:443
 https://stage2-dcp2.att.com:443
 https://staging.uc.att.com:443
@@ -5817,6 +5825,7 @@ https://vnusres10.acss.att.com:443
 https://vnusres11.acss.att.com:443
 https://vnusres13.acss.att.com:443
 https://vnusres14.acss.att.com:443
+https://vnusres15.aCsS.att.com:443
 https://vnusres15.acss.att.com:443
 https://vnusres16.acss.att.com:443
 https://vnusres17.acss.att.com:443

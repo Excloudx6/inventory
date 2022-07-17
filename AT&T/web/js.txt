@@ -1232,6 +1232,8 @@ https://businessdigital.att.com/wp-content/themes/business-digital/assets/js/say
 https://businessdigital.att.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
 https://businessdigital.att.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
 https://businessdigital.att.com/wp-includes/js/wp-embed.min.js?ver=5.4.1
+https://busmsgr.att.com/js/detectmobile.js
+https://busmsgr.att.com/js/jquery-1.11.1.min.js
 https://busmsgr.att.com:443/js/detectmobile.js
 https://busmsgr.att.com:443/js/jquery-1.11.1.min.js
 https://c3-stage.firstnet.att.com/config.f0d93e151255e36f123a753563361366.js
@@ -1911,6 +1913,7 @@ https://expressordering.att.com:443/assets/css/bootstrap.min.js
 https://expressordering.att.com:443/assets/css/popper.min.js
 https://expressordering.att.com:443/main.696bbbc61879d4bb08da.js
 https://expressordering.att.com:443/main.8c8c14cab9688f638687.js
+https://expressordering.att.com:443/main.c842621127b8a470deea.js
 https://expressordering.att.com:443/polyfills.b1d9c944728e900081ec.js
 https://expressordering.att.com:443/runtime.e330f42ab6b744c4debd.js
 https://expressordering.stage-e.att.com:443/assets/css/bootstrap.min.js
@@ -2156,6 +2159,9 @@ https://fpspc3-stage-west.az.cloud.att.com:443/static/js/48.9f8c0645.chunk.js
 https://fpspc3-stage-west.az.cloud.att.com:443/static/js/main.144a4e59.chunk.js
 https://fpspc3-stage-west.az.cloud.att.com:443/static/js/main.38fc7e41.chunk.js
 https://fpspc3-stage-west.az.cloud.att.com:443/static/js/main.c7674a32.chunk.js
+https://fpspc3.az.cloud.att.com:443/config.b9d2edceb6ddda5615d0304bb899f7b8.js
+https://fpspc3.az.cloud.att.com:443/static/js/48.4eb64d51.chunk.js
+https://fpspc3.az.cloud.att.com:443/static/js/main.65d9a348.chunk.js
 https://gaming.att.com/_nuxt/57917e1.js
 https://gaming.att.com/_nuxt/74f0a56.js
 https://gaming.att.com/_nuxt/a50c2b3.js
@@ -2445,6 +2451,16 @@ https://iptf360.att.com:443/polyfills-es2015.41037d0050d584506c2a.js
 https://iptf360.att.com:443/polyfills-es5.63b8516dea3f54073ca0.js
 https://iptf360.att.com:443/runtime-es2015.98ac2a3ff0a6b644356d.js
 https://iptf360.att.com:443/runtime-es5.98ac2a3ff0a6b644356d.js
+https://ixsp.att.com/main.js
+https://ixsp.att.com/polyfills-es5.js
+https://ixsp.att.com/polyfills.js
+https://ixsp.att.com/runtime.js
+https://ixsp.att.com/scripts.js
+https://ixsp.att.com:443/main.js
+https://ixsp.att.com:443/polyfills-es5.js
+https://ixsp.att.com:443/polyfills.js
+https://ixsp.att.com:443/runtime.js
+https://ixsp.att.com:443/scripts.js
 https://join.uscfpdweb.att.com:443/script/loader.js
 https://join.uscfpdweb.att.com:443/script/modernizr.js
 https://join.wellsfargovideo.att.com:443/script/loader.js
@@ -2821,8 +2837,11 @@ https://portal.acdn.att.com/apps/auth/bootstrap-5117c9bf.js
 https://portal.ato.cloud.att.com/app.c5ef18fb7a8b2981142f.js
 https://portal.ato.cloud.att.com/polyfills.c5ef18fb7a8b2981142f.js
 https://portal.ato.cloud.att.com/vendor.c5ef18fb7a8b2981142f.js
+https://portal.ato.cloud.att.com:443/app.0d2a7bc177ececa37477.js
 https://portal.ato.cloud.att.com:443/app.c5ef18fb7a8b2981142f.js
+https://portal.ato.cloud.att.com:443/polyfills.0d2a7bc177ececa37477.js
 https://portal.ato.cloud.att.com:443/polyfills.c5ef18fb7a8b2981142f.js
+https://portal.ato.cloud.att.com:443/vendor.0d2a7bc177ececa37477.js
 https://portal.ato.cloud.att.com:443/vendor.c5ef18fb7a8b2981142f.js
 https://portal.dataflow.iot.att.com:443/app.41ecd250c0cf52a9aa23.js
 https://portal.dataflow.iot.att.com:443/app.4f455765634297f71233.js

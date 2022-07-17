@@ -17191,6 +17191,7 @@
 /ASCIIHexDecode
 /ASCIIHexEncode
 /Accelerator-contactus.aspx/checkMailDailyMailLimit
+/Access Speed
 /Account
 /AcroForm 
 /AddIns/
@@ -17403,6 +17404,12 @@
 /SamplingTargets\
 /Search
 /Search/
+/SearchCriteria/deleteUserCriteria
+/SearchCriteria/fetchSearchPreview
+/SearchCriteria/fetchUserCriteria
+/SearchCriteria/saveUserCriteria
+/SearchCriteria/updateSearchPreview
+/SearchCriteria/updateUserCriteria
 /Searching+for+Components
 /Security
 /Security/Anonymous
@@ -17513,6 +17520,7 @@
 /TrimBox [
 /Tx BMC
 /Type /Outlines
+/UILogs/logAudit
 /Ubj
 /UiO
 /UntagResource\
@@ -19807,6 +19815,8 @@
 /caas/sidekick/sidekick?uuid=
 /cable
 /cable?token=
+/cac?id=cac_sc_cat_item&amp;sys_id=
+/cac?id=ticket&amp;is_new_order=true&amp;table=x_att2_cag_inquiries&amp;sys_id=
 /cacertificate/{caCertificateId}\
 /cacertificate\
 /cacertificates\
@@ -20669,6 +20679,7 @@
 /done
 /download
 /download/AT&amp;T Office@Hand.pkg
+/download/ordersToCSV
 /download/version.json
 /download_client_connector?api=1
 /download_license_data/?download=
@@ -20690,6 +20701,7 @@
 /ebiz/ebcsupport/eBCSupport.jsp?module_id=contactus#/contact-us
 /ebiz/gda/wholesale/inqChat.html
 /ebiz/hronestop/inqChat.html
+/ebiz/registration/mobile/activate.html#/contact-us
 /ebizdev10/hronestop/inqChat.html
 /ecarecms/dam/att/2015/support/device-images/modem-dsl-2Wire_2701HG-B-black.png
 /ecarecms/dam/att/2015/support/device-images/modem-dsl-2Wire_2701HG-B_white.png
@@ -21166,6 +21178,7 @@
 /feedback/assignees-list/
 /feedback/comment/
 /feedback/post-new/
+/fetch/componentsBy
 /fibernotifymesignup/modal
 /fibersignupsuccess/modal
 /file
@@ -21996,6 +22009,8 @@
 /js/marquee.min.js?timestamp=1487201995443
 /js/neweditor/bundle-editor-iframe.js
 /js/neweditor/bundle-editor-iframe_dev.php
+/js/ordersearch/assets/data/basic-search-persona-data.json
+/js/ordersearch/assets/data/mcn-order-data.json
 /js/pagination.js?timestamp=1487201995443
 /js/quickstart.filmstrip.min.js?timestamp=1459278338332
 /js/rwd-form-validation.js?timestamp=1487201995443
@@ -22443,6 +22458,8 @@
 /microsites/v1/uf/log-error/
 /microsoft-login-callback
 /migrate-user
+/milestoneData/fetchSubOrderMilestoneInfo
+/milestoneData/getData
 /minilab-rcv/gateway/portal
 /minilab-rcv/gateway/stream
 /misc/focus-visible-5.2.0.min.js
@@ -22949,6 +22966,12 @@
 /order-history
 /order-receipt?orderId
 /order-receipt?orderId&amp;offerId
+/orderDetails/fetchDetailedOrderInfo
+/orderDetails/fetchMultiDetailedOrderInfo
+/orderDetails/fetchMultiOrders
+/orderDetails/fetchSingleOrder
+/orderDetails/getCompleteData
+/orderDetails/isDataCompletelyFetched
 /orders
 /orders/
 /orders/bulk/process
@@ -22967,6 +22990,7 @@
 /orders/v2/order/notify/data?uri=
 /orders/v2/order/search/data?uri=
 /orders/v2/order/view/data?uri=
+/orderstatusservice/oss
 /org
 /org/
 /org/sonatype/nexus
@@ -23874,10 +23898,14 @@
 /search/_next/static/images/magnifiericon.svg
 /search/_next/static/images/rightarrow.svg
 /search/_next/static/widget/js/searchWidgetScript.js
+/search/aggregateResults
 /search/devicehowto/topic-contents/models/[[VALUE1]]/sources/all/topics/[[VALUE2]]?app-id=esupport&amp;rows=1000
 /search/devicehowto/topic-tree/models/[[VALUE]]?app-id=esupport
 /search/index.php
+/search/ordersearchby
+/search/predictiveSearch
 /search/pushstat/
+/search/searchByCriteriaName
 /search/smallBusiness
 /search/v1/accessories?app-id=sales&amp;q=*:*&amp;group=true&amp;group.limit=-1&amp;group.field=productId&amp;group.ngroups=true&amp;facet=on&amp;fq=-hideResult:true&amp;facet.field={!ex=categoryFilter}categoryFilter&amp;sort=salesRank%20desc%2CdefaultMarketingSequence%20asc%2CproductId%20desc&amp;group.sort=outOfStock%20asc%2C%20consumerSortPrice%20asc%2C%20defaultMarketingSequence%20asc&amp;rows=24&amp;start=0&amp;haloCPage=IDP_PDP&amp;fq=skuId:
 /search/v1/accessoriesspo?app-id=sales&amp;echoParams=NONE&amp;sort=salesRank%20desc%2CdefaultMarketingSequence%20asc%2CproductId%20desc&amp;q=*:*&amp;start=0&amp;rows=100&amp;fq=skuId:
@@ -24280,6 +24308,9 @@
 /sms-details?
 /sms-invite/x
 /sna-rest/ua/std-provision
+/snowDetails/fetchInquiryDetails
+/snowDetails/fetchInquiryList
+/snowDetails/fetchPORSummary
 /social/login
 /socialMedia/:categoryId
 /socket.io
@@ -25038,6 +25069,7 @@
 /transaction-history/?
 /transaction-summary-step?d
 /transaction-summary?d
+/transcationData/saveTranscationData
 /transfer-certificate/{certificateId}\
 /transfers/cloud2ipms
 /transfers/ipms2cloud
@@ -25244,6 +25276,7 @@
 /user/default/location/
 /user/edit
 /user/federate/{InstanceId}\
+/user/fetchPrefs
 /user/id/
 /user/jim
 /user/logout
@@ -25251,6 +25284,8 @@
 /user/ml5172
 /user/profile
 /user/profile?operatingSystem=
+/user/saveFreezePrefs
+/user/savePrefs
 /user/summary
 /user/summary/
 /userDetails
@@ -25879,6 +25914,7 @@
 09/21/2021
 09/25/2020
 1/1/1000
+1/1/1900
 1/1/2000
 1/1/2008
 10/19/2021
@@ -27897,6 +27933,7 @@ USER/SAVE_LOCATION_SETTINGS
 USER/UPDATE_USER_INFO_FAILURE
 USER/UPDATE_USER_INFO_REQUEST
 USER/UPDATE_USER_INFO_SUCCESS
+USOs/Suborders
 Usage: python /app/linkfinder.py [Options] use -h for help
 Username/Password
 Utils/AjaxLoader.ts
@@ -29876,6 +29913,7 @@ dashboard/vehicle
 dashboard/vehicle/
 data-network/functional-icon_mail_32.svg
 data.json
+data/log-code-mappings.json
 dataplans/alerts
 dataplans/check
 dataplans/close-search
