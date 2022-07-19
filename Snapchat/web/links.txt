@@ -69,6 +69,7 @@ http://www.hri.fi/en/dataset/helsingin-kaupunginosat
 http://www.iata.org/Pages/terms.aspx
 http://www.icao.int/Pages/Disclaimer.aspx
 http://www.icgc.cat/en/The-ICGC/Public-Information/Transparency/Re-use-of-the-information
+http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
 http://www.inkscape.org/namespaces/inkscape
 http://www.instapaper.com/hello2
 http://www.lounaistieto.fi/blog/2015/08/18/turun-palvelualuejakotilastoalueet/
@@ -145,6 +146,7 @@ https://accounts.snapchat.com/accounts/snapcodes
 https://accounts.snapchat.com/accounts/snapcodes?type=packaged
 https://accounts.snapchat.com/accounts/sso
 https://accounts.snapchat.com/accounts/unlock
+https://accounts.snapchat.com/accounts/welcome
 https://acme.com/license.html
 https://ad-preview.snapchat.com/
 https://ad.doubleclick.net
@@ -224,6 +226,7 @@ https://auth.snapchat.com/oauth2/api/user
 https://aws.api.snapchat.com
 https://axios-http.com
 https://b.stats.paypal.com/counter.cgi?i=127.0.0.1&amp;p=
+https://b5ecd73635084fa1b2115048b35165d5@sentry.sc-prod.net/158
 https://bd3f9142c7b84f6091348eddeb245cd3@sentry.sc-prod.net/65
 https://beautiful-bubblegum.appspot.com
 https://bid.g.doubleclick.net/xbbe/pixel?d=KAE
@@ -260,6 +263,7 @@ https://businesshelp.snapchat.com/s/article/split-testing?language=en_US&amp;_ga
 https://businesshelp.snapchat.com/s/political-ad-review-form
 https://c.paypal.com/da/r/fb.js
 https://c2f0ec8b81c4442db7281626d31c41b3@sentry.sc-prod.net/132
+https://camera-kit-websdk.mesh.sc-corp.net/v3
 https://camera-kit.snapchat.com
 https://careers.snap.com
 https://careers.snap.com/
@@ -275,6 +279,7 @@ https://cdn.tiny.cloud/1/
 https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js
 https://centrodedescargas.cnig.es/ 2021
 https://cf-st.sc-cdn.net
+https://cf-st.sc-cdn.net/
 https://cf-st.sc-cdn.net/aps/bolt/
 https://cf-st.sc-cdn.net/aps/bolt_dpa/
 https://cf-st.sc-cdn.net/d/1Ow4iYodHnydynTZztSTy?bo=Eg0aABoAMgEESAJQCGAB&amp;uc=8
@@ -482,6 +487,7 @@ https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md#lice
 https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md
 https://github.com/zloirock/core-js
 https://github.com/zloirock/core-js/blob/v3.21.1/LICENSE
+https://github.com/zloirock/core-js/blob/v3.23.3/LICENSE
 https://google.com/pay
 https://graph.facebook.com/?id=
 https://graphql.contentful.com/content/v1/spaces/
@@ -568,12 +574,15 @@ https://ms.sc-jpl.com
 https://my.snap-dev.net
 https://my.snapchat.com
 https://my.snapchat.com/
+https://my.snapchat.com/?utm_source=consumer_web&amp;utm_content=nav_post_button
+https://my.snapchat.com/?utm_source=consumer_web&amp;utm_content=nav_submenu_post_button
 https://my.snapchat.com/embedded
 https://my.snapchat.com?utm_source=spotlight&amp;utm_medium=post
 https://myshopify.com
 https://na212.salesforce.com
 https://newsroom.snap.com
 https://newsroom.snap.com/
+https://newsroom.snap.com/snapchatplus
 https://nodejs.org/api/http.html#http_class_http_agent
 https://open.alberta.ca/documentation/ogp-licence
 https://open.canada.ca/en/open-government-licence-canada
@@ -676,6 +685,7 @@ https://snap.com/privacy/cookie-information#Performance\
 https://snap.com/privacy/cookie-information#Preferences
 https://snap.com/privacy/cookie-information#Preferences\
 https://snap.com/privacy/our-approach/
+https://snap.com/privacy/privacy-center
 https://snap.com/privacy/privacy-center/
 https://snap.com/privacy/privacy-policy
 https://snap.com/privacy/privacy-policy/
@@ -697,6 +707,7 @@ https://snapchat-payments-gateway.snapchat.com/commerce/sellers/
 https://snapchat-payments-gateway.snapchat.com/commerce/ss
 https://snapchat-www-dot-amourmapassion-hrd.appspot.com/
 https://snapchat.com
+https://snapchat.com/
 https://snapchat.com/add/
 https://snapchat.com/ads
 https://snapchat.com/cookie-settings
@@ -742,6 +753,8 @@ https://staging-render.bitstrips.com/v2/cpanel/
 https://staging-us-central1-gcp.api.snapchat.com/web-analytics-v2/web
 https://staging-us-central1-gcp.api.snapchat.com/web-analytics/web
 https://staging-web-dot-web-frontend-dot-sc-analytics.appspot.com/analytics/web
+https://staging-web-gcp.snap-dev.net
+https://staging-web-gcp.snap-dev.net/web-analytics-v2/web
 https://static.popwallet.com/resources/sample-locations.csv
 https://static.snap-dev.net
 https://static.snapchat.com
@@ -1045,7 +1058,9 @@ https://support.snapchat.com/a/locked
 https://support.snapchat.com/a/promotions-rules
 https://support.snapchat.com/a/promotions-rules/
 https://support.snapchat.com/article/about-custom-stories
+https://support.snapchat.com/article/calling-on-web
 https://support.snapchat.com/article/infringement-reporting-about
+https://support.snapchat.com/article/learn-more-web
 https://support.snapchat.com/article/licenses-android
 https://support.snapchat.com/article/licenses-ios
 https://support.snapchat.com/article/submission-guidelines
@@ -1060,6 +1075,8 @@ https://support.snapchat.com/en-US/article/snapcode-guidelines
 https://support.snapchat.com/en-US/co/report-copyright
 https://support.snapchat.com/en-US/co/snap-kit-contact/
 https://support.snapchat.com/i-need-help
+https://support.snapchat.com/i-need-help?start=5792700948021248
+https://support.snapchat.com/i-need-help?start=6551059632488448
 https://support.snapstore.com/
 https://support.snapstore.com/hc/en-us/articles/115005952186
 https://support.spectacles.com/
@@ -1124,6 +1141,9 @@ https://web-frontend-dot-sc-analytics.appspot.com
 https://web-frontend-dot-sc-analytics.appspot.com/analytics/web
 https://web-portal-dot-context-www.appspot.com
 https://web.snapchat.com
+https://web.snapchat.com/bolt-http/resolve?co=
+https://web.snapchat.com/mars/resolve_streamer.do
+https://web.snapchat.com/web-analytics-v2/web
 https://webprodfa49887d-dot-geofilters-on-demand.appspot.com/
 https://woj-e.tlnk.io/serve?action=click&amp;amp;publisher_id=361090&amp;amp;site_id=140684&amp;amp;my_placement=download
 https://woj-e.tlnk.io/serve?action=click&amp;publisher_id=361090&amp;site_id=140684&amp;my_placement=deeplink&amp;response_format=json
@@ -1140,6 +1160,8 @@ https://www.arcgis.com/home/item.html?id=d6642f8a4f6d4685a24ae2dc0c73d4ac
 https://www.avoindata.fi/data/fi/dataset/kuopion-kaupunginosat
 https://www.bitmoji.com
 https://www.bitmoji.com/
+https://www.bitmoji.com/avatar/outfit/?require_snapchat
+https://www.bitmoji.com/home/
 https://www.burnaby.ca/opendata/licence.html
 https://www.census.gov/data/developers/about/terms-of-service.html
 https://www.contentful.com/developers/docs/concepts/sync/
@@ -1184,6 +1206,7 @@ https://www.google.com.no
 https://www.google.com.sa
 https://www.google.com/ads/ga-audiences
 https://www.google.com/calendar/render?action=TEMPLATE&amp;text=Snap+Partner+Summit%3A+Back+to+Reality&amp;details=Please+join+us+for+our+fourth+annual+Snap+Partner+Summit+to+hear+the+latest+about+our+new+products%2C+features%2C+and+partnerships.+We+have+so+many+exciting+tools+and+technologies+to+share+and+can%27t+wait+to+see+what+you+will+build+next%21%0A+%0ADoors+open+at+8%3A45+a.m.+PT+and+the+keynote+will+begin+at+9%3A00+a.m.+PT.&amp;location=snappartnersummit.com&amp;dates=20220428T160000Z%2F20220428T173000Z
+https://www.google.com/maps/search/?api=1&amp;query=
 https://www.google.com/recaptcha/api.js?hl=
 https://www.google.com/recaptcha/api.js?onload=initRecaptcha&amp;render=explicit
 https://www.google.com/recaptcha/api2/

@@ -222,6 +222,7 @@ https://sdk.bitmoji.com
 https://sdk.snapkit.com
 https://search.snapchat.com
 https://sentry.sc-prod.net
+https://sentry.sc-prod.net/api/158/security/?sentry_key=b5ecd73635084fa1b2115048b35165d5
 https://sentry.sc-prod.net/api/51/store/
 https://service.force.com/embeddedservice/
 https://sfdc-dot-it-services-prod.appspot.com
@@ -297,6 +298,7 @@ https://videos.ctfassets.net
 https://vis-dot-creativesuite-prod.appspot.com
 https://web-fonts-dot-geofilters-on-demand.appspot.com
 https://web-frontend-dot-sc-analytics.appspot.com
+https://web.snapchat.com
 https://webprodfa49887d-dot-geofilters-on-demand.appspot.com
 https://webto.salesforce.com
 https://woj-e.tlnk.io
@@ -344,8 +346,10 @@ rendering-service.prod.us-east.bitstrips.com
 snapcodes.storage.googleapis.com
 storage.googleapis.com
 support.snapchat.com
+wss://*.addlive.io:*
 wss://*.zopim.com
 wss://auto-dot-bitmoji-reaction-service-dot-entapps-web-dev.gae.sc-corp.net
+wss://aws.duplex.snapchat.com
 wss://marketing-web-api.snap.com
 wss://nexus-websocket-a.intercom.io
 wss://nexus-websocket-b.intercom.io
