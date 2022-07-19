@@ -3770,6 +3770,7 @@
 /:languageCountryPair?/payment/manage
 /:languageCountryPair?/pickup/:slugName
 /:languageCountryPair?/pickup/near-me
+/:languageCountryPair?/products/:productUuid
 /:languageCountryPair?/promo
 /:languageCountryPair?/region/:slugName
 /:languageCountryPair?/repeat-order
@@ -5230,6 +5231,7 @@
 /blog/sw.js?ver=1656423207285&amp;scope=en-US
 /blog/sw.js?ver=1656423207301&amp;scope=en-US
 /blog/sw.js?ver=1656423207337&amp;scope=en-US
+/blog/sw.js?ver=1656423227616&amp;scope=en-US
 /blog/sw.js?ver=1656423246991&amp;scope=en-DE
 /blog/sw.js?ver=1656423267847&amp;scope=en-DE
 /blog/sw.js?ver=1656423267948&amp;scope=en-US
@@ -6758,6 +6760,7 @@
 /meta/handshake
 /meta/publish
 /meta/scripts/urate_1.1.min.js
+/meta/scripts/urate_1.2.min.js
 /meta/subscribe
 /meta/unsubscribe
 /meta/unsuccessful
@@ -8795,7 +8798,7 @@ Date/heure
 Date/time
 Datum/Uhrzeit
 Domain/CName
-Error: invalid input defined or SSL error: <urlopen error [SSL: NO_CIPHERS_AVAILABLE] no ciphers available (_ssl.c:997)>
+Error: invalid input defined or SSL error: HTTP Error 404: Not Found
 Etc/GMT
 Etc/GMT-0|Etc/GMT
 Etc/GMT-0|Etc/GMT+0

@@ -91,6 +91,7 @@ http://arize-api.uberinternal.com:80
 http://arize-api.uberinternal.com:8080
 http://arize.uberinternal.com:80
 http://arize.uberinternal.com:8080
+http://arniestaging.ubeRINTErNAl.com:80
 http://arniestaging.uberinternal.com:80
 http://artemism.uberinternal.com:80
 http://artifactory-dca1.uberinternal.com:80
@@ -331,6 +332,7 @@ http://careers-staging.uberinternal.com:80
 http://careers.uber.com:80
 http://careers.uber.com:8080
 http://careersemail.uber.com:80
+http://carrots-staging.uberinternal.com:80
 http://cartographer.uberinternal.com:80
 http://cartographer.uberinternal.com:8080
 http://cascade-dca1.uberinternal.com:80
@@ -400,6 +402,7 @@ http://citrus.uberinternal.com:80
 http://city-lens.uberinternal.com:80
 http://citypulse.UbeRInteRNAL.com:80
 http://citypulse.uberinternal.com:80
+http://ckalegi.uberinternal.com:80
 http://claims.uberinternal.com:80
 http://clarity.uberinternal.com:80
 http://classifi-staging.uberinternal.com:80
@@ -512,6 +515,7 @@ http://corners-staging.uberinternal.com:80
 http://corners.uberinternal.com:80
 http://corpmdm-adm.uberinternal.com:443
 http://corpmdm-adm.uberinternal.com:80
+http://corpmdm.uberinternal.com:443
 http://corpmdm.uberinternal.com:80
 http://corpss-staging.uberinternal.com:80
 http://corpss-staging.uberinternal.com:8080
@@ -760,6 +764,7 @@ http://eng-staging.uberinternal.com:80
 http://eng.uber.com:80
 http://eng.uberinternal.com:80
 http://engdocs.uberinternal.com:80
+http://engdocstesttb.uberinternal.com:80
 http://engexample.uberinternal.com:80
 http://engineering.uber.com:80
 http://engsearch.uberinternal.com:80
@@ -1017,6 +1022,7 @@ http://grail-dca1.uberinternal.com:80
 http://grail-staging-dca1.uberinternal.com:80
 http://grail-staging.uberinternal.com:80
 http://grail.uberinternal.com:80
+http://graphite.ubeRINTErNAl.com:80
 http://graphite.uberinternal.COm:80
 http://graphite.uberinternal.com:80
 http://graphql.uberinternal.com:80
@@ -1046,6 +1052,7 @@ http://hadoopviz.uberinternal.com:80
 http://hailstorm-dca1.uberinternal.com:80
 http://hailstorm-phx2.uberinternal.com:80
 http://hailstorm-v2-staging.uBeriNtErnaL.com:80
+http://hailstorm-v2-staging.ubeRINTErNAl.com:80
 http://hailstorm-v2-staging.uberinternal.com:80
 http://hailstorm-v2.uberinternal.com:80
 http://hailstorm.uberinternal.com:80
@@ -1270,6 +1277,7 @@ http://local-analytics-v2.uberinternal.com:80
 http://local-analytics.uberinternal.com:80
 http://local.uber.com:80
 http://local.uber.com:8080
+http://localgraphviz-staging.uberinternal.com:80
 http://logging.uberinternal.com:80
 http://login.uber.com:80
 http://logs.uberinternal.com:80
@@ -1370,6 +1378,7 @@ http://mentorship-test.uberinternal.com:80
 http://mentorship.uberinternal.com:80
 http://menus-staging.uberinternal.com:80
 http://menus.uberinternal.com:80
+http://merchant-help.ubereats.com:80
 http://merchant.uberinternal.com:80
 http://merchants-staging.ubereats.com:80
 http://merchants-staging.ubereats.com:8080
@@ -2066,6 +2075,7 @@ http://static.uber.com:80
 http://static.ubereats.com:80
 http://static.ubereats.com:8080
 http://status.uberinternal.com:80
+http://status01-uswest2.prod.uber.com:80
 http://storage.uberinternal.com:80
 http://storagetapper-dca1.uberinternal.com:80
 http://storagetapper-phx2.uberinternal.com:80
@@ -2665,6 +2675,7 @@ https://arcanist-the-service.uberinternal.com:443
 https://arize-api.uberinternal.COm:443
 https://arize-api.uberinternal.com:443
 https://arize.uberinternal.com:443
+https://arniestaging.ubeRINTErNAl.com:443
 https://arniestaging.uberinternal.com:443
 https://artemism.uberinternal.com:443
 https://artifactory-dca1.uberinternal.com:443
@@ -2871,6 +2882,7 @@ https://carbon.uberinternal.com:443
 https://careers-staging.uberinternal.com:443
 https://careers.uber.com:443
 https://careersemail.uber.com:443
+https://carrots-staging.uberinternal.com:443
 https://cartographer.uberinternal.com:443
 https://cascade-dca1.uberinternal.com:443
 https://cascade-staging.uberinternal.com:443
@@ -2934,6 +2946,7 @@ https://citrus.uberinternal.com:443
 https://city-lens.uberinternal.com:443
 https://citypulse.UbeRInteRNAL.com:443
 https://citypulse.uberinternal.com:443
+https://ckalegi.uberinternal.com:443
 https://claims.uberinternal.com:443
 https://clarity.uberinternal.com:443
 https://classifi-staging.uberinternal.com:443
@@ -3225,6 +3238,7 @@ https://eng-staging.uberinternal.com:443
 https://eng.uber.com:443
 https://eng.uberinternal.com:443
 https://engdocs.uberinternal.com:443
+https://engdocstesttb.uberinternal.com:443
 https://engexample.uberinternal.com:443
 https://engineering.uber.com:443
 https://engsearch.uberinternal.com:443
@@ -3463,6 +3477,7 @@ https://hadoopviz.uberinternal.com:443
 https://hailstorm-dca1.uberinternal.com:443
 https://hailstorm-phx2.uberinternal.com:443
 https://hailstorm-v2-staging.uBeriNtErnaL.com:443
+https://hailstorm-v2-staging.ubeRINTErNAl.com:443
 https://hailstorm-v2-staging.uberinternal.com:443
 https://hailstorm-v2.uberinternal.com:443
 https://hailstorm.uberinternal.com:443
@@ -3657,6 +3672,7 @@ https://lobby-cms.uberinternal.com:443
 https://local-analytics-v2.uberinternal.com:443
 https://local-analytics.uberinternal.com:443
 https://local.uber.com:443
+https://localgraphviz-staging.uberinternal.com:443
 https://logging.uberinternal.com:443
 https://login.uber.com:443
 https://logs.uberinternal.com:443
@@ -3742,6 +3758,7 @@ https://mentorship-test.uberinternal.com:443
 https://mentorship.uberinternal.com:443
 https://menus-staging.uberinternal.com:443
 https://menus.uberinternal.com:443
+https://merchant-help.ubereats.com:443
 https://merchant.uberinternal.com:443
 https://merchants-staging.ubereats.com:443
 https://merchants-staging.uberinternal.com:443
