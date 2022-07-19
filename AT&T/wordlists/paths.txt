@@ -16705,6 +16705,7 @@
 //img.youtube.com/vi/%2
 //m.att.com/my
 //maps.google.
+//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css
 //munchkin.marketo.net/munchkin.js
 //my.deluxe.com/
 //myattzone-dsk.att.com/my
@@ -17995,6 +17996,7 @@
 /analytics/networkMapLayer
 /analytics/reporting/overlay_js?gaso=
 /animations/
+/announcementFiles
 /anyOf
 /api
 /api-workers/IPC
@@ -24046,6 +24048,7 @@
 /service/rest/v1/vulnerability/count-by-username
 /service/rest/v1/vulnerability/count-total
 /serviceProviders
+/serviceProviders/
 /serviceWorker.min.js
 /service_guides
 /serviceline
@@ -25244,7 +25247,7 @@
 /usecase/id/
 /usecase/participating
 /usecase/view
-/user 
+/user
 /user-feedback/
 /user-group
 /user-groups
@@ -26999,7 +27002,7 @@ Email/Text
 EmailOTPVerificationModal/NEEDS_EMAIL_OTP_VERIFICATION
 EmailVerificationModal/NEEDS_EMAIL_VERIFICATION
 EmailVerificationModal/SEND_EMAIL_VERIFICATION
-Error: invalid input defined or SSL error: <urlopen error timed out>
+Error: invalid input defined or SSL error: <urlopen error [SSL: NO_CIPHERS_AVAILABLE] no ciphers available (_ssl.c:997)>
 Estado/Provincia
 Etc/GMT
 Etc/GMT-0

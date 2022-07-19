@@ -7265,6 +7265,7 @@ H-135-207-229-166.research.att.com
 H-135-207-229-167.research.att.com
 H-135-207-229-168.research.att.com
 H-135-207-229-169.research.att.com
+H-135-207-229-170.research.Att.com
 H-135-207-229-170.research.att.com
 H-135-207-229-171.research.att.com
 H-135-207-229-172.research.att.com
@@ -15120,6 +15121,7 @@ api-myhomenetwork.att.com
 api-pp-directvcommercial.att.com
 api-qa-directvcommercial.test.att.com
 api-simmanagement.att.com
+api-smarthomemanager.att.com
 api-solutions.firstnet.att.com
 api-stage5.att.com
 api-test-dmp.wireless.att.com
@@ -15171,6 +15173,7 @@ apis.att.COm
 apis.att.com
 apis.ciq.labs.att.com
 apis.iqi.labs.att.com
+apishape-smarthomemanager.att.com
 apitest.synaptic.att.com
 apivdna.att.com
 apivdna.itn.labs.att.com
@@ -15882,6 +15885,7 @@ ciqdrcol01.ciq.labs.att.com
 ciqdrweb01.ciq.labs.att.com
 ciqupload.ciq.labs.att.com
 ciqweb01.ciq.labs.att.com
+citigateway.att.com
 citizens.uc.att.com
 claccess-al.att.com
 claccess-da.att.com
@@ -15964,6 +15968,10 @@ clouduser-wdc1.synaptic.att.com
 clouduser.synaptic.att.com
 cm.dev.dni.cloud.att.com
 cmhsce-carrollton.wireless.att.com
+cmhsce-hazelwood.wireless.att.com
+cmhsne-rochelle-park.wireless.att.com
+cmhswe-santa-ana.wireless.att.com
+cmhswe-santa-clara.wireless.att.com
 cmp.att.com
 cmp.stage.att.com
 cms-dev.stage.att.COm
@@ -16007,6 +16015,7 @@ comrest-directvcommercial.att.com
 conf.uc.att.com
 conferencecenter.uc.att.com
 confhpa.att.com
+config-admin-admin.cat1gsw.voicetone.att.com
 config-admin-backup.gsw1.voicetone.att.com
 confluence.iqidev.labs.att.com
 confluenceapiadmin-backup.gsw1.voicetone.att.com
@@ -16872,6 +16881,7 @@ epttapi.att.com
 era.ATT.com
 era.att.com
 erate.att.com
+erroraccountadminadmin-backup.gsw1.voicetone.att.com
 erroradmin-backup.gsw1.voicetone.att.com
 ersc.att.com
 ert.att.com
@@ -31288,6 +31298,7 @@ hccpsoap.airs.att.com
 hccpsoapdr.airs.att.com
 heALBymudra.stage.att.com
 heartbeat-iotcore.hnm-test.aws.cloud.att.com
+heartbeat-iotcore.hnm.aws.cloud.att.com
 hegel-new.research.att.com
 hegel.naturalvoices.att.com
 hegel.research.att.com
@@ -31674,6 +31685,7 @@ lex.uc.att.com
 lf.uc.att.com
 lfd-attdashboard.wireless.att.com
 lgbt.att.com
+lgw-nprod-uat-az.test.att.com
 lgw.att.com
 lgw.test.att.com
 lgwkafka-dal1.att.com
@@ -32335,6 +32347,8 @@ ns2anew.dlife.att.com
 ns2d.dlife.att.com
 ns2dnew.dlife.att.com
 nsqm.research.att.com
+ntp2a.dlife.att.com
+ntp2d.dlife.att.com
 nuaa.research.att.com
 nvtlyncpool.claritynvtlync.test.att.com
 nvtsfbpool.claritynvtsfb.test.att.com
@@ -33313,6 +33327,7 @@ restage-d1.att.com
 restage.att.com
 restapi19.att.com
 retail-api-dev.att.com
+retail-api-hotfix.att.com
 retail.dp.att.com
 retail2.dp.att.com
 retailleadershiptraining.att.com
@@ -33689,6 +33704,7 @@ smallbusiness.att.com
 smartanalytics.att.com
 smartforms-az-3pc.att.com
 smartforms.att.com
+smarthomemanager.att.com
 smartvideo.att.com
 smb.att.com
 smb.test.att.com
@@ -33775,6 +33791,8 @@ special-offers.att.com
 spectra.research.att.com
 spectrumext.labs.att.com
 speech.att.com
+speech.gw.cloud.att.com
+speedtest-dev-origin-eastus2.cloud.att.com
 speedtest-ffdc.wireless.att.com
 speedtest-sfdc.wireless.att.com
 speedtest-test.wireless.att.com

@@ -978,6 +978,7 @@ http://lf.uc.att.com:80
 http://lfd-attdashboard.wireless.att.com:80
 http://lgbt.att.com:80
 http://lgbt.att.com:8080
+http://lgw-nprod-uat-az.test.att.com:80
 http://lh-gamify-dev.att.com:80
 http://lidbas.att.com:80
 http://lighthouse.att.com:80
@@ -1024,6 +1025,7 @@ http://maryland.AtT.com:8443
 http://maryland.att.com:80
 http://maryland.att.com:8443
 http://massachusetts.att.com:80
+http://massachusetts.att.com:8080
 http://massachusetts.att.com:8443
 http://mbp03.att.com:80
 http://mbp04.att.com:80
@@ -1585,6 +1587,7 @@ http://resourcecenterbbt-tmp.asi.att.com:443
 http://resourcecenterbbt.asi.att.com:443
 http://resources.att.com:80
 http://retail-api-dev.att.com:80
+http://retail-api-hotfix.att.com:80
 http://retail2.dp.att.com:8080
 http://retailleadershiptraining.att.com:80
 http://retailpodcast.att.com:80
@@ -1812,6 +1815,7 @@ http://smallbiz.att.COm:80
 http://smallbiz.att.com:80
 http://smartanalytics.att.com:80
 http://smartforms.att.com:443
+http://smarthomemanager.att.com:80
 http://smartvideo.att.com:443
 http://smartvideo.att.com:80
 http://smb.att.com:80
@@ -1840,6 +1844,7 @@ http://southwest-attsn.att.com:80
 http://southwestregion.att.com:80
 http://southwestregion.att.com:8443
 http://spark.att.com:80
+http://speech.gw.cloud.att.com:80
 http://speedtest-ffdc.wireless.att.com:80
 http://speedtest-sfdc.wireless.att.com:80
 http://speedtest-test.wireless.att.com:80
@@ -1931,6 +1936,7 @@ http://test-apps.firstnet.att.com:80
 http://test-atttv-shopauth.att.com:80
 http://test-ci.att.com:80
 http://test-cso-sa.att.com:80
+http://test-cybersecurityservices.att.com:443
 http://test-cybersecurityservices.att.com:80
 http://test-developer.firstnet.att.com:80
 http://test-expressticketing.acss.att.com:80
@@ -2022,6 +2028,7 @@ http://tuvcpagebuilder.att.com:80
 http://tuxr.att.com:80
 http://tvideo.att.com:80
 http://tvpromise.att.com:80
+http://txlabgw1.gpvpn.att.com:80
 http://u-fix.att.com:80
 http://u-fix.att.com:8080
 http://uc.att.com:80
@@ -2913,6 +2920,7 @@ https://api-pp-directvcommercial.att.com:443
 https://api-qa-directvcommercial.test.att.com:443
 https://api-qa-directvcommercial.test.att.com:8443
 https://api-simmanagement.att.com:443
+https://api-smarthomemanager.att.com:443
 https://api-solutions.firstnet.att.com:443
 https://api-test-dmp.wireless.att.com:443
 https://api-test-solutions.firstnet.att.com:443
@@ -2938,6 +2946,7 @@ https://apimarketdev.att.com:443
 https://apimarketportal.att.com:443
 https://apis.att.COm:443
 https://apis.att.com:443
+https://apishape-smarthomemanager.att.com:443
 https://apkrepo.iqidev.labs.att.com:443
 https://apollo-a.att.com:443
 https://app.officeathand.att.com:443
@@ -3271,6 +3280,8 @@ https://ciamapi-oauth.stage.att.com:443
 https://ciamapi-pki-ext.att.com:443
 https://ciamapi-pki-ext.stage.att.com:443
 https://cim-auth-cpaas.att.com:443
+https://citigateway.att.com:443
+https://citigateway.att.com:8443
 https://claccess-da.att.com:443
 https://claccess-ff.att.com:443
 https://claccess-sf.att.com:443
@@ -3399,6 +3410,7 @@ https://csi-ext-lmsgw-ist01.test.att.com:8443
 https://csi-systest.digitallife.att.com:443
 https://csi-systest.test.dlife.att.com:443
 https://csidmaccess.att.com:443
+https://csidmgate.att.com:443
 https://csintegration.att.com:443
 https://csmip.bus.att.com:443
 https://csms-stage.az.cloud.att.com:443
@@ -3914,6 +3926,7 @@ https://haloc.stage.att.com:443
 https://haloc.test.att.com:443
 https://hc-analytics.idp.clogin.att.com:443
 https://heartbeat-iotcore.hnm-test.aws.cloud.att.com:443
+https://heartbeat-iotcore.hnm.aws.cloud.att.com:443
 https://help-officeathand.att.com:443
 https://help-officeathand.att.com:8443
 https://help-workforcemanager.att.COm:443
@@ -3942,6 +3955,7 @@ https://hrtd.att.com:443
 https://hub.att.com:443
 https://hvd-intl.att.com:443
 https://hvd-intl.att.com:8443
+https://hvd-intl01.att.com:8443
 https://hvd-intl03.att.com:443
 https://hvd-intl03.att.com:8443
 https://hvd-intl07.att.com:443
@@ -4159,6 +4173,7 @@ https://learningconnection.att.com:443
 https://learningsolutions.att.com:443
 https://lfd-attdashboard.wireless.att.com:443
 https://lgbt.att.com:443
+https://lgw-nprod-uat-az.test.att.com:443
 https://lgw.att.com:443
 https://lgw.att.com:8443
 https://lgw.test.att.com:443
@@ -5089,6 +5104,7 @@ https://smallbusiness.att.com:443
 https://smartanalytics.att.com:443
 https://smartforms-az-3pc.att.com:443
 https://smartforms.att.com:443
+https://smarthomemanager.att.com:443
 https://smartvideo.att.com:443
 https://smb.att.com:443
 https://smb.test.att.com:443
@@ -5128,6 +5144,8 @@ https://spark.att.com:443
 https://special-offers-signup.att.com:443
 https://special-offers.att.com:443
 https://spectrumext.labs.att.com:443
+https://speech.gw.cloud.att.com:443
+https://speedtest-dev-origin-eastus2.cloud.att.com:443
 https://speedtest-ffdc.wireless.att.com:443
 https://speedtest-sfdc.wireless.att.com:443
 https://speedtest-test.wireless.att.com:443
@@ -5365,6 +5383,7 @@ https://txemp8.vpn.att.com:443
 https://txenc1.VpN.att.com:443
 https://txenc1.vpn.att.com:443
 https://txenc2.vpn.att.com:443
+https://txlabgw1.gpvpn.att.com:443
 https://txpapilot.vpn.att.com:443
 https://txssl10.vpn.att.com:443
 https://txssl9.vpn.att.com:443
