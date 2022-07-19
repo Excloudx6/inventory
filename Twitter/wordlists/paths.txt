@@ -633,6 +633,7 @@
 ./az.svg
 ./ba.svg
 ./backburner
+./backgrounds/textured-banner.png
 ./bar-chart-increasing.svg
 ./bar-chart-selected.svg
 ./bar-chart.svg
@@ -796,6 +797,7 @@
 ./dom-helper/build-html-dom
 ./dom-helper/classes
 ./dom-helper/prop
+./down-arrow.png
 ./drawer.mustache
 ./dv
 ./dv.js
@@ -3039,6 +3041,7 @@
 /authentication/guides/log-in-with-twitter
 /authentication/oauth-1-0a/api-key-and-secret
 /authentication/oauth-1-0a/obtaining-user-access-tokens
+/authentication/oauth-2-0/authorization-code
 /authentication/oauth-2-0/bearer-tokens
 /authentication/oauth-2-0/user-context-making-requests-on-behalf-of-users
 /authentication/overview
