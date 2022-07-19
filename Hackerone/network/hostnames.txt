@@ -958,6 +958,7 @@
 2019-gcp.error-new.update.ctf.hacker101.com
 2019-internal-chefadmin.ctf.hacker101.com
 2019-internal-gcp.error.ctf.hacker101.com
+2019-jenkins-api.chefinternal.iris1.ctf.hacker101.com
 2019-jenkins-configgcpupdate.ctf.hacker101.com
 2019-jenkins.deverror.ctf.hacker101.com
 2019-jenkinsaccess.gcpredirect.ctf.hacker101.com
@@ -1677,6 +1678,7 @@
 2020.2020-elasticbeanstalk.admin.ctf.hacker101.com
 2020.2020-knome.ctf.hacker101.com
 2020.2020.2019.status.ctf.hacker101.com
+2020.2020.alphairis1.ctf.hacker101.com
 2020.2020new.access.gcpredirect.ctf.hacker101.com
 2020.20212019-2019.system.authupdate.ctf.hacker101.com
 2020.access-access-access.access-access-v3upgrade-update.ctf.hacker101.com
@@ -1775,6 +1777,7 @@
 2020.auth.2021-dbms-data.dbms.system.upload-update.ctf.hacker101.com
 2020.auth.alpha.elasticbeanstalkupdate.update.ctf.hacker101.com
 2020.auth.ctf.hacker101.com
+2020.auth.data-2018beta-devv1-backup.www.orf.od.ctf.hacker101.com
 2020.auth.private.debug-2018.s3.debug.ctf.hacker101.com
 2020.auth2019access-debugnew.update.ctf.hacker101.com
 2020.authchefstatus.ctf.hacker101.com
@@ -1800,6 +1803,7 @@
 2020.chef.2018-redirect-access-new.update.ctf.hacker101.com
 2020.chef.v4-access-gcp.error.ctf.hacker101.com
 2020.chefauth-redirectaccess.gcpredirect.ctf.hacker101.com
+2020.config.admin-denis4inet.ctf.hacker101.com
 2020.config.upload.alphaupdate.ctf.hacker101.com
 2020.config.v3-preferences-status.ctf.hacker101.com
 2020.confluence-datanew.system.authupdate.ctf.hacker101.com
@@ -1846,6 +1850,7 @@
 2020.jenkinsaccessalpha.elasticbeanstalkupdate.update.ctf.hacker101.com
 2020.new-errorerror.ctf.hacker101.com
 2020.new.access.gcpredirect.ctf.hacker101.com
+2020.new.accountv1.backup.oweril46.ctf.hacker101.com
 2020.newaccess.accountaccess.teamchef.backup.update.ctf.hacker101.com
 2020.private.2018.alpha.system-gcp.ctf.hacker101.com
 2020.private.auth.ctf.hacker101.com
@@ -2930,6 +2935,7 @@ access2019.betaconfigaccess-error-new.update.ctf.hacker101.com
 access2019beta.config.status.ctf.hacker101.com
 access2019redirect.v4.vpnerror.ctf.hacker101.com
 access2020-error.upgrade.v3www.fac-droit.ctf.hacker101.com
+access2020.alphairis1.ctf.hacker101.com
 access2020.ctf.hacker101.com
 access2021-redirect.ctf.hacker101.com
 access2021.v1-error.ctf.hacker101.com
@@ -3058,6 +3064,7 @@ account-2018betaaccessredirect-access-new.update.ctf.hacker101.com
 account-2019-auth.authaccount.beta-elasticbeanstalkupdate.update.ctf.hacker101.com
 account-2019v1-admin.ctf.hacker101.com
 account-2020-account.elasticbeanstalk-2020-new2019.auth.accountpreferences.ctf.hacker101.com
+account-2020-authbackupstartrek-discovery.ctf.hacker101.com
 account-2020.2018-apisystem.v3upload-update.ctf.hacker101.com
 account-2020newauth.ctf.hacker101.com
 account-2021.alpha-account-authbackup.update.ctf.hacker101.com
@@ -3300,7 +3307,9 @@ account.v4api.v4.debug.error.ctf.hacker101.com
 account2018-authbackup.update.ctf.hacker101.com
 account2018.access.admin-alpha.chef-2019update.update.ctf.hacker101.com
 account2019.confluence-2019-status.ctf.hacker101.com
+account2020-2020.debug-pestadvisories.ctf.hacker101.com
 account2020-adminnew-v1-backup.www.orf.od.ctf.hacker101.com
+account2020-data-v1-backup.www.orf.od.ctf.hacker101.com
 account2020-error.upgrade.v3www.fac-droit.ctf.hacker101.com
 account2020-v2-elasticbeanstalkupdate.ctf.hacker101.com
 account2020api2018-redirectdbms.authupdate.ctf.hacker101.com
@@ -3365,6 +3374,7 @@ accountbucket-status.ctf.hacker101.com
 accountbucket.access-2018-gcp-accounterror.v3-alphaupdate.ctf.hacker101.com
 accountbucket.preferenceserror.ctf.hacker101.com
 accountbucket.web.2020-system.internal.iris1.ctf.hacker101.com
+accountchef-2019-backup.oweril46.ctf.hacker101.com
 accountchef.demo.elasticbeanstalk.error.ctf.hacker101.com
 accountchef.develasticbeanstalk.error.ctf.hacker101.com
 accountchef.user.update.update.ctf.hacker101.com
@@ -3683,6 +3693,7 @@ adminnew-alpha-account.v3iris1.ctf.hacker101.com
 adminnew-v1-backup.www.orf.od.ctf.hacker101.com
 adminnew.gcp.admin.ctf.hacker101.com
 adminnew.update.ctf.hacker101.com
+adminredirect.dev.api.chefinternal.iris1.ctf.hacker101.com
 admins32019-status-demo.error.ctf.hacker101.com
 adminstaginginternaljenkins.deverror.ctf.hacker101.com
 adminstatus.ctf.hacker101.com
@@ -3816,6 +3827,7 @@ alpha.admin.account-access.teamchef.backup.update.ctf.hacker101.com
 alpha.admin.chef.v4-access-gcp.error.ctf.hacker101.com
 alpha.admin.dbms-beta-demo.system.2019.error-upload-update.ctf.hacker101.com
 alpha.admin2019-beta-beta.2018-redirectdbms.authupdate.ctf.hacker101.com
+alpha.adminconfluence-v2.teamuser.startrek-discovery.ctf.hacker101.com
 alpha.alpha.access-admin.demo2018.datanew.system.authupdate.ctf.hacker101.com
 alpha.alpha2018v4-access-gcp.error.ctf.hacker101.com
 alpha.api-2018betaaccessredirect-access-new.update.ctf.hacker101.com
@@ -4452,6 +4464,7 @@ backup.webadmin-bucket.alpha.upgrade-update.ctf.hacker101.com
 backup.www.orf.od.ctf.hacker101.com
 backup2018.upload-alpha-account.v3iris1.ctf.hacker101.com
 backup2019v3upgrade-update.ctf.hacker101.com
+backup2020-adminnew-v1-backup.www.orf.od.ctf.hacker101.com
 backup2020access.accountstagingauth.ctf.hacker101.com
 backup2020system.redirect.ctf.hacker101.com
 backup20212018-deverror.ctf.hacker101.com
@@ -5218,6 +5231,7 @@ data.v2-gcp.error.ctf.hacker101.com
 data.v2-preferences-status.ctf.hacker101.com
 data.v3.2020access.accountstagingauth.ctf.hacker101.com
 data.v3.debug.engineering.redirect.ctf.hacker101.com
+data2020.api.jenkinshdreports.ctf.hacker101.com
 dataaccess.2018.private.debug-2018.s3.debug.ctf.hacker101.com
 dataaccessalpha-update-alpha.2020-v2-elasticbeanstalkupdate.ctf.hacker101.com
 dataaccount.dbmsbackup-chefstatus.ctf.hacker101.com
@@ -5445,6 +5459,7 @@ demo-v3-preferences-status.ctf.hacker101.com
 demo.2018-dbms.demostatus-adminautherror.ctf.hacker101.com
 demo.2018-internal-gcp.error.ctf.hacker101.com
 demo.2019.jenkins-configsystem.authupdate.ctf.hacker101.com
+demo.2020-2020.debug-pestadvisories.ctf.hacker101.com
 demo.access-2018-2021.develasticbeanstalk.error.ctf.hacker101.com
 demo.access-alpha.access-access-user.update.update.ctf.hacker101.com
 demo.access.2020-v1update.ctf.hacker101.com
@@ -5632,6 +5647,7 @@ elasticbeanstalkupdate.ctf.hacker101.com
 elasticbeanstalkupdate.update.ctf.hacker101.com
 elektronik.ctf.hacker101.com
 engineering-2018.team.2019beta.upgrade-2019.backupconfiggcpupdate.ctf.hacker101.com
+engineering-2020-adminnew-v1-backup.www.orf.od.ctf.hacker101.com
 engineering-access-gcp.error.ctf.hacker101.com
 engineering-access.2020account-dbms.authupdate.ctf.hacker101.com
 engineering-access.accessteamupgrade-update.ctf.hacker101.com
@@ -5966,6 +5982,7 @@ jenkins.access-access-user.update.update.ctf.hacker101.com
 jenkins.access-new.update.ctf.hacker101.com
 jenkins.access.2019update.2020authupdate.ctf.hacker101.com
 jenkins.accessbucket.2020-v1update.ctf.hacker101.com
+jenkins.accessteam.updatewww.fac-droit.ctf.hacker101.com
 jenkins.account.s3.debug.ctf.hacker101.com
 jenkins.adminbeta.admin.ctf.hacker101.com
 jenkins.alpha.demo.upgrade.admin-upload-update.ctf.hacker101.com
@@ -6174,6 +6191,7 @@ preferences.preferencess32020elasticbeanstalk.admin.ctf.hacker101.com
 preferences.redirect.ctf.hacker101.com
 preferences.upgrade.v3www.fac-droit.ctf.hacker101.com
 preferences.upload-deverror.ctf.hacker101.com
+preferences.www.orf.od.ctf.hacker101.com
 preferencesaccount-config2018upgrade-update.ctf.hacker101.com
 preferencesaccount.statusdbms-error.ctf.hacker101.com
 preferencesadmin-hdreports.ctf.hacker101.com
@@ -6221,6 +6239,7 @@ private.2018access-accountbeta.alpha.2020-v2-elasticbeanstalkupdate.ctf.hacker10
 private.2019-accessaccess.access-admin.demo2018.datanew.system.authupdate.ctf.hacker101.com
 private.2019-status.ctf.hacker101.com
 private.2019api-debug.system.upload-update.ctf.hacker101.com
+private.2020.alphairis1.ctf.hacker101.com
 private.20202020systemtripoftwins.ctf.hacker101.com
 private.2020elasticbeanstalk.admin.ctf.hacker101.com
 private.access.2020-admin.account.preferences-2020.v2-update.ctf.hacker101.com
@@ -6702,6 +6721,7 @@ upgrade.jenkinsalpha2019-v4-access-gcp.error.ctf.hacker101.com
 upgrade.v3-2018-engineering.chef.new.update.ctf.hacker101.com
 upgrade.v3.2019.status.ctf.hacker101.com
 upgrade.v3www.fac-droit.ctf.hacker101.com
+upgrade2020-2020.debug-pestadvisories.ctf.hacker101.com
 upgradeaccountdebugnew.update.ctf.hacker101.com
 upgradealpha.access-account.account-config2018upgrade-update.ctf.hacker101.com
 upgradealpha.status.ctf.hacker101.com
@@ -6828,6 +6848,7 @@ v1-user-authupdate.ctf.hacker101.com
 v1-v4-status.ctf.hacker101.com
 v1-vpndemo.error.ctf.hacker101.com
 v1.2019.2021staging-user.startrek-discovery.ctf.hacker101.com
+v1.2020-adminnew-v1-backup.www.orf.od.ctf.hacker101.com
 v1.alpha2019-v4-access-gcp.error.ctf.hacker101.com
 v1.api-access-account.account-config2018upgrade-update.ctf.hacker101.com
 v1.backup.oweril46.ctf.hacker101.com
@@ -7031,6 +7052,7 @@ waP.Mirtaks.hackerone.net
 wanninayakeblog.ctf.hacker101.com
 weB-Www.hacker101.com
 web-2018-preferences.redirect.ctf.hacker101.com
+web-2020-access-access2020-error.upgrade.v3www.fac-droit.ctf.hacker101.com
 web-2021-status.ctf.hacker101.com
 web-accountbackupstatus.ctf.hacker101.com
 web-alphagcp.error-new.update.ctf.hacker101.com
