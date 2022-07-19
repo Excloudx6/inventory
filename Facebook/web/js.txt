@@ -206,6 +206,7 @@ https://embed.typeform.com/embed.js?ver=1.0.0
 https://embed.typeform.com/embed.js?ver=1.3.0
 https://emeapolicycovidhub.fb.com/wp-content/mu-plugins/jetpack-11.1/jetpack_vendor/automattic/jetpack-assets/build/i18n-loader.js?minify=true&ver=ee939953aa2115e2ca59
 https://emeapolicycovidhub.fb.com/wp-content/mu-plugins/jetpack-11.1/jetpack_vendor/automattic/jetpack-search/build/instant-search/jp-search.js?minify=false&ver=412af21b921a1f442f0c
+https://emeapolicycovidhub.fb.com/wp-content/mu-plugins/jetpack-11.1/modules/videopress/js/videopress-token-bridge.js?m=1657048818g
 https://emeapolicycovidhub.fb.com/wp-content/mu-plugins/jetpack-11.1/modules/videopress/js/videopress-token-bridge.js?m=1657217964g
 https://emeapolicycovidhub.fb.com/wp-content/mu-plugins/jetpack-11.1/modules/videopress/js/videopress-token-bridge.js?m=1657633573g
 https://emeapolicycovidhub.fb.com/wp-content/mu-plugins/jetpack-11.1/modules/videopress/js/videopress-token-bridge.js?m=1657638698g
@@ -508,6 +509,12 @@ https://remoteassist.glbx.thefacebook.com:443/content/access_key_input.js
 https://remoteassist.glbx.thefacebook.com:443/content/lib/jquery.js
 https://remoteassist.glbx.thefacebook.com:443/content/nsjs.js
 https://remoteassist.glbx.thefacebook.com:443/content/portal.js
+https://remoteassist.thefacebook.com/api/content/core.js
+https://remoteassist.thefacebook.com/api/start_session.js
+https://remoteassist.thefacebook.com/content/access_key_input.js
+https://remoteassist.thefacebook.com/content/lib/jquery.js
+https://remoteassist.thefacebook.com/content/nsjs.js
+https://remoteassist.thefacebook.com/content/portal.js
 https://remoteassist.thefacebook.com:443/api/content/core.js
 https://remoteassist.thefacebook.com:443/api/start_session.js
 https://remoteassist.thefacebook.com:443/content/access_key_input.js
@@ -737,6 +744,7 @@ https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/iyZqX9vpRZt.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/lLxulgmZwUE.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/rNzHAijXQWx.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/xFcCYMfUpKR.js?_nc_x=Ij3Wp8lg5Kz
+https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/6ErR_VV41Ib.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/BY6ueLLxsXP.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/CjLjJoBV36V.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/UPfJrUpi3Dq.js?_nc_x=Ij3Wp8lg5Kz
@@ -995,6 +1003,7 @@ https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/ggNoUGSAhDY.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/rBe0Tl8FclG.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/t-fAK3PFu51.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/tO2jpD_GdxK.js?_nc_x=Ij3Wp8lg5Kz
+https://static.xx.fbcdn.net/rsrc.php/v3/yf/r/AZBxMWlurX2.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3/yf/r/LjhwP_cdkPW.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3/yf/r/RPXzPmmrB-_.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3/yf/r/Sp4VO7DbvJC.js?_nc_x=Ij3Wp8lg5Kz
@@ -1196,6 +1205,7 @@ https://static.xx.fbcdn.net/rsrc.php/v3i1MJ4/yO/l/zh_CN/tHS5rrCLezP.js?_nc_x=Ij3
 https://static.xx.fbcdn.net/rsrc.php/v3i1MJ4/yz/l/zh_CN/5A9GyVHuI8-.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3i1PH4/yt/l/ru_RU/X82I9yZBkgs.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3i1ZO4/yw/l/de_DE/L1Dlxihe6Fn07uwChnKMk1OHMBt1gwAvgJ4WeC56zd26CYC9oxHn3BKp1zgYZGB2m5GmJkzVRvqIgy_kIJdUYTK1Yt25OojJ2Mq_lrzAo114krsnhiKfR0og-8gPeGZ39HSX64dVihtJDkxdpWlSDEcwTxZD2GIRt980SbekIN2-86w2gqJLUUzV6Vr1b8EDnWtcCv1yq8mfztzk3AjzXjEeUdzk.js?_nc_x=Ij3Wp8lg5Kz
+https://static.xx.fbcdn.net/rsrc.php/v3i1_l4/yP/l/de_DE/eqTGQgAGFJP.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3i1_l4/yv/l/de_DE/TEnxFk49kCR.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3i1kn4/yv/l/zh_CN/JiDqSXDpXST.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3i1lT4/yM/l/en_US/BbB12Sqy19q.js?_nc_x=Ij3Wp8lg5Kz
@@ -1218,6 +1228,7 @@ https://static.xx.fbcdn.net/rsrc.php/v3i2aq4/y5/l/de_DE/7u5YVzzQw2W.js?_nc_x=Ij3
 https://static.xx.fbcdn.net/rsrc.php/v3i2aq4/yG/l/de_DE/BVC1vOJA_qN.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3i2aq4/yH/l/de_DE/Hd72G8-Fda8.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3i2aq4/yX/l/de_DE/b8eZvhSrFj3.js?_nc_x=Ij3Wp8lg5Kz
+https://static.xx.fbcdn.net/rsrc.php/v3i2aq4/yb/l/de_DE/MNPGLO44upg.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3i2hW4/yP/l/de_DE/jJ9ghwYpRUs.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3i2mC4/yu/l/ru_RU/7TYKMsjZ19l.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3i2xB4/y1/l/ru_RU/oEsJ7TCnThBl1CDGcUu9Bq5E9GWXjtpzjPwbeR1chxhA_-4xRmE_Hh7-V4OMNvZlDM4ll5WteM4su8gPeGZ39HSX64dVihtJDkxdpWlSDEcwTxZD2GIRt980SbekIN2-86w2gqJLUUzV6Vr1b8EDnWtcCv1yq8mfztzk3AjzXjEeUdzk.js?_nc_x=Ij3Wp8lg5Kz
@@ -1694,6 +1705,7 @@ https://static.xx.fbcdn.net/rsrc.php/v3ib4W4/y-/l/zh_CN/A3z4uULEjUj.js?_nc_x=Ij3
 https://static.xx.fbcdn.net/rsrc.php/v3ib4W4/yW/l/zh_CN/l-4Lu5XiV7g.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ibQo4/yC/l/zh_CN/7TYKMsjZ19l.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ibQv4/yF/l/ar_AR/RVP2JyiZLU7.js?_nc_x=Ij3Wp8lg5Kz
+https://static.xx.fbcdn.net/rsrc.php/v3ibSR4/yt/l/de_DE/ixyFFRL5ii1.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ibVo4/y0/l/de_DE/NdM3-eFHF9uUPfJrUpi3DqXgMCGdirP0JWxYBh8pYbDoBBQoLOdHAkk8jy8mYGvPSzqcenszu3MLpkfB7WvrGMcREc_JLnQZ7J_3aXUkyyoSKUhP5sn2otzK3wYCWn8S4a_m77akAkl_1hbbLQX4qYSycr9at59Wgzs9HCh6ZDOlWPU12aEjZu9kW6NTUiONOf1RJPp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ibVo4/y5/l/de_DE/SUrPUShjscZcs8BakWR7TUkr221jicRwrmjZGiMp3ByklmA6KL51iIxKvgD2HwfoHcY5-8IiarhTimvy0e6Ou_UYZOiWZuIWsXShP5sn2otzK3wmD5t8nS6cQ77akAkl_1hbbtCEhJfEPKGbLQX4qYSycr9at59Wgzs9H8nzcWI4sJgiTUiONOf1RJPp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ibVo4/yH/l/de_DE/cTLAmp0P0V_MrhUG3ZysQkygRwVCj0uCGLWolkmUkec_lG-XRX7SfXXk2C5VWHp6_Ldu3aHcUt3QlxbJMJM_jrLt3aXUkyyoSKUhP5sn2otzK3wYCWn8S4a_m77akAkl_1hbbLQX4qYSycr9at59Wgzs9HSfKa7BoXFbyTUiONOf1RJPp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
@@ -1701,6 +1713,7 @@ https://static.xx.fbcdn.net/rsrc.php/v3ibVo4/yO/l/de_DE/SUrPUShjscZcs8BakWR7TUkr
 https://static.xx.fbcdn.net/rsrc.php/v3ibVo4/yg/l/de_DE/SUrPUShjscZB_s_tnl3EOKkr221jicRwrWxYBh8pYbDomjZGiMp3ByklmA6KL51iIxKvgD2HwfoHckfB7WvrGMcRmvy0e6Ou_UYVTjQErl85AehP5sn2otzK3wYCWn8S4a_m77akAkl_1hbbtCEhJfEPKGbLQX4qYSycr9at59Wgzs9H0rZAee5jNB5TUiONOf1RJPp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ibVo4/yj/l/de_DE/cTLAmp0P0V_MrhUG3ZysQkygRwVCj0uCGLWolkmUkec_lG-XRX7SfXXk2C5VWHp6_Ldu3aHcUt3QlxbJMJM_jrLt3aXUkyyoSKUhP5sn2otzK3wYCWn8S4a_m77akAkl_1hbbLQX4qYSycr9at59Wgzs9HrAFde0VR2_kTUiONOf1RJPp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ibVo4/ym/l/de_DE/Kr9FUmxBwDiUPfJrUpi3DqXgMCGdirP0JkrCvx4Qy5C26MWgj3PAoHKwlnnb5Jf9COqcenszu3MLpdu3aHcUt3QlEc_JLnQZ7J_3aXUkyyoSKUhP5sn2otzK3wYCWn8S4a_m77akAkl_1hbbLQX4qYSycr9at59Wgzs9HSfKa7BoXFbyTUiONOf1RJPp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
+https://static.xx.fbcdn.net/rsrc.php/v3ibVo4/yp/l/de_DE/SUrPUShjscZAZBxMWlurX2kr221jicRwrmjZGiMp3ByklmA6KL51iIxDmvGXMKFYrQJLX1liZZ6Btmvy0e6Ou_UYBsguy7bQoPJhP5sn2otzK3wmD5t8nS6cQ77akAkl_1hbbtCEhJfEPKGbLQX4qYSycr9at59Wgzs9H_MAgCAGYjzETUiONOf1RJPp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ibfi4/yF/l/de_DE/D9skYVvq1Dj31zxw7Zrz5E8AC1NgbcqQzt_LqLaGvpwjklqmyESFjo6viirSZmvkN5SwYbnGA_Nm26GMx-I0sufXmytvpX96oqC1LZp_SnBWJq-4bVaFIeWZHh0S05n6WQfIg81BeFl5nMWaJgE4E7_iyONXVbwueWnWqdpWlSDEcwTxZD2GIRt980SbekIN2-86w2gqJLUUzV6Vr1b8EDnWtcCv1yq8mfztzk3AjzXjEeUdzk.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ic5-4/y1/l/ar_AR/9BX17cDzbEj.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ic5o4/yM/l/ru_RU/txQilTGSh17.js?_nc_x=Ij3Wp8lg5Kz
@@ -1790,6 +1803,7 @@ https://static.xx.fbcdn.net/rsrc.php/v3ij-e4/yP/l/en_US/XEaVALXzY3SZW3El0kgnpCys
 https://static.xx.fbcdn.net/rsrc.php/v3ij-e4/yS/l/de_DE/9qksZXDzagOk2C5VWHp6_L8I0JtN8LW-oxbJMJM_jrLt1DG--o7FoQtZwreG5Y4qKElxdOjzH1aul77akAkl_1hbbBJ9oqRkwlmUlwANvsgvzAbLQX4qYSycr9at59Wgzs9HTUiONOf1RJPp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ij-e4/yV/l/de_DE/xfFiuE6pY3AltEg8gvrk-MyYPrtB2a6OolKygedR1eC-b9cCGvdKV5OrlRcEp3LcGhlxdOjzH1aul77akAkl_1hbbBJ9oqRkwlmImX8BgcJv8EbLQX4qYSycrJcawKXlW68VTUiONOf1RJPd8V65-NLslFp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ij-e4/y_/l/de_DE/XDs0W88ImbgXEaVALXzY3SltEg8gvrk-M7g3th9yFBkiN7ZRmi_si3Gb9cCGvdKV5ObBJ9oqRkwlmuwGKlmJnD0wbLQX4qYSycrJcawKXlW68VvfHieeuE47hTUiONOf1RJPd8V65-NLslF.js?_nc_x=Ij3Wp8lg5Kz
+https://static.xx.fbcdn.net/rsrc.php/v3ij-e4/yd/l/de_DE/DmvGXMKFYrQJLX1liZZ6Btmvy0e6Ou_UYBsguy7bQoPJwmD5t8nS6cQ77akAkl_1hbbtCEhJfEPKGbLQX4qYSycr9at59Wgzs9H_MAgCAGYjzETUiONOf1RJPp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ij-e4/yf/l/de_DE/k2C5VWHp6_Ldu3aHcUt3QlxbJMJM_jrLt3aXUkyyoSKUwYCWn8S4a_m77akAkl_1hbbLQX4qYSycr9at59Wgzs9HrAFde0VR2_kTUiONOf1RJPp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ij-e4/yi/l/de_DE/-AICif3ELXSxfFiuE6pY3AkqTK99KJCU_yYPrtB2a6OolKygedR1eC-rlRcEp3LcGhlxdOjzH1aul77akAkl_1hblYSU6lMjDdNHiYEOdc8l5gbLQX4qYSycr9at59Wgzs9HTUiONOf1RJPp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3ij-e4/yl/l/de_DE/-AICif3ELXSxfFiuE6pY3AkqTK99KJCU_SxeBZFtjGFIlKygedR1eC-rlRcEp3LcGhlxdOjzH1aul77akAkl_1hblYSU6lMjDdNHiYEOdc8l5gbLQX4qYSycr9at59Wgzs9HTUiONOf1RJPp55HfXW__mM.js?_nc_x=Ij3Wp8lg5Kz
@@ -1985,6 +1999,7 @@ https://static.xx.fbcdn.net/rsrc.php/v3irxN4/yM/l/he_IL/_bS2H3S3TOH6GEwTtrGpMn7j
 https://static.xx.fbcdn.net/rsrc.php/v3is8D4/y7/l/zh_CN/Av7eeJjxzXE.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3is8D4/yR/l/zh_CN/CnaIC97HjBt.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3is8D4/yd/l/zh_CN/UeIbUmazc7p.js?_nc_x=Ij3Wp8lg5Kz
+https://static.xx.fbcdn.net/rsrc.php/v3isHf4/y-/l/de_DE/PJVTL5oA3DlNUqkmytxqklicGsxsaDP7PAcVPdh9LHs5SQDMbwa6U_76NUTl5_Vh5K6GMx-I0sufX_dlU0Hvzmvyn4ghWRa9YZ9_LqXmzaeJkp6dKepkH32GnS10eyzUE5kpg81BeFl5nMWZZa-_BxIGsPBmFDuXKai-tdpWlSDEcwTxZD2GIRt980SbekIN2-86w2gqJLUUzV6Vr1b8EDnWtcCv1yq8mfztzk3AjzXjEeUdzk.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3isHf4/yE/l/de_DE/nZlPDkzpz5eejpCGNsXaCMSQDMbwa6U_76NUTl5_Vh5K6GMx-I0sufX_dlU0HvzmvyW0wrYPxgC31_LqXmzaeJkp6dKepkH32GnS10eyzUE5kpg81BeFl5nMWZZa-_BxIGsPBmFDuXKai-tdpWlSDEcwTxZD2GIRt980SbekIN2-86w2gqJLUUzV6Vr1b8EDnWtcCv1yq8mfztzk3AjzXjEeUdzk.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3isOy4/yE/l/ru_RU/hlHf0QX6OvBpa8Ww1ySZ8ehxzuu8kbFbXsrwdQHUarpxo6QQR_TjTTtF21S8HbQrJ9reTUQnaFSuYvYta8glBKaXGJBdM6a3pAmY-YM8kcn9gfsN5Z3RNyCpI1pQmt7UipVvdpWlSDEcwTxZD2GIRt980SbekIN2-86w2gqJLUUzV6Vr1b8EDnWtcCv1yq8mfztzk3AjzXjEeUdzk.js?_nc_x=Ij3Wp8lg5Kz
 https://static.xx.fbcdn.net/rsrc.php/v3isUj4/yi/l/de_DE/oJ-bZrwDAmXySeerbFKhs5vIugVLGkAK3J4uXUbqNlgCXrRUOSaMkqjELdA4cxhJBDQXbJrhggJ-hfDcpjmME1qTPiRXHGcMrLpiLfiCLzMeKVWJDg9JatEnB68wH2ej07aeuwGKlmJnD0wwTdS6-u_Wdzczi9AmReXHAd8V65-NLslFMW71bVZRZic.js?_nc_x=Ij3Wp8lg5Kz
@@ -2123,6 +2138,7 @@ https://stats.wp.com/e-202225.js
 https://stats.wp.com/e-202226.js
 https://stats.wp.com/e-202227.js
 https://stats.wp.com/e-202228.js
+https://stats.wp.com/e-202229.js
 https://stats.wp.com/w.js?ver=202209
 https://stats.wp.com/w.js?ver=202210
 https://stats.wp.com/w.js?ver=202211
@@ -2142,6 +2158,7 @@ https://stats.wp.com/w.js?ver=202225
 https://stats.wp.com/w.js?ver=202226
 https://stats.wp.com/w.js?ver=202227
 https://stats.wp.com/w.js?ver=202228
+https://stats.wp.com/w.js?ver=202229
 https://status.fb.com/static/js/2.95965f8e.chunk.js
 https://status.fb.com/static/js/main.7ad06862.chunk.js
 https://status.fb.com:443/static/js/2.95965f8e.chunk.js
