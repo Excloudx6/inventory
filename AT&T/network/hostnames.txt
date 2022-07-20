@@ -16299,6 +16299,7 @@ dcws-ssl-ngeag.att.com
 dcws-vpn-ngeag-onbd.att.com
 dcws-vpn-ngeag.att.com
 ddamfrontlinecmg1.att.com
+ddamfrontlinecmg2.att.com
 ddosdemo.att.com
 de.vpn.att.com
 deals.att.com
@@ -16424,6 +16425,7 @@ dlifedealer-qc2-h-w.att.com
 dlifedealer-qc21.att.com
 dlifedealer-qc22.att.com
 dlifedealer-w.att.com
+dlsecureapp-cms-dev.stAgE.att.com
 dlsecureapp-cms-dev.stage.att.com
 dlsecureapp-cms-test.stage.att.com
 dlsecureapp-cms-test1.stage.att.com
@@ -16949,6 +16951,7 @@ extpridns.labs.att.com
 extrameasures.att.com
 extweb.claritysfb.labs.att.com
 ezbill.wireless.att.com
+f5aps.mss.att.com
 f5palo.mss.att.com
 faccess-da.att.com
 faccess-sf.att.com
@@ -33656,6 +33659,7 @@ signin-static-js.stage.clogin.att.com
 signin-static-mjs.att.com
 signin.att.com
 signin.clogin.att.com
+signin.stAgE.att.com
 signin.stage.att.com
 signin.stage.clogin.att.com
 signin.test.att.com
@@ -33836,6 +33840,7 @@ sskqc-d9.att.com
 sskqc5.att.com
 ssl.pltx.dvl.labs.att.com
 sslvpn.uc.att.com
+ssm-test.az.cloud.att.com
 ssm.esinet-911.att.com
 sso-test.att.com
 sso.synaptic.att.com
@@ -34050,6 +34055,7 @@ test-ci.att.com
 test-cso-sa.att.com
 test-cybersecurityservices.att.com
 test-developer.firstnet.att.com
+test-expressticketing.acSS.att.com
 test-expressticketing.acss.att.com
 test-localcontrol.firstnet.att.com
 test-meetings.officeathand.att.com
@@ -34075,6 +34081,7 @@ test-upliftmgmt.firstnet.att.com
 test-visa.wireless.att.com
 test-wireless.firstnet.att.com
 test-www.wireless.att.com
+test.callvantage.att.com
 test.cloudapi.synaptic.att.com
 test.gpvpn.att.com
 test.research.att.com
@@ -34521,6 +34528,7 @@ vnbr16.acss.att.com
 vnbr17.acss.att.com
 vnbr18.acss.att.com
 vnbr19.acss.att.com
+vnbr20.acSS.att.com
 vnbr20.acss.att.com
 vnbr21.acss.att.com
 vnbr22.acss.att.com
@@ -34648,6 +34656,7 @@ vndw06.acss.att.com
 vndw07.acss.att.com
 vndw08.acss.att.com
 vndw09.acss.att.com
+vndw10.acSS.att.com
 vndw10.acss.att.com
 vndw11.acss.att.com
 vndw12.acss.att.com
@@ -34778,6 +34787,7 @@ vnsd33.acss.att.com
 vnsd34.acss.att.com
 vnsd35.acss.att.com
 vnsd40.acss.att.com
+vnsd41.acSS.att.com
 vnsd41.acss.att.com
 vnsd42.acss.att.com
 vnsd43.acss.att.com
@@ -35121,10 +35131,12 @@ www.shop.att.com
 www.smallbiz.att.com
 www.smc.att.com
 www.speech.att.com
+www.staging.callvantage.att.com
 www.support.att.com
 www.synaptic.att.com
 www.teleconference.att.com
 www.telephones.att.com
+www.test.callvantage.att.com
 www.test.dlife.att.com
 www.uc.att.com
 www.um.att.com
