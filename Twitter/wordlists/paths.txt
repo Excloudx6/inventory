@@ -4910,6 +4910,7 @@
 /widgets/follow_button.a58e82e150afc25eb5372dd55a98b778.{{lang}}.html
 /widgets/follow_button.bbd13993eb53d3a11ac08f5e8cf9d6a4.{{lang}}.html
 /widgets/follow_button.d7fc2fc075c61f6fa34d79a0cbbf1e34.{{lang}}.html
+/widgets/follow_button.dc05643fdb8d0e2b89e5cc3c1d26d1b5.{{lang}}.html
 /widgets/follow_button.f39f39d5e1aec76c12af50a9a19e4fee.{{lang}}.html
 /widgets/hub.html
 /widgets/tweet_button.0af76c3310098d2f8f428367b62351b8.{{lang}}.html
@@ -4917,12 +4918,14 @@
 /widgets/tweet_button.a58e82e150afc25eb5372dd55a98b778.{{lang}}.html
 /widgets/tweet_button.bbd13993eb53d3a11ac08f5e8cf9d6a4.{{lang}}.html
 /widgets/tweet_button.d7fc2fc075c61f6fa34d79a0cbbf1e34.{{lang}}.html
+/widgets/tweet_button.dc05643fdb8d0e2b89e5cc3c1d26d1b5.{{lang}}.html
 /widgets/tweet_button.f39f39d5e1aec76c12af50a9a19e4fee.{{lang}}.html
 /widgets/widget_iframe.0af76c3310098d2f8f428367b62351b8.html
 /widgets/widget_iframe.67506ef287a81e691ccccf99870d175e.html
 /widgets/widget_iframe.a58e82e150afc25eb5372dd55a98b778.html
 /widgets/widget_iframe.bbd13993eb53d3a11ac08f5e8cf9d6a4.html
 /widgets/widget_iframe.d7fc2fc075c61f6fa34d79a0cbbf1e34.html
+/widgets/widget_iframe.dc05643fdb8d0e2b89e5cc3c1d26d1b5.html
 /widgets/widget_iframe.f39f39d5e1aec76c12af50a9a19e4fee.html
 /wsl/1gqxvRNmmqkxB
 /ww.js
@@ -7379,6 +7382,7 @@ settings/trends/location
 settings/username
 sha384-/iQ3pP5Zp4fD1rguiVgUcA3QJDibOZveudin4X8yHdfRi2QqesZ/FnO4f4VjeD8/
 sha384-gcMWyJurhs2OxKnLeJqCvLoRV/QghIiqjOme29q6JkyYNVHkVmiLiwnzz6TtRlzd
+sha384-uIn3N4Qb8cCxoCn7qHWoOYLENeuwSeNdQCXEMicuVLLkiopxEC/I1LwvKxgygm4s
 sha384-uObFsIlmV0TvXnvnUvEhhDHEbjC4zBHwRA8tg/f0CcVHlIG0XlMAK1oHeK06zBCe
 show.json
 sign-up/-sign-in-modal
