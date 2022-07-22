@@ -90,6 +90,7 @@ http://akamai-apigateway-zip3-suppliersequence.tesla.com:80 ["Access Denied"] [4
 http://api-firebolt-dev.tesla.com:80 ["Access Denied"] [403] [284] ["text/html"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 http://api-firebolt-stage.tesla.com:80 ["Access Denied"] [403] [286] ["text/html"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 http://api-firebolt.tesla.com:80 ["Access Denied"] [403] [276] ["text/html"] ["104.90.109.222"] [null] ["AkamaiGHost"] [null] [];
+http://api-kronos.tesla.com:80 ["Access Denied"] [403] [273] ["text/html"] ["104.76.200.116"] [null] ["AkamaiGHost"] [null] [];
 http://apps.tesla.com:80 [null] [302] [null] [null] ["104.90.109.222"] ["https://apps.tesla.com/"] ["LTMCZ"] [null] [];
 http://assets.engage.tesla.com:443 ["ERROR: The request could not be satisfied"] [400] [915] ["text/html"] ["143.204.98.17"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
 http://assets.engage.tesla.com:80 [null] [403] [243] ["application/xml"] ["13.33.141.66"] ["https://assets.engage.tesla.com/"] ["AmazonS3"] [["Amazon Cloudfront","Amazon S3","Amazon Web Services"]] [];
@@ -182,6 +183,7 @@ http://mfa-reset.tesla.com:80 ["MFA Deactivation"] [200] [5486] ["text/html"] ["
 http://mfa.tesla.com:80 ["MFA Enrollment"] [200] [4538] ["text/html"] ["104.111.226.14"] ["https://mfa.tesla.com/"] [null] [["Akamai"]] [];
 http://mfs-supplier-uat.tesla.com:80 ["MFS Supplier Portal"] [200] [2353] ["text/html"] ["104.111.226.14"] ["https://mfs-supplier-uat.tesla.com/"] [null] [null] [];
 http://mfs-supplier.tesla.com:80 ["MFS Supplier Portal"] [200] [2353] ["text/html"] ["104.90.109.222"] ["https://mfs-supplier.tesla.com/"] [null] [null] [];
+http://mobile-ops-links.prd.vn.cloud.tesla.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [248] ["text/html"] ["52.39.188.246"] [null] [null] [null] [];
 http://mobile.tesla.com:80 ["Tesla Mobile App Store"] [200] [10537] ["text/html"] ["104.111.226.14"] ["https://mobile.tesla.com/appstore/account/username?ReturnUrl=%2Fappstore%2F"] ["nginx/1.12.2"] [["Akamai","Bootstrap","Nginx"]] [];
 http://model3.tesla.com:80 [null] [302] [null] [null] ["205.234.27.221"] [null] ["LB"] [null] [];
 http://myapps.tesla.com:80 ["Object moved"] [302] [296] ["text/html"] ["104.111.226.14"] ["https://myapps.tesla.com/_trust/default.aspx?trust=ADFS&ReturnUrl=%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252F&Source=%2F"] [null] [null] [];
@@ -372,6 +374,7 @@ https://apacvpn1.tesla.com:443 ["Ivanti Connect Secure"] [404] [2622] ["text/htm
 https://api-firebolt-dev.tesla.com:443 ["Access Denied"] [403] [284] ["text/html"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 https://api-firebolt-stage.tesla.com:443 ["Access Denied"] [403] [286] ["text/html"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 https://api-firebolt.tesla.com:443 ["Access Denied"] [403] [276] ["text/html"] ["104.90.109.222"] [null] ["AkamaiGHost"] [null] [];
+https://api-kronos.tesla.com:443 ["Access Denied"] [403] [272] ["text/html"] ["104.76.200.116"] [null] ["AkamaiGHost"] [null] [];
 https://apps.tesla.com:443 [null] [302] [null] [null] ["104.90.109.222"] [null] ["LTMCZ"] [null] [];
 https://assets.engage.tesla.com:443 [null] [403] [243] ["application/xml"] ["13.33.141.66"] [null] ["AmazonS3"] [["Amazon Cloudfront","Amazon S3","Amazon Web Services"]] [];
 https://aurora-ordering-ext-qa.tesla.com:443 ["Access Denied"] [403] [292] ["text/html"] ["104.92.71.218"] [null] ["AkamaiGHost"] [null] [];

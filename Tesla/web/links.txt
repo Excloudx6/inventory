@@ -622,6 +622,7 @@ https://sso.tesla.com/adfs/oauth2/token/
 https://sso.tesla.com/adfs/userinfo
 https://sspr.tesla.com
 https://sspr.tesla.com/
+https://stage-assets-pay.tesla.com
 https://stage-assets-pay.tesla.com/api/apple-pay
 https://stage.tesla.cn
 https://stage.tesla.cn/zh_cn
@@ -629,6 +630,7 @@ https://stage.tesla.com
 https://stage2.teslamotors.com
 https://stash.teslamotors.com/projects/WMS/repos
 https://stash.teslamotors.com/tba/architect-editor
+https://static-assets-pay.tesla.com
 https://static-assets-pay.tesla.com/api/apple-pay
 https://static-assets.tesla.com/configurator/compositor?
 https://static-assets.tesla.com/configurator/compositor?options=
@@ -805,6 +807,7 @@ https://www.gstatic.com/recaptcha/releases/2uoiJ4hP3NUoP9v_eBNfU6CR/recaptcha__e
 https://www.gstatic.com/recaptcha/releases/4rwLQsl5N_ccppoTAwwwMrEN/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/6pQzWaE1NP-gB4FrqRViKjM-/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/85AXn53af-oJBEtL2o2WpAjZ/recaptcha__en.js
+https://www.gstatic.com/recaptcha/releases/CHIHFAf1bjFPOjwwi5Xa4cWR/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/M-QqaF9xk6BpjLH22uHZRhXt/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/QENb_qRrX0-mQMyENQjD6Fuj/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/Y-cOIEkAqcfDdup_qnnmkxIC/recaptcha__en.js

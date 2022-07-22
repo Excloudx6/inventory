@@ -90,6 +90,7 @@ http://akamai-apigateway-zip3-suppliersequence.tesla.com:80
 http://api-firebolt-dev.tesla.com:80
 http://api-firebolt-stage.tesla.com:80
 http://api-firebolt.tesla.com:80
+http://api-kronos.tesla.com:80
 http://apps.tesla.com:80
 http://assets.engage.tesla.com:443
 http://assets.engage.tesla.com:80
@@ -182,6 +183,7 @@ http://mfa-reset.tesla.com:80
 http://mfa.tesla.com:80
 http://mfs-supplier-uat.tesla.com:80
 http://mfs-supplier.tesla.com:80
+http://mobile-ops-links.prd.vn.cloud.tesla.com:443
 http://mobile.tesla.com:80
 http://model3.tesla.com:80
 http://myapps.tesla.com:80
@@ -372,6 +374,7 @@ https://apacvpn1.tesla.com:443
 https://api-firebolt-dev.tesla.com:443
 https://api-firebolt-stage.tesla.com:443
 https://api-firebolt.tesla.com:443
+https://api-kronos.tesla.com:443
 https://apps.tesla.com:443
 https://assets.engage.tesla.com:443
 https://aurora-ordering-ext-qa.tesla.com:443
