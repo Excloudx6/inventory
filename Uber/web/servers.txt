@@ -371,6 +371,7 @@ http://charter-staging.uberinternal.com:80
 http://charter.uber.com:80
 http://charter.uber.com:8080
 http://charter.uberinternal.com:80
+http://chef.uberinternal.com:443
 http://chroma.uberinternal.com:80
 http://chronicle-v2.uberinternal.com:80
 http://chronicle-v3.uberinternal.com:80
@@ -1278,6 +1279,7 @@ http://local-analytics.uberinternal.com:80
 http://local.uber.com:80
 http://local.uber.com:8080
 http://localgraphviz-staging.uberinternal.com:80
+http://localgraphviz.uberinternal.com:80
 http://logging.uberinternal.com:80
 http://login.uber.com:80
 http://logs.uberinternal.com:80
@@ -3673,6 +3675,7 @@ https://local-analytics-v2.uberinternal.com:443
 https://local-analytics.uberinternal.com:443
 https://local.uber.com:443
 https://localgraphviz-staging.uberinternal.com:443
+https://localgraphviz.uberinternal.com:443
 https://logging.uberinternal.com:443
 https://login.uber.com:443
 https://logs.uberinternal.com:443
@@ -4137,6 +4140,7 @@ https://restaurant-staging.uberinternal.com:443
 https://restaurant.uber.com:443
 https://restaurant.uberinternal.com:443
 https://restauranthelp.uber.com:443
+https://restauranthelp.uber.com:8443
 https://restaurants-staging.uberinternal.com:443
 https://restaurants.uber.com:443
 https://restaurants.ubereats.com:443

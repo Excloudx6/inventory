@@ -371,6 +371,7 @@ http://charter-staging.uberinternal.com:80 [null] [401] [103] ["application/json
 http://charter.uber.com:80 ["302 Found"] [302] [142] ["text/html"] ["34.98.127.226"] ["https://charter.uber.com/"] ["ufe"] [["Envoy","Google Cloud"]] [];
 http://charter.uber.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["34.98.127.226"] [null] [null] [null] [];
 http://charter.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://charter.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
+http://chef.uberinternal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["34.215.38.142"] [null] ["awselb/2.0"] [null] [];
 http://chroma.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://chroma.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://chronicle-v2.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://chronicle-v2.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://chronicle-v3.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://chronicle-v3.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
@@ -1278,6 +1279,7 @@ http://local-analytics.uberinternal.com:80 ["301 Moved Permanently"] [301] [166]
 http://local.uber.com:80 ["307 Temporary Redirect"] [307] [168] ["text/html"] ["34.98.127.226"] ["https://local.uber.com/"] ["ufe"] [["Envoy","Google Cloud"]] [];
 http://local.uber.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["34.98.127.226"] [null] [null] [null] [];
 http://localgraphviz-staging.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://localgraphviz-staging.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
+http://localgraphviz.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://localgraphviz.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://logging.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://logging.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://login.uber.com:80 ["404 Not Found"] [404] [552] ["text/html"] ["104.36.195.150"] ["https://login.uber.com/"] ["ufe"] [["Envoy"]] [];
 http://logs.uberinternal.com:80 [null] [301] [null] [null] ["104.36.195.150"] ["https://logs.uberinternal.com/"] ["ufe"] [null] [];
@@ -3673,6 +3675,7 @@ https://local-analytics-v2.uberinternal.com:443 ["404 Not Found"] [404] [552] ["
 https://local-analytics.uberinternal.com:443 ["301 Moved Permanently"] [301] [166] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://local.uber.com:443 ["307 Temporary Redirect"] [307] [168] ["text/html"] ["34.98.127.226"] [null] ["ufe"] [["Envoy","Google Cloud"]] [];
 https://localgraphviz-staging.uberinternal.com:443 [null] [401] [103] ["application/json"] ["104.36.195.150"] [null] ["ufe"] [["Basic","Envoy"]] [];
+https://localgraphviz.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://logging.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://login.uber.com:443 ["404 Not Found"] [404] [150] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://logs.uberinternal.com:443 [null] [301] [null] [null] ["104.36.195.150"] [null] ["ufe"] [null] [];
@@ -4137,6 +4140,7 @@ https://restaurant-staging.uberinternal.com:443 ["301 Moved Permanently"] [301] 
 https://restaurant.uber.com:443 ["301 Moved Permanently"] [301] [166] ["text/html"] ["34.98.127.226"] [null] ["ufe"] [["Envoy","Google Cloud"]] [];
 https://restaurant.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://restauranthelp.uber.com:443 ["Restaurant Help"] [200] [142872] ["text/html"] ["160.8.7.28"] ["https://restauranthelp.uber.com/s/"] [null] [["Cloudinary"]] [];
+https://restauranthelp.uber.com:8443 [null] [301] [null] [null] ["85.222.140.10"] [null] ["sfdcedge"] [null] [];
 https://restaurants-staging.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://restaurants.uber.com:443 ["404 - Page not found"] [404] [1505] ["text/html"] ["104.17.72.206"] [null] ["cloudflare"] [["Cloudflare","Google Font API"]] [];
 https://restaurants.ubereats.com:443 [null] [406] [14] ["text/plain"] ["34.98.127.226"] [null] ["ufe"] [["Envoy","Google Cloud"]] [];

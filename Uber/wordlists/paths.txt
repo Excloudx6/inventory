@@ -2274,6 +2274,7 @@
 ./job-details/rides-job-details
 ./job-input
 ./jobs
+./js/frontify-
 ./js/frontify-styleguide/colorswatch.0f2a710802993d0262a9.js
 ./js/frontify-styleguide/colorswatch.199f42a2b1705e65090d.js
 ./js/frontify-styleguide/colorswatch.1a1bc48bcb27011075c4.js
@@ -3699,6 +3700,7 @@
 /:languageCountryPair?/aisle-feed/:verticalType
 /:languageCountryPair?/brand-city/:slugName/:secondarySlugName
 /:languageCountryPair?/brand/:slugName
+/:languageCountryPair?/capitalone
 /:languageCountryPair?/cart/
 /:languageCountryPair?/category-feed/:verticalType
 /:languageCountryPair?/category/:slugName
@@ -4469,6 +4471,7 @@
 /api/set
 /api/set/
 /api/set/add/
+/api/set/bulk-download-token
 /api/set/create/
 /api/set/data/
 /api/set/delete
@@ -4476,6 +4479,7 @@
 /api/set/move/
 /api/set/update/
 /api/set?parent_set_id=
+/api/set?permission_token=
 /api/share-link/
 /api/storyteq-callback-data
 /api/storyteq-template
@@ -4698,6 +4702,9 @@
 /append
 /apple-books/
 /application-management
+/application-management/inventory
+/application-management/inventory/endpoints
+/application-management/risks
 /applications
 /applications/service-groups
 /apply-rules
@@ -4798,6 +4805,7 @@
 /auraCmpDef?_au=LpCTzuyqBUeCUwKaXXlwUA&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=Vch3wESk1PHg9bGgICAqIA&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=Vch3wESk1PHg9bGgICAqIA&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=991825831&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
+/auraCmpDef?_au=cP0597_9JR27Ce3gpLDhDw&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=hiJAEzBaG5SdeoQ44WCypw&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD&amp;_au=KbCmDBVbE10iCy1inwbbzA&amp;_ff=DESKTOP&amp;_l=true&amp;_lrmc=1730203071&amp;_l10n=en_US&amp;_c=true&amp;_style=52728839&amp;_density=VIEW_ONE
 /auraCmpDef?aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD&amp;_au=KbCmDBVbE10iCy1inwbbzA&amp;_ff=DESKTOP&amp;_l=true&amp;_lrmc=1730203071&amp;_l10n=en_US&amp;_c=true&amp;_style=74282427&amp;_density=VIEW_ONE
@@ -5227,6 +5235,7 @@
 /blog/sw.js?ver=1654104601802&amp;scope=en-US
 /blog/sw.js?ver=1656423185924&amp;scope=en-US
 /blog/sw.js?ver=1656423185963&amp;scope=en-US
+/blog/sw.js?ver=1656423186103&amp;scope=en-US
 /blog/sw.js?ver=1656423186113&amp;scope=en-US
 /blog/sw.js?ver=1656423207285&amp;scope=en-US
 /blog/sw.js?ver=1656423207301&amp;scope=en-US
@@ -5383,6 +5392,7 @@
 /commerce\
 /communication-settings
 /community
+/community/checkout/completed
 /community/collections
 /community/collections/preview
 /community/feed
@@ -6099,6 +6109,7 @@
 /frame/web/v1/auth?tx=
 /freight
 /freight/carrier/
+/fs/:share_link_id
 /games
 /gateway/api/available-products/api/available-products
 /gateway/api/available-products/api/product-configuration
@@ -6126,6 +6137,7 @@
 /groups/ranks
 /guest-add
 /guideline
+/guideline*
 /guideline/
 /guideline/*
 /guideline/:guidelineId
@@ -6683,6 +6695,7 @@
 /login/session
 /login/session?next_url=
 /login/udimeta
+/login?application=
 /login?continue=
 /login?uber_client_name=base&amp;
 /login_iframe
@@ -6707,6 +6720,7 @@
 /m=
 /macos/
 /main
+/manage-profile
 /manage/labels/
 /manifest.json
 /map-sessions/v1
@@ -6721,6 +6735,7 @@
 /markers.geojson
 /market/read/
 /marketplace
+/marketplace*
 /marketplace/
 /marketplace/*
 /marketplace/404
@@ -7003,6 +7018,7 @@
 /private/threat-actions/recalculate-enrichments
 /private/threats/ioc-add-to-blacklist
 /private/threats/ioc-create-threats
+/private/users/reset-password
 /private/zendesk
 /processui/processui.app\
 /product-guides/account-management
@@ -7142,6 +7158,7 @@
 /related-list-records\
 /related-list/\
 /related-list/batch/\
+/releases
 /reload
 /remove
 /removeAll
@@ -7290,6 +7307,7 @@
 /sentinels/custom-rules
 /sentinels/device-control
 /sentinels/devices
+/sentinels/devices/mobile-devices
 /sentinels/exclusions
 /sentinels/exclusions-catalog
 /sentinels/exclusions/white_hash
@@ -11110,6 +11128,7 @@ settings/users
 settings/users/roles
 sha384-/iQ3pP5Zp4fD1rguiVgUcA3QJDibOZveudin4X8yHdfRi2QqesZ/FnO4f4VjeD8/
 sha384-gcMWyJurhs2OxKnLeJqCvLoRV/QghIiqjOme29q6JkyYNVHkVmiLiwnzz6TtRlzd
+sha384-uIn3N4Qb8cCxoCn7qHWoOYLENeuwSeNdQCXEMicuVLLkiopxEC/I1LwvKxgygm4s
 sha384-uObFsIlmV0TvXnvnUvEhhDHEbjC4zBHwRA8tg/f0CcVHlIG0XlMAK1oHeK06zBCe
 sha512/224
 sha512/256
@@ -11161,6 +11180,7 @@ style/text_underline_offset
 style/text_underline_position
 style/whitespace
 styled-components/native
+styleguide/colorswatch
 stylematic/css
 styletron-legacy/constants
 styletron-react/lib/provider
