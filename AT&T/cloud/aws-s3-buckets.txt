@@ -11,12 +11,14 @@ http://att-cf.s3.amazonaws.com/
 http://att-content.s3.amazonaws.com/
 http://att-data.s3.amazonaws.com/
 http://att-docs.s3.amazonaws.com/
+http://att-download.s3.amazonaws.com/
 http://att-downloads.s3.amazonaws.com/
 http://att-files.s3.amazonaws.com/
 http://att-gateway.s3.amazonaws.com/
 http://att-images.s3.amazonaws.com/
 http://att-img.s3.amazonaws.com/
 http://att-logs.s3.amazonaws.com/
+http://att-main.s3.amazonaws.com/
 http://att-private.s3.amazonaws.com/
 http://att-prod.s3.amazonaws.com/
 http://att-production.s3.amazonaws.com/

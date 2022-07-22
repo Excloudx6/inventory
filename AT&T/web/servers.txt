@@ -463,6 +463,7 @@ http://cyberstaging.att.com:80
 http://dai-adrouter-awse.att.com:80
 http://dai-adrouter-awsw.att.com:80
 http://dai-adrouter-vod-awse.att.com:80
+http://dai-adrouter-vod-awsw.att.com:443
 http://dai-adrouter-vod-awsw.att.com:80
 http://dai-live.att.com:80
 http://dai-prime.att.com:80
@@ -825,6 +826,7 @@ http://hrdata.att.com:80
 http://hrlink.att.com:80
 http://hrlink.att.com:8080
 http://hub.att.com:80
+http://hvd-intl01.att.com:80
 http://hvd.att.com:80
 http://hvd.att.com:8080
 http://ibmmeeting.att.com:443
@@ -972,6 +974,7 @@ http://leadershiphub.att.com:80
 http://learn-cybersecurity.att.com:80
 http://learn.att.com:80
 http://learnepicenter.att.com:80
+http://learningconnection.att.com:443
 http://learningconnection.att.com:80
 http://learningsolutions.att.com:80
 http://lf.uc.att.com:80
@@ -1488,6 +1491,7 @@ http://portal.flow.cloud.att.com:80
 http://portal.wholesale.att.com:80
 http://power-tools-dev.att.com:80
 http://power-tools-test.att.com:80
+http://pr.att.com:443
 http://pr.att.com:80
 http://pre-brandcenter.test.att.com:80
 http://pre-developer.att.com:80
@@ -1855,6 +1859,7 @@ http://sponsoreddata.att.com:80
 http://src.att.com:80
 http://ssaf.att.com:80
 http://sskb.att.com:80
+http://ssm-test.az.cloud.att.com:80
 http://sspdev.test.att.com:80
 http://ssplarge.test.att.com:80
 http://sspsmall.test.att.com:80
@@ -1993,6 +1998,7 @@ http://tsd.att.com:80
 http://tsd.att.com:8080
 http://tsnrui-alpha.att.com:80
 http://tsnrui-beta.att.com:80
+http://tst.sTage.att.com:80
 http://tst.stage.att.com:80
 http://tst01.stage.att.com:80
 http://tst02.stage.att.com:80
@@ -2505,6 +2511,7 @@ http://vttraining.att.com:443
 http://vttraining.att.com:80
 http://washington.att.com:443
 http://washington.att.com:80
+http://washington.att.com:8080
 http://washington.att.com:8443
 http://wat-enhanced-mgmt.uc.att.com:443
 http://watch.att.com:80
@@ -2519,8 +2526,10 @@ http://webdesign.att.com:443
 http://webhosting.att.com:80
 http://webinars.att.com:80
 http://webmeeting.att.com:80
+http://websites.att.com:443
 http://websites.att.com:80
 http://websitesmail.att.com:80
+http://websitesolutions.att.com:443
 http://websitesolutions.att.com:80
 http://websitesportal.att.com:443
 http://websplashpage-aldc01.att.com:80
@@ -2597,6 +2606,7 @@ http://www.gov.att.com:80
 http://www.intbillsys.att.com:443
 http://www.ipservices.att.com:80
 http://www.labs.att.com:80
+http://www.managedservices.att.com:443
 http://www.monthlytechsupport.att.com:80
 http://www.neblog.att.com:80
 http://www.networkcam.att.com:443
@@ -3496,6 +3506,7 @@ https://dcpselfservice.uc.att.com:443
 https://dcws-ssl-ngeag.att.com:443
 https://dcws-vpn-ngeag.att.com:443
 https://ddamfrontlinecmg1.att.com:443
+https://ddamfrontlinecmg2.att.com:443
 https://deals.att.com:443
 https://deenc1.vpn.att.com:443
 https://deenc2.vpn.att.com:443
@@ -3955,6 +3966,7 @@ https://hrtd.att.com:443
 https://hub.att.com:443
 https://hvd-intl.att.com:443
 https://hvd-intl.att.com:8443
+https://hvd-intl01.att.com:443
 https://hvd-intl01.att.com:8443
 https://hvd-intl03.att.com:443
 https://hvd-intl03.att.com:8443
@@ -4562,6 +4574,7 @@ https://northeastregion.att.com:443
 https://notify.att.com:443
 https://notifyhistory.stage.att.com:443
 https://now.att.com:443
+https://now.cloud.att.com:443
 https://npwt.att.com:443
 https://oa-app.e-access.att.com:443
 https://oah.att.com:443
@@ -4932,6 +4945,7 @@ https://resources.att.com:443
 https://restage.att.com:443
 https://restapi19.att.com:443
 https://retail-api-dev.att.com:443
+https://retail-api-hotfix.att.com:443
 https://retail.dp.att.com:443
 https://retail2.dp.att.com:443
 https://retailleadershiptraining.att.com:443
@@ -5336,6 +5350,7 @@ https://tsnrui-beta.att.com:443
 https://tspacemobile.e-access.att.com:443
 https://tspacemobile.stage.att.com:443
 https://tspacex.e-access.att.com:443
+https://tst.sTage.att.com:443
 https://tst.stage.att.com:443
 https://tst01.stage.att.com:443
 https://tst02.stage.att.com:443
@@ -5718,6 +5733,7 @@ https://vnigaus06.acss.att.com:443
 https://vnigaus07.acss.att.com:443
 https://vnigaus08.acss.att.com:443
 https://vnigaus09.acss.att.com:443
+https://vnigaus10.acss.att.com:443
 https://vnigaus11.acss.att.com:443
 https://vnigaus12.acss.att.com:443
 https://vnigaus13.acss.att.com:443
