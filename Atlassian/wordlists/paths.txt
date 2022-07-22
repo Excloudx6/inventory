@@ -4943,6 +4943,7 @@
 /?#
 /?$
 /?cloudId=
+/?hid=
 /?ll=
 /?url=
 /A+k
@@ -4972,6 +4973,7 @@
 /CharlieDisplay-Semibold.woff2
 /D7I
 /Dk3
+/DoU
 /ELF
 /Ea5
 /Eym
@@ -5037,6 +5039,7 @@
 /Osu
 /P2F
 /PDc
+/PJJ
 /PtY
 /Q0P
 /Q5i
@@ -5281,6 +5284,7 @@
 /api/chat.postMessage
 /api/cohosted_event/
 /api/cohosted_event/?source_event=
+/api/contentful-provider/banner-info
 /api/dashboard_settings/
 /api/desktop.latestRelease?arch=ia32&amp;variant=exe&amp;redirect=true
 /api/desktop.latestRelease?arch=universal&amp;variant=dmg&amp;redirect=true
@@ -5627,6 +5631,7 @@
 /cloud/hudson/
 /cloud/insight/
 /cloud/jinx/
+/cloud/jipers/
 /cloud/jira-agility-boards/
 /cloud/jira-jql-resolver/
 /cloud/jira-workflow/
@@ -5846,6 +5851,7 @@
 /connector/UpgradeConnector
 /consent
 /consent/
+/consentsAndSubscriptions
 /console/myapps
 /console/myapps/
 /contact
@@ -6200,6 +6206,7 @@
 /frontend/featureFlagValues
 /frontend/state
 /ftY
+/fulfilled
 /fxJ
 /g3Y
 /gG1
@@ -6708,6 +6715,7 @@
 /index-jira-confluence.html
 /index.action
 /index.html
+/initialization
 /initiative/:initiative
 /initiative/:initiative/:tabName?
 /initiative/:name/manage/:reportType
@@ -7025,6 +7033,9 @@
 /listApplicationlinkstates/id/
 /live?currencyCode=
 /liveagent/autoquery.apexp
+/loadLanguages
+/loadTranslation
+/loadUser
 /loader.js
 /localExtractRefreshes
 /locales/add/{{lng}}/{{ns}}
@@ -7073,6 +7084,7 @@
 /lqa
 /m9e
 /magazin/
+/main
 /manage
 /manage-directory
 /manage-group
@@ -7437,6 +7449,7 @@
 /pdf-viewer
 /pdf/spaces/:spaceKey/pages/overview
 /pencil.d6295602.svg
+/pending
 /people
 /people/
 /people/groups
@@ -7816,6 +7829,7 @@
 /redux/index.js or redux/stores/index.js to be included in the Redux state.\n\t\t\t\t\t
 /reference/manifests
 /referertester.html?
+/rejected
 /relation-to-viewer/is-following
 /relation-to-viewer/is-liked
 /relationships
@@ -7947,6 +7961,7 @@
 /rest/mfa/verify
 /rest/mfa/verify/recoverycode
 /rest/mfa/verify?transactionToken=
+/rest/preferences
 /rest/prototype/1/
 /rest/prototype/1/i18n
 /rest/resend-email
@@ -8153,6 +8168,8 @@
 /seed/
 /select
 /selinux
+/sendConsentFromLink
+/sendItemFromUI
 /server
 /server/
 /server/bamboo/
@@ -8387,10 +8404,12 @@
 /stream-renderer.worker.js
 /streamhub/
 /strong
+/subscribe
 /subscribe?mailingListId=
 /subscription
 /subscriptions
 /subscriptions-and-billing/resources/
+/subscriptions/all
 /success
 /summary
 /support
@@ -8405,6 +8424,7 @@
 /sv/true
 /sw.js
 /swagger-ui.html
+/switchLanguage
 /synonyms/
 /synonyms/batch?forwardToReplicas=
 /synonyms/batch?forwardToSlaves=
@@ -8471,6 +8491,8 @@
 /tnjkk77425/plugins/custom/atlassian/atlassiandev4
 /topic slash command
 /traces/v1/list_of_spans/json
+/translations
+/translations/
 /trial-expired
 /trial/chat/new
 /trust/security
@@ -8501,7 +8523,10 @@
 /unknown
 /unmanaged-users
 /unreads
+/unsubscribe
+/unsubscribeAll
 /unwatch/
+/updateConsentFromLink
 /updateCurrency?_=
 /updates
 /updates/
@@ -10414,6 +10439,7 @@ abortcontroller.js
 about-modal/sharedFiles
 ac/create
 ac/marketplace
+account/workspace-settings
 accounts/FETCH
 accounts/SEARCH
 actionMenu.html
@@ -10439,6 +10465,7 @@ addspacenotificationajax.action
 addspacetofavourites.action
 addtocart/ADD_ITEMS
 addtocart/ROUTE
+admin/billing
 admin/home
 admin/slack-connect-connections
 admin/transfer
@@ -11878,6 +11905,7 @@ emojis/search
 emptyHtmlDoc.html
 enterprise-teams-dialog/fetchPost
 env/jquery
+error/message
 errorDetailsDialog.html
 errors/Error404
 estimator-v1.js
@@ -12851,6 +12879,7 @@ packages/design-system/datetime-picker/examples/110-timezone-compat.tsx
 packages/design-system/datetime-picker/examples/12-date-picker-disabled.tsx
 packages/design-system/datetime-picker/examples/120-datepicker-formatDisplayLabel.tsx
 packages/design-system/datetime-picker/examples/13-date-picker-range.tsx
+packages/design-system/datetime-picker/examples/14-date-picker-tabcheck.tsx
 packages/design-system/datetime-picker/examples/20-datetime-picker-states.tsx
 packages/design-system/datetime-picker/examples/30-time-picker-states.tsx
 packages/design-system/datetime-picker/examples/35-open-states.tsx
@@ -12919,6 +12948,15 @@ packages/design-system/droplist/examples/00-basic-example.js
 packages/design-system/droplist/examples/01-bound-example.js
 packages/design-system/droplist/examples/02-tall-example.js
 packages/design-system/droplist/package.json
+packages/design-system/ds-explorations/CHANGELOG.md
+packages/design-system/ds-explorations/docs/01-basic.tsx
+packages/design-system/ds-explorations/examples/00-basic.tsx
+packages/design-system/ds-explorations/examples/01-box.tsx
+packages/design-system/ds-explorations/examples/02-text.tsx
+packages/design-system/ds-explorations/examples/03-badge.tsx
+packages/design-system/ds-explorations/examples/04-section-message.tsx
+packages/design-system/ds-explorations/examples/05-comment.tsx
+packages/design-system/ds-explorations/package.json
 packages/design-system/ds-lib/CHANGELOG.md
 packages/design-system/ds-lib/package.json
 packages/design-system/dynamic-table/CHANGELOG.md
@@ -13123,10 +13161,12 @@ packages/design-system/layer/package.json
 packages/design-system/logo/CHANGELOG.md
 packages/design-system/logo/docs/0-intro.tsx
 packages/design-system/logo/examples/0-basic.tsx
+packages/design-system/logo/examples/1-appearance.tsx
 packages/design-system/logo/examples/2-navigation-logo.tsx
 packages/design-system/logo/examples/2-navigationLogo.tsx
 packages/design-system/logo/examples/3-get-import-statement.tsx
 packages/design-system/logo/examples/4-color.tsx
+packages/design-system/logo/examples/5-sizes.tsx
 packages/design-system/logo/package.json
 packages/design-system/lozenge/CHANGELOG.md
 packages/design-system/lozenge/docs/0-intro.tsx
@@ -13907,7 +13947,9 @@ packages/elements/emoji/examples/20-emoji-ssr-hydration.tsx
 packages/elements/emoji/examples/21-emoji-ufo-with-real-resource.tsx
 packages/elements/emoji/examples/21-emoji-ufo.tsx
 packages/elements/emoji/examples/22-resourced-emoji-real-resource-backend.tsx
+packages/elements/emoji/examples/23-optimistic-emoji.tsx
 packages/elements/emoji/examples/23-sprite-emoji.tsx
+packages/elements/emoji/examples/24-emoji-placeholder.tsx
 packages/elements/emoji/package.json
 packages/elements/mention/CHANGELOG.md
 packages/elements/mention/docs/0-intro.tsx
@@ -14071,6 +14113,9 @@ packages/linking-platform/link-picker/CHANGELOG.md
 packages/linking-platform/link-picker/docs/0-intro.tsx
 packages/linking-platform/link-picker/examples/00-basic.tsx
 packages/linking-platform/link-picker/examples/10-no-plugins.tsx
+packages/linking-platform/link-picker/examples/10-with-plugins.tsx
+packages/linking-platform/link-picker/examples/20-without-plugins.tsx
+packages/linking-platform/link-picker/examples/90-root-error-boundary.tsx
 packages/linking-platform/link-picker/examples/98-in-popup.tsx
 packages/linking-platform/link-picker/examples/99-vr.tsx
 packages/linking-platform/link-picker/package.json
@@ -14294,6 +14339,7 @@ packages/media/smart-card/examples/16-analytics-with-location-from-outside-of-ca
 packages/media/smart-card/examples/17-lazy-loading-title-placeholder.tsx
 packages/media/smart-card/examples/2-lazily-loaded.tsx
 packages/media/smart-card/examples/3-JSONLD-editor.tsx
+packages/media/smart-card/examples/3-jsonld-editor-2.tsx
 packages/media/smart-card/examples/4-with-resolver.tsx
 packages/media/smart-card/examples/5-selected-cards.tsx
 packages/media/smart-card/examples/6-delayed-loading-indicator.tsx
@@ -14759,6 +14805,7 @@ settingsCoordinator.html
 sha384-/iQ3pP5Zp4fD1rguiVgUcA3QJDibOZveudin4X8yHdfRi2QqesZ/FnO4f4VjeD8/
 sha384-ChoQTNOOzOCXO6DTby1mHaC5TIg752BzBXFlYVusgc3aPsuwXbyFTr/fXAQAm2Yp
 sha384-gcMWyJurhs2OxKnLeJqCvLoRV/QghIiqjOme29q6JkyYNVHkVmiLiwnzz6TtRlzd
+sha384-uIn3N4Qb8cCxoCn7qHWoOYLENeuwSeNdQCXEMicuVLLkiopxEC/I1LwvKxgygm4s
 sha384-uObFsIlmV0TvXnvnUvEhhDHEbjC4zBHwRA8tg/f0CcVHlIG0XlMAK1oHeK06zBCe
 sha512/224
 sha512/256
@@ -15007,6 +15054,7 @@ styled-components/native
 styles/beamer-boosted-embed.css
 styles/beamer-boosted-embed.css?v=2
 styles/beamer-boosted-embed.css?v=3
+styles/beamer-boosted-embed.css?v=4
 styles/beamer-embed-nostyle.css
 styles/beamer-embed.css
 summary.html
