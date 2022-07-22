@@ -7230,8 +7230,11 @@
 /api/v1/rankings/current-summary/countries/
 /api/v2
 /api/v2/help_center/
+/api/v2/help_center/categories.json
 /api/v2/help_center/community/posts/
 /api/v2/help_center/community_posts/search?per_page=4&amp;query={{query}}
+/api/v2/organizations/
+/api/v2/users/
 /api/v3/projects/
 /api/vendor_activities/
 /api/vendor_bulk_actions/
@@ -8430,6 +8433,8 @@
 /docs/
 /docs/invoices/
 /documentary-series-or-special/jeen-yuhs-a-kanye-trilogy
+/documentary-series-or-special/the-tinder-swindler
+/documentary-series/the-andy-warhol-diaries
 /documents/
 /documents/file/
 /documents/list/
@@ -8444,8 +8449,10 @@
 /dpi
 /dpi/
 /drafts/
+/drama-series/ozark
 /drama-series/squid-game
 /drama-series/squid-game/videos/squid-game-directors-conversation
+/drama-series/stranger-things
 /drillpath
 /dropbox/
 /dropbox/links
@@ -8686,7 +8693,10 @@
 /hc/
 /hc/api/internal/csrf_token.json
 /hc/api/internal/deflection/suggestions.json?locale=
+/hc/en-us/categories/360000145287-NPFP-RESOURCES
 /hc/en-us/community/topics
+/hc/en-us/signin
+/hc/en-us/signup
 /hc/user_email/new
 /help
 /help.htm
@@ -8833,6 +8843,7 @@
 /licenses
 /like/:id
 /lily-collins-photo-gallery
+/limited-series/inventing-anna
 /limited-series/maid
 /line_items/
 /line_items_files/
@@ -10348,6 +10359,7 @@
 /tudum.png
 /tudum/*
 /tudum/health
+/tudum/js/
 /tudum/mocks
 /tudum/mocks/*
 /tudum/sitemap_vt.xml
