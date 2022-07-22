@@ -2061,6 +2061,7 @@
 /agent_client_config
 /aircover
 /analytics
+/api/event
 /api/v0/reports
 /api/v2
 /api/v2/autocompletes
