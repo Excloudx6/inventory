@@ -6266,3 +6266,39 @@
 [javascript] - https://zettleintegrations.paypal.com/auth/createchallenge/72235f4cc6c8b7da/recaptchav3.js?_sessionID=3r1z1diLWm87cqjcTxULOECzyeK2paEB
 [javascript] - https://zettleintegrations.paypal.com:443/auth/createchallenge/1e4308d04e2ff568/recaptchav3.js?_sessionID=yT33IB_QsfWuQpTxlpOB9c4G1Xuxq2BI
 [url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=9637e722-f47c-7dac-4459-64c00113e257&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=xoom.com&nonce=637938496934731987.6a781349-0b9c-4dae-9d6d-dccb049909bc&state=DcsxDsMgDEBRaK9SdSMhsgV4iHIWYzNUKrKUNmmPH4b3t--dc_fhNvg44nKCTFCQEgFmWKjkKXEuCyCFWEkCKrdAmjSoSI1IFKmKH-9jth_P29743de_WZ_E-vPUlY-v6esjdrb9Ag
+[href] - https://www.paypal.com/signin/authorize?client_id=AQnRNmwKLyKURzmUN7IGrYNIcaXKc2xMhjj5iRgXQHmRlL_yWgRRlEyHvtUn0wfkT0394HGHKlldnkFl&redirect_uri=https%3A%2F%2Fwww.braintreegateway.com%2Flogin_with_paypal_redirect&response_type=code&scope=openid+email&state=login-ZNt67XD4ayB4lKBDYnECOZeLJXzT48i9dl45lT2TKD9rSpggzsD%2FkT3GfF%2B7gWzIkNtMbZz9ulSJaq9Pj%2Bs5%2Fw%3D%3D-%2Flogin
+[href] - https://www.paypal.com/signin/authorize?client_id=Aawr2vOkpQGNTXQAYIOQPVJoSCI2OnIIsTjmEM1Yx1MooV2aGxUqXeACIDZLS1AWVqUlBapiO0CJzG2F&redirect_uri=https%3A%2F%2Fsandbox.braintreegateway.com%2Flogin_with_paypal_redirect&response_type=code&scope=openid+email&state=login-RxE4jnN60Frkxmm6jmHC%2F4PaJEFltS%2BsKYDpjtmOAqtqr5AecIHQOFXgWEYR86htPTb0xZ2T0tbL%2B9Jdkq2tzQ%3D%3D-%2Flogin
+[href] - https://www.paypalobjects.com/ppdevdocs/bundle/app-f27a253b29caa37883da.js
+[href] - https://www.paypalobjects.com/ppdevdocs/bundle/styles.9d92dca2f8ac0bf948fb.css
+[href] - https://www.paypalobjects.com/ppdevdocs/bundle/webpack-runtime-e544a59295e49296b63b.js
+[href] - https://www.paypalobjects.com/web/res/2a7/fc2611ae4bfa5bbb430aee5e4492e/css/app.css
+[href] - https://www.paypalobjects.com/web/res/7ff/17027b690b46143b85a7958730c08/css/contextualLogin.css
+[href] - https://www.paypalobjects.com/web/res/d25/c07bd5047b819d2256b870fee33ab/css/contextualLoginElementalUI.css
+[javascript] - https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_G9uLwWVLX9pFa198LIT55w2.js
+[javascript] - https://history.paypal.com/auth/createchallenge/e27d7f2184e9275c/recaptchav3.js?_sessionID=T8KLrWDRxFj0mjnfyhfSbtUUI1cBrCiE
+[javascript] - https://history.paypal.com:443/auth/createchallenge/ae0a3dfb2277816d/recaptchav3.js?_sessionID=wPggx0u1VxrJLKd8s6TkFGo9suOF-GMB
+[javascript] - https://payflowlink-edgemigration.payflow.edge.paypal.com/auth/createchallenge/7a1514b472a9eafd/recaptchav3.js?_sessionID=8Ul0ueGsscgojg_TP59m_egfSWPKN6wD
+[javascript] - https://paypalmanager.sandbox.paypal.com:443/_avirum_/AVIi050C62DAE1F50001AVIl0AVIr1/rum.js
+[javascript] - https://qwac.paypal.com:443/auth/createchallenge/d124126263f91d6f/recaptchav3.js?_sessionID=jrz4xrooATqBWICMufzQHRpSRVqnn3b0
+[javascript] - https://safetyhub.paypal.com:443/_avirum_/AVIi050A62DAE1D70001AVIl0AVIr1/rum.js
+[javascript] - https://www.blogger.com/static/v1/widgets/1441572677-widgets.js
+[javascript] - https://www.paypal.com/auth/createchallenge/405b9e3fb91b3eaa/recaptchav3.js?_sessionID=xxYC3l1XH4Vxfbs4vsdpEjIp27UAQENH
+[javascript] - https://www.paypal.com/auth/createchallenge/53beb92514bda166/recaptchav3.js?_sessionID=lumeuSUhtyEdxNL-FYZlqG1FarrnaCTH
+[javascript] - https://www.paypal.com/auth/createchallenge/62e968f7ba2ff600/recaptchav3.js?_sessionID=ZhzripxGYhDGKWQtZgW47P205y2IwwFJ
+[javascript] - https://www.paypal.com/auth/createchallenge/a02ebd6b3d88e28c/recaptchav3.js?_sessionID=2xkJ9ii0pQLEjUKHYW8j1jUkD-e1uxur
+[javascript] - https://www.paypal.com/auth/createchallenge/a036d260ad3f093f/recaptchav3.js?_sessionID=WC3HaItmsi6iq7Jr1XOn1mZ7IPPmJLjZ
+[javascript] - https://www.paypal.com/auth/createchallenge/a5bdc8ff21783c53/recaptchav3.js?_sessionID=Ct4vO5SmL2R8oMfZTrv7dFE6mHRnsqLu
+[javascript] - https://www.paypal.com/auth/createchallenge/f7cda6a8917f6221/recaptchav3.js?_sessionID=f89_b71uos955TcWPioyM7Scs457Ds_q
+[javascript] - https://www.paypalobjects.com/web/res/2a7/fc2611ae4bfa5bbb430aee5e4492e/js/authchallenge.js
+[javascript] - https://www.paypalobjects.com/web/res/2a7/fc2611ae4bfa5bbb430aee5e4492e/js/lib/modernizr-2.6.1.js
+[javascript] - https://www.paypalobjects.com/web/res/2a7/fc2611ae4bfa5bbb430aee5e4492e/js/lib/require.js
+[javascript] - https://www.paypalobjects.com/web/res/7ff/17027b690b46143b85a7958730c08/js/lib/fn-sync-telemetry-min.js
+[javascript] - https://www.paypalobjects.com/web/res/7ff/17027b690b46143b85a7958730c08/js/lib/modernizr-2.6.1.js
+[javascript] - https://www.paypalobjects.com/web/res/7ff/17027b690b46143b85a7958730c08/js/signin-split.js
+[javascript] - https://www.paypalobjects.com/web/res/d25/c07bd5047b819d2256b870fee33ab/js/lib/fn-sync-telemetry-min.js
+[javascript] - https://www.paypalobjects.com/web/res/d25/c07bd5047b819d2256b870fee33ab/js/lib/modernizr-2.6.1.js
+[javascript] - https://www.paypalobjects.com/web/res/d25/c07bd5047b819d2256b870fee33ab/js/signin-split.js
+[javascript] - https://zettleintegrations.paypal.com:443/auth/createchallenge/a416a05725f6c343/recaptchav3.js?_sessionID=Szjq5ouPBbkMtiKGnR7CLkWAEAOPlaNf
+[url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=79fec4c6-02f0-1459-2f07-4c21a9c98d78&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=xoom.com&nonce=637941086681433525.94c33ddb-8bcc-4386-a4e8-c2c19d99abd6&state=DcsxDsIwDEDRBK6C2NI2deraQ8VZEjsDEpGlFgrHJ8P72_fOuWt36fzU41aElVOcCJFiAljmZeAkAKolUBEJCQhDTpWCzBJZmXNR9P29jfbN42Ov-dW2n1kbxNr91C1_3qbPQ-ys-x8
+[url] - [code-400] - http://checkout.paypal.com:443
+[url] - [code-400] - http://manager.paypal.com:443

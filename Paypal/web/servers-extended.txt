@@ -42,7 +42,7 @@ http://api-s.sandbox.paypal.com:80 ["Bargeldloses Bezahlen - Online Shopping | P
 http://api-v2.sandbox.paypal.com:80 [null] [404] [1364] ["text/xml"] ["173.0.93.199"] ["https://api-v2.sandbox.paypal.com/"] [null] [null] [];
 http://api.financing.paypal.com:80 ["403 Forbidden"] [403] [209] ["text/html"] ["208.76.140.188"] ["https://api.financing.paypal.com/"] ["Apache"] [["Apache"]] [];
 http://api.glb.paypal.com:80 [null] [404] [1364] ["text/xml"] ["173.0.84.66"] ["https://api.glb.paypal.com/"] [null] [null] [];
-http://api.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.84.66"] [null] [null] [null] [];
+http://api.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.84.66"] [null] [null] [null] [];
 http://api.paypal.com:80 ["406 Not Acceptable"] [406] [558] ["text/html"] ["173.0.84.66"] ["https://api.paypal.com/"] [null] [null] [];
 http://api.sandbox.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.199"] [null] [null] [null] [];
 http://api.sandbox.glb.paypal.com:80 ["Digital Wallets, Money Management, and More | PayPal US | PayPal US"] [200] [200776] ["text/html"] ["173.0.93.199"] ["https://api.sandbox.glb.paypal.com/us/home"] [null] [null] [];
@@ -72,6 +72,7 @@ http://c6.paypal.com:80 [null] [404] [null] [null] ["151.101.1.35"] ["https://c6
 http://ccg12-origin-api-1.paypal.com:80 [null] [404] [1364] ["text/xml"] ["173.0.88.66"] ["https://ccg12-origin-api-1.paypal.com/"] [null] [null] [];
 http://checkout.glb.paypal.com:443 ["ERROR: The request could not be satisfied"] [400] [915] ["text/html"] ["99.84.191.2"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
 http://checkout.glb.paypal.com:80 ["ERROR: The request could not be satisfied"] [403] [915] ["text/html"] ["99.84.191.2"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
+http://checkout.paypal.com:443 ["ERROR: The request could not be satisfied"] [400] [915] ["text/html"] ["143.204.111.42"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
 http://checkout.paypal.com:80 ["ERROR: The request could not be satisfied"] [403] [915] ["text/html"] ["143.204.237.102"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
 http://click.emails.paypal.com:80 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.110.199.75"] ["https://click.emails.paypal.com/"] [null] [null] [];
 http://click.messages.xoom.com:80 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.111.45.1"] [null] [null] [null] [];
@@ -133,7 +134,7 @@ http://manager-edgemigration.payflow.edge.paypal.com:443 ["400 The plain HTTP re
 http://manager-edgemigration.payflow.edge.paypal.com:80 ["Send Money, Pay Online or Set Up a Merchant Account - PayPal"] [200] [130871] ["text/html"] ["173.0.93.189"] ["https://manager-edgemigration.payflow.edge.paypal.com/us/home"] ["nginx"] [["Nginx","React"]] [];
 http://manager-migration.payflow.edge.paypal.com:80 [null] [301] [null] [null] ["66.211.171.182"] [null] [null] [null] [];
 http://manager.payflow.edge.paypal.com:80 [null] [301] [null] [null] ["66.211.171.182"] [null] [null] [null] [];
-http://manager.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.189"] [null] [null] [null] [];
+http://manager.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.189"] [null] [null] [null] [];
 http://manager.paypal.com:80 ["PayPal Manager"] [200] [79396] ["text/html"] ["173.0.93.189"] ["https://manager.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://messages.xoom.com:80 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.111.44.1"] [null] [null] [null] [];
 http://misc-redirect.paypal.com:80 [null] [403] [null] [null] ["66.211.168.148"] ["https://misc-redirect.paypal.com/"] ["BigIP"] [["F5 BigIP"]] [];
@@ -169,7 +170,7 @@ http://partner-monitoring.paypal.com:80 ["404 Not Found"] [404] [277] ["text/htm
 http://partner-monitoring.paypal.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["35.190.0.194"] [null] [null] [null] [];
 http://partner.xoom.com:80 ["Send Money Online | Xoom, a PayPal Service"] [200] [55496] ["text/html"] ["151.101.193.21"] ["https://partner.xoom.com/"] [null] [["Contentful","Envoy","Varnish"]] [];
 http://partnermanager-migration.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.188"] [null] [null] [null] [];
-http://partnermanager-migration.glb.paypal.com:80 ["Digital Wallets, Money Management, and More | PayPal US | PayPal US"] [200] [199082] ["text/html"] ["173.0.93.189"] ["https://partnermanager-migration.glb.paypal.com/us/home"] ["nginx"] [["Nginx"]] [];
+http://partnermanager-migration.glb.paypal.com:80 [null] [200] [6885] ["text/html"] ["173.0.93.135"] ["https://partnermanager-migration.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://partnermanager.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.214"] [null] [null] [null] [];
 http://partnermanager.paypal.com:80 ["PayPal Partner Manager"] [200] [61799] ["text/html"] ["173.0.93.189"] ["https://partnermanager.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://payflowlink-edgemigration.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.188"] [null] [null] [null] [];
@@ -178,7 +179,7 @@ http://payflowlink-edgemigration.payflow.edge.paypal.com:80 [null] [200] [6887] 
 http://payflowlink-migration.payflow.edge.paypal.com:80 [null] [200] [6883] ["text/html"] ["173.0.93.189"] ["https://payflowlink-migration.payflow.edge.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://payflowlink.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.189"] [null] [null] [null] [];
 http://payflowlink.paypal.com:80 ["Payflow Link"] [200] [1661] ["text/html"] ["173.0.93.189"] ["https://payflowlink.paypal.com/"] ["nginx"] [["Nginx"]] [];
-http://payflowpro-edgemigration.payflow.edge.paypal.com:80 [null] [200] [6883] ["text/html"] ["173.0.93.143"] ["https://payflowpro-edgemigration.payflow.edge.paypal.com/"] ["nginx"] [["Nginx"]] [];
+http://payflowpro-edgemigration.payflow.edge.paypal.com:80 [null] [200] [6883] ["text/html"] ["173.0.93.140"] ["https://payflowpro-edgemigration.payflow.edge.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://payflowpro-migration.payflow.edge.paypal.com:80 [null] [200] [6891] ["text/html"] ["173.0.93.140"] ["https://payflowpro-migration.payflow.edge.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://payflowpro.glb.paypal.com:80 [null] [200] [6889] ["text/html"] ["173.0.93.143"] ["https://payflowpro.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://payflowpro.paypal.com:80 [null] [404] [64] ["text/plain"] ["173.0.93.140"] ["https://payflowpro.paypal.com/"] ["nginx"] [["Nginx"]] [];
