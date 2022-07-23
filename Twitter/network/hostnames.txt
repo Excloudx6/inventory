@@ -367,6 +367,7 @@
 2018-api-astudyinpixels.vpn.twttr.com
 2018-api-berry.vpn.twttr.com
 2018-api-beta.semantic-lab.vpn.twttr.com
+2018-api-bucketbeta.alphaaafes.vpn.twttr.com
 2018-api-debug-api.staging.vpn.twttr.com
 2018-api.accountaccountaccessaccount-alphaupload.staging.vpn.twttr.com
 2018-api.admin.admin-atlc-lab.vpn.twttr.com
@@ -1124,6 +1125,7 @@
 2018adminadmin.bucket.admin.atlc-lab.vpn.twttr.com
 2018adminalpha.bc.vpn.twttr.com
 2018adminbloggerpeer.vpn.twttr.com
+2018adminbucket.berry.vpn.twttr.com
 2018admininternal.atlc-lab.vpn.twttr.com
 2018ads-bidder-api-sandbox6.vpn.twttr.com
 2018advisories.vpn.twttr.com
@@ -2478,6 +2480,7 @@
 2020-auth-alpha.bucket.admin.atlc-lab.vpn.twttr.com
 2020-auth-escalate-lab.vpn.twttr.com
 2020-auth.abc.vpn.twttr.com
+2020-auth.berry.vpn.twttr.com
 2020-auth.config.ap.vpn.twttr.com
 2020-authapiatlc-lab.vpn.twttr.com
 2020-authconfluenceadmin.atlc-lab.vpn.twttr.com
@@ -2712,6 +2715,7 @@
 2020.accountapi.alpha-beta.config.staging.vpn.twttr.com
 2020.accountapiupload.staging.vpn.twttr.com
 2020.accountauctions.vpn.twttr.com
+2020.accountauthaccount.admin.chef.auth.berry.vpn.twttr.com
 2020.accountbackup.obv-smf1.vpn.twttr.com
 2020.accountbeta.staging.vpn.twttr.com
 2020.accountbjori.vpn.twttr.com
@@ -3674,6 +3678,7 @@
 2021.another.vpn.twttr.com
 2021.apachaves.vpn.twttr.com
 2021.api-45-0-0.vpn.twttr.com
+2021.api-adminbucket.berry.vpn.twttr.com
 2021.api-api-beta.semantic-lab.vpn.twttr.com
 2021.api-api.chef.mikepenzin.vpn.twttr.com
 2021.api-atlc-lab.vpn.twttr.com
@@ -4737,6 +4742,7 @@ accessaccount.admin-admin.alphaupload.staging.vpn.twttr.com
 accessaccount.admin-alphaapi.demo.staging.vpn.twttr.com
 accessaccount.admin.access-api.demo.staging.vpn.twttr.com
 accessaccount.always.vpn.twttr.com
+accessaccount.api.accessalpha-adultmensestheosaka.blog.vpn.twttr.com
 accessaccount.auf.vpn.twttr.com
 accessaccount.auth.account.beta.config.staging.vpn.twttr.com
 accessaccount.betabrandsafety.vpn.twttr.com
@@ -5128,6 +5134,7 @@ account.accessaccount.access-api.demo.staging.vpn.twttr.com
 account.accessaccount.accessaccount.access-api.demo.staging.vpn.twttr.com
 account.accessaccount.accountapi-39-4-3-39-4-5.vpn.twttr.com
 account.accessadmin-alpha.answering.vpn.twttr.com
+account.accessadmin-betabackup-aafes.vpn.twttr.com
 account.accessadminbucketaccessadmininternal.atlc-lab.vpn.twttr.com
 account.accessalpha-adultmensestheosaka.blog.vpn.twttr.com
 account.accessalpha.apiapiadmin.alphaupload.staging.vpn.twttr.com
@@ -5226,6 +5233,7 @@ account.adminadmin-alexandra.vpn.twttr.com
 account.adminalphaaccessbeta.confluenceadmin.atlc-lab.vpn.twttr.com
 account.adminalphaupload.staging.vpn.twttr.com
 account.adminapi-astudyinpixels.vpn.twttr.com
+account.adminapi-berry.vpn.twttr.com
 account.adminauth.accessaccess.alphaatlc-lab.vpn.twttr.com
 account.adminbucketaccessadmininternal.atlc-lab.vpn.twttr.com
 account.aghaahmadi.vpn.twttr.com
@@ -5400,6 +5408,7 @@ accountaccountaccess-account.adminaccess-admin-admin.alpha-escalate.vpn.twttr.co
 accountaccountaccess.alpha-cristbrian.vpn.twttr.com
 accountaccountaccessaccount-alphaupload.staging.vpn.twttr.com
 accountaccountaccount.admin-admin.confluencecristbrian.vpn.twttr.com
+accountaccountaccountchefchefatlc-lab.vpn.twttr.com
 accountaccountalphaatlc-lab.vpn.twttr.com
 accountaccountant.vpn.twttr.com
 accountaccountbeta.staging.vpn.twttr.com
@@ -6086,6 +6095,7 @@ adminapi.admin-admin.demo.semantic-lab.vpn.twttr.com
 adminapi.ags.vpn.twttr.com
 adminapi.alphaadmin.api.confluenceadmin.atlc-lab.vpn.twttr.com
 adminapi.staging.vpn.twttr.com
+adminapiaccountadminalpha.access.chefatlc-lab.vpn.twttr.com
 adminapiadminalpha-2021.cv-hussamalqaza.vpn.twttr.com
 adminatlc-lab.vpn.twttr.com
 adminauth-account.alpha-apibeta.semantic-lab.vpn.twttr.com
@@ -6472,6 +6482,7 @@ alpha-alphaaccess-admin.alpha-access.adminap.vpn.twttr.com
 alpha-alphaalphastaging.vpn.twttr.com
 alpha-alphaapi.demo.staging.vpn.twttr.com
 alpha-ap.vpn.twttr.com
+alpha-api-account-account-chef-api.confluence.adultmensestheosaka.blog.vpn.twttr.com
 alpha-api.debug.obv-atla.vpn.twttr.com
 alpha-apibeta.semantic-lab.vpn.twttr.com
 alpha-atlc-lab.vpn.twttr.com
@@ -6626,6 +6637,7 @@ alpha.adminaccess.allspaw.vpn.twttr.com
 alpha.adminaccessaccess.alphaatlc-lab.vpn.twttr.com
 alpha.adminalpha-betaalphaaccount-confluence.account-beta.backup.obv-smf1.vpn.twttr.com
 alpha.adminalpha.access.chefatlc-lab.vpn.twttr.com
+alpha.adminbackupconfluencebeta.chef.auth.berry.vpn.twttr.com
 alpha.adminbloggerpeer.vpn.twttr.com
 alpha.adoption.vpn.twttr.com
 alpha.aggregated.vpn.twttr.com
@@ -6808,6 +6820,7 @@ alphaassignees.vpn.twttr.com
 alphaatlc-lab.vpn.twttr.com
 alphaauth-account-account-chef-api.confluence.adultmensestheosaka.blog.vpn.twttr.com
 alphaauth-account.adminaccessaccess.alphaatlc-lab.vpn.twttr.com
+alphaauth.account.admin.chef.auth.berry.vpn.twttr.com
 alphaavaughan89.vpn.twttr.com
 alphaawm.vpn.twttr.com
 alphabackup-access.authbloggerpeer.vpn.twttr.com
@@ -7011,6 +7024,7 @@ api-32-0-0-32-5-2.twitter.com
 api-32-0-0-32-5-3.twitter.com
 api-32-0-0-32-6-1.twitter.com
 api-32-0-0-32-6-2.twitter.com
+api-32-0-0-32-6-3.TWiTTER.com
 api-32-0-0-32-6-3.twitter.COm
 api-32-0-0-32-6-3.twitter.com
 api-32-0-0-32-6-4.twitter.com
@@ -7190,6 +7204,7 @@ api-accountadmin-account-admin.asw2.vpn.twttr.com
 api-accountadvance.vpn.twttr.com
 api-accountandroidlovepro.vpn.twttr.com
 api-actions.vpn.twttr.com
+api-actor-chileno.vpn.twttr.com
 api-adapts.vpn.twttr.com
 api-admin-access-api.demo.staging.vpn.twttr.com
 api-admin-access.auf.vpn.twttr.com
@@ -7217,6 +7232,7 @@ api-alpha-access-accountbeta-alphaupload.staging.vpn.twttr.com
 api-alpha-access.adminap.vpn.twttr.com
 api-alpha-accessadmin.demo.semantic-lab.vpn.twttr.com
 api-alpha-accountchefatlc-lab.vpn.twttr.com
+api-alpha-alpha.account.admin.backup.admin.chef.auth.berry.vpn.twttr.com
 api-alpha-beta.backup.aafes.vpn.twttr.com
 api-alpha.access.chefatlc-lab.vpn.twttr.com
 api-alpha.staging.vpn.twttr.com
@@ -8134,6 +8150,7 @@ backup-allgemein.vpn.twttr.com
 backup-allowing.vpn.twttr.com
 backup-alpha-account.always.vpn.twttr.com
 backup-alpha-accountbeta.staging.vpn.twttr.com
+backup-alpha-alpha.account.admin.backup.admin.chef.auth.berry.vpn.twttr.com
 backup-alpha.a2.vpn.twttr.com
 backup-alpha.access.authbloggerpeer.vpn.twttr.com
 backup-alpha.account.admin.accountconfluence.obv-smf1.vpn.twttr.com
@@ -8627,6 +8644,7 @@ beta.account.access.admin-access-api.demo.staging.vpn.twttr.com
 beta.account.admin-alphaapi.demo.staging.vpn.twttr.com
 beta.account.admin.atlc-lab.vpn.twttr.com
 beta.account.alessiogennari.vpn.twttr.com
+beta.account.backupbackup.staging.vpn.twttr.com
 beta.account.brandsafety.vpn.twttr.com
 beta.accountaccountalphaatlc-lab.vpn.twttr.com
 beta.accountadmin.adoption.vpn.twttr.com
@@ -8676,6 +8694,7 @@ beta.alphaalpha.demo.semantic-lab.vpn.twttr.com
 beta.alphaatlc-lab.vpn.twttr.com
 beta.always.vpn.twttr.com
 beta.api-alpha.access.chefatlc-lab.vpn.twttr.com
+beta.api-alpha.staging.vpn.twttr.com
 beta.api.account.auf.vpn.twttr.com
 beta.api.admin-adminalpha-access.adminap.vpn.twttr.com
 beta.apiaccount-betabrandsafety.vpn.twttr.com
@@ -16729,6 +16748,7 @@ prod-text-classification.pscp.tv
 prod-text-classification.vpn.twttr.com
 prod-thumbnail-small.pscp.tv
 prod-thumbnail.pscp.tv
+prod-transcode-ap-northeast-2.PeRIScope.tv
 prod-transcode-ap-northeast-2.periscope.tv
 prod-transcode-ap-northeast-2.pscp.tv
 prod-transcode-ap-south-1.periscope.tv
