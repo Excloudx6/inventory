@@ -13397,13 +13397,17 @@
 /metrics/v2?
 /minis
 /minis-1fd
+/minis-8e2
 /minis-a26
 /minis-c97
 /minis-d40
 /minis-f64
 /minis-f74
 /minis/
+/minis/-a11
 /minis/:app
+/minis/community
+/minis/community-d27
 /minis/developer-portal/build-assets
 /minis/developer-portal/build-assets-8f2
 /minis/developer-portal/cli-overview
@@ -13428,6 +13432,8 @@
 /minis/getting-started/home-a21
 /minis/getting-started/initializing-the-sdk
 /minis/getting-started/initializing-the-sdk-ebd
+/minis/getting-started/overview
+/minis/getting-started/overview-0cc
 /minis/getting-started/quick-start
 /minis/getting-started/quick-start-bbb
 /minis/getting-started/real-time-testing
@@ -35474,6 +35480,7 @@ generator/static/waitingAnimation.svg
 getting-started/debugging
 getting-started/home
 getting-started/initializing-the-sdk
+getting-started/overview
 getting-started/quick-start
 getting-started/real-time-testing
 getting-started/setting-up
@@ -39891,6 +39898,7 @@ sha384-fUpAe213KLDZP4hKeNHtLRWx3Gik8J3q84PnmU6eLRq9e58nhQtqFyrXM/GEWxcm
 sha384-fXNEXviSVt7QtpxJgaAHMLOjmG0c2PiYJ3AnuTpyZMUYFmNzQiA/7/kreGZfMSqu
 sha384-fccTQgvrwR6FzdIyZN4nD/Aj7UIMOKdpRfavrikFdrey6Lw9lswZEb31xQHlUSmi
 sha384-fn88uNegSWkbvFFuPxN3f/uzri/BV20AWuHwryIWizPszrd6dbiABLm7durytGs1
+sha384-fpvpStpgkgdUbiOp4oDNMS6Zjda7X4xtuRIMPC08MAPPo/odXbeFYKwK6rCxSazN
 sha384-frT035AQFCThoCgbfUxPxA/7JhjDt/QuqHme9J2sV4SBqJVUfdnrDotLizUKgiwt
 sha384-fuTaCiHpLcFMKTOuhBdCQoBazmQiRfjvdB0c/63n6GkkWbD/uW3knPlrJ1odJgp5
 sha384-fzvItr/tAer//1XqnNwceEXcymMuFue1JuqWp797P/oviQgNvjmlApWhnWnb5f9Z

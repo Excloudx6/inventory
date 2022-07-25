@@ -14,8 +14,10 @@ googleads.g.doubleclick.net
 http://amp.akamaized.net
 http://amplifypixel.outbrain.com
 http://apis.google.com/
+http://images.ctfassets.net
 http://snapchat.force.com
 http://tr.outbrain.com
+http://videos.ctfassets.net
 http://www.google-analytics.com
 http://www.google.com/
 http://www.gstatic.com/
@@ -103,6 +105,7 @@ https://cdn.segment.com
 https://cdn.shopify.com
 https://cdn.taboola.com
 https://cdn2.shopify.com
+https://cds.taboola.com
 https://cf-st.sc-cdn.net
 https://chat-am-integration.storage.googleapis.com
 https://checkout.paypal.com
@@ -285,7 +288,9 @@ https://t.co
 https://t.paypal.com
 https://tagmanager.google.com
 https://tpc.googlesyndication.com
+https://tr.outbrain.com/
 https://tr.snapchat.com
+https://trc-events.taboola.com
 https://trc.taboola.com
 https://unlockables-highlight-reel-dot-usedbubblegum.appspot.com
 https://unlockables-odg-templates.storage.googleapis.com
