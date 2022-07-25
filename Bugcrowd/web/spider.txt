@@ -1290,3 +1290,6 @@
 [subdomains] - https://ww1.bugcrowd.com
 [href] - https://www.bugcrowd.com/resources/report/your-guide-to-hacking-with-bugcrowd-and-why-you-should-get-started-today/
 [javascript] - https://assetinventory.bugcrowd.com:443/user/parameters.js?prevent_caching=0.27295751069630714
+[href] - https://assets.bugcrowdusercontent.com/packs/css/application-52a95c88.css
+[javascript] - https://assetinventory.bugcrowd.com:443/user/parameters.js?prevent_caching=0.59546975668478
+[javascript] - https://assets.bugcrowdusercontent.com/packs/js/application-fd9af1f320b9996b92c7.js
