@@ -15578,6 +15578,7 @@ baccess.stage.att.com
 backup-accessaccess-adminadmin-backup.gsw1.voicetone.att.com
 backup.gsw1.voicetone.att.com
 backup360client.att.com
+backupaccess-account-access-adminadmin-backup.gsw1.voicetone.att.com
 backupelasticbeanstalk.cat1gsw.voicetone.att.com
 baegbmeeting.att.com
 baemeeting.att.com
@@ -15625,6 +15626,7 @@ bellcaiotgw.att.com
 benchmark.uc.att.com
 best-az.test.att.com
 beta-admin-backup.gsw1.voicetone.att.com
+beta-adminadmin-backup.gsw1.voicetone.att.com
 beta-backupelasticbeanstalk.cat1gsw.voicetone.att.com
 beta-cis.att.com
 beta-www.att.com
@@ -15876,6 +15878,7 @@ chclm.att.com
 chclm.stage.att.com
 chclm.test.att.com
 chcssd3.uccentral.att.com
+chef-access-adminadmin-backup.gsw1.voicetone.att.com
 chef.cat1gsw.voicetone.att.com
 chi.att.com
 chinese.att.com
@@ -16027,6 +16030,7 @@ conferencecenter.uc.att.com
 confhpa.att.com
 config-admin-admin.cat1gsw.voicetone.att.com
 config-admin-backup.gsw1.voicetone.att.com
+configadminadmin-backup.gsw1.voicetone.att.com
 confluence.iqidev.labs.att.com
 confluenceapiadmin-backup.gsw1.voicetone.att.com
 confssp.att.com
@@ -16324,6 +16328,7 @@ demo-admin-backup.gsw1.voicetone.att.com
 demo-backupelasticbeanstalk.cat1gsw.voicetone.att.com
 demo.gsw1.voicetone.att.com
 demoaccountadminadmin-backup.gsw1.voicetone.att.com
+demoadminadmin-backup.gsw1.voicetone.att.com
 derby.uc.att.com
 designthinking.att.com
 detroitms.uc.att.com
@@ -16921,6 +16926,7 @@ estore.att.com
 esupport.att.com
 esupstage.att.com
 esystems.att.com
+ethernet-reports-prod-eastus2.az.cloud.att.com
 ethernet-reports-test-eastus2.cloud.att.com
 etrak-train.att.com
 etrak.att.com
@@ -31757,6 +31763,7 @@ lsu.uccentral.att.com
 lte.att.com
 lte.test.att.com
 lwapremier-b2b-aln.wireless.att.com
+lwapremier-b2b-bth.wireless.Att.com
 lwapremier-b2b-bth.wireless.att.com
 lwapremier.wireless.att.com
 lwm2m.dm.iot.att.com
@@ -33105,6 +33112,7 @@ pre-www.synaptic.att.com
 pre-www.wireless.att.com
 pre.att.com
 preferences.cat1gsw.voicetone.att.com
+preferencesaccount-access-adminadmin-backup.gsw1.voicetone.att.com
 premier-da.att.COm
 premier-da.att.com
 premier-sf.att.com
@@ -34230,6 +34238,7 @@ tusupport.att.com
 tutechservices.att.com
 tutkb.att.com
 tutrainenv.att.com
+tutrainenvdev.att.com
 tuvcpagebuilder.att.com
 tuvtuhub.att.com
 tuxr.att.com

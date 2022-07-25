@@ -260,6 +260,7 @@ http://ava.att.com:8080
 http://awoc.att.com:80
 http://awoc.att.com:8080
 http://b2breviews.wireless.att.com:80
+http://baemeeting.att.com:443
 http://bargaining.att.com:80
 http://bbtcpe1.att.com:80
 http://bbtcpe2.att.com:80
@@ -287,6 +288,7 @@ http://believelosangeles.att.com:443
 http://believelosangeles.att.com:8080
 http://believelosangeles.att.com:8443
 http://believeneworleans.att.com:80
+http://believeneworleans.att.com:8080
 http://believeneworleans.att.com:8443
 http://beta-www.att.com:80
 http://betam.att.com:80
@@ -703,6 +705,7 @@ http://esp.att.com:8080
 http://espanol.att.com:80
 http://estore.att.com:80
 http://esupport.att.com:80
+http://ethernet-reports-prod-eastus2.az.cloud.att.com:80
 http://ethernet-reports-test-eastus2.cloud.att.com:443
 http://ethernet-reports-test-eastus2.cloud.att.com:80
 http://etsa.att.com:80
@@ -1072,6 +1075,7 @@ http://mississippi.att.com:80
 http://mississippi.att.com:8080
 http://mississippi.att.com:8443
 http://missouri.att.com:80
+http://missouri.att.com:8080
 http://missouri.att.com:8443
 http://mn.att.com:80
 http://mn.att.com:8080
@@ -1313,6 +1317,7 @@ http://newmexico.att.com:80
 http://newmexico.att.com:8443
 http://newyork.att.com:443
 http://newyork.att.com:80
+http://newyork.att.com:8080
 http://newyork.att.com:8443
 http://nextgems.att.com:80
 http://northcarolina.att.com:443
@@ -1426,6 +1431,7 @@ http://osstoolbar-sat1.att.com:80
 http://osstoolbar.att.com:80
 http://otstest1.att.com:80
 http://ourlivingroom.att.com:443
+http://oxygen-nprd.att.com:80
 http://oxygen.att.com:80
 http://p0-hywdcsidmaccess.att.com:80
 http://p0-hywdcsidmgate.att.com:80
@@ -1936,6 +1942,7 @@ http://telephones.att.com:80
 http://tennessee.att.com:80
 http://tennessee.att.com:8080
 http://tennessee.att.com:8443
+http://test-alcs.att.com:80
 http://test-appcontrol.firstnet.att.com:80
 http://test-apps.firstnet.att.com:80
 http://test-atttv-shopauth.att.com:80
@@ -3796,6 +3803,7 @@ https://espanol.att.com:443
 https://espcare.att.com:443
 https://estore.att.com:443
 https://esupport.att.com:443
+https://ethernet-reports-prod-eastus2.az.cloud.att.com:443
 https://ethernet-reports-test-eastus2.cloud.att.com:443
 https://etsa.att.com:443
 https://euam.bus.att.com:443
@@ -4083,6 +4091,7 @@ https://in.flow.cloud.att.com:8443
 https://incmgt-uat.stage.att.com:443
 https://incmgt.stage.att.com:443
 https://indiana.att.com:443
+https://indiana.att.com:8443
 https://inf.att.com:443
 https://info.att.com:443
 https://info.cloud.att.COm:443
@@ -4233,6 +4242,7 @@ https://mapw.eia.att.com:443
 https://mapwrapper.bus.att.com:443
 https://marketplace.att.com:443
 https://marketplace.iot.att.com:443
+https://marriottmeeting.att.com:443
 https://maryland.AtT.com:443
 https://maryland.att.com:443
 https://massachusetts.att.com:443
@@ -4524,6 +4534,7 @@ https://myfleetlabor.att.com:443
 https://myhomenetwork.att.com:443
 https://mymdp.att.com:443
 https://mynews.att.com:443
+https://mynotifications.cloud.att.com:8443
 https://mypac.att.COm:443
 https://mypac.att.com:443
 https://myprice.att.com:443
@@ -4699,6 +4710,7 @@ https://otstest1.att.com:443
 https://ottappsmx.att.com:443
 https://ourlivingroom.att.com:443
 https://ous.att.com:443
+https://oxygen-nprd.att.com:443
 https://oxygen.att.com:443
 https://p0-bhmcsidmaccess.att.com:443
 https://p0-bhmcsidmgate.att.com:443
@@ -5173,6 +5185,7 @@ https://srvcmss.att.com:443
 https://ssaf.att.com:443
 https://sskb.att.com:443
 https://ssl.pltx.dvl.labs.att.com:443
+https://ssm-test.az.cloud.att.com:443
 https://sspdev.test.att.com:443
 https://ssplarge.test.att.com:443
 https://sspsmall.test.att.com:443
@@ -5280,6 +5293,7 @@ https://teleconference.att.com:443
 https://teleconference.uc.att.com:443
 https://telephones.att.com:80
 https://tennessee.att.com:443
+https://test-alcs.att.com:443
 https://test-appcontrol.firstnet.att.com:443
 https://test-apps.firstnet.att.com:443
 https://test-atttv-shopauth.att.com:443
@@ -5382,6 +5396,7 @@ https://tusupport.att.com:443
 https://tutechservices.att.com:443
 https://tutkb.att.com:443
 https://tutrainenv.att.com:443
+https://tutrainenvdev.att.com:443
 https://tuvcpagebuilder.att.com:443
 https://tuxr.att.com:443
 https://tvideo.att.com:443
