@@ -10560,6 +10560,12 @@
 /veriff/
 /verifyage
 /verifycode
+/verifydevice/code
+/verifydevice/network
+/verifydevice/scan
+/verifydevice/start
+/verifydevice/success
+/verifydevice/tryagain
 /verifyidentity
 /verifymembercode
 /verifyphone
@@ -12618,6 +12624,7 @@ login/page-component
 logout/page-component
 lrPs/oSY31fo2IT9cpKXtJCR
 m/d/yy
+mCo6KWHGJws7WLwAz/LCtx8v
 major/versions
 mce-no/type
 menuTemplate.html
