@@ -3,6 +3,7 @@ http://akamai-apigateway-automation-billing.tesla.com:80
 http://akamai-apigateway-automation.tesla.com:80
 http://akamai-apigateway-bender.tesla.com:80
 http://akamai-apigateway-captiveunderwriting.tesla.com:80
+http://akamai-apigateway-charging-ownership.tesla.com:80
 http://akamai-apigateway-deliveryopsapi.tesla.com:80
 http://akamai-apigateway-deliveryopsapi1.tesla.com:80
 http://akamai-apigateway-deliveryopsvitu.tesla.com:80
@@ -285,6 +286,7 @@ https://akamai-apigateway-automation-billing.tesla.com:443
 https://akamai-apigateway-automation.tesla.com:443
 https://akamai-apigateway-bender.tesla.com:443
 https://akamai-apigateway-captiveunderwriting.tesla.com:443
+https://akamai-apigateway-charging-ownership.tesla.com:443
 https://akamai-apigateway-deliveryopsapi.tesla.com:443
 https://akamai-apigateway-deliveryopsapi1.tesla.com:443
 https://akamai-apigateway-deliveryopsvitu.tesla.com:443

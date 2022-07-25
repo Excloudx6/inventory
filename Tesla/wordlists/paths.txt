@@ -6591,6 +6591,7 @@
 /about/legal
 /about?redirect=no
 /accept
+/accessdenied
 /accessrequest
 /account
 /account/
@@ -6707,6 +6708,7 @@
 /api/embed/error-page/?
 /api/experiences
 /api/experiences/
+/api/featureFlag
 /api/features/getEnabledApps
 /api/features/isFeatureEnabled
 /api/flags
@@ -6723,6 +6725,7 @@
 /api/invitations
 /api/invitations/bulk
 /api/invoices
+/api/launchDarkly
 /api/leadForm
 /api/leadForm?lang=
 /api/legislator_messages/
@@ -7163,6 +7166,7 @@
 /app/src/plugins/toolbox-dashboards/src/components/pane/View.jsx
 /app/src/plugins/toolbox-dashboards/src/middlewares/app.jsx
 /app/src/plugins/toolbox-datatank/src/actions/api.jsx
+/app/src/plugins/toolbox-datatank/src/components/CurrentSessionItem.jsx
 /app/src/plugins/toolbox-datatank/src/components/ProductItem.jsx
 /app/src/plugins/toolbox-datatank/src/components/ProductSelect.jsx
 /app/src/plugins/toolbox-help/src/actions/faq.jsx
@@ -7183,11 +7187,13 @@
 /app/src/plugins/toolbox-odin/src/components/alerts/ActiveAlerts.jsx
 /app/src/plugins/toolbox-odin/src/components/alerts/AlertsList.jsx
 /app/src/plugins/toolbox-odin/src/components/commands/ConnectorsModal.jsx
+/app/src/plugins/toolbox-odin/src/components/commands/Form.jsx
 /app/src/plugins/toolbox-odin/src/components/commands/Interactive.jsx
 /app/src/plugins/toolbox-odin/src/components/commands/Item.jsx
 /app/src/plugins/toolbox-odin/src/components/commands/Modal.jsx
 /app/src/plugins/toolbox-odin/src/components/commands/Result.jsx
 /app/src/plugins/toolbox-odin/src/components/commands/ServiceModePlusButton.jsx
+/app/src/plugins/toolbox-odin/src/components/commands/ServiceOutput.jsx
 /app/src/plugins/toolbox-odin/src/components/commands/VehicleChecks.jsx
 /app/src/plugins/toolbox-odin/src/components/connection/Connect.jsx
 /app/src/plugins/toolbox-odin/src/components/connection/ConnectPage.jsx
@@ -7257,6 +7263,7 @@
 /app/src/plugins/toolbox-sessions/src/components/search/SearchResultsContainer.jsx
 /app/src/plugins/toolbox-sessions/src/components/search/SessionResult.jsx
 /app/src/plugins/toolbox-sessions/src/components/search/SessionSearch.jsx
+/app/src/plugins/toolbox-sessions/src/components/search/filters/Filter.jsx
 /app/src/plugins/toolbox-sessions/src/components/search/filters/FilterContainer.jsx
 /app/src/plugins/toolbox-software/src/components/DownloadPanel.jsx
 /app/src/plugins/toolbox-software/src/components/DownloadsPage.jsx
@@ -9214,6 +9221,7 @@
 /cancellation/v2
 /candidate-dashboard/home
 /candidate-dashboard/profile
+/candidate-profile
 /candidate-profile/
 /captchaText
 /car-access?vin=
@@ -9313,6 +9321,7 @@
 /channels/search
 /channels/search_archived
 /channels/search_autocomplete
+/chargers/:sectionName/:accountId
 /chargers/:sectionName/:accountId/:siteId?
 /charging-history
 /charging-reports
@@ -9599,6 +9608,7 @@
 /energy/getnotifications
 /energy/getsites
 /energy/removedocument
+/energy/updateconcern
 /engine
 /enroll/:stage
 /enroll/:stage/:step
@@ -9676,6 +9686,7 @@
 /firmware
 /firmware/jobs/
 /firmware/packages/
+/fleets/:sectionName/:accountId
 /fleets/:sectionName/:accountId/:vin?
 /fleets/vehicle-info/
 /follow?portalId=
@@ -10101,6 +10112,7 @@
 /parts/inventoriedsupersession
 /parts/orderparts
 /parts/partinventory
+/parts/pdcsearch
 /parts/pickreturn
 /parts/prnremovepart
 /parts/search
@@ -10174,6 +10186,7 @@
 /policies
 /policies/
 /policy
+/policy/audiences
 /poline
 /polyfill-4059eed83f390fcd1c8c.js
 /portal
@@ -12657,6 +12670,7 @@ UserDocument/UploadUserIdentificationDocuments
 UserDocument/downloadDocDescriptionInstruction?documentID=
 Users/GetUserDetails
 View/Edit
+Visa/Type
 W/Fitz1L
 Widow/Widower
 X/w5sRDu
@@ -13631,6 +13645,7 @@ business-process-reasons/termination-reasons
 cXgi/zI4
 cache/localStorage/expired
 cache/localStorage/hit
+candidate/DownloadCandidateDoc
 candidate/GetECFormInfoWithSchemaByWorkflowExecutionID
 candidate/SubmitECWorkflowUserAction
 candidate/SubmitEligibilityCheckRequest
@@ -13677,6 +13692,7 @@ cmsprocess/audience/
 cmsprocess/audience/search
 cmsprocess/audienceBuilder/EvalAudienceCount
 cmsprocess/audienceBuilder/config
+cmsprocess/audienceBuilder/config/
 cmsprocess/audienceBuilder/evalAudienceRuleSet/
 cmsprocess/content/Dashboard
 cmsprocess/content/FeaturedImageByContentID/
@@ -14244,6 +14260,8 @@ corehrprocess/GetDynamicUIPendingEmploymentChangeRequest?employeeID=
 corehrprocess/GetEmployeeDamageCodes?countryCode=
 corehrprocess/GetEmploymentChangeStockStaging/
 corehrprocess/GetPendingEmployeeTerminations/
+corehrprocess/GetPrimaryTerminationReasonsWithEmployeeDetails
+corehrprocess/GetSecondaryTerminationReasonsWithEmployeeDetails
 corehrprocess/GetTerminationDetailsForInbox?employeeID=
 corehrprocess/GetTerminationReasons
 corehrprocess/GetTerminationReasons?employeeType=
@@ -14254,9 +14272,11 @@ corehrprocess/SubmitEmploymentChangeDataCorrection
 corehrprocess/TerminateContingentContract/
 corehrprocess/TerminateEmployee/
 corehrprocess/TerminateEmployeeTask/
+corehrprocess/TerminateSelfContract/
 corehrworkflow/DeleteUploadedDocument
 corehrworkflow/DeleteUploadedDocumentWithCustomFields
 corehrworkflow/DeleteUploadedDocumentsForReferentUser
+corehrworkflow/DeleteUploadedImmigrationDocument
 corehrworkflow/DeleteUserUploadedDocuments
 corehrworkflow/GetAllDocumentCategoryIdentificationsForCategory
 corehrworkflow/GetAllDocumentCategoryIdentificationsForCategory?countryCode=
@@ -17055,6 +17075,7 @@ employeeprocess/EmployeeDetailsByEmails
 employeeprocess/EmployeeDetailsById/
 employeeprocess/EmployeeSearch
 employeeprocess/EmployeeSearchForManager
+employeeprocess/EmployeeSearchWithPermissions
 employeeprocess/ExportEmployeeGoalToExcel
 employeeprocess/ExportMyTeamToExcel?employeeId=
 employeeprocess/GetAllManagersReportingToManager
@@ -17298,6 +17319,8 @@ headcount/CheckHiringManagerInOrg/
 headcount/DeleteHeadcountDocument
 headcount/DeleteHeadcountDocuments
 headcount/GetApprovalInboxUserTask/HeadCount?currentPage=
+headcount/GetCandidatePipelineCount
+headcount/GetCandidatesPipelineByJobcode/
 headcount/GetDocumentById
 headcount/GetDocumentById?documentId=
 headcount/GetHeadCountById/
@@ -17876,6 +17899,7 @@ orders/UpdateRequestOrder
 orders/UpdateRequestOrderNotes
 orders/ValidateAddress
 orders/ValidateMinOrderQuantity
+organizationprocess/CostCenterSearch
 organizationprocess/CostCenterSearchByCodeAndName
 organizationprocess/CostcenterSearch
 organizationprocess/CountrySearch
@@ -17997,6 +18021,7 @@ recruit/DeleteUserRecruitDocuments
 recruit/GetLinkedCandidatesWithStepCount/
 recruit/GetRecruitFormMasterData
 recruit/GetTeamMembersCount
+recruit/HiringManagerSearchWithManager
 recruit/HiringManagerSearchWithManager?SearchPattern={_autocomplete_}
 recruiting/dashboard
 redirect/addApplications
@@ -18177,6 +18202,7 @@ talent2/employee-dash
 talentprocess/AcknowledgeWarningByEmployee
 talentprocess/AcknowledgeWarningByManager
 talentprocess/CancelDisciplinaryWarning
+talentprocess/CancelPipRequest
 talentprocess/CancelTalentTask
 talentprocess/CancelTalentTask?isCancelInternPAReview=true
 talentprocess/DeclineToRate
@@ -18215,8 +18241,10 @@ talentprocess/GetLatestTalenTaskDetails/
 talentprocess/GetLatestTalentTemplateScheduleByTemplateName/CNSetRateQuarterlyReview
 talentprocess/GetPastFeedbackData/
 talentprocess/GetPerformanceFeedbackTask/
+talentprocess/GetPipInitialPublishedForm/
 talentprocess/GetPipInitiationForm/
 talentprocess/GetPipSavedUnpublishedForm/
+talentprocess/GetPipWorkerHistoryEventDetails
 talentprocess/GetPipsForCareerTab/
 talentprocess/GetQuarterlyReviewDirectManagerDistribution
 talentprocess/GetQuarterlyReviewRatingDistribution

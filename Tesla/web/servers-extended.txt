@@ -3,6 +3,7 @@ http://akamai-apigateway-automation-billing.tesla.com:80 ["Service Unavailable"]
 http://akamai-apigateway-automation.tesla.com:80 ["Service Unavailable"] [503] [269] ["text/html"] ["104.90.109.222"] ["https://akamai-apigateway-automation.tesla.com/"] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-bender.tesla.com:80 ["Service Unavailable"] [503] [269] ["text/html"] ["104.90.109.222"] ["https://akamai-apigateway-bender.tesla.com/"] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-captiveunderwriting.tesla.com:80 ["Service Unavailable"] [503] [269] ["text/html"] ["104.111.226.14"] ["https://akamai-apigateway-captiveunderwriting.tesla.com/"] ["AkamaiGHost"] [null] [];
+http://akamai-apigateway-charging-ownership.tesla.com:80 ["Service Unavailable"] [503] [267] ["text/html"] ["104.111.226.14"] ["https://akamai-apigateway-charging-ownership.tesla.com/"] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-deliveryopsapi.tesla.com:80 [null] [401] [75] ["application/problem+json"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-deliveryopsapi1.tesla.com:80 ["Service Unavailable"] [503] [268] ["text/html"] ["104.90.109.222"] ["https://akamai-apigateway-deliveryopsapi1.tesla.com/"] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-deliveryopsvitu.tesla.com:80 ["Service Unavailable"] [503] [269] ["text/html"] ["104.111.226.14"] ["https://akamai-apigateway-deliveryopsvitu.tesla.com/"] ["AkamaiGHost"] [null] [];
@@ -285,6 +286,7 @@ https://akamai-apigateway-automation-billing.tesla.com:443 ["Service Unavailable
 https://akamai-apigateway-automation.tesla.com:443 ["Service Unavailable"] [503] [269] ["text/html"] ["104.90.109.222"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-bender.tesla.com:443 ["Service Unavailable"] [503] [269] ["text/html"] ["104.90.109.222"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-captiveunderwriting.tesla.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
+https://akamai-apigateway-charging-ownership.tesla.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-deliveryopsapi.tesla.com:443 [null] [401] [75] ["application/problem+json"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-deliveryopsapi1.tesla.com:443 ["Service Unavailable"] [503] [269] ["text/html"] ["104.90.109.222"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-deliveryopsvitu.tesla.com:443 ["Service Unavailable"] [503] [269] ["text/html"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
