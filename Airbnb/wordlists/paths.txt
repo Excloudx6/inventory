@@ -2117,6 +2117,7 @@
 /backyard
 /banner
 /belgium/brussels
+/bingopdp/:subpageId?/:nestedSubpageId?
 /blur/
 /book
 /book-edition/purchase/{priceId}
@@ -2495,6 +2496,7 @@
 /index/get-async-jobs-status?format=script
 /initializers/
 /instance-initializers/
+/inthesoopbts/:subpageId?/:nestedSubpageId?
 /inventory-grid
 /invite
 /invite/:code
