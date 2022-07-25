@@ -136,6 +136,7 @@ http://atg-partners.uberinternal.com:80
 http://atg-simulation-dev.uberinternal.com:80
 http://atgmarketplace-routing-datascience.uberinternal.com:80
 http://atgmarketplace-routing-staging.uberinternal.com:80
+http://atgmarketplace-routing.UbERInTernal.com:80
 http://atgmarketplace-routing.uberinternal.com:80
 http://athena.uberinternal.com:80
 http://athenax-staging.uberinternal.com:80
@@ -243,6 +244,7 @@ http://bliss-events-stage.uber.com:80
 http://bliss-events-stage.uberinternal.com:80
 http://bliss-events.uber.com:80
 http://bliss-events.uberinternal.com:80
+http://bliss-glh.UbERInTernal.com:80
 http://bliss-glh.uberinternal.com:80
 http://bliss-independant.uberinternal.com:80
 http://bliss-stage.uberinternal.com:80
@@ -326,6 +328,7 @@ http://cap.uberinternal.com:80
 http://capacity.uberinternal.com:80
 http://caravan.uberinternal.com:80
 http://carb.uberinternal.com:80
+http://carbon.UbERInTernal.com:80
 http://carbon.uberinternal.com:80
 http://carbon.uberinternal.com:8080
 http://careers-staging.uberinternal.com:80
@@ -490,6 +493,7 @@ http://comms.uberinternal.com:80
 http://comms.uberinternal.com:8080
 http://communities.uberinternal.com:80
 http://compliance.uberinternal.com:80
+http://compute-swn-proxy-staging.UbERInTernal.com:80
 http://compute-swn-proxy-staging.uberinternal.com:80
 http://conan.uberinternal.com:80
 http://concierge.uber.com:80
@@ -676,6 +680,7 @@ http://direct.uber.com:8080
 http://direct.uberinternal.com:80
 http://dispatcher.uberinternal.com:80
 http://docapprover.uberinternal.com:80
+http://docker-all-artifacts.uberinternal.com:80
 http://docker-phx4.uberinternal.com:80
 http://docnn.uberinternal.com:80
 http://docs.uber.com:80
@@ -1830,6 +1835,7 @@ http://restaurant-staging.uberinternal.com:80
 http://restaurant.uber.com:80
 http://restaurant.uber.com:8080
 http://restaurant.uberinternal.com:80
+http://restauranthelp.uber.com:443
 http://restauranthelp.uber.com:80
 http://restaurants-staging.uberinternal.com:80
 http://restaurants.uber.com:443
@@ -2808,6 +2814,7 @@ https://bliss-events-stage.uber.com:443
 https://bliss-events-stage.uberinternal.com:443
 https://bliss-events.uber.com:443
 https://bliss-events.uberinternal.com:443
+https://bliss-glh.UbERInTernal.com:443
 https://bliss-glh.uberinternal.com:443
 https://bliss-independant.uberinternal.com:443
 https://bliss-stage.uberinternal.com:443
@@ -2880,6 +2887,7 @@ https://cap.uberinternal.com:443
 https://capacity.uberinternal.com:443
 https://caravan.uberinternal.com:443
 https://carb.uberinternal.com:443
+https://carbon.UbERInTernal.com:443
 https://carbon.uberinternal.com:443
 https://careers-staging.uberinternal.com:443
 https://careers.uber.com:443
@@ -3014,6 +3022,7 @@ https://commons.uberinternal.com:443
 https://comms.uberinternal.com:443
 https://communities.uberinternal.com:443
 https://compliance.uberinternal.com:443
+https://compute-swn-proxy-staging.UbERInTernal.com:443
 https://compute-swn-proxy-staging.uberinternal.com:443
 https://conan.uberinternal.com:443
 https://concierge.uber.com:443
@@ -3169,6 +3178,7 @@ https://direct.uber.com:443
 https://direct.uberinternal.com:443
 https://dispatcher.uberinternal.com:443
 https://docapprover.uberinternal.com:443
+https://docker-all-artifacts.uberinternal.com:443
 https://docker-phx4.uberinternal.com:443
 https://docnn.uberinternal.com:443
 https://domains.uberinternal.com:443

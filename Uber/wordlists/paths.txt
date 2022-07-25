@@ -5248,6 +5248,7 @@
 /blog/sw.js?ver=1656423286519&amp;scope=en-US
 /blog/sw.js?ver=1656423305914&amp;scope=en-US
 /blog/sw.js?ver=1656423305916&amp;scope=en-DE
+/blog/sw.js?ver=1656423305984&amp;scope=en-DE
 /blog/sw.js?ver=1656423326195&amp;scope=en-DE
 /blog/sw.js?ver=1656423326327&amp;scope=en-CA
 /blog/sw.js?ver=1656423326327&amp;scope=en-US
@@ -6649,6 +6650,8 @@
 /license/request
 /license/status
 /licenses
+/licenses/get-available-site-modules
+/licenses/update-site-modules
 /lightning\
 /limits$\
 /links
@@ -7160,6 +7163,7 @@
 /related-list/batch/\
 /releases
 /reload
+/remote-scripts
 /remove
 /removeAll
 /renewMusicToken
