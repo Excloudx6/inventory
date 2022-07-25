@@ -21610,6 +21610,9 @@
 /history?
 /hlr-subscriber-profile/wing
 /hofrhgfm4y
+/holdingContainer
+/holdingContainerSearch
+/holdingContainerSearch/
 /holiday-schedules
 /holiday-schedules/
 /holiday-schedules/new-holiday-schedule
@@ -29408,9 +29411,11 @@ cdp/filenameCheck
 cdp/getAllTags
 cdp/getBETFolders
 cdp/getPublicFolders
+cdp/getSuggestedTags
 cdp/getcoownersdetails
 cdp/getcoursestatus
 cdp/getdeliverymethod
+cdp/getfilterstatus/private
 cdp/getownersdetails
 cdp/getprimaryaddetails
 cdp/getprimaryownersdetails
@@ -29424,12 +29429,14 @@ cdp/netxcontroller/filedownload
 cdp/netxcontroller/folderdownload
 cdp/netxcontroller/getBlobByFileName
 cdp/netxcontroller/getallblobs
+cdp/netxcontroller/getallholdingcontainerblobs
 cdp/netxcontroller/listblobdetails
 cdp/netxcontroller/moveblobs
 cdp/rename
 cdp/renameFileCheck
 cdp/reportcontroller/getreporttypes
 cdp/searchBET
+cdp/updatefilterstatus
 cdp/upload/create/folder
 cdp/upload/file
 cdp/upload/zip/file

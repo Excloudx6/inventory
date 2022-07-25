@@ -137,6 +137,8 @@ http://api.dataflow.iot.att.com:80
 http://api.dataflow.iot.att.com:8443
 http://api.flow.cloud.att.com:80
 http://api.officeathand.att.com:80
+http://apiexchange-dev.att.com:80
+http://apiexchange.att.com:80
 http://apimarket.att.com:80
 http://apimarketdev.att.com:80
 http://apimarketportal.att.com:80
@@ -259,6 +261,7 @@ http://ava.att.com:80
 http://ava.att.com:8080
 http://awoc.att.com:80
 http://awoc.att.com:8080
+http://axtelmeeting.att.com:443
 http://b2breviews.wireless.att.com:80
 http://baemeeting.att.com:443
 http://bargaining.att.com:80
@@ -705,6 +708,7 @@ http://esp.att.com:8080
 http://espanol.att.com:80
 http://estore.att.com:80
 http://esupport.att.com:80
+http://ethernet-reports-prod-eastus2.az.cloud.att.com:443
 http://ethernet-reports-prod-eastus2.az.cloud.att.com:80
 http://ethernet-reports-test-eastus2.cloud.att.com:443
 http://ethernet-reports-test-eastus2.cloud.att.com:80
@@ -722,6 +726,7 @@ http://explore.att.com:80
 http://expressticketing.acsS.att.com:80
 http://expressticketing.acss.att.com:80
 http://ext-mpsys-frma-lgw.att.com:443
+http://fame.att.com:443
 http://fame.att.com:80
 http://fedgovservicestest.att.com:80
 http://fedsnowtst.stage.blogin.att.com:80
@@ -1264,6 +1269,7 @@ http://mydesktop-central06u.att.com:80
 http://mydesktop-dr01u.att.com:80
 http://mydesktop-dr02u.att.com:80
 http://mydesktop-east01u.att.com:80
+http://mydesktop-east03u.att.com:80
 http://mydesktop-east04u.att.com:80
 http://mydesktop-east05u.att.com:80
 http://mydesktop-west02u.att.com:80
@@ -1340,6 +1346,7 @@ http://oah.att.com:8080
 http://oauth-cpaas.att.com:80
 http://obt.bus.att.com:443
 http://obt.eia.att.com:443
+http://ocprd.att.com:443
 http://offers.att.COm:80
 http://offers.att.com:80
 http://offers.wireless.att.com:80
@@ -1925,6 +1932,7 @@ http://tchosted.wireless.att.com:80
 http://tdata-offers.att.com:80
 http://tdp.att.com:80
 http://tdpdev.att.com:80
+http://teams-e911.CloUd.att.com:80
 http://teams-e911.att.com:80
 http://teams-e911.cloud.att.com:80
 http://tech360.att.com:443
@@ -2037,6 +2045,7 @@ http://tusupport.att.com:80
 http://tutechservices.att.com:80
 http://tutkb.att.com:80
 http://tutrainenv.att.com:80
+http://tutrainenvdev.att.com:80
 http://tuvcpagebuilder.att.com:80
 http://tuxr.att.com:80
 http://tvideo.att.com:80
@@ -4517,6 +4526,8 @@ https://mydesktop-dr02u.att.com:443
 https://mydesktop-dr02u.att.com:8443
 https://mydesktop-east01u.att.com:443
 https://mydesktop-east01u.att.com:8443
+https://mydesktop-east03u.att.com:443
+https://mydesktop-east03u.att.com:8443
 https://mydesktop-east04u.att.com:443
 https://mydesktop-east04u.att.com:8443
 https://mydesktop-east05u.att.com:443
@@ -5279,6 +5290,7 @@ https://tdice-recommendations-test.stage.att.com:443
 https://tdm.att.com:443
 https://tdp.att.com:443
 https://tdpdev.att.com:443
+https://teams-e911.CloUd.att.com:443
 https://teams-e911.att.com:443
 https://teams-e911.cloud.att.com:443
 https://techbuzz.att.com:443
@@ -6049,6 +6061,7 @@ https://xdmakronffa.wireless.att.com:443
 https://xdmar.wireless.att.com:443
 https://xdmar.wireless.labs.att.com:443
 https://xdmarg.wireless.att.com:443
+https://xdmarg.wireless.labops.att.com:443
 https://xdmarg.wireless.labs.att.com:443
 https://xdmasg.wireless.labs.att.com:443
 https://xdmbc.wireless.labs.att.com:443

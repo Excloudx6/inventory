@@ -1,6 +1,8 @@
 2018-accessaccess-adminadmin-backup.gsw1.voicetone.att.com
+2018-account-access-adminadmin-backup.gsw1.voicetone.att.com
 2018-admin-backup.gsw1.voicetone.att.com
 2018backupelasticbeanstalk.cat1gsw.voicetone.att.com
+2019-accountadminadmin-backup.gsw1.voicetone.att.com
 2019adminadmin-backup.gsw1.voicetone.att.com
 2019backupelasticbeanstalk.cat1gsw.voicetone.att.com
 2020.cat1gsw.voicetone.att.com
@@ -14780,6 +14782,7 @@ absent.research.att.com
 acc-npwt.att.com
 accbusinesspricing.att.com
 access-account-access-adminadmin-backup.gsw1.voicetone.att.com
+access-account-accountadminadmin-backup.gsw1.voicetone.att.com
 access-adminadmin-backup.gsw1.voicetone.att.com
 access.att.com
 access.esinet-911.att.com
@@ -14793,6 +14796,7 @@ accessr01.att.com
 acconesource.att.com
 account-access-adminadmin-backup.gsw1.voicetone.att.com
 account-accountadminadmin-backup.gsw1.voicetone.att.com
+accountaccess-adminadmin-backup.gsw1.voicetone.att.com
 accountadminadmin-backup.gsw1.voicetone.att.com
 accountmanagement.att.com
 accounts-officeathand.att.com
@@ -14825,6 +14829,7 @@ admin.mas.att.com
 admin.techchannel.att.com
 admin1-awem.att.com
 adminadmin-backup.gsw1.voicetone.att.com
+adminadminadmin-backup.gsw1.voicetone.att.com
 adportal.att.com
 adr1-test.att.com
 adr2-test.att.com
@@ -15017,10 +15022,12 @@ almi04.dp.att.com
 almi07.dp.att.com
 alnscmintegration.att.com
 alp.acss.att.com
+alpha-access-account-access-adminadmin-backup.gsw1.voicetone.att.com
 alpha-accessaccess-adminadmin-backup.gsw1.voicetone.att.com
 alpha-adminadmin-backup.gsw1.voicetone.att.com
 alpha.myvehicle.stage.att.com
 alpha.wireless.att.com
+alphaaccess-adminadmin-backup.gsw1.voicetone.att.com
 alphameeting.att.com
 alpharetta-jda-collab.att.com
 alphavmr.att.com
@@ -15168,6 +15175,8 @@ apiadmin-s7.stage.att.com
 apiadmin-s8.stage.att.com
 apiadmin-x3.test.att.com
 apiadmin.cat1gsw.voicetone.att.com
+apiexchange-dev.att.com
+apiexchange.att.com
 apilogin.att.com
 apilogin.stage.att.com
 apiloginal.att.com
@@ -15625,11 +15634,15 @@ believeneworleans.att.com
 bellcaiotgw.att.com
 benchmark.uc.att.com
 best-az.test.att.com
+beta-access-adminadmin-backup.gsw1.voicetone.att.com
 beta-admin-backup.gsw1.voicetone.att.com
 beta-adminadmin-backup.gsw1.voicetone.att.com
 beta-backupelasticbeanstalk.cat1gsw.voicetone.att.com
 beta-cis.att.com
 beta-www.att.com
+betaaccess-account-access-adminadmin-backup.gsw1.voicetone.att.com
+betaaccess-adminadmin-backup.gsw1.voicetone.att.com
+betaalpha-accessaccess-adminadmin-backup.gsw1.voicetone.att.com
 betam.att.com
 beyondlimits.att.com
 bhmcsidmaccess.att.com
@@ -15702,7 +15715,9 @@ bset-az.att.com
 bthscmintegration.att.com
 bucket-adminadmin-backup.gsw1.voicetone.att.com
 bucket.cat1gsw.voicetone.att.com
+bucketaccess-adminadmin-backup.gsw1.voicetone.att.com
 bucketaccess.gsw1.voicetone.att.com
+bucketadmin-backup.gsw1.voicetone.att.com
 bugbounty.att.com
 bugbounty.test.att.com
 bulkdata-usp-labs-a.ecolabs.cloud.att.com
@@ -16031,6 +16046,7 @@ confhpa.att.com
 config-admin-admin.cat1gsw.voicetone.att.com
 config-admin-backup.gsw1.voicetone.att.com
 configadminadmin-backup.gsw1.voicetone.att.com
+confluence-account-access-adminadmin-backup.gsw1.voicetone.att.com
 confluence.iqidev.labs.att.com
 confluenceapiadmin-backup.gsw1.voicetone.att.com
 confssp.att.com
@@ -16297,6 +16313,7 @@ dbhddswsh.hvs.att.com
 dbhddwcghr.hvs.att.com
 dbms-backupelasticbeanstalk.cat1gsw.voicetone.att.com
 dbms.cat1gsw.voicetone.att.com
+dbmsaccount-accountadminadmin-backup.gsw1.voicetone.att.com
 dbmsbackupelasticbeanstalk.cat1gsw.voicetone.att.com
 dc.att.com
 dcae.research.att.com
@@ -16318,6 +16335,7 @@ ddamfrontlinecmg2.att.com
 ddosdemo.att.com
 de.vpn.att.com
 deals.att.com
+debug-account-accountadminadmin-backup.gsw1.voicetone.att.com
 debug-admin.cat1gsw.voicetone.att.com
 deenc1.vpn.att.com
 deenc2.vpn.att.com
@@ -16327,6 +16345,7 @@ delta.myvehicle.stage.att.com
 demo-admin-backup.gsw1.voicetone.att.com
 demo-backupelasticbeanstalk.cat1gsw.voicetone.att.com
 demo.gsw1.voicetone.att.com
+demoaccess-adminadmin-backup.gsw1.voicetone.att.com
 demoaccountadminadmin-backup.gsw1.voicetone.att.com
 demoadminadmin-backup.gsw1.voicetone.att.com
 derby.uc.att.com
@@ -16864,6 +16883,7 @@ engage102.hvs.att.com
 engage201.hvs.att.com
 engage202.hvs.att.com
 engineering.gsw1.voicetone.att.com
+engineeringaccount-accountadminadmin-backup.gsw1.voicetone.att.com
 enroll.att.com
 enroll.dp.att.com
 ens.att.com
@@ -31597,6 +31617,7 @@ iqiprodhsm03.iqi.labs.att.com
 iqiprodhsm04.iqi.labs.att.com
 iqp01.ciq.labs.att.com
 iqpweb01.ciq.labs.att.com
+ireporting.UC.att.com
 ireporting.uc.att.com
 isaac-dsl.att.com
 ism.uc.att.com
@@ -34052,6 +34073,7 @@ tdpdev.att.com
 tdseg.test.att.com
 team.att.com
 teamaccess-adminadmin-backup.gsw1.voicetone.att.com
+teams-e911.CloUd.att.com
 teams-e911.att.com
 teams-e911.cloud.att.com
 tech360.att.com
@@ -34968,6 +34990,7 @@ wa4ma01ucf10dm.att.com
 wa4ma01ucf11dm.att.com
 wa4ma01ucf12dm.att.com
 waLKErtopia.vpn.att.com
+waNTTu.um.att.com
 washington.att.com
 wat-api-enhanced-rm.uc.att.com
 wat-enhanced-mgmt.uc.att.com
@@ -35250,6 +35273,7 @@ xdmalg.wireless.labs.att.com
 xdmar.wireless.att.com
 xdmar.wireless.labs.att.com
 xdmarg.wireless.att.com
+xdmarg.wireless.labops.att.com
 xdmarg.wireless.labs.att.com
 xdmarpt.wireless.labs.att.com
 xdmasg.wireless.labs.att.com
