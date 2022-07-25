@@ -146,6 +146,7 @@ http://ipnpb.paypal.com:80/auth/createchallenge/c6db4ac1eb9ce118/recaptchav3.js?
 http://ipnpb.paypal.com:80/auth/createchallenge/c8bbad9e3b1fd78c/recaptchav3.js?_sessionID=ls568Rp9OsZp5SDHVQtOTtY53ah22CPD
 http://ipnpb.paypal.com:80/auth/createchallenge/d2930bd12b2083a5/recaptchav3.js?_sessionID=QJGY-jdILwoI6xdE0hNdKS8n2waCDT5R
 http://ipnpb.paypal.com:80/auth/createchallenge/d922b035fe4b3dde/recaptchav3.js?_sessionID=yrrGjmdNy7a44eET-YI5PAtuQa74El9S
+http://ipnpb.paypal.com:80/auth/createchallenge/e74c9422fb091d22/recaptchav3.js?_sessionID=54TkaT6hlkoADfpyy80pdCfJzYaCAzf7
 http://ipnpb.paypal.com:80/auth/createchallenge/ea2f8508b1ccfe1c/recaptchav3.js?_sessionID=uKW2IPrOci483qzO1jGaPlzYvZjZzi4u
 http://ipnpb.paypal.com:80/auth/createchallenge/ed83b898c0350e2e/recaptchav3.js?_sessionID=dp4E5--plPPGFuEEZQ6vo4luFXULGGHO
 http://ipnpb.paypal.com:80/auth/createchallenge/edf64baf213ef97f/recaptchav3.js?_sessionID=Py8niF70zxlJC2b6U0hg2cC2B8BZerr9
@@ -896,6 +897,7 @@ https://history.paypal.com:443/auth/createchallenge/77f1821f341a39e1/recaptchav3
 https://history.paypal.com:443/auth/createchallenge/782649d9b7c7ba45/recaptchav3.js?_sessionID=a6AW6XwHP8CIzpxF0XJsgYKrZoERb43z
 https://history.paypal.com:443/auth/createchallenge/79f05603e8321090/recaptchav3.js?_sessionID=Fl32tKtfLftX5DH1ojBNeFgXXDaWAGcq
 https://history.paypal.com:443/auth/createchallenge/7c8e19d4bdb77a58/recaptchav3.js?_sessionID=f8Hqpas96m5n9d_Ho16xJaXJC0-UoM24
+https://history.paypal.com:443/auth/createchallenge/7e07d5f5ea29b569/recaptchav3.js?_sessionID=kEqKhHck5m23q3uEE1Znwd5Rv18fgAQm
 https://history.paypal.com:443/auth/createchallenge/8106fa94cf071bd8/recaptchav3.js?_sessionID=GjFvkuF0FyXlnb14Zcf9ZUsrS2cuPNu1
 https://history.paypal.com:443/auth/createchallenge/81240d447714d60e/recaptchav3.js?_sessionID=cDN-F7EccHBxWSr43cO3n0iBzkjGELCm
 https://history.paypal.com:443/auth/createchallenge/81a168bc0108a1ec/recaptchav3.js?_sessionID=9f5CjTytGAvrZLfbW4grVBROuZtriNSi
@@ -1596,6 +1598,7 @@ https://qwac.paypal.com/auth/createchallenge/9aca8ce06f49b819/recaptchav3.js?_se
 https://qwac.paypal.com/auth/createchallenge/9e56e80fd4e5f6f8/recaptchav3.js?_sessionID=JWQW8UohL-FsMxKcRNWi2Hrhw7biU_ak
 https://qwac.paypal.com/auth/createchallenge/9f0cf6bec2a550b0/recaptchav3.js?_sessionID=EXDwOEtxbcSmKpg8_LZtl4wVDEradtJN
 https://qwac.paypal.com/auth/createchallenge/a22f9c98bc732903/recaptchav3.js?_sessionID=GjpfRnrfduun3J6I3SkxcL9h0C3S1EqY
+https://qwac.paypal.com/auth/createchallenge/a45f0a3869035d74/recaptchav3.js?_sessionID=bEDKVr2mWTWGO3MQEcCs57nQtDUKE2Dy
 https://qwac.paypal.com/auth/createchallenge/a65d05ae0954949a/recaptchav3.js?_sessionID=vRPctLt0hL-MFeGx-v7CMX8wZUlkKfgf
 https://qwac.paypal.com/auth/createchallenge/af3e9d551cf3a730/recaptchav3.js?_sessionID=Awu3A-DHi4_PdDSgFZPzUcwu2o5kPV7l
 https://qwac.paypal.com/auth/createchallenge/b16c32f0f5a30276/recaptchav3.js?_sessionID=j3vByuzutRWU-EnCmht-LHWDK_0BU4FW
@@ -1749,6 +1752,7 @@ https://safetyhub.paypal.com/_avirum_/AVIi0516623390E50004AVIl0AVIr1/rum.js
 https://safetyhub.paypal.com/_avirum_/AVIi0516624532D80003AVIl0AVIr1/rum.js
 https://safetyhub.paypal.com/_avirum_/AVIi0516624795C80006AVIl0AVIr1/rum.js
 https://safetyhub.paypal.com/_avirum_/AVIi0516628AAE490003AVIl0AVIr1/rum.js
+https://safetyhub.paypal.com/_avirum_/AVIi051662DED4F5000DAVIl0AVIr1/rum.js
 https://safetyhub.paypal.com/_avirum_/AVIi051762637D740001AVIl0AVIr1/rum.js
 https://safetyhub.paypal.com/_avirum_/AVIi05176270EE4A0007AVIl0AVIr1/rum.js
 https://safetyhub.paypal.com/_avirum_/AVIi051762C07F46000FAVIl0AVIr1/rum.js
@@ -1848,6 +1852,7 @@ https://securepayments.paypal.com/auth/createchallenge/7b6454208dbd932a/recaptch
 https://securepayments.paypal.com/auth/createchallenge/7c3d71269bb01fcc/recaptchav3.js?_sessionID=9bWz4eb1pOPuN3JYDASv0HC1cc5ey08H
 https://securepayments.paypal.com/auth/createchallenge/870ae9235c844f80/recaptchav3.js?_sessionID=D8tlSUIq4pCFMmeU0OSJTVLVQRjTqR6U
 https://securepayments.paypal.com/auth/createchallenge/878fad7c8b4c215a/recaptchav3.js?_sessionID=opOALvv4Wgkjeg-YS-20yg2mUYGlEy6s
+https://securepayments.paypal.com/auth/createchallenge/8c9cf98c6ee1a959/recaptchav3.js?_sessionID=OmncvY9tnoXUyhh53kiDJXEYCTDyluvM
 https://securepayments.paypal.com/auth/createchallenge/8d5f0e0b90744439/recaptchav3.js?_sessionID=_F48yG-Qa5FVYiqcZtOVL4jAyCAQHc1T
 https://securepayments.paypal.com/auth/createchallenge/8e5a1787d7f9ad9c/recaptchav3.js?_sessionID=RZA3RbgFv9sq4DFoFbpKkqsRK93lh3G8
 https://securepayments.paypal.com/auth/createchallenge/8eadb7f2e3c1673e/recaptchav3.js?_sessionID=ac5IRWh9GASR6aj7mcNrmF2WXJjk5usU
@@ -1890,6 +1895,7 @@ https://securepayments.paypal.com:443/auth/createchallenge/0fc4c52bbf0b2f58/reca
 https://securepayments.paypal.com:443/auth/createchallenge/165a145a1567ab60/recaptchav3.js?_sessionID=VuO5WzGgNH8zEvCm6vanX3opSeb449jG
 https://securepayments.paypal.com:443/auth/createchallenge/187299a6e3fe9684/recaptchav3.js?_sessionID=9WNdOiAX60GtWBeIAikkK3tJNvyOHsJd
 https://securepayments.paypal.com:443/auth/createchallenge/1a62999a4cc075e0/recaptchav3.js?_sessionID=fAcTNhh5-myXid6WzJ_uxb48XBmybI8n
+https://securepayments.paypal.com:443/auth/createchallenge/1dfcbb8edc147c95/recaptchav3.js?_sessionID=GUXirzLI3YYDpcfVOt5vEmP99ShqmMhr
 https://securepayments.paypal.com:443/auth/createchallenge/1fc13f196d2c69eb/recaptchav3.js?_sessionID=P8Es7Mfg7cYgWgCsLJR0c65bFi1YZKg2
 https://securepayments.paypal.com:443/auth/createchallenge/224424dd4a652f9b/recaptchav3.js?_sessionID=-3yCsRxrQlbqgB0espcVRUxNUjAxnUnK
 https://securepayments.paypal.com:443/auth/createchallenge/240fc8ffdc14da81/recaptchav3.js?_sessionID=wg28uYD4-st8OeFYySIY3KcS_XzyEvsy
@@ -2300,6 +2306,7 @@ https://www.paypal.com/auth/createchallenge/29dfdbb71021cd20/recaptchav3.js?_ses
 https://www.paypal.com/auth/createchallenge/29ecf87e26472e3c/recaptchav3.js?_sessionID=Kbh2pyWObIXJ6SteaWU17VDkOECSWhW5
 https://www.paypal.com/auth/createchallenge/29f286b79bb440cc/recaptchav3.js?_sessionID=jJ8iFAsBr8LFPa9Tx11ss1Okf48iLFN9
 https://www.paypal.com/auth/createchallenge/2a032bdb0812c986/recaptchav3.js?_sessionID=JMa3xbhfnNySp6cVIs-34l2DyYG8RK1q
+https://www.paypal.com/auth/createchallenge/2a066c1988368c0a/recaptchav3.js?_sessionID=WgwcYZJu3O1Jty1jps94gpR7eYMv6P0-
 https://www.paypal.com/auth/createchallenge/2a0f2d670fc9b615/recaptchav3.js?_sessionID=wrYbvnuX94NekqEOcVwhphoxYU-2HAhP
 https://www.paypal.com/auth/createchallenge/2a16a65b713ad99c/recaptchav3.js?_sessionID=YxQ1l4TgFaRsxfi_gITxT0tihDDc4SAg
 https://www.paypal.com/auth/createchallenge/2a46895954a47145/recaptchav3.js?_sessionID=OUKiIi-BTBHBiXenWKvbmSj2cZWCsW6z
@@ -2343,6 +2350,7 @@ https://www.paypal.com/auth/createchallenge/34680bfc76c44fad/recaptchav3.js?_ses
 https://www.paypal.com/auth/createchallenge/346c00a386ff2414/recaptchav3.js?_sessionID=B-OFXaxNSgKZECpz5101fWzQ1PrJMx3N
 https://www.paypal.com/auth/createchallenge/34a1dc2250ab70af/recaptchav3.js?_sessionID=DDOxt29lldDAAxRBxTF_7SoZdzmT7mR5
 https://www.paypal.com/auth/createchallenge/34b4f34e685df32a/recaptchav3.js?_sessionID=tvJd7-l3J84eV4EU2LeG-tN4UXQy5YsB
+https://www.paypal.com/auth/createchallenge/34dcb8a7b8ff8e1e/recaptchav3.js?_sessionID=kSvYqHRymQ9w8EvDJo4oRZAqY2HV9JPg
 https://www.paypal.com/auth/createchallenge/3529dc768bc554e5/recaptchav3.js?_sessionID=7nFozt1PrssDteQxaDOMZntDzOedEjkF
 https://www.paypal.com/auth/createchallenge/354cf442643512a8/recaptchav3.js?_sessionID=5-QT8SFYyjDSSM7Hkn_o1qjJTvvFiXAn
 https://www.paypal.com/auth/createchallenge/35b43137f80f3221/recaptchav3.js?_sessionID=670UwDAsjidBMoWEGUiLjfoHkLw7PpKJ
@@ -2387,6 +2395,7 @@ https://www.paypal.com/auth/createchallenge/3fd187814bd16e3f/recaptchav3.js?_ses
 https://www.paypal.com/auth/createchallenge/4015a810b6f2f5fb/recaptchav3.js?_sessionID=an7imIXzbJhIuJ3NigCGueIS1DbobK-7
 https://www.paypal.com/auth/createchallenge/405b9e3fb91b3eaa/recaptchav3.js?_sessionID=xxYC3l1XH4Vxfbs4vsdpEjIp27UAQENH
 https://www.paypal.com/auth/createchallenge/40f29e6fbad11de3/recaptchav3.js?_sessionID=wE7k8zdprnZOH6J6IhQX92QKuY8iLheA
+https://www.paypal.com/auth/createchallenge/4128655711d772be/recaptchav3.js?_sessionID=xXNRHdpkVH5-nTGgEHCudF6T--Z2zhWl
 https://www.paypal.com/auth/createchallenge/4138ba2dea6227fd/recaptchav3.js?_sessionID=Q3U-GmyxVkKrepIEqsS-AnUYW3nt5P2R
 https://www.paypal.com/auth/createchallenge/425bbb5f70a56e7e/recaptchav3.js?_sessionID=3y4KT0FsKNNBObVsUgq5Ov3ER1WRrpVH
 https://www.paypal.com/auth/createchallenge/429178ce8d0942cf/recaptchav3.js?_sessionID=TET_95qwGNv2MYou9TeTgURgyaXyWuof
@@ -2500,6 +2509,7 @@ https://www.paypal.com/auth/createchallenge/5df70503948b183b/recaptchav3.js?_ses
 https://www.paypal.com/auth/createchallenge/5dfcc179d477e37d/recaptchav3.js?_sessionID=fbQCgH0oHXnIXoSc2_c7vzn96qcbtXe7
 https://www.paypal.com/auth/createchallenge/5e2397a96e7afd6e/recaptchav3.js?_sessionID=ngv3bpyanHuZjMfEEx95l0V4-cAjgZ8j
 https://www.paypal.com/auth/createchallenge/5e429b1a82d0ef9a/recaptchav3.js?_sessionID=9--mOGskk_ZXX7UtEgJlZ_SB6ORNdA9K
+https://www.paypal.com/auth/createchallenge/5e6a42321a1d8d8f/recaptchav3.js?_sessionID=c4a--spGqwR9WGTemFxj2pl-c4FbKqxQ
 https://www.paypal.com/auth/createchallenge/5e995128279232cf/recaptchav3.js?_sessionID=aQdWMgQ4l5wr6_-0oyrqoiKPUpCI_8aR
 https://www.paypal.com/auth/createchallenge/5ed869bc0dad48c3/recaptchav3.js?_sessionID=ipZRqDg9BMy-I1J7TZeABXe3DYCvjX0J
 https://www.paypal.com/auth/createchallenge/5ef926f958ccad7a/recaptchav3.js?_sessionID=UqdQAf-647TOS-HN_Ytaq16qNYdspHLd
@@ -2559,6 +2569,7 @@ https://www.paypal.com/auth/createchallenge/700850e68f2b43c5/recaptchav3.js?_ses
 https://www.paypal.com/auth/createchallenge/70bc567c82b57ce8/recaptchav3.js?_sessionID=0AbUDNhkg3Mj9JwZz_5O8Vqfsof7Cjpk
 https://www.paypal.com/auth/createchallenge/70eb94760adcd85b/recaptchav3.js?_sessionID=u_wOvFrPM43DI6BFfCERhkKw_ckZh3wn
 https://www.paypal.com/auth/createchallenge/713cbeafc1994ca3/recaptchav3.js?_sessionID=2BZMuqhF818tC42CPHK2Sq_ONZ2vJWm_
+https://www.paypal.com/auth/createchallenge/716eb1daf3e6d158/recaptchav3.js?_sessionID=WD7kd9z7EpD_P1y5z64x1vPAnlZDa4kW
 https://www.paypal.com/auth/createchallenge/718056f1c1173f82/recaptchav3.js?_sessionID=Q18RtDiurOmpoc_FekCLbBeI3kkzoOLO
 https://www.paypal.com/auth/createchallenge/71a69ca663a48365/recaptchav3.js?_sessionID=fRe88f1WYVdr8tcV-sMDtx7j_zH6wM90
 https://www.paypal.com/auth/createchallenge/71c4b1c848c77934/recaptchav3.js?_sessionID=B3aLbppjt8tJyNfDBLwRTaK-BQ2azQDZ
@@ -2819,6 +2830,7 @@ https://www.paypal.com/auth/createchallenge/b0fd3a915fe3eeda/recaptchav3.js?_ses
 https://www.paypal.com/auth/createchallenge/b214ab020b981fb4/recaptchav3.js?_sessionID=XtBMQayNPSX8-WqBp6-gyTbDnIJlqXe7
 https://www.paypal.com/auth/createchallenge/b2db6531e6d53a01/recaptchav3.js?_sessionID=wwXQ_24WKIB5vNGpPw_msulXArIdWIl3
 https://www.paypal.com/auth/createchallenge/b3ae1c0133658593/recaptchav3.js?_sessionID=u_ID2M_sdrTJ-__YI8lk_6BAeZrC-DUP
+https://www.paypal.com/auth/createchallenge/b3c0ec989ea6cd46/recaptchav3.js?_sessionID=maNYtOZu7PXHbNPWGBxZZIQhrItsQ2cR
 https://www.paypal.com/auth/createchallenge/b3e23630c20c6aa6/recaptchav3.js?_sessionID=YiULDYg34OkFu6UNu-IUKd6QsFtGKR2Y
 https://www.paypal.com/auth/createchallenge/b3fbd51130d05f71/recaptchav3.js?_sessionID=VtZUzGJZOfesVMnzfrve_VTj4osR07jf
 https://www.paypal.com/auth/createchallenge/b443ca1d03605329/recaptchav3.js?_sessionID=nyGGUo1yGnts5zlG1QUCl_GmJ19bg8ci
@@ -2910,6 +2922,7 @@ https://www.paypal.com/auth/createchallenge/cbd820ee542ec1b0/recaptchav3.js?_ses
 https://www.paypal.com/auth/createchallenge/cbff60b9426de423/recaptchav3.js?_sessionID=-tV3RXnxM5mpBq1CIYy4LbFWp3GNRo47
 https://www.paypal.com/auth/createchallenge/cc16962651a84c22/recaptchav3.js?_sessionID=YzGRHWtwzPEvDcEkMppy7Ioqv9sWQRuF
 https://www.paypal.com/auth/createchallenge/cc2e94bac4773281/recaptchav3.js?_sessionID=r_MbQpThPR3AEckRrJCMTTS4jGJkhm_K
+https://www.paypal.com/auth/createchallenge/cc3fb5f67e9022bc/recaptchav3.js?_sessionID=5NahgD5DOfxp06uC_nZRHxva2kdWM_lb
 https://www.paypal.com/auth/createchallenge/ccc98f1a6941d0eb/recaptchav3.js?_sessionID=LBz3yBiIsKCSNc6szA537aPpx7UoSaJX
 https://www.paypal.com/auth/createchallenge/ccd050dcea9c37ca/recaptchav3.js?_sessionID=WioOiDDsu_GsV9fzVXtYcwXVXjEG0aJ_
 https://www.paypal.com/auth/createchallenge/cd03de49c4eca335/recaptchav3.js?_sessionID=ke_jJxjVl0_u9KB2arxHAZ9o6LyT_wwK
@@ -2918,6 +2931,7 @@ https://www.paypal.com/auth/createchallenge/ce69f31176c877ea/recaptchav3.js?_ses
 https://www.paypal.com/auth/createchallenge/ce838bd2fb551195/recaptchav3.js?_sessionID=MiHx9cEHZroYxypnsmgb469LpT_2bpCs
 https://www.paypal.com/auth/createchallenge/ce90c1b7bc8e6e82/recaptchav3.js?_sessionID=nV7N6xjE9DWew-AZ511FnnUilQ5FiTKl
 https://www.paypal.com/auth/createchallenge/ce96e3267aa05d4e/recaptchav3.js?_sessionID=4i31y1koVG1cMn-ipNIqCu0E890ZrSyw
+https://www.paypal.com/auth/createchallenge/ceb5c998dccf35d5/recaptchav3.js?_sessionID=ExQHeB13kX58XvCRmH83MJ_tXeJFCcib
 https://www.paypal.com/auth/createchallenge/cee8f93dc5904b98/recaptchav3.js?_sessionID=10rHF6DbnrglDkRQs1EYGpXO0Jfqyrgx
 https://www.paypal.com/auth/createchallenge/cf35241fd6be2576/recaptchav3.js?_sessionID=Tt_izLy253-d2YyhRWyfxXwpZU8rOVih
 https://www.paypal.com/auth/createchallenge/cf7b7ca5ea0a7105/recaptchav3.js?_sessionID=RtOB_bgbsCaRthrCP1kBML4cRR6qf7g0
@@ -3084,6 +3098,7 @@ https://www.paypal.com/auth/createchallenge/f93b99fb40ed242d/recaptchav3.js?_ses
 https://www.paypal.com/auth/createchallenge/f98a2f7a5bbb1f8b/recaptchav3.js?_sessionID=lNWR0hfQR1-1kGXhf62w8-1ScfRHL2Ro
 https://www.paypal.com/auth/createchallenge/fae349b517434772/recaptchav3.js?_sessionID=Q8FpB1h5AWRAAkS4um7HJMEzCGFKCP0E
 https://www.paypal.com/auth/createchallenge/faeed2bddc24721e/recaptchav3.js?_sessionID=pnEh5LvHlnrziGlE83NmLzAQPT-ZGhVg
+https://www.paypal.com/auth/createchallenge/fb45242c242e82d1/recaptchav3.js?_sessionID=xvH8ewse-dSqhhxoyiqOvls4NBCsxQky
 https://www.paypal.com/auth/createchallenge/fc9a98b02214635f/recaptchav3.js?_sessionID=MaZHNR7NM_McXeLLzFYC8JZ70JnFxYeh
 https://www.paypal.com/auth/createchallenge/fcf4686b31fb5944/recaptchav3.js?_sessionID=o4QDhWLh1v1ouUkqzYDVAQ3TJvBNCqpe
 https://www.paypal.com/auth/createchallenge/fd9d61b5cc29d970/recaptchav3.js?_sessionID=g4cUlPYgqqO_PKXjEHUVfWWJgtMYpUln
@@ -3548,6 +3563,7 @@ https://zettleintegrations.paypal.com:443/auth/createchallenge/088dcf73370580fe/
 https://zettleintegrations.paypal.com:443/auth/createchallenge/0dfdef12cb388529/recaptchav3.js?_sessionID=jYp9DqN6akp-teOtBCf-3ZyAt-6uja9g
 https://zettleintegrations.paypal.com:443/auth/createchallenge/107cc28ad761460a/recaptchav3.js?_sessionID=oPg4s5ABdVwHZWsPovM0r0X_rRJkMpzS
 https://zettleintegrations.paypal.com:443/auth/createchallenge/12871aa59a54c183/recaptchav3.js?_sessionID=V7Ha57GmV48IewAAJLx6Wmb8uP6Hce6m
+https://zettleintegrations.paypal.com:443/auth/createchallenge/130ba04d9d4d8f53/recaptchav3.js?_sessionID=jwp9tZz_bFHeGEUA-_wrl5zHf8TEcqWF
 https://zettleintegrations.paypal.com:443/auth/createchallenge/137fc5db23b3c79e/recaptchav3.js?_sessionID=tixBUzcX4GugZpC2wCDVvpR_93u_HYLk
 https://zettleintegrations.paypal.com:443/auth/createchallenge/14db3cf126910788/recaptchav3.js?_sessionID=03Y-vTRfj4ldI4PyvDYzEgF2d8MZByQT
 https://zettleintegrations.paypal.com:443/auth/createchallenge/17e777d700055753/recaptchav3.js?_sessionID=6wOvuy3I9LJbKf-TxphIjkEOnCn49DTA
