@@ -6302,3 +6302,21 @@
 [url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=79fec4c6-02f0-1459-2f07-4c21a9c98d78&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=xoom.com&nonce=637941086681433525.94c33ddb-8bcc-4386-a4e8-c2c19d99abd6&state=DcsxDsIwDEDRBK6C2NI2deraQ8VZEjsDEpGlFgrHJ8P72_fOuWt36fzU41aElVOcCJFiAljmZeAkAKolUBEJCQhDTpWCzBJZmXNR9P29jfbN42Ov-dW2n1kbxNr91C1_3qbPQ-ys-x8
 [url] - [code-400] - http://checkout.paypal.com:443
 [url] - [code-400] - http://manager.paypal.com:443
+[href] - https://www.paypal.com/signin/authorize?client_id=AQnRNmwKLyKURzmUN7IGrYNIcaXKc2xMhjj5iRgXQHmRlL_yWgRRlEyHvtUn0wfkT0394HGHKlldnkFl&redirect_uri=https%3A%2F%2Fwww.braintreegateway.com%2Flogin_with_paypal_redirect&response_type=code&scope=openid+email&state=login-2L8bH6SKBNqyUR9wJmCAFVC3gpzUMIgFTUuc1u6%2FNUKpNyHVSfMMbgSXDShYO0xXMCaHdD9r79hjU7Rtg4VQpQ%3D%3D-%2Flogin
+[href] - https://www.paypal.com/signin/authorize?client_id=Aawr2vOkpQGNTXQAYIOQPVJoSCI2OnIIsTjmEM1Yx1MooV2aGxUqXeACIDZLS1AWVqUlBapiO0CJzG2F&redirect_uri=https%3A%2F%2Fsandbox.braintreegateway.com%2Flogin_with_paypal_redirect&response_type=code&scope=openid+email&state=login-Xtu8OSBkVztvkXYYTtLcE5jHIcztP2GTeSNcXI3POm86f6K8JRsNbOwOju8ptraBRMr5PgdSblrWPCVgcTyyLA%3D%3D-%2Flogin
+[href] - https://www.paypalobjects.com/web/res/d25/c07bd5047b819d2256b870fee33ab/css/contextualLoginElementalUIv2.css
+[javascript] - https://history.paypal.com:443/auth/createchallenge/07e2f9b6f5ef5f22/recaptchav3.js?_sessionID=-mr_NILBg4ARRl2nqG2gXeAg3-zB6KNV
+[javascript] - https://paypalmanager.sandbox.paypal.com/_avirum_/AVIi051A62DDC48E0001AVIl0AVIr1/rum.js
+[javascript] - https://paypalmanager.sandbox.paypal.com:443/_avirum_/AVIi050C62DDC48E0002AVIl0AVIr1/rum.js
+[javascript] - https://qwac.paypal.com/auth/createchallenge/fc7e3b407984b583/recaptchav3.js?_sessionID=l0VX5Nayot8Y4639MLE_eR3Lrb9Wxgb1
+[javascript] - https://qwac.paypal.com:443/auth/createchallenge/01be5a8aaccd86c3/recaptchav3.js?_sessionID=1Ys7lWQ2zIvmjYifz5vWg8lmeTsmKNcm
+[javascript] - https://securepayments.paypal.com:443/auth/createchallenge/c13f34394a1d7c88/recaptchav3.js?_sessionID=jK-jauS88HbnwxBBMHl6qrvgM5ZTr1c0
+[javascript] - https://www-edge.glb.paypal.com:443/auth/createchallenge/ee48f6723ef0171c/recaptchav3.js?_sessionID=Gf7eX4zYWMAcJ21HMogc7hethr7y3qgh
+[javascript] - https://www.paypal.com/auth/createchallenge/086152f31a1f3007/recaptchav3.js?_sessionID=cyoLu73Ovydy84r1BYrN1U8ByBHDsuxi
+[javascript] - https://www.paypal.com/auth/createchallenge/354cf442643512a8/recaptchav3.js?_sessionID=5-QT8SFYyjDSSM7Hkn_o1qjJTvvFiXAn
+[javascript] - https://www.paypal.com/auth/createchallenge/5e429b1a82d0ef9a/recaptchav3.js?_sessionID=9--mOGskk_ZXX7UtEgJlZ_SB6ORNdA9K
+[javascript] - https://www.paypal.com/auth/createchallenge/9caceee83f50988b/recaptchav3.js?_sessionID=jXlqweL5__DxQDGOw3SAwc1IcyDRDFa6
+[javascript] - https://www.paypal.com/auth/createchallenge/a78260c458f00746/recaptchav3.js?_sessionID=tJU80isrI0r3cmDkBINSUnOJu6_Zx2bh
+[javascript] - https://www.paypal.com/auth/createchallenge/f747cbaca0fd874b/recaptchav3.js?_sessionID=C3xQEE1US9K7Pr6V6bvnx9YR4SuilIaM
+[javascript] - https://zettleintegrations.paypal.com/auth/createchallenge/ed5d9585f4d79e34/recaptchav3.js?_sessionID=aZ9UMdWmgC5H8DP09NIogzu_SfNxcMZx
+[url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=01b89a6c-cf28-53c0-10d9-06f61ace54d8&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=xoom.com&nonce=637942977736014201.97a44896-fb5e-4589-958b-9b21379801cc&state=DYtBDoMgEACh_YrpDQVcWPZg-hZATJqUbGKr9vndw8xpRiul7sJN0FakMM5I4AkR52gdeOtGwgyQKJqthGYgJDIUUjFUvJM6WVerlneY-MrTc2_53Zcfcx8r98e5Lvn48vr6VD7b_gc
