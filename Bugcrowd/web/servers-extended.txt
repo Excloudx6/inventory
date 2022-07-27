@@ -96,8 +96,10 @@ https://docs.bugcrowd.com:8443 [null] [403] [16] ["text/plain"] ["104.20.6.68"] 
 https://documentation.bugcrowd.com:443 [null] [302] [32] ["text/plain"] ["104.18.211.56"] [null] ["cloudflare"] [["Cloudflare","Heroku"]] [];
 https://documentation.bugcrowd.com:8443 ["Attention Required! | Cloudflare"] [403] [4518] ["text/html"] ["104.18.211.56"] [null] ["cloudflare"] [["Cloudflare"]] [];
 https://email.assetinventory.bugcrowd.com:443 [null] [200] [23] ["application/octet-stream"] ["34.223.162.87"] [null] ["nginx"] [["Nginx"]] [];
+https://email.assetinventory.bugcrowd.com:80 [null] [404] [19] ["text/plain"] ["34.127.83.42"] [null] [null] [null] [];
 https://email.bugcrowd.com:443 [null] [200] [23] ["application/octet-stream"] ["104.20.7.68"] [null] ["cloudflare"] [["Cloudflare","Cloudflare Bot Management"]] [];
 https://email.bugs.bugcrowd.com:443 [null] [200] [23] ["application/octet-stream"] ["54.211.61.245"] [null] ["nginx"] [["Nginx"]] [];
+https://email.bugs.bugcrowd.com:80 [null] [404] [19] ["text/plain"] ["34.127.83.42"] [null] [null] [null] [];
 https://email.crowdcontrol.bugcrowd.com:443 [null] [200] [23] ["application/octet-stream"] ["54.211.61.245"] [null] ["nginx"] [["Nginx"]] [];
 https://email.forum.bugcrowd.com:443 [null] [200] [23] ["application/octet-stream"] ["52.33.122.205"] [null] ["nginx"] [["Nginx"]] [];
 https://email.submit.bugcrowd.com:443 [null] [200] [23] ["application/octet-stream"] ["54.186.94.209"] [null] ["nginx"] [["Nginx"]] [];
