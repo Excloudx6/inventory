@@ -2303,6 +2303,7 @@
 ./js/frontify-styleguide/colorswatch.eb9c37361943275df3c4.js
 ./js/frontify-styleguide/colorswatch.f118dc965656a61a0881.js
 ./js/frontify-styleguide/colorswatch.f7c53e99210289c0bbd5.js
+./js/frontify-upload.worker.0b598d42ef888d908be1.worker.js
 ./js/frontify-upload.worker.1919face20368202c03b.worker.js
 ./js/frontify-upload.worker.20013ab036d8e629f0a3.worker.js
 ./js/frontify-upload.worker.ec8ceeb160896ba62b3d.worker.js
@@ -4434,6 +4435,7 @@
 /api/saml
 /api/saml/validate_code
 /api/schedule
+/api/screen/addtolibrary
 /api/screen/attachment/
 /api/screen/data/
 /api/screen/delete
@@ -4905,6 +4907,7 @@
 /blog/courier/deliver-promotions/
 /blog/cute-booty-lounge-fashion-delivery/
 /blog/dallas/
+/blog/dallas/business/page/2
 /blog/deem-integration/
 /blog/delaware/
 /blog/denver/
@@ -5041,6 +5044,7 @@
 /blog/new-york-city/ride/ride-promotions/
 /blog/new-york-city/ride/ride-stories/
 /blog/new-york-city/tlc-rule-changes/
+/blog/new-york-city/transit/
 /blog/new-york-city/updates/
 /blog/new-york/
 /blog/new-york/driving-in-the-hamptons/
@@ -5249,6 +5253,7 @@
 /blog/sw.js?ver=1656423305914&amp;scope=en-US
 /blog/sw.js?ver=1656423305916&amp;scope=en-DE
 /blog/sw.js?ver=1656423305984&amp;scope=en-DE
+/blog/sw.js?ver=1656423305984&amp;scope=en-US
 /blog/sw.js?ver=1656423326195&amp;scope=en-DE
 /blog/sw.js?ver=1656423326327&amp;scope=en-CA
 /blog/sw.js?ver=1656423326327&amp;scope=en-US
@@ -6280,6 +6285,7 @@
 /images/logos/gong.svg
 /images/logos/google.svg
 /images/logos/googlegroups.svg
+/images/logos/googlesites.svg
 /images/logos/greenhouse.svg
 /images/logos/gsites.svg
 /images/logos/guru.svg
@@ -6577,6 +6583,8 @@
 /jsonp_send
 /k=
 /knowledge
+/knowledge/:datasource
+/knowledge/:datasource/:id
 /knowledge/announcements
 /knowledge/announcements/:id
 /knowledge/answers
@@ -7201,6 +7209,7 @@
 /revert-to-draft
 /review
 /reviews-disclaimer
+/revision
 /revisions
 /ride
 /risk

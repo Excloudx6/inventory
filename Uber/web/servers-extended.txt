@@ -482,6 +482,7 @@ http://coconut.uberinternal.com:80 [null] [301] [null] [null] ["34.98.127.226"] 
 http://coconut.uberinternal.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["34.98.127.226"] [null] [null] [null] [];
 http://code-usso.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://code-usso.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://code.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://code.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
+http://codelabs.UbERInTernal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://codelabs.UbERInTernal.com/"] ["ufe"] [["Envoy"]] [];
 http://codelabs.uberinternal.com:80 [null] [401] [103] ["application/json"] ["104.36.195.150"] ["https://codelabs.uberinternal.com/"] ["ufe"] [["Basic","Envoy"]] [];
 http://coeshift-staging.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://coeshift-staging.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://coeshift.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://coeshift.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
@@ -502,6 +503,7 @@ http://concierge.uber.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["34.
 http://conecta.uber.com:80 [null] [301] [null] [null] ["34.98.127.226"] ["https://conecta.uber.com/"] ["ufe"] [["Google Cloud"]] [];
 http://conecta.uber.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["34.98.127.226"] [null] [null] [null] [];
 http://config.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://config.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
+http://configurator.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://configurator.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://connmon-staging.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://connmon-staging.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://connmon.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://connmon.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://console-staging.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://console-staging.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
@@ -663,6 +665,7 @@ http://devpod-us-or.uberinternal.com:80 [null] [302] [null] [null] ["34.98.77.0"
 http://devpod-us-or.uberinternal.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["34.98.77.0"] [null] [null] [null] [];
 http://devpod-us-va.uberinternal.com:80 [null] [302] [null] [null] ["35.190.10.64"] ["https://devpod-us-va.uberinternal.com/"] [null] [null] [];
 http://devpod-us-va.uberinternal.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["35.190.10.64"] [null] [null] [null] [];
+http://devpod-us.UbERInTernal.com:80 [null] [302] [21] ["text/html"] ["34.98.77.0"] [null] [null] [null] [];
 http://devpod-us.uberinternal.com:80 [null] [302] [null] [null] ["34.98.77.0"] ["https://devpod-us.uberinternal.com/"] [null] [null] [];
 http://devpod-us.uberinternal.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["34.98.77.0"] [null] [null] [null] [];
 http://devpod-waw.uberinternal.com:80 [null] [302] [null] [null] ["34.149.196.191"] ["https://devpod-waw.uberinternal.com/"] [null] [null] [];
@@ -2448,6 +2451,7 @@ http://usso-staging.uberinternal.com:80 ["301 Moved Permanently"] [301] [166] ["
 http://usso.uberinternal.com:80 ["301 Moved Permanently"] [301] [166] ["text/html"] ["104.36.195.150"] ["https://usso.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://usuppliers.uber.com:80 ["302 Found"] [302] [269] ["text/html"] ["207.231.169.247"] ["https://usuppliers.uber.com/"] [null] [null] [];
 http://usurv-pat.uberinternal.com:80 [null] [401] [103] ["application/json"] ["104.36.195.150"] ["https://usurv-pat.uberinternal.com/"] ["ufe"] [["Basic","Envoy"]] [];
+http://usurv-staging.UbERInTernal.com:80 [null] [401] [103] ["application/json"] ["104.36.195.150"] ["https://usurv-staging.UbERInTernal.com/"] ["ufe"] [["Basic","Envoy"]] [];
 http://usurv-staging.uberinternal.com:80 [null] [401] [103] ["application/json"] ["104.36.195.150"] ["https://usurv-staging.uberinternal.com/"] ["ufe"] [["Basic","Envoy"]] [];
 http://usurv-tst.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://usurv-tst.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://usurv.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://usurv.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
@@ -3016,6 +3020,7 @@ https://coconut-staging.uberinternal.com:443 [null] [301] [null] [null] ["34.98.
 https://coconut.uberinternal.com:443 [null] [301] [null] [null] ["34.98.127.226"] [null] ["ufe"] [["Google Cloud"]] [];
 https://code-usso.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://code.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
+https://codelabs.UbERInTernal.com:443 [null] [401] [103] ["application/json"] ["104.36.195.150"] [null] ["ufe"] [["Basic","Envoy"]] [];
 https://codelabs.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://coeshift-staging.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://coeshift.uberinternal.com:443 [null] [401] [103] ["application/json"] ["104.36.195.150"] [null] ["ufe"] [["Basic","Envoy"]] [];
@@ -3033,6 +3038,7 @@ https://concierge.uber.com:443 ["302 Found"] [302] [142] ["text/html"] ["34.98.1
 https://conecta.uber.com:443 [null] [301] [null] [null] ["34.98.127.226"] [null] ["ufe"] [["Google Cloud"]] [];
 https://config.ubERIntErNAl.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://config.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
+https://configurator.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://connmon-staging.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://connmon.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://console-staging.uberinternal.com:443 [null] [401] [103] ["application/json"] ["104.36.195.150"] [null] ["ufe"] [["Basic","Envoy"]] [];
@@ -3169,6 +3175,7 @@ https://devpod-nld.uberinternal.com:443 [null] [302] [null] [null] ["34.107.149.
 https://devpod-pln.uberinternal.com:443 [null] [302] [null] [null] ["34.149.196.191"] [null] [null] [null] [];
 https://devpod-us-or.uberinternal.com:443 [null] [302] [null] [null] ["34.98.77.0"] [null] [null] [null] [];
 https://devpod-us-va.uberinternal.com:443 [null] [302] [null] [null] ["35.190.10.64"] [null] [null] [null] [];
+https://devpod-us.UbERInTernal.com:443 [null] [302] [null] [null] ["34.98.77.0"] [null] [null] [null] [];
 https://devpod-us.uberinternal.com:443 [null] [302] [null] [null] ["34.98.77.0"] [null] [null] [null] [];
 https://devpod-waw.uberinternal.com:443 [null] [302] [null] [null] ["34.149.196.191"] [null] [null] [null] [];
 https://devpod.uberinternal.com:443 ["301 Moved Permanently"] [301] [166] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
@@ -4680,6 +4687,7 @@ https://usso-staging.uberinternal.com:443 ["301 Moved Permanently"] [301] [166] 
 https://usso.uberinternal.com:443 ["301 Moved Permanently"] [301] [166] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://usuppliers.uber.com:443 ["302 Found"] [302] [269] ["text/html"] ["207.231.169.247"] [null] [null] [null] [];
 https://usurv-pat.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
+https://usurv-staging.UbERInTernal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://usurv-staging.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://usurv-tst.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://usurv.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];

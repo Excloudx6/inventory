@@ -482,6 +482,7 @@ http://coconut.uberinternal.com:80
 http://coconut.uberinternal.com:8080
 http://code-usso.uberinternal.com:80
 http://code.uberinternal.com:80
+http://codelabs.UbERInTernal.com:80
 http://codelabs.uberinternal.com:80
 http://coeshift-staging.uberinternal.com:80
 http://coeshift.uberinternal.com:80
@@ -502,6 +503,7 @@ http://concierge.uber.com:8080
 http://conecta.uber.com:80
 http://conecta.uber.com:8080
 http://config.uberinternal.com:80
+http://configurator.uberinternal.com:80
 http://connmon-staging.uberinternal.com:80
 http://connmon.uberinternal.com:80
 http://console-staging.uberinternal.com:80
@@ -663,6 +665,7 @@ http://devpod-us-or.uberinternal.com:80
 http://devpod-us-or.uberinternal.com:8080
 http://devpod-us-va.uberinternal.com:80
 http://devpod-us-va.uberinternal.com:8080
+http://devpod-us.UbERInTernal.com:80
 http://devpod-us.uberinternal.com:80
 http://devpod-us.uberinternal.com:8080
 http://devpod-waw.uberinternal.com:80
@@ -2448,6 +2451,7 @@ http://usso-staging.uberinternal.com:80
 http://usso.uberinternal.com:80
 http://usuppliers.uber.com:80
 http://usurv-pat.uberinternal.com:80
+http://usurv-staging.UbERInTernal.com:80
 http://usurv-staging.uberinternal.com:80
 http://usurv-tst.uberinternal.com:80
 http://usurv.uberinternal.com:80
@@ -3016,6 +3020,7 @@ https://coconut-staging.uberinternal.com:443
 https://coconut.uberinternal.com:443
 https://code-usso.uberinternal.com:443
 https://code.uberinternal.com:443
+https://codelabs.UbERInTernal.com:443
 https://codelabs.uberinternal.com:443
 https://coeshift-staging.uberinternal.com:443
 https://coeshift.uberinternal.com:443
@@ -3033,6 +3038,7 @@ https://concierge.uber.com:443
 https://conecta.uber.com:443
 https://config.ubERIntErNAl.com:443
 https://config.uberinternal.com:443
+https://configurator.uberinternal.com:443
 https://connmon-staging.uberinternal.com:443
 https://connmon.uberinternal.com:443
 https://console-staging.uberinternal.com:443
@@ -3169,6 +3175,7 @@ https://devpod-nld.uberinternal.com:443
 https://devpod-pln.uberinternal.com:443
 https://devpod-us-or.uberinternal.com:443
 https://devpod-us-va.uberinternal.com:443
+https://devpod-us.UbERInTernal.com:443
 https://devpod-us.uberinternal.com:443
 https://devpod-waw.uberinternal.com:443
 https://devpod.uberinternal.com:443
@@ -4680,6 +4687,7 @@ https://usso-staging.uberinternal.com:443
 https://usso.uberinternal.com:443
 https://usuppliers.uber.com:443
 https://usurv-pat.uberinternal.com:443
+https://usurv-staging.UbERInTernal.com:443
 https://usurv-staging.uberinternal.com:443
 https://usurv-tst.uberinternal.com:443
 https://usurv.uberinternal.com:443
