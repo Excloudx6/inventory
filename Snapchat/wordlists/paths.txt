@@ -5470,6 +5470,7 @@
 /:termsCategory?/:slug
 /:urlkey
 /?#
+/?cursorId=
 /?ll=
 /@/:username
 /@/:username/preview
@@ -6192,6 +6193,7 @@
 /__id/related/:recordId/:relationshipApiName\
 /__id\
 /_app
+/_assets/
 /_error
 /_nc_external/system/security/session/SessionTimeServlet
 /_next/
@@ -7944,6 +7946,7 @@
 /d+U
 /dF4HW
 /da-DK
+/da-DK/$1
 /damienhirst/
 /dashboard
 /data
@@ -7957,6 +7960,7 @@
 /dataimporter/dataImporter.app\
 /datasets$\
 /de-DE
+/de-DE/$1
 /de/
 /debug
 /debug/boxes/sds
@@ -8231,6 +8235,7 @@
 /emergency-disclosure-request
 /empty-state.svg
 /en-GB
+/en-GB/$1
 /en-US
 /en-US/a/pixel-dynamic-best
 /en-US/a/snap-ads-practices
@@ -8247,6 +8252,7 @@
 /error\
 /es
 /es/
+/es/$1
 /event/InvalidRecordEvent
 /eventIndex
 /events
@@ -8285,6 +8291,7 @@
 /feed/StockQuote.svc/
 /fetchStories
 /fi-FI
+/fi-FI/$1
 /fi/
 /file
 /file-asset/
@@ -8314,6 +8321,7 @@
 /fonts/v1
 /forbusiness
 /fr-FR
+/fr-FR/$1
 /fr/
 /frame/
 /frame/0
@@ -8424,6 +8432,7 @@
 /images/PlayButton.svg
 /images/SnapOriginals_Wordmark.svg
 /images/appstore.svg
+/images/create
 /images/f0ed40cac136e60730eb4909995a9870.png
 /images/favicon.png
 /images/ghost.svg
@@ -8481,10 +8490,12 @@
 /invoices/
 /invoices/available_payment_methods
 /it-IT
+/it-IT/$1
 /it/
 /items
 /j/collect
 /ja-JP
+/ja-JP/$1
 /jihI3
 /jkW
 /jobs
@@ -13399,6 +13410,7 @@
 /minis-1fd
 /minis-8e2
 /minis-a26
+/minis-ab9
 /minis-c97
 /minis-d40
 /minis-f64
@@ -13448,6 +13460,8 @@
 /minis/guidelines/best-practices/monetization-a4f
 /minis/guidelines/best-practices/overview
 /minis/guidelines/best-practices/overview-55e
+/minis/guidelines/best-practices/quality-and-testing
+/minis/guidelines/best-practices/quality-and-testing-1d2
 /minis/guidelines/content-security-policies
 /minis/guidelines/content-security-policies-34e
 /minis/guidelines/developer-guidelines
@@ -13578,6 +13592,7 @@
 /nMWHO
 /nav-items\
 /nb-NO
+/nb-NO/$1
 /nenFS
 /new
 /news
@@ -13588,6 +13603,7 @@
 /news/egg-hunt
 /next.svg
 /nl-NL
+/nl-NL/$1
 /nl/
 /no-role-assigned
 /no/
@@ -13758,6 +13774,7 @@
 /properties
 /proxy/api
 /pt-BR
+/pt-BR/$1
 /public-stories
 /public-stories/
 /public/releases/abdetect
@@ -14431,6 +14448,7 @@
 /sustainability/dgf/identify-date-issues\
 /sustainability/footprint-calculation/recalculate\
 /sv-SE
+/sv-SE/$1
 /svgs/
 /svgs/icons/legacy/
 /t=
@@ -34041,6 +34059,7 @@ Input-/-Top-Label-/-Warning
 J/J22q
 K/zvaj
 Kh/lkY
+Kj/wTu
 L//nYF
 L/A7qk
 LL/gdI
@@ -35495,6 +35514,7 @@ guide-apps/assets/modal.html
 guidelines/best-practices
 guidelines/best-practices/monetization
 guidelines/best-practices/overview
+guidelines/best-practices/quality-and-testing
 guidelines/content-security-policies
 guidelines/developer-guidelines
 guides/experimental-features
@@ -38864,6 +38884,7 @@ sha384-/USqewxO79kvJCkHmNkwB1ieMj4S7hf8MbrsKTREqQzBzjD276Vz0s/Gry/CbYEs
 sha384-/UjxZE7kSAQZdrmOgeE2tRV7bwIn3mId8y6AHTFRtTh27TfIG0LPFOFHL7jFUP3l
 sha384-/VNJz1RgWxmeAWivW2Fgb99tjfZSd/loYbGWgW2Cbpa3pxNkn7TNL78vQFGkxiEq
 sha384-/WVDWFg/XCLhcqGhxF3ikc3coXYXKKiH95JaZcvGvgAoknKcdxTwjhGjQf6Kswwm
+sha384-/Wk4aWLylBMt0Jmb9fdxodIkKi0d0SPus6yKb/OlD1odLP/7eTu5IWuhUmXUnTdu
 sha384-/XqSaS/fTSN7QIscav/lh/jUPtHwZs9pMWvlrF3v0NucKca0Tzz/PgQ2lUNsQyWM
 sha384-/ZNAiXnBzg/mwD7Z8CGexwG5G87RKsCEMyeJLlVeCaqMcD/uGcgaPolR0ouJgqQJ
 sha384-/ZcT7k22ts5nNXWJOz8hGlm0v5BJJOnWImeifTDedGWDkrcCv06gkfmaNKnZwyPt
@@ -38933,6 +38954,7 @@ sha384-1XSN3sB04pVutufAyY/ziReKa9oTGX4DIXux3VEfr5gCNxR5tZuXWm84Rm2URWJ3
 sha384-1cC1VF/P7AdaF7Wk3uIqXh1TIPk16tqOAy3UvI4UMwkWVTbXoB7NTaQFWZ4apZRH
 sha384-1emETrmaSsdFGo3Knc1lgBecYleR/ylcugpRpKP9Xmw/8LG9/TB/IiuU3nEvXqrI
 sha384-1kIUIBBTs6AGJlUT8YX2fVBm7MVzIlszw//KMD1EUFM16uMnAxpQccLduVf4Ds8Z
+sha384-1mwTT10JZbjjWOWFryawcGnUgBD47Hmrr3RxMPmQUONicH0LxBSqKWK/5FCAn3cF
 sha384-1nfdVctMpMl/y6/w5wDf0mFkjkxPdMljMCFg0ACa8oCMjoSaBIhDqUrzuek4tz7B
 sha384-1oO4FalBkewQgxvWJqNMBw2UBkl6/6enHh7/lHcNadu03kTZjON6K0Gs8H9K6PIV
 sha384-1pahZKL5vKYJ/iTgAjUlmiXNKrDS/zUz9KfwDcjktkBtSryTlDiVYVgvn/rM8e5U
@@ -38967,6 +38989,7 @@ sha384-3PF1l2mXk2ob4KE3hVSExRNT8yzwYAJH3VN5gE7/0UgOFsghiqreF7AKNW5TERBn
 sha384-3Wmcq6Y1xcX3MtB3Sy7MU41eGdr062YdIan1Tecu5cKNhJqu3xrq/zeq6zBWNdT3
 sha384-3XtNNT1JMUpwsLKQltz2sAPXThgCJjafMHUllm6rLL/U2HVtnh0FipFAvk/laxlP
 sha384-3Xu4Oku58MYxNs3HAP7c/chM4jWeuOxiY392WqvQ37l6mXhIHTZnNaKvlxvLhsNV
+sha384-3dMhwZBShQARPfL/GYLwKQ2atZx2gxs9S1VAUc3HM9qMIzO14B7lSN5ZICtV49v1
 sha384-3gcGVrpm6JQacN8PxlvEeZCLZAl7msSohMNy3i0JgSPWtDHB9IN6O/u0TsmL4/8U
 sha384-3jsnVEhOWy9zEb3Qp1CH2zxWMaZsH4cj72fxsm94sAZEGL/OjxYBIwN0UQ6kC5Uu
 sha384-3jxHZykN95JkEEBgOBQDe1i5zH1tMFSV610vztL7yAA/Pz/o94c64Kwh3jzplMWV
@@ -39275,6 +39298,7 @@ sha384-G3SMR5g/Ulv1e7laBDlspH6UVdtlQVXHsnEq3BfATPLRr5ggXk9PDnr7DC0zxwi0
 sha384-G4n1D/rQnxtPBhybyNXXOpvljqwEKi9KQPiF8hSDIKVLek3qzy17lRn8MgmTKiT3
 sha384-G4yFd7nehbwedD/xk27MY2OSH5nmzmD2xPyyz5uwveQS32Pe6ryOGZdvjByvcUdT
 sha384-GDcftXkzEgA5JOhTJY/B6pZ0c/jJxOeyAGHax0U8EaCK6Y/xfiEQzKJztKlMVrqT
+sha384-GEWMRefHxJOWodPN2baHngyuoViAuRbeVFdm9pk4uwOGoK8TAXD5P/Y7BEfRhkD5
 sha384-GHEqjJbLqzxTeAMCb2okpkhtuogUbKIotKrxSGq/n8NL7w3AWSh9oFUgnY770wLB
 sha384-GOzB2wxiArlDmOmX8y8oKQ7iu5Mwa38JmaSPqP4uzNrxDejsedGbj3JN/kKZ1eCu
 sha384-GUJVnSuTnijYnlprPcyYH4BrYPzw1h4ZmoCz3awF0B08OpDLsFXPL3/FuZvdDd8o
@@ -39325,6 +39349,7 @@ sha384-ITwzrM0jzQ/A5W8HVGvrnoFRdHPY5zf/FIp4EsURivlpP6tU6YwYsBdFmexXnEpS
 sha384-IUXyN/g58HVQqcJkFYbepCmlDWvAklJwyAo4xC2GyE4HOWrcmrspfJn/xpwPjxol
 sha384-IVdEDj1bPZwHlOvoAfgAXpeGehItWLc/GpGTJgKLEGdWet9vifMzHSqxJZevJYzz
 sha384-IVjMDg6nFu6j2OJ4FMJYsUN0gdCc9U1UtJvJzY9AvRHYS/Cg8tHKxVH9hat2MQmp
+sha384-IVkf0RuUzaUeZK3y94TbmjlCF2YP/rjChAvNmcSgw8AZEVoRgA0ig9ar6kmBAI21
 sha384-IYkpmjtZq3zeU26KDAk1z301aqWyAHgCNFWo002QiMmQtzXy8apwh6ZPaz9B/bBk
 sha384-IdnS9eAZr6OiGwM8ppBkA3rE8no/Gt61FgnKU28FXKLzsp3AToNhVFKKTxnBbF7l
 sha384-IeLIyX56uNpxSHYC/obgBhm/gR88pvfdpQ9ItiLFgQmL570QvvGc7XYKj2LT5cxK
@@ -39387,6 +39412,7 @@ sha384-KcNaZdb2doBfzqUOoSpT8UyYePCEVdubh3N7kupLiQ/HYZJDiIEh2s6QGd7egUWB
 sha384-KdFl0sKrkWnKHrYl74uRgPHO2Fegjav7Htfj4nQ6pCAaPTpG0/pCDSbOhPGVgk0y
 sha384-KeVqjo/pK6fyXCpmjJWOH6qiyT/pwH8yPwBpd5qSq7Q1oLziT7IxZYPzbL9TihTI
 sha384-KjggJ2b48WNS9Cn4GyGqu5JN7OU//YoQwzSFL4MK2gQdsZRFsZ9nJpXOn8k25U9L
+sha384-Kt56MLuSQMyNejOUIhEgX9z4a3oowCHpLMbCbQ9BCiJ8oaT6b5ajXoQzZ/4uldu1
 sha384-KvHOHy/KR5YAvNorS2lH/FieiK9TWiUSLu9VqZ00B/GeaWCwlBGePVnBLMH9S652
 sha384-L4FCs/fWES9J1ikYYlDxapOMoWEyYCQWXDEN2EExP3cCtaDtSgtO/cHq68Iv3eJI
 sha384-L4m/1X3JTU3AHmnBofysdWzqD1CNGhCpCviRPp8/XgQcaVpUfQwOjzYa3dBi6hLV
@@ -39536,6 +39562,7 @@ sha384-QLiEzvWD8zmfBNsrxB5eYY2yP1XJTaICslVt/vAfae9OKey0DDZRBIl7lHDlgDYJ
 sha384-QLupvNJMxZGnj1cyuR4RGuM/c0FyAg6FTQps3XwflHeT/DdHGt1PGEv81eJ/oqLK
 sha384-QO/KdeNmNmTU6K59GNYUoXLc5djrIpXz3XUhDVuJOJiXPq7LogtGL7UuwP9SObkD
 sha384-QO7HC70bEWNz0iPo0ji8YZ12N5z/T9ftV7ZwD60NnOKo3oVZSapmCN8/3I/LNhEk
+sha384-QS/PfxzML4tUl2YjfI18CEMGE546qYPYGqDsW9Q9U4FwBhOiJ4OR7ylIPSJL56BD
 sha384-QSLb8sacqV9wf/vHRiaD8OXmsZazCOi57xZ9HqgkO5rOZloInvjqzW/S5nHX3szV
 sha384-QSrx3FRHKXvPAs/shmyeAkZgqEgsiDpkr/jm8sCFJqbAAAF8LD3opJtOtVdsKtuN
 sha384-QUqS2vf6eXvJG1wL00tto6Lt6y6lgNkHMMjtXN9/VeCIHDuWGaVr7aN78V3RD5fU
@@ -39858,6 +39885,7 @@ sha384-e5zJEqjYh40FtJACFDfe3vDwejGImC52dSVSIYDu6SmySkcSRsO7qXqro59/f5hx
 sha384-e7Dl45qsz4lRtkCpmXCMwSjHLp/NUn0rqpnyUathHwzdfYGLI3J2WpodJJb2LsHq
 sha384-eDJYiojy2zeNgmdSVWWCrSNJ3zdK//j6B4M4RJBu8qnEoy4QEJPk/lbX0MXXcpQu
 sha384-eIxZRoS7nm3Dyj62Lu65ziz/PFdDyW9v0r8cP3hRADU4VcadmEkx4ZxqP6WUDx9s
+sha384-eKbnDGyJ4ydZ/0JIuXxZnu7nu7vtGKM8LKelm47sZYUPqHblzEvpArMBGVTJQEaR
 sha384-eMenklkORcH/JLMnhKHnb2Emz4OE5WgiabzuqCn7Rqb3eU0i7VnKK1aDEt8JUABC
 sha384-eNX5kblmycl0KEs3pyIOijgGvXnqTfsWSrpTPIH7Fo8iYUn06Ri/DzfTsYZCJff7
 sha384-eVQTVVwpFfW8smSraAy2SUdTKS0Sp2ZabUrc0dGeDSHX6urPi8PbLpkPhot/nNSB
@@ -40046,6 +40074,7 @@ sha384-lAQiMKob0v7lpi0UcRl0qcgN5OFwVt9DdgR4nUOZjsriDUg/gTTDfK75McJR5duh
 sha384-lBM1HXeae6h7G5kvT0Fgu8IqAd824U9GGUg/RbH/JTCEiwgtQ/9XA3x4xLW249R9
 sha384-lIPxgZWR77bPQz7yqVr/j8/Y5TQSqNOqgW1Ywc0n7c3VCGM9QGTzETPJz296ZN3/
 sha384-lQWbI9GTaORvY4OAcE5PWyNIDPeSd8BeKP5zH69tAs0MzV6/PzS/JuMFMAxv4t9q
+sha384-lU/b/k7Oirdkaa8CTJbbU0VA6LqXhC1TqHwD5f9OkALk0uxThpXeMQJbmNcorE4/
 sha384-lX0SC7wp8l44FQFvmuhGfRHhAegnAeFVn7atOaMhH9ty9vzn/rb8FT5egofCTxAu
 sha384-lXotIPjRhOlcZ5IgA3WQU7QzX/1V/81LVecavbN6Y0WYgN0NG3/ZUlOpYzUUcbqq
 sha384-lY7cAF0gJjB9eckY5NKgpR/FXJ/kp8a7IqcuPUzAb9tIXk0xnn/ugde0EWTznzDm
@@ -40070,6 +40099,7 @@ sha384-m5TxO1HTCA2DFdeK0ltMkquM8RoScUePukophqch/qwrg1U7fUnP3yZeVdUEmp/R
 sha384-m5gWH3ohQYTHi3/BGc7GN93De5RABdmyD83td7FP8LAkboIdrXn4c21FRDQGqsmZ
 sha384-m6ansqx8lq630ZLopWvENjoxQ6tVl4jte38cHfo/CgNBh4iAhAestvrZHa6bhva4
 sha384-m9i9GhctqOYGqyy7TDUFtnocpWmAkL/SuX32DX7ncNTyS5L3pg50zT7fNZGXEgEC
+sha384-mD/LugqULb8mNAHCgCq/OogTvkkJVT445XTT3gQCXMhJdCkiOUcswGc85NvwbpRD
 sha384-mD77tbRAPSSGxvspVEADtYCPRTii3gJx/uewzuaeXZxuBOnC7o5FOGa/45QUw3PD
 sha384-mGhxedOaD8SzQD2xeJm9DfVKjLku2QEM8qygVv/zgqbIM21cOJfNkI0tAhK3eTJu
 sha384-mIQakpGYGy0D30ilrfsFBm5yeHLTbRNkvfaAhphd459cJ6mlsp4/Kn4rnlIMsMPA
@@ -40234,6 +40264,7 @@ sha384-t/1scy1HCV4CA/dsLCUI8HOHMRZk7p98cVdSNEJ248Jib3AXVQS2HQEcUjUk8CQR
 sha384-t25nGAC940YOJ8GSIYdxMn0touY/MDMmSu/UVu8z2U9Jgh5zsd7YywY5DPyRYXl2
 sha384-t4Z9i4vtnsAOjFIF6JSfkHww/Ri25yEMYgjtuMB0wgo9MOItbv7wHm5/1fPzh69s
 sha384-t5fB2kFkuL0rs8OOc/Nx7iHxsnYKRQn5xoAmRmhX46eVHw5tKRrxuLydSbJke0hp
+sha384-tA4oqjHTaGYmNsJEqr2mYqeDCmfmSxKeJ/eIMOwFbIttUZxgXZz3NpcvDeL/MvhA
 sha384-tB1SzbfiXwupwtIDhdq64/R6bujdMzkhHgfhN9G6wp3/WUU3VKI7HuTvNvlLo36e
 sha384-tECQ/2QE3NnE2OrZaG0tCE65ojRrqTAb6M3T1EDRPrtsLL/uA9yDOfNtB3KngYa7
 sha384-tGL9rkx8HPS/Gm9gPCYL5wY3A8kVQf8pfaXuptg0Dh2pHjK5EodTRg/g5KDCgM52
@@ -40284,6 +40315,7 @@ sha384-vADb8gAj1q0ybH/u3njbwBbpvwXTCoEaYzerzrdM5qiTRiSTS3Dy9hwCGmLJmSki
 sha384-vAl4P5UykDCKv2Q3gyzNlGd6GLAYcU/XStoVz47xVGcX7WvBPfflJ1beBPwtfd/p
 sha384-vBPb8j87HWJe1flildzzOEqK6jgFK74xgx7oEJ6Q1YDeB/S5IKQIvqEBl49duMUe
 sha384-vFyGnAkWfQl1x/AmoEWmkf9Uz/vOyoZv21peU/0ed2GRtqXDBHVtrWOLSKMFG9Zy
+sha384-vWDmIspeuTpeeyg2twgJHXG4K/qELofUF2TKip0qj/QPsRnfnzOXAjjuNeCOWhIE
 sha384-vXYQ2e/T2ZrAHYvPtsqf8GL2MuJ8zxCOUAF1WVrxOon8mdR9B2RFSTfBf6/NTZqf
 sha384-vZh1U2GnuqEuVusNbzmoBHRV3I80psPKL/1Z6pKDlFC3RJgshtq/UDcPg//8i0Pe
 sha384-vcUrFpTZaYaiQLhymAjJI5HbiZtc/V67SPE2f5c3rAwLZkHCnbaI4dwK6Gtd1GUu
@@ -40484,6 +40516,7 @@ state/RESET_STORE
 static/chunks/
 static/chunks/01217b07-ac871055a2d571da.js
 static/chunks/1013-d52f3f86bb558c31fbef.js
+static/chunks/117-a8fed4d661e6116c.js
 static/chunks/117-f6f134fb5c7c6979.js
 static/chunks/13-28ff01d71ed5efaa3164.js
 static/chunks/1320-9220f159659849cf6b33.js
@@ -40493,6 +40526,7 @@ static/chunks/1537-0922d4393da976a2.js
 static/chunks/1563-9eab2bec762d6134.js
 static/chunks/1606-a616d9d820759102.js
 static/chunks/182-325919551bf1574a.js
+static/chunks/182-d364cab6aa73df42.js
 static/chunks/182-f7c8fb37085edd56.js
 static/chunks/185-082fd754affb0de7.js
 static/chunks/185-4c1427d62f003e83.js
@@ -40634,6 +40668,7 @@ static/chunks/5459-d61bc9299773121d.js
 static/chunks/5468-a8ab2fdae20530ea.js
 static/chunks/5468-c359008f7373fedd.js
 static/chunks/5468-cd3e81b36bf24bb2.js
+static/chunks/564-07a829528316336f.js
 static/chunks/5646-0dfb9bf17d2ed6b6.js
 static/chunks/5646-2d02c6a9f3272253.js
 static/chunks/5646-dea3aae0937b65fa.js
@@ -40700,6 +40735,7 @@ static/chunks/8516-8e99c44dfc01daea45f3.js
 static/chunks/855-d01676c585eb263b.js
 static/chunks/856-a96816dd53ef09765e83.js
 static/chunks/85acd309-9a2843aa26730221.js
+static/chunks/85acd309-dbe5305247612cca.js
 static/chunks/8662-290c447127f8b19d.js
 static/chunks/8662-4213907e8c48c7c6.js
 static/chunks/8662-47dc44aeb6c7bd61.js
@@ -40754,6 +40790,7 @@ static/chunks/d8e2641b-d7cb34cbce9690f3.js
 static/chunks/f65a48b9-1651d88a1e5c9e63e74e.js
 static/chunks/f65a48b9-6df5e32ee7263d22fd4d.js
 static/chunks/pages/404-0295bf80c24660bc.js
+static/chunks/pages/404-04bda8eb8304819d.js
 static/chunks/pages/404-113b87372432790a.js
 static/chunks/pages/404-1bc76a78324cd811.js
 static/chunks/pages/404-1dfbcbb0fc0e60e8.js
@@ -40878,6 +40915,7 @@ static/chunks/pages/docs/posts/sticker-kit-nodejs-fea99d8d2f47f8b564f6.js
 static/chunks/pages/docs/posts/support-ea6c0aed1faabdb099d1.js
 static/chunks/pages/games-a0fb9e9033dd44fef87f.js
 static/chunks/pages/games-d44fca84bc795640edf4.js
+static/chunks/pages/index-0a6178f476b24f78.js
 static/chunks/pages/index-0b6fb58b95e77df4.js
 static/chunks/pages/index-114d841bc68b0f41.js
 static/chunks/pages/index-11fe1a78f08fa14d.js
@@ -40886,6 +40924,7 @@ static/chunks/pages/index-19bfc597bbe352fc.js
 static/chunks/pages/index-1b0abc85425d66dc.js
 static/chunks/pages/index-22b2b9c97ee7d6bc.js
 static/chunks/pages/index-22e62a7d73c0a2db.js
+static/chunks/pages/index-2616afbdec546929.js
 static/chunks/pages/index-3172ceac25219795.js
 static/chunks/pages/index-325c9dbe6921c150.js
 static/chunks/pages/index-36456bef49826a9f.js
@@ -41052,6 +41091,7 @@ static/css/734ae02e6d245473.css
 static/css/7364a41d5aa76eee.css
 static/css/78e1a17324e70dfc.css
 static/css/7993e6afee821417.css
+static/css/7a67a7f952c8e2a4.css
 static/css/7e663c84a81bce32.css
 static/css/81ac17441112681e.css
 static/css/83782de17ce60ef6.css
@@ -41107,6 +41147,8 @@ static/css/e1096ce456cd517c.css
 static/css/e28c215341805332.css
 static/css/e3528632f808b1ba.css
 static/css/e7dd185fe7d375f1.css
+static/css/ee3173f12a1b3be7.css
+static/css/ee7ca884cdd5da6a.css
 static/css/eebe9a44a7034ac7.css
 static/css/f27711654761aa79.css
 static/css/f4d4345eb3f236cd.css
