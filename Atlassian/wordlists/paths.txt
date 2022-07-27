@@ -5584,6 +5584,7 @@
 /cloud/admin-api-token-management/
 /cloud/admin-hub/
 /cloud/admin-insights/
+/cloud/admin-portfolio/
 /cloud/admin/
 /cloud/anti-abuse-file-scanner/
 /cloud/ari-graph-store/
@@ -6080,6 +6081,7 @@
 /enterprise/tam
 /entities/
 /entities/anonymous/
+/entitlement/
 /entitylink/
 /entitylink/localEntitiesWithLinksTo/
 /entitylink/primary/
@@ -6948,6 +6950,7 @@
 /jquery-migrate.js
 /jquery.js
 /js
+/js/
 /js/aui-datepicker.min.js
 /js/aui-experimental.min.js
 /js/aui-soy.min.js
@@ -7483,6 +7486,7 @@
 /platform/alfred/
 /platform/app-migration-service/
 /platform/app-migration/
+/platform/app-usage-tracking/
 /platform/asap/
 /platform/asset-attribution/
 /platform/atlas-bot/
@@ -10433,6 +10437,7 @@ Vue.js
 Y/M/D
 YYYY/M/D
 YYYY/MM/DD
+__/ais-highlight__
 _jira-spa/spa-shell/page-container.end
 _manifest.json
 abortcontroller.js
@@ -14373,6 +14378,7 @@ packages/media/smart-card/examples/vr-flexible-ui-element-media.tsx
 packages/media/smart-card/examples/vr-flexible-ui-element-provider.tsx
 packages/media/smart-card/examples/vr-flexible-ui-element-text-and-date.tsx
 packages/media/smart-card/examples/vr-flexible-ui-options.tsx
+packages/media/smart-card/examples/vr-hover-cards-ssr.tsx
 packages/media/smart-card/examples/vr-hover-cards.tsx
 packages/media/smart-card/examples/vr-inline-card-default-icon.tsx
 packages/media/smart-card/examples/vr-inline-card-loading-icon.tsx
