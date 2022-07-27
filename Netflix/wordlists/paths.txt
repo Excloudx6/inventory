@@ -6921,6 +6921,7 @@
 /api/1/performance
 /api/1/performance/records
 /api/1/performance/settings
+/api/\
 /api/a/vendors/recommended/
 /api/account/request
 /api/activities/
@@ -7770,8 +7771,12 @@
 /components/onboarding-workflow/components/requested-document/requested-document.template.html
 /components/onboarding-workflow/components/upload-document/upload-document.template.html
 /components/onboarding-workflow/components/vendor-item-selector/vendor-item-selector.template.html
+/components/onboarding-workflow/components/vendor-onboarding-stage-edit/partials/action-buttons.html
+/components/onboarding-workflow/components/vendor-onboarding-stage-edit/partials/action-buttons.html\
 /components/onboarding-workflow/components/vendor-onboarding-stage-edit/partials/button-save.html
 /components/onboarding-workflow/components/vendor-onboarding-stage-edit/partials/button-save.html\
+/components/onboarding-workflow/components/vendor-onboarding-stage-edit/partials/stage-locking-action-buttons.html
+/components/onboarding-workflow/components/vendor-onboarding-stage-edit/partials/stage-locking-action-buttons.html\
 /components/onboarding-workflow/components/vendor-onboarding-stage-edit/partials/stage-locking-button-save.html
 /components/onboarding-workflow/components/vendor-onboarding-stage-edit/partials/stage-locking-button-save.html\
 /components/onboarding-workflow/components/vendor-onboarding-stage-edit/vendor-onboarding-stage-edit.template.html
@@ -8381,6 +8386,7 @@
 /dashboard/?availability&amp;date_start&amp;date_end&amp;redirect_to_onboarding
 /dashboards
 /data/
+/data/\
 /data/all-weeks-countries.tsv
 /data/all-weeks-countries.xlsx
 /data/all-weeks-global.tsv
@@ -8426,6 +8432,7 @@
 /discovery/profile/:slug/
 /discussions/:discussion_id
 /dislike/:id
+/disqualify/
 /dist/
 /diversity
 /diversity-survey
@@ -8630,6 +8637,7 @@
 /file/?inline=true
 /file?
 /files/
+/files/\
 /firmwareVersion/search
 /firmwareVersions/
 /firmwareVersions/esn/
@@ -8653,6 +8661,7 @@
 /fonts/NetflixSans_W_Md.woff2
 /form_templates/
 /forms/
+/forms/\
 /fpm/REST/v1
 /free-plan
 /ftl/probe
@@ -9029,7 +9038,9 @@
 /onboarding/?workflow=
 /onboarding/\
 /onboarding_managers/
+/onboarding_managers/\
 /onboarding_questionnaires/
+/onboarding_questionnaires/\
 /oneOf
 /only-on-netflix
 /only-on-netflix/
@@ -9726,6 +9737,7 @@
 /resources/sdp-lob-and-governance
 /resources/triplecrown-analystreports
 /response/
+/response/\
 /rest/v1/delivery
 /restore/
 /restore/\
@@ -10079,6 +10091,7 @@
 /simpleSetup/cashorderfinal
 /simpleSetup/createprofile
 /simpleSetup/customizing
+/simpleSetup/democollection
 /simpleSetup/devicesurvey
 /simpleSetup/kidsprofiles
 /simpleSetup/maturitypin
@@ -10289,6 +10302,7 @@
 /task_time_sheet/
 /tasks
 /tasks/
+/tasks/\
 /tasks/available
 /tasks?name=
 /team
@@ -10549,6 +10563,7 @@
 /vendors/\
 /vendors/compliance/force-compliant/
 /vendors/compliance/not-compliant/
+/vendors/disqualify/
 /vendors/finish/
 /vendors/next_stage/
 /vendors/validate_and_proceed/
@@ -10560,12 +10575,14 @@
 /veriff/
 /verifyage
 /verifycode
+/verifydevice
 /verifydevice/code
 /verifydevice/network
 /verifydevice/scan
 /verifydevice/start
 /verifydevice/success
 /verifydevice/tryagain
+/verifydevice/wifi
 /verifyidentity
 /verifymembercode
 /verifyphone
@@ -10824,6 +10841,7 @@ Australia/Sydney|Australia/Canberra
 Australia/Sydney|Australia/NSW
 AxT22eLm/K3m9jRGIna1iLBR
 Branding/Identity
+BuyerTasksContainer/my_task_only
 CWXWmrxvJvYGsf/VPNB1qBFz
 Canada/East-Saskatchewan
 Countries/Regions
@@ -10895,6 +10913,7 @@ Gd//z2ycmSM/vPz0d8HOXbIu
 GeqUVvLoscOH/QzUQ3JlvBf7
 Gy/MM/dd
 HBN/JPcneZeRy1sotcPyBGsF
+HQPu3/DrFCiHpNX73MoLa5ZP
 Home/End
 Horror/Thrillers
 IN/MemberProfile
@@ -12852,6 +12871,7 @@ partials/wizard/paperCert.html
 partials/wizard/projectType.html
 partials/wizard/upgrade.html
 pause/break
+payments/freelancer
 payments/line_items_categories/
 payments/tax_rates/
 payrun-status.html
@@ -12903,6 +12923,7 @@ release/license
 remarkable/linkify
 requested_documents/upload_file_config/
 reviews/addReviewVote
+reviews/freelancer
 reviews/reviewdetail
 route-recognizer/dsl
 router/handler-info
@@ -13032,6 +13053,7 @@ static/chunks/54-e165f5bfe8d1074d4600.js
 static/chunks/54-f1def7c217d41f7d1b3b.js
 static/chunks/976-89feafe46b727079286d.js
 static/chunks/993-3f1eee3bbb5013d16cec.js
+static/chunks/993-4eeb9f16b7946e41fe11.js
 static/chunks/993-5ad011416caebc2c1891.js
 static/chunks/993-71af170a30900a6013b2.js
 static/chunks/993-7cdf793a367f6cb41c31.js
