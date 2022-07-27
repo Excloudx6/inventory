@@ -88,6 +88,7 @@
 ../App
 ../App.prepare
 ../HyperloopIndex
+../ListingVisibilityRoute
 ../LuxuryTermsRouteWrapper
 ../NotificationPreferencesRouteWrapper
 ../PaymentsRoute.prepare
@@ -156,9 +157,11 @@
 ../components/resetPasswordForm/ResetPasswordFormContainer
 ../components/twoStepVerificationEdit/TwoStepVerificationEdit
 ../containers/AddUnscheduledPlaceContainer
+../containers/CheckInModalContainer
 ../containers/ClaimEmailInvitePage
 ../containers/ClaimLinkInviteLandingPageContainer
 ../containers/ClaimLinkInviteModalContainer
+../containers/DirectionsModalContainer
 ../containers/ExploreSearchContainer
 ../containers/GuidebooksSearchContainer
 ../containers/HomepageContainerV3
@@ -2006,6 +2009,7 @@
 /account-settings/currency
 /account-settings/email-unsubscribe
 /account-settings/language
+/account-settings/listing-visibility
 /account-settings/login-and-security
 /account-settings/login-and-security/two-step-verification
 /account-settings/luxury-terms
@@ -2197,6 +2201,7 @@
 /charts
 /charts/
 /chatandcollaboration/edit/save-data
+/check-in-guide
 /checkoutplatform/:subRoute?
 /china-guest-moweb-loop/cls_cache_result
 /china-guest-moweb-loop/cls_result
@@ -2279,6 +2284,7 @@
 /developers/
 /devices-apns2/
 /devices/
+/directions-modal
 /discover
 /dominican-republic/punta-cana
 /dominican-republic/santo-domingo
