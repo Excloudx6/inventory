@@ -2,6 +2,7 @@
 2018-account-access-adminadmin-backup.gsw1.voicetone.att.com
 2018-admin-backup.gsw1.voicetone.att.com
 2018backupelasticbeanstalk.cat1gsw.voicetone.att.com
+2019-account-accountadminadmin-backup.gsw1.voicetone.att.com
 2019-accountadminadmin-backup.gsw1.voicetone.att.com
 2019adminadmin-backup.gsw1.voicetone.att.com
 2019backupelasticbeanstalk.cat1gsw.voicetone.att.com
@@ -8384,6 +8385,7 @@ H-135-207-241-27.RESeARCH.att.com
 H-135-207-241-27.research.att.com
 H-135-207-241-28.research.att.com
 H-135-207-241-30.research.att.com
+H-135-207-241-31.research.aTt.com
 H-135-207-241-31.research.att.com
 H-135-207-241-32.research.att.com
 H-135-207-241-33.research.att.com
@@ -15024,6 +15026,7 @@ alnscmintegration.att.com
 alp.acss.att.com
 alpha-access-account-access-adminadmin-backup.gsw1.voicetone.att.com
 alpha-accessaccess-adminadmin-backup.gsw1.voicetone.att.com
+alpha-accountadminadmin-backup.gsw1.voicetone.att.com
 alpha-adminadmin-backup.gsw1.voicetone.att.com
 alpha.myvehicle.stage.att.com
 alpha.wireless.att.com
@@ -15449,6 +15452,10 @@ attdashboard.wireless.att.com
 attee.uc.att.com
 attengage.att.com
 attengpreprod.att.com
+attfacilitiesportal-az-portal.att.com
+attfacilitiesportal-az-portal.stage.att.com
+attfacilitiesportal.att.com
+attfacilitiesportal.stage.att.com
 attfleet.att.com
 attfleet.test.att.com
 attgac-frfd.att.com
@@ -15754,6 +15761,7 @@ c3-test2.firstnet.att.com
 c3.firstnet.att.com
 c3.stage.att.com
 c360-api-dev.att.com
+c360-api-perf.att.com
 ca.uc.att.com
 caaid.att.com
 caaid.stage.att.com
@@ -15863,6 +15871,7 @@ ce-prod-datchl.att.com
 cellbounceiotgw.att.com
 cellbounceiotgw.test.att.com
 centers-api-dev.att.com
+centers-api-perf.att.com
 centers.att.com
 cep.att.com
 cert-da.idp.blogin.att.com
@@ -15894,6 +15903,7 @@ chclm.stage.att.com
 chclm.test.att.com
 chcssd3.uccentral.att.com
 chef-access-adminadmin-backup.gsw1.voicetone.att.com
+chef-admin-backup.gsw1.voicetone.att.com
 chef.cat1gsw.voicetone.att.com
 chi.att.com
 chinese.att.com
@@ -15946,6 +15956,7 @@ clicktoconnect-agent.att.com
 clicktoconnect.att.com
 clicktoconnectsupport.att.com
 clm-api-dev.att.com
+clm-api-perf.att.com
 cloauth-al.idp.clogin.att.com
 cloauth-da.idp.clogin.att.com
 cloauth-ff.idp.clogin.att.com
@@ -16040,6 +16051,7 @@ community-apimarket.att.com
 compareoffer.att.com
 compute.synaptic.att.com
 comrest-directvcommercial.att.com
+conagw-test-e2.cloud.att.com
 conf.uc.att.com
 conferencecenter.uc.att.com
 confhpa.att.com
@@ -16383,6 +16395,7 @@ dialin.claritynvtsfb.test.att.com
 dialin.claritysfb.labs.att.com
 dialin.labs.att.com
 digital-api-dev.att.com
+digital-api-perf.att.com
 digital.att.com
 digitaldesign-dr.att.com
 digitaldesign-prod.att.com
@@ -16856,6 +16869,7 @@ emm-ca01-crl.dp.att.com
 employeediscountprogram.att.com
 employeerelief.att.com
 empvca.vpn.att.com
+empvga.VpN.att.com
 empvga.vpn.att.com
 empvhk.vpn.att.com
 empvmi.vpn.att.com
@@ -17091,6 +17105,7 @@ ga02.acss.att.com
 ga03.acss.att.com
 ga04.acss.att.com
 ga05.acss.att.com
+ga06.AcsS.att.com
 ga06.acss.att.com
 gaemp1.vpn.att.com
 gaemp2.vpn.att.com
@@ -17118,6 +17133,7 @@ gbr02.att.com
 gbr02.test.att.com
 gbr03.att.com
 gbr04.att.com
+gcpaccess-adminadmin-backup.gsw1.voicetone.att.com
 gcpyouknow.att.com
 gems.att.com
 gen.cloud.att.com
@@ -31652,6 +31668,7 @@ jenkins-antivirus-booster-and-cleaner.cat1gsw.voicetone.att.com
 jenkins-directvcommercial.test.att.com
 jenkins.iqidev.labs.att.com
 jenkins.nc.opensource.att.com
+jenkinsadmin-backup.gsw1.voicetone.att.com
 jira.iqidev.labs.att.com
 jira.labs.att.com
 join.amkorvideo.att.com
@@ -33380,6 +33397,7 @@ restage.att.com
 restapi19.att.com
 retail-api-dev.att.com
 retail-api-hotfix.att.com
+retail-api-perf.att.com
 retail.dp.att.com
 retail2.dp.att.com
 retailleadershiptraining.att.com
@@ -34155,6 +34173,8 @@ test3.uc.att.com
 test4-businesscenter.att.com
 test4.att.com
 test4.uc.att.com
+test5.att.com
+test6.att.com
 testedge1.exch.att.com
 testedge2.exch.att.com
 texas.att.com
@@ -34525,6 +34545,7 @@ vmrlab.att.com
 vn001.acss.att.com
 vn002.acss.att.com
 vn003.acss.att.com
+vn004.acss.ATT.com
 vn004.acss.att.com
 vn005.acss.att.com
 vn006.acss.att.com

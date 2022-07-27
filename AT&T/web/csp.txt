@@ -116,6 +116,7 @@ https://*.s3.amazonaws.com
 https://*.salesforceliveagent.com
 https://adservice.google.com
 https://adservice.google.com.ua
+https://ajax.googleapis.com
 https://alienvault.lookbookhq.com/
 https://api-3pdev-directvcommercial.test.att.com
 https://api-asvt-directvcommercial.test.att.com
@@ -170,6 +171,7 @@ https://maps.googleapis.com
 https://media.ringcentral.biz
 https://nccdtl01ms1645.itservices.sbc.com
 https://oidc.stage.flogin.att.com
+https://oidc.test.flogin.att.com
 https://origin-analytics-sand.sandbox.braintree-api.com
 https://oss.maxcdn.com
 https://pagead2.googlesyndication.com
@@ -195,6 +197,7 @@ https://service-2.ariba.com/
 https://service.ariba.com/
 https://siteintercept.qualtrics.com
 https://static-js-fcontent.stage.att.com
+https://static-js-fcontent.test.att.com
 https://stats.g.doubleclick.net
 https://tags.expo9.exponential.com
 https://tpc.googlesyndication.com
@@ -210,6 +213,7 @@ https://www.googletagservices.com
 https://www.gstatic.com
 https://www.paypal.com
 https://www.paypalobjects.com
+https://www.ssa.gov
 https://www.wirelessexpensemanager.net/
 ib.adnxs.com
 in.getclicky.com

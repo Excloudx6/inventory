@@ -117,6 +117,7 @@ http://ap.att.com:80
 http://apacadmin.uc.att.com:443
 http://apextoolkit.att.com:80
 http://api-dmp.wireless.att.com:80
+http://api-east.dataflow.iot.att.com:443
 http://api-east.dataflow.iot.att.com:80
 http://api-east.flow.cloud.att.com:80
 http://api-simmanagement.att.com:443
@@ -243,6 +244,8 @@ http://attconsumer.att.com:80
 http://attdashboard-test.wireless.att.com:80
 http://attdashboard-zr.wireless.att.com:80
 http://attdashboard.wireless.att.com:80
+http://attfacilitiesportal-az-portal.att.com:80
+http://attfacilitiesportal.att.com:80
 http://attfleet.test.att.com:80
 http://attmbl-us.att.com:80
 http://attmbl-usdev.att.com:80
@@ -341,6 +344,7 @@ http://c3-test.firstnet.att.com:80
 http://c3-test2.firstnet.att.com:80
 http://c3.firstnet.att.com:80
 http://c360-api-dev.att.com:80
+http://c360-api-perf.att.com:80
 http://caaid.att.com:80
 http://cabling.att.com:80
 http://cacti.uc.att.com:80
@@ -372,6 +376,7 @@ http://cdn-cybersecurity.att.com:80
 http://cdn-cyberstaging.att.com:80
 http://cdn-mp.att.com:80
 http://centers-api-dev.att.com:80
+http://centers-api-perf.att.com:80
 http://cep.att.com:80
 http://cep.att.com:8080
 http://changeenablementportal.att.com:80
@@ -389,6 +394,7 @@ http://click2.wireless.att.com:80
 http://click2.wireless.att.com:8080
 http://clicks.att.com:80
 http://clm-api-dev.att.com:80
+http://clm-api-perf.att.com:80
 http://cloud.research.att.com:80
 http://clouduser.synaptic.att.com:80
 http://cmp.att.com:80
@@ -542,6 +548,7 @@ http://dfsttraining.att.com:80
 http://dg.att.com:80
 http://dhvpn-crl.att.com:80
 http://digital-api-dev.att.com:80
+http://digital-api-perf.att.com:80
 http://digital.att.com:80
 http://digitaldesign-prod.att.com:80
 http://digitaldesign.att.com:80
@@ -1339,6 +1346,7 @@ http://notify.att.com:80
 http://notify.att.com:8080
 http://now.att.com:80
 http://now.att.com:8080
+http://now.cloud.att.com:80
 http://npwt.att.com:80
 http://nsqm.research.att.com:80
 http://oah.att.com:80
@@ -1605,6 +1613,7 @@ http://resourcecenterbbt.asi.att.com:443
 http://resources.att.com:80
 http://retail-api-dev.att.com:80
 http://retail-api-hotfix.att.com:80
+http://retail-api-perf.att.com:80
 http://retail2.dp.att.com:8080
 http://retailleadershiptraining.att.com:80
 http://retailpodcast.att.com:80
@@ -1995,6 +2004,7 @@ http://test3-wireless.firstnet.att.com:80
 http://test3.att.com:80
 http://test4-businesscenter.att.com:80
 http://test4.att.com:80
+http://test6.att.com:80
 http://texas.att.com:80
 http://texas.att.com:8080
 http://texas.att.com:8443
@@ -2146,6 +2156,7 @@ http://vm.att.com:80
 http://vn001.acss.att.com:80
 http://vn002.acss.att.com:80
 http://vn003.acss.att.com:80
+http://vn004.acss.ATT.com:80
 http://vn004.acss.att.com:80
 http://vn005.acss.att.com:80
 http://vn006.acss.att.com:80
@@ -3075,6 +3086,10 @@ https://attdashboard-test.wireless.att.com:443
 https://attdashboard-zr.wireless.att.com:443
 https://attdashboard.wireless.att.com:443
 https://attengage.att.com:443
+https://attfacilitiesportal-az-portal.att.com:443
+https://attfacilitiesportal-az-portal.stage.att.com:443
+https://attfacilitiesportal.att.com:443
+https://attfacilitiesportal.stage.att.com:443
 https://attfleet.att.com:443
 https://attfleet.test.att.com:443
 https://attgmm.att.com:443
@@ -3220,6 +3235,7 @@ https://c3-test2.firstnet.att.com:443
 https://c3.firstnet.att.com:443
 https://c3.stage.att.com:443
 https://c360-api-dev.att.com:443
+https://c360-api-perf.att.com:443
 https://caaid.att.com:443
 https://caaid.stage.att.com:443
 https://cabling.att.com:443
@@ -3275,6 +3291,7 @@ https://cdn-cyberstaging.att.com:443
 https://cdn-mp.att.com:443
 https://cdst.bus.att.com:443
 https://centers-api-dev.att.com:443
+https://centers-api-perf.att.com:443
 https://cep.att.com:443
 https://cert-da.idp.blogin.att.com:443
 https://cert-da.idp.flogin.att.com:443
@@ -3329,6 +3346,7 @@ https://clicktoconnect-agent.att.com:443
 https://clicktoconnect.att.com:443
 https://clicktoconnectsupport.att.com:443
 https://clm-api-dev.att.com:443
+https://clm-api-perf.att.com:443
 https://cloauth-al.idp.clogin.att.com:443
 https://cloauth-da.idp.clogin.att.com:443
 https://cloauth-ff.idp.clogin.att.com:443
@@ -3380,6 +3398,7 @@ https://comms.att.com:443
 https://communitiesmember.att.com:443
 https://community-apimarket.att.com:443
 https://comrest-directvcommercial.att.com:443
+https://conagw-test-e2.cloud.att.com:443
 https://confssp.att.com:443
 https://connect.att.COm:443
 https://connect.att.com:443
@@ -3540,6 +3559,7 @@ https://devstage.att.com:443
 https://dfsttraining.att.com:443
 https://dg.att.com:443
 https://digital-api-dev.att.com:443
+https://digital-api-perf.att.com:443
 https://digital.att.com:443
 https://digitaldesign-prod.att.com:443
 https://digitaldesign.att.com:443
@@ -3752,6 +3772,7 @@ https://emergingvoices.att.com:443
 https://emm-ca01-crl.dp.att.com:443
 https://employeerelief.att.com:443
 https://empvca.vpn.att.com:443
+https://empvga.VpN.att.com:443
 https://empvga.vpn.att.com:443
 https://empvhk.vpn.att.com:443
 https://empvmi.vpn.att.com:443
@@ -3847,6 +3868,7 @@ https://fcontent-da.att.com:443
 https://fcontent-sf.att.com:443
 https://fcontent.att.com:443
 https://fcontent.stage.att.com:443
+https://fcontent.test.att.com:443
 https://fedgovservicestest.att.com:443
 https://fedsnowtst.stage.blogin.att.com:443
 https://ffdcsidmaccess.att.com:443
@@ -4969,6 +4991,7 @@ https://restage.att.com:443
 https://restapi19.att.com:443
 https://retail-api-dev.att.com:443
 https://retail-api-hotfix.att.com:443
+https://retail-api-perf.att.com:443
 https://retail.dp.att.com:443
 https://retail2.dp.att.com:443
 https://retailleadershiptraining.att.com:443
@@ -5219,6 +5242,7 @@ https://static-js-bcontent.att.com:443
 https://static-js-bcontent.stage.att.com:443
 https://static-js-fcontent.att.com:443
 https://static-js-fcontent.stage.att.com:443
+https://static-js-fcontent.test.att.com:443
 https://status-firstnetcontrolcenter.att.com:443
 https://status-iotcontrolcenter.att.com:443
 https://status-m2x.att.com:443
@@ -5530,6 +5554,7 @@ https://vm.att.com:443
 https://vn001.acss.att.com:443
 https://vn002.acss.att.com:443
 https://vn003.acss.att.com:443
+https://vn004.acss.ATT.com:443
 https://vn004.acss.att.com:443
 https://vn005.acss.att.com:443
 https://vn006.acss.att.com:443
