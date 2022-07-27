@@ -537,7 +537,7 @@ https://payflowlink.payflow.edge.paypal.com:443 ["Payflow Link"] [200] [1661] ["
 https://payflowlink.paypal.com:443 ["Payflow Link"] [200] [1661] ["text/html"] ["66.211.171.164"] [null] ["Apache"] [["Apache"]] [];
 https://payflowpro-edgemigration.payflow.edge.paypal.com:443 [null] [302] [30] ["text/plain"] ["173.0.93.140"] [null] ["nginx"] [["Nginx"]] [];
 https://payflowpro-migration.payflow.edge.paypal.com:443 [null] [302] [30] ["text/plain"] ["173.0.93.140"] [null] ["nginx"] [["Nginx"]] [];
-https://payflowpro.glb.paypal.com:443 [null] [302] [30] ["text/plain"] ["173.0.93.143"] [null] ["nginx"] [["Nginx"]] [];
+https://payflowpro.glb.paypal.com:443 [null] [302] [30] ["text/plain"] ["173.0.93.140"] [null] ["nginx"] [["Nginx"]] [];
 https://payflowpro.paypal.com:443 [null] [404] [64] ["text/plain"] ["173.0.93.140"] [null] ["nginx"] [["Nginx"]] [];
 https://payments-reports-edgemigration.payflow.edge.paypal.com:443 [null] [302] [30] ["text/plain"] ["173.0.93.189"] [null] ["nginx"] [["Nginx"]] [];
 https://payments-reports-migration.glb.paypal.com:443 [null] [302] [30] ["text/plain"] ["173.0.93.189"] [null] ["nginx"] [["Nginx"]] [];
