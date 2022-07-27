@@ -38,6 +38,7 @@
 *.youtube.com
 a5s.hackerone-ext-content.com
 api-60d81e65.duosecurity.com
+api-iam.intercom.io
 api.amplitude.com
 api.lever.co
 b5s.hackerone-ext-content.com
@@ -69,6 +70,11 @@ https://errors.hackerone.net/api/30/security/?sentry_key=374aea95847f4040a69f9c8
 https://errors.hackerone.net/api/34/csp-report/?sentry_key=959b5f6ed24d477c928e8dd455cc5071
 id.rlcdn.com
 js.driftt.com
+js.intercomcdn.com
+js.intercomcdn.com/fonts/proximanova-regular-italic.053a1112.woff
+js.intercomcdn.com/fonts/proximanova-regular.a7942249.woff
+js.intercomcdn.com/fonts/proximanova-semibold-italic.660bf63e.woff
+js.intercomcdn.com/fonts/proximanova-semibold.46e3f047.woff
 munchkin.marketo.net
 my.pima.app
 profile-photos.hackerone-user-content.com
@@ -79,5 +85,7 @@ stats.g.doubleclick.net
 t.co
 unpkg.com
 via.placeholder.com
+widget.intercom.io/widget/zlmaz2pu
+wss://nexus-websocket-a.intercom.io
 www.google-analytics.com
 www.youtube-nocookie.com
