@@ -392,6 +392,7 @@ http://claccess-sf.att.com:80
 http://claccess.att.com:80
 http://click2.wireless.att.com:80
 http://click2.wireless.att.com:8080
+http://clicks.att.com:443
 http://clicks.att.com:80
 http://clm-api-dev.att.com:80
 http://clm-api-perf.att.com:80
@@ -506,6 +507,8 @@ http://dal05.home.widgets.um.att.com:80
 http://dal05.um.att.com:80
 http://dal05.vm.att.com:80
 http://dal05.work.widgets.um.att.com:80
+http://darp-confluence.att.com:80
+http://darp-zephyr.test.att.com:80
 http://dashboard.iot.att.com:80
 http://dashboard.stage-e.att.com:80
 http://data.att.com:80
@@ -688,6 +691,8 @@ http://enterprise.att.COm:80
 http://enterprise.att.com:80
 http://envivo.att.com:80
 http://epttapi.att.com:80
+http://erbiz.att.com:80
+http://erbiz.att.com:8080
 http://ersc.att.com:80
 http://ersc.att.com:8080
 http://es-tradein.att.com:80
@@ -913,6 +918,7 @@ http://insider.att.com:80
 http://insights.att.com:80
 http://integratedandpartnersol.att.com:80
 http://integratedandpartnersoldev.att.com:80
+http://internaltu.aTt.com:80
 http://internaltu.att.com:443
 http://internaltu.att.com:80
 http://interntraining.att.com:443
@@ -1494,6 +1500,7 @@ http://policyforum.att.com:443
 http://policyforum.att.com:80
 http://policyforum.att.com:8080
 http://policyforum.att.com:8443
+http://policyforumeventreg.att.com:80
 http://polish.att.com:80
 http://portal-3pdev-directvcommercial.test.att.com:80
 http://portal-asvt-directvcommercial.test.att.com:80
@@ -1865,6 +1872,7 @@ http://southcarolina.att.com:8443
 http://southdakota.att.com:80
 http://southdakota.att.com:8443
 http://southregion.att.com:80
+http://southregion.att.com:8080
 http://southregion.att.com:8443
 http://southwest-attsn.att.com:80
 http://southwestregion.att.com:80
@@ -2135,6 +2143,7 @@ http://vas.att.com:8080
 http://ve.att.com:80
 http://ve.att.com:8080
 http://vendors.uc.att.com:80
+http://verifyid.att.com:80
 http://vermont.att.com:443
 http://vermont.att.com:80
 http://vermont.att.com:8080
@@ -2710,6 +2719,7 @@ http://youshare.att.com:80
 http://yt.att.com:80
 http://yt.att.com:8080
 http://zeissmeeting.att.com:443
+http://zephyr.darp.att.com:80
 http://zgm-join-dev.att.com:80
 http://zgm-join-test.att.com:80
 http://zgm-join.att.com:80
@@ -3523,6 +3533,9 @@ https://dal05.home.widgets.um.att.com:443
 https://dal05.um.att.com:443
 https://dal05.vm.att.com:443
 https://dal05.work.widgets.um.att.com:443
+https://darp-confluence.att.com:443
+https://darp-confluence.test.att.com:443
+https://darp-zephyr.test.att.com:443
 https://data.att.com:443
 https://databank.cloud.att.com:443
 https://dataflow.att.com:443
@@ -3811,6 +3824,7 @@ https://epay.eia.att.com:443
 https://eplt1sourcing.att.com:443
 https://epp.stage.att.com:8443
 https://epttapi.att.com:443
+https://erbiz.att.com:443
 https://ersc.att.com:443
 https://ert.att.com:443
 https://es-tradein.att.com:443
@@ -3895,6 +3909,7 @@ https://fnetidp.stage.flogin.att.com:443
 https://fnetsp-da.idp.flogin.att.com:443
 https://fnetsp-sf.idp.flogin.att.com:443
 https://fnetsp.idp.flogin.att.com:443
+https://fnetsp.staGe.flogin.att.com:443
 https://fnetsp.stage.flogin.att.com:443
 https://fnmkqa.stage.att.com:443
 https://foauthaccess.StAGe.att.com:443
@@ -4135,6 +4150,7 @@ https://insider.att.com:443
 https://insights.att.com:443
 https://integratedandpartnersol.att.com:443
 https://integratedandpartnersoldev.att.com:443
+https://internaltu.aTt.com:443
 https://interntraining.att.com:443
 https://interoplwm2m.dm.iot.att.com:443
 https://intl-psfstg.att.com:443
@@ -4781,6 +4797,7 @@ https://paymentcard.att.com:8443
 https://paymentstatus.att.com:443
 https://peer.att.com:443
 https://pennsylvania.att.com:443
+https://pennsylvania.att.com:8443
 https://pensionchoice.att.com:443
 https://perf.e-access.att.com:443
 https://perf1.att.com:443
@@ -4819,6 +4836,7 @@ https://plc.att.com:443
 https://plfmdev.digitallife.att.com:443
 https://pm.att.com:443
 https://policyforum.att.com:443
+https://policyforumeventreg.att.com:443
 https://polish.att.com:443
 https://portal-3pdev-directvcommercial.test.att.com:443
 https://portal-asvt-directvcommercial.test.att.com:443
@@ -5099,6 +5117,7 @@ https://sct.att.com:443
 https://se.att.com:443
 https://secure-az-e.att.com:443
 https://secure-az-e.stage.att.com:443
+https://secure-az-qc-test-e.cloud.att.com:443
 https://securedocs.wireless.att.com:443
 https://securefamily.stage.att.com:443
 https://securefamilylink.wireless.att.com:443
@@ -5536,6 +5555,7 @@ https://vNdW13.acss.att.com:443
 https://vas.att.com:443
 https://vdssupport.att.com:443
 https://ve.att.com:443
+https://verifyid.att.com:443
 https://vertex.att.com:443
 https://vfoesig.att.com:443
 https://vh.e-access.att.com:443
@@ -6113,6 +6133,7 @@ https://xsp203.hvs.att.com:443
 https://xsp204.hvs.att.com:443
 https://xsp3.hvs.att.com:443
 https://xsp4.hvs.att.com:443
+https://yok-test.stage.att.com:443
 https://youachieve.att.com:443
 https://youknow.att.com:443
 https://youlead.att.COm:443
@@ -6122,6 +6143,7 @@ https://yourefer.att.com:443
 https://youshare.att.com:443
 https://yt.att.com:443
 https://zeissmeeting.att.com:443
+https://zephyr.darp.att.com:443
 https://zgm-join-dev.att.com:443
 https://zgm-join-test.att.com:443
 https://zgm-join.att.com:443

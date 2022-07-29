@@ -16305,6 +16305,9 @@ dal05.home.widgets.um.att.com
 dal05.um.att.com
 dal05.vm.att.com
 dal05.work.widgets.um.att.com
+darp-confluence.att.com
+darp-confluence.test.att.com
+darp-zephyr.test.att.com
 dashboard.iot.att.com
 dashboard.ric.research.att.com
 dashboard.stage-e.att.com
@@ -17063,6 +17066,7 @@ fnetidp.stage.flogin.att.com
 fnetsp-da.idp.flogin.att.com
 fnetsp-sf.idp.flogin.att.com
 fnetsp.idp.flogin.att.com
+fnetsp.staGe.flogin.att.com
 fnetsp.stage.flogin.att.com
 fnmkqa.stage.att.com
 foauthaccess.StAGe.att.com
@@ -31563,6 +31567,7 @@ insights.att.com
 integratedandpartnersol.att.com
 integratedandpartnersoldev.att.com
 internal.uc.att.com
+internaltu.aTt.com
 internaltu.att.com
 interntraining.att.com
 interoplwm2m.dm.iot.att.com
@@ -32392,6 +32397,7 @@ nrc.att.com
 ns-bd-e1.research.att.com
 ns-bd-e2.research.att.com
 ns-e1-p.research.att.com
+ns-e1.research.aTt.com
 ns-e1.research.att.com
 ns-e2-p.research.att.com
 ns-e2.research.aTt.com
@@ -33666,6 +33672,7 @@ seasons.txsat.hvs.att.com
 seasons.wauk.hvs.att.com
 secure-az-e.att.com
 secure-az-e.stage.att.com
+secure-az-qc-test-e.cloud.att.com
 secure-dal.att.com
 secure.att.com
 secure.callvantage.att.com
@@ -35378,6 +35385,7 @@ youshare.att.com
 yp.uc.att.com
 yt.att.com
 zeissmeeting.att.com
+zephyr.darp.att.com
 zeppelin.iqi.labs.att.com
 zeppelin1.iqi.labs.att.com
 zeppelin2.iqi.labs.att.com
