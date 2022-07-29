@@ -2665,6 +2665,7 @@ http://prod-exp-video-us-west-1.pscp.tv:80 ["401 unauthorized"] [401] [426] ["te
 http://prod-exp-video-us-west-2.pscp.tv:80 ["401 unauthorized"] [401] [426] ["text/html"] ["151.101.2.164"] ["https://prod-exp-video-us-west-2.pscp.tv/"] ["Varnish"] [["Varnish"]] [];
 http://prod-fastly-ap-northeast-1.video.periscope.tv:80 [null] [404] [19] ["text/plain"] ["199.232.82.118"] [null] [null] [["Varnish"]] [];
 http://prod-fastly-ap-northeast-1.video.pscp.tv:80 [null] [404] [19] ["text/plain"] ["199.232.82.164"] [null] [null] [["Varnish"]] [];
+http://prod-fastly-ap-northeast-2.video.PERISCope.tv:80 [null] [404] [19] ["text/plain"] ["199.232.190.118"] [null] [null] [["Varnish"]] [];
 http://prod-fastly-ap-northeast-2.video.periscope.tv:80 [null] [404] [19] ["text/plain"] ["199.232.138.118"] [null] [null] [["Varnish"]] [];
 http://prod-fastly-ap-northeast-2.video.pscp.tv:80 [null] [404] [19] ["text/plain"] ["199.232.190.164"] [null] [null] [["Varnish"]] [];
 http://prod-fastly-ap-south-1.video.periscope.tv:80 ["403 Forbidden"] [403] [417] ["text/html"] ["199.232.82.118"] [null] ["Varnish"] [["Varnish"]] [];
@@ -19623,6 +19624,7 @@ https://prod-exp-video-us-west-2.pscp.tv:443 ["400 no stream name"] [400] [432] 
 https://prod-fa-web-lb.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://prod-fastly-ap-northeast-1.video.periscope.tv:443 [null] [404] [19] ["text/plain"] ["199.232.82.118"] [null] [null] [["Varnish"]] [];
 https://prod-fastly-ap-northeast-1.video.pscp.tv:443 [null] [404] [19] ["text/plain"] ["199.232.82.164"] [null] [null] [["Varnish"]] [];
+https://prod-fastly-ap-northeast-2.video.PERISCope.tv:443 [null] [404] [19] ["text/plain"] ["199.232.190.118"] [null] [null] [["Varnish"]] [];
 https://prod-fastly-ap-northeast-2.video.periscope.tv:443 [null] [404] [19] ["text/plain"] ["199.232.138.118"] [null] [null] [["Varnish"]] [];
 https://prod-fastly-ap-northeast-2.video.pscp.tv:443 [null] [404] [19] ["text/plain"] ["199.232.190.164"] [null] [null] [["Varnish"]] [];
 https://prod-fastly-ap-south-1.video.periscope.tv:443 ["403 Forbidden"] [403] [418] ["text/html"] ["199.232.82.118"] [null] ["Varnish"] [["Varnish"]] [];

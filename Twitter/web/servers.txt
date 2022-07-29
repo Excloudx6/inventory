@@ -2665,6 +2665,7 @@ http://prod-exp-video-us-west-1.pscp.tv:80
 http://prod-exp-video-us-west-2.pscp.tv:80
 http://prod-fastly-ap-northeast-1.video.periscope.tv:80
 http://prod-fastly-ap-northeast-1.video.pscp.tv:80
+http://prod-fastly-ap-northeast-2.video.PERISCope.tv:80
 http://prod-fastly-ap-northeast-2.video.periscope.tv:80
 http://prod-fastly-ap-northeast-2.video.pscp.tv:80
 http://prod-fastly-ap-south-1.video.periscope.tv:80
@@ -19623,6 +19624,7 @@ https://prod-exp-video-us-west-2.pscp.tv:443
 https://prod-fa-web-lb.vpn.twttr.com:443
 https://prod-fastly-ap-northeast-1.video.periscope.tv:443
 https://prod-fastly-ap-northeast-1.video.pscp.tv:443
+https://prod-fastly-ap-northeast-2.video.PERISCope.tv:443
 https://prod-fastly-ap-northeast-2.video.periscope.tv:443
 https://prod-fastly-ap-northeast-2.video.pscp.tv:443
 https://prod-fastly-ap-south-1.video.periscope.tv:443
