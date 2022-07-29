@@ -1715,6 +1715,7 @@
 /_/api/tutu/posts/{postId}/pinned-at
 /_/api/tutu/posts/{postId}/pinned-by-creator-at
 /_/api/tutu/posts/{postId}/primary-topic
+/_/api/tutu/posts/{postId}/stats/can-access
 /_/api/tutu/posts/{postId}/stats/hourly/{startTimeMs}/{endTimeMs}
 /_/api/tutu/posts/{postId}/structureddata
 /_/api/tutu/posts/{postId}/tags
