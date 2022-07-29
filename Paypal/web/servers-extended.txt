@@ -502,7 +502,7 @@ https://mftest5.test.paypal.com:443 ["302 Moved"] [302] [216] ["text/html"] ["8.
 https://misc-redirect.paypal.com:443 [null] [403] [null] [null] ["66.211.168.148"] [null] ["BigIP"] [["F5 BigIP"]] [];
 https://mobile-origin.glb.xoom.com:443 ["404 Not Found"] [404] [552] ["text/html"] ["205.189.102.196"] [null] [null] [null] [];
 https://mobile.glb.paypal.com:443 ["Access Denied"] [403] [222] ["text/html"] ["104.90.111.118"] [null] ["AkamaiGHost"] [null] [];
-https://mobile.glb.xoom.com:443 ["404 Not Found"] [404] [552] ["text/html"] ["205.189.102.196"] [null] [null] [null] [];
+https://mobile.glb.xoom.com:443 ["404 Not Found"] [404] [150] ["text/html"] ["205.189.102.196"] [null] [null] [null] [];
 https://mobile.paypal.com:443 [null] [302] [30] ["text/plain"] ["104.109.59.129"] [null] [null] [null] [];
 https://mobile.xoom.com:443 [null] [404] [72] ["application/json"] ["205.189.102.196"] [null] [null] [["Envoy"]] [];
 https://msoid.paypal.com:443 ["Object moved"] [302] [146] ["text/html"] ["20.190.159.4"] [null] [null] [null] [];
