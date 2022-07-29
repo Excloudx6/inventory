@@ -764,6 +764,7 @@ http://email.uber.com:80
 http://email.uber.com:8080
 http://embed-chronicle.uberinternal.com:80
 http://embed-payments.uberinternal.com:80
+http://emd.uberinternal.com:80
 http://emearex.uberinternal.com:80
 http://empresas.uber.com:80
 http://empresas.uber.com:8080
@@ -3251,6 +3252,7 @@ https://elkland.uberinternal.com:443
 https://email.uber.com:443
 https://embed-chronicle.uberinternal.com:443
 https://embed-payments.uberinternal.com:443
+https://emd.uberinternal.com:443
 https://emea-vpn-lab.uberinternal.com:443
 https://emearex.uberinternal.com:443
 https://empresas.uber.com:443

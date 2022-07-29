@@ -764,6 +764,7 @@ http://email.uber.com:80 ["404 Not Found"] [404] [162] ["text/html"] ["34.98.127
 http://email.uber.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["34.98.127.226"] [null] [null] [null] [];
 http://embed-chronicle.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://embed-chronicle.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://embed-payments.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://embed-payments.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
+http://emd.uberinternal.com:80 [null] [301] [null] [null] ["104.36.195.150"] ["https://emd.uberinternal.com/"] ["ufe"] [null] [];
 http://emearex.uberinternal.com:80 [null] [302] [null] ["text/html"] ["35.184.61.224"] ["https://emearex.uberinternal.com/"] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
 http://empresas.uber.com:80 [null] [404] [null] [null] ["34.98.127.226"] ["https://empresas.uber.com/"] ["ufe"] [["Google Cloud"]] [];
 http://empresas.uber.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["34.98.127.226"] [null] [null] [null] [];
@@ -3251,6 +3252,7 @@ https://elkland.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["1
 https://email.uber.com:443 ["404 Not Found"] [404] [564] ["text/html"] ["34.98.127.226"] [null] ["ufe"] [["Envoy","Google Cloud"]] [];
 https://embed-chronicle.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://embed-payments.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
+https://emd.uberinternal.com:443 [null] [301] [null] [null] ["104.36.195.150"] [null] ["ufe"] [null] [];
 https://emea-vpn-lab.uberinternal.com:443 [null] [200] [315] ["text/html"] ["52.29.134.115"] [null] [null] [null] [];
 https://emearex.uberinternal.com:443 [null] [302] [null] ["text/html"] ["35.184.61.224"] [null] ["nginx"] [["Nginx","WP Engine","WordPress"]] [];
 https://empresas.uber.com:443 [null] [404] [null] [null] ["34.98.127.226"] [null] ["ufe"] [["Google Cloud"]] [];
