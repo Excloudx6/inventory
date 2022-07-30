@@ -406,7 +406,7 @@ https://cnvpn.tesla.com:443 ["Tesla Motors VPN"] [404] [1591] ["text/html"] ["10
 https://cnvpn1.tesla.com:443 ["Tesla Motors VPN"] [404] [2617] ["text/html"] ["114.141.176.215"] [null] [null] [null] [];
 https://courses.tesla.com:443 [null] [302] [null] ["text/html"] ["104.111.226.14"] ["https://courses.tesla.com/auth/login/tesla-prod-oauth2/?auth_entry=login&next=%2Fdashboard"] ["nginx"] [["Nginx"]] [];
 https://dataviz.tesla.com:443 ["302 Found"] [302] [428] ["text/html"] ["104.97.82.192"] [null] ["akamai/nginx"] [["Nginx"]] [];
-https://digitalassets-accounts.tesla.com:443 [null] [301] [null] [null] ["23.203.68.145"] [null] ["Cloudinary"] [null] [];
+https://digitalassets-accounts.tesla.com:443 [null] [301] [null] [null] ["104.109.66.99"] [null] ["Cloudinary"] [null] [];
 https://digitalassets-energy.tesla.com:443 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
 https://digitalassets-learning.tesla.com:443 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
 https://digitalassets-shop.tesla.com:443 [null] [301] [null] [null] ["2.16.186.242"] [null] ["Cloudinary"] [null] [];
