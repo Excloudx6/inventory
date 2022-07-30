@@ -1888,6 +1888,7 @@ http://dev-chatman-ancillary-us-west-2.pscp.tv:80
 http://dev-demo.staging.vpn.twttr.com:80
 http://dev-embed.periscope.tv:80
 http://dev-embed.pscp.tv:80
+http://dev-eu-west-1.PERISCope.tv:80
 http://dev-eu-west-1.periscope.tv:80
 http://dev-exp-video-eu-west-1.pscp.tv:80
 http://dev-exp-video-us-west-2.pscp.tv:80
@@ -14519,6 +14520,7 @@ https://dev-email.periscope.tv:443
 https://dev-email.pscp.tv:443
 https://dev-embed.periscope.tv:443
 https://dev-embed.pscp.tv:443
+https://dev-eu-west-1.PERISCope.tv:443
 https://dev-eu-west-1.periscope.tv:443
 https://dev-eu-west-1.vpn.twttr.com:443
 https://dev-exp-video-eu-west-1.pscp.tv:443

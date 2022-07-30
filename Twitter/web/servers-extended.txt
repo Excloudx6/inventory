@@ -1888,6 +1888,7 @@ http://dev-chatman-ancillary-us-west-2.pscp.tv:80 ["301 Moved Permanently"] [301
 http://dev-demo.staging.vpn.twttr.com:80 ["404 Not Found"] [404] [111] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 http://dev-embed.periscope.tv:80 [null] [403] [243] ["application/json"] ["151.101.2.118"] [null] ["AmazonS3"] [["Amazon S3","Amazon Web Services","Varnish"]] [];
 http://dev-embed.pscp.tv:80 [null] [403] [243] ["application/json"] ["151.101.2.164"] [null] ["AmazonS3"] [["Amazon S3","Amazon Web Services","Varnish"]] [];
+http://dev-eu-west-1.PERISCope.tv:80 ["Fastly error: unknown domain dev-eu-west-1.periscope.tv"] [500] [272] ["text/html"] ["151.101.0.65"] [null] ["Varnish"] [["Varnish"]] [];
 http://dev-eu-west-1.periscope.tv:80 ["Fastly error: unknown domain dev-eu-west-1.periscope.tv"] [500] [273] ["text/html"] ["151.101.0.65"] [null] ["Varnish"] [["Varnish"]] [];
 http://dev-exp-video-eu-west-1.pscp.tv:80 ["400 no stream name"] [400] [433] ["text/html"] ["151.101.2.164"] [null] ["Varnish"] [["Varnish"]] [];
 http://dev-exp-video-us-west-2.pscp.tv:80 ["401 unauthorized"] [401] [426] ["text/html"] ["151.101.2.164"] ["https://dev-exp-video-us-west-2.pscp.tv/"] ["Varnish"] [["Varnish"]] [];
@@ -14519,6 +14520,7 @@ https://dev-email.periscope.tv:443 [null] [404] [19] ["text/plain"] ["52.34.149.
 https://dev-email.pscp.tv:443 [null] [404] [19] ["text/plain"] ["35.165.32.209"] [null] [null] [null] [];
 https://dev-embed.periscope.tv:443 [null] [403] [243] ["application/json"] ["151.101.2.118"] [null] ["AmazonS3"] [["Amazon S3","Amazon Web Services","Varnish"]] [];
 https://dev-embed.pscp.tv:443 [null] [403] [255] ["application/json"] ["151.101.2.164"] [null] ["AmazonS3"] [["Amazon S3","Amazon Web Services","Varnish"]] [];
+https://dev-eu-west-1.PERISCope.tv:443 ["Fastly error: unknown domain dev-eu-west-1.periscope.tv"] [500] [272] ["text/html"] ["151.101.0.65"] [null] ["Varnish"] [["Varnish"]] [];
 https://dev-eu-west-1.periscope.tv:443 ["Fastly error: unknown domain dev-eu-west-1.periscope.tv"] [500] [273] ["text/html"] ["151.101.0.65"] [null] ["Varnish"] [["Varnish"]] [];
 https://dev-eu-west-1.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://dev-exp-video-eu-west-1.pscp.tv:443 ["400 no stream name"] [400] [432] ["text/html"] ["151.101.2.164"] [null] ["Varnish"] [["Varnish"]] [];
