@@ -1157,6 +1157,7 @@ http://ieweb-staging.uberinternal.com:80
 http://ieweb.uberinternal.com:80
 http://ihub-staging.uberinternal.com:80
 http://ihub.uberinternal.com:80
+http://iiq.uberinternal.com:80
 http://image-truth-staging.uberinternal.com:80
 http://image-truth.uberinternal.com:80
 http://image.et.uber.com:80
@@ -1773,6 +1774,7 @@ http://qbfe-docker.uberinternal.com:80
 http://qifan.uberinternal.com:80
 http://qms-staging.uberinternal.com:80
 http://qms.uberinternal.com:80
+http://query-result.uberinternal.com:80
 http://querybuilder-dca1.uberinternal.com:80
 http://querybuilder-ea-dca1.uberinternal.com:80
 http://querybuilder-ea-phx2.uberinternal.com:80
@@ -3575,6 +3577,7 @@ https://ieweb-staging.uberinternal.com:443
 https://ieweb.uberinternal.com:443
 https://ihub-staging.uberinternal.com:443
 https://ihub.uberinternal.com:443
+https://iiq.uberinternal.com:443
 https://image-truth-staging.uberinternal.com:443
 https://image-truth.uberinternal.com:443
 https://image.et.uber.com:443
@@ -4108,6 +4111,7 @@ https://qbfe-docker.uberinternal.com:443
 https://qifan.uberinternal.com:443
 https://qms-staging.uberinternal.com:443
 https://qms.uberinternal.com:443
+https://query-result.uberinternal.com:443
 https://querybuilder-dca1.uberinternal.com:443
 https://querybuilder-ea-dca1.uberinternal.com:443
 https://querybuilder-ea-phx2.uberinternal.com:443

@@ -32,6 +32,7 @@ http://patterns.airwatch.dev/
 http://pinterest.com/pin/create/bookmarklet/?media=
 http://play.google.com/store/apps/details?id=com.ubercab.eats
 http://pyro.ai/
+http://rashawn.name
 http://renren.com/{{id}}
 http://schema.org
 http://schema.org/EmailMessage
@@ -118,6 +119,9 @@ https://account.jetbrains.com/services/countries.json
 https://accounts.google.com/o/oauth2/auth
 https://accounts.google.com/o/oauth2/iframe
 https://accounts.google.com/o/oauth2/postmessageRelay
+https://active.jetprofile-stgn.intellij.net/services/acceptAgreement
+https://active.jetprofile-stgn.intellij.net/services/consentOptions
+https://active.jetprofile-stgn.intellij.net/services/countries.json
 https://addons.mozilla.org/en-US/firefox/addon/glean
 https://adoptopenjdk.net/installation.html?variant=openjdk11&amp;amp;jvmVariant=hotspot
 https://airtable.com
@@ -317,6 +321,7 @@ https://blogapi.uber.com/wp-content/uploads/2022/06/Truck-Trailer-1-1024x683.jpg
 https://blogapi.uber.com/wp-content/uploads/2022/07/220428_UBER_CDMX_M-DT1-B_002317_VS_R2-1024x683.jpg
 https://blogapi.uber.com/wp-content/uploads/2022/07/A24424x01B_AdobeStock_161530982_RGB-1024x683.png
 https://blogapi.uber.com/wp-content/uploads/2022/07/LTL_FeatureImage-1024x683.png
+https://blogapi.uber.com/wp-content/uploads/2022/07/Smiling_Restaurant_Owner_Working_At_Desk-1024x576.jpg
 https://blogapi.uber.com/wp-content/uploads/2022/07/Thai_2_0346_r2-1024x683.png
 https://blogapi.uber.com/wp-content/uploads/2022/07/U4B-article3-experience-collaborateur-engagement-1024x512.png
 https://blogapi.uber.com/wp-content/uploads/2022/07/UberIM_010003-1024x682.jpeg
@@ -335,6 +340,8 @@ https://canary.glean.com
 https://causalml.readthedocs.io/en/latest/index.html
 https://cdn.bizible.com/
 https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
+https://cdn.fakercloud.com/avatars/
+https://cdn.fakercloud.com/avatars/sydlawrence_128.jpg
 https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js
 https://cdn.onelogin.com
 https://cdn.optimizely.com/
@@ -465,7 +472,11 @@ https://d1nyezh1ys8wfo.cloudfront.net/static/PDFs/Uber_Modern_Slavery_Statement.
 https://d3dt5tsgfu6lcf.cloudfront.net/style/santurce-eats/web
 https://d3dt5tsgfu6lcf.cloudfront.net/style/santurce/web
 https://dashboard.addthis.com/darkseid/slack-oauth/auth?shareURL=
+https://data-srv.staging.w3jbcom.aws.intellij.net/products
+https://data-srv.staging.w3jbcom.aws.intellij.net/products/releases
 https://data.services.jetbrains.com/geo
+https://data.services.jetbrains.com/products
+https://data.services.jetbrains.com/products/releases
 https://data.services.jetbrains.com/time
 https://dataconnector.corp.google.com/:session_prefix:ui/widgetview?usegapi=1
 https://dataconnector.corp.google.com/:session_prefix:ui/widgetview?usegapi\u003d1
@@ -582,6 +593,8 @@ https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,500&amp;display=swap
 https://fonts.googleapis.com/css?family=Noto+Sans+SC:400,500&amp;display=swap
 https://fonts.googleapis.com/css?family=Roboto+Mono
 https://forms-service.jetbrains.com/jetprofile
+https://forms-service.jetbrains.com/marketo
+https://forms-stgn.w3jbcom-nonprod.aws.intellij.net/marketo
 https://forum.pyro.ai/
 https://foursquare.com/intent/venue.html
 https://frontify-artifacts.com/
@@ -1009,6 +1022,7 @@ https://image.et.uber.com/lib/fe8c12737c64037b71/m/1/Global_1aqua_88x88_partner-
 https://imog61q637.execute-api.ap-south-1.amazonaws.com/v1/
 https://info.frontify.com/more-information?feature_hook_request=
 https://info.frontify.com/more-information?feature_hook_request=Brand Limit&amp;email=
+https://info.jetbrains.com/index.php/leadCapture/save2
 https://instagram.com/
 https://instagram.com/explore/tags/
 https://instagram.com/uber
@@ -1045,6 +1059,7 @@ https://linear.tv.apple.com
 https://local.glean.com:7960/
 https://login.uber.com/oauth
 https://logx.optimizely.com/v1/events
+https://lorempixel.com/
 https://lucid.app/
 https://m.addthis.com/live/red_lojson/100eng.json?
 https://m.addthis.com/live/red_lojson/300lo.json
@@ -1120,6 +1135,7 @@ https://paypay.uber.com
 https://pb2g66stccj6.statuspage.io/embed/frame
 https://peloton.readthedocs.io/en/latest
 https://petastorm.readthedocs.io/en/latest
+https://picsum.photos
 https://picsum.photos/200/200
 https://picsum.photos/200/300
 https://picsum.photos/seed/a-random-string/200/300
@@ -1165,6 +1181,7 @@ https://privacy.uber.com/privacy/california
 https://q.addthis.com/feeds/1.0/
 https://qa-wac.internal.atlassian.com
 https://quip.com/
+https://rashawn.name
 https://raw.githubusercontent.com/ajv-validator/ajv/master/lib/refs/data.json#
 https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-icon-color.svg
 https://reactjs.org/docs/error-decoder.html?invariant=
@@ -1174,6 +1191,10 @@ https://reddit.com/r/
 https://registry.npmjs.org/elliptic/-/elliptic-6.5.2.tgz
 https://reporting-2.short.io
 https://reporting-2.short.io/click_stream/table/
+https://resources.jetbrains.com.cn/services/consentOptions
+https://resources.jetbrains.com.cn/services/countries.json
+https://resources.jetbrains.com/services/consentOptions
+https://resources.jetbrains.com/services/countries.json
 https://ridegreen.li.me/
 https://riders.uber.com/profile
 https://rollbar-eu.zendesk.com/api/1/item/
@@ -1207,6 +1228,7 @@ https://slack.com/services/new/incoming-webhook
 https://snap.licdn.com/
 https://soundcloud.com/
 https://soundcloud.com/{{id}}
+https://source.unsplash.com
 https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/
 https://ssl.gstatic.com/microscope/embed/
 https://stackexchange.com/about/malware?host=
@@ -1965,6 +1987,7 @@ https://wpe.uberinternal.com
 https://www.addthis.com/
 https://www.addthis.com/get-sharing-sidebar/
 https://www.addthis.com/website-tools/overview
+https://www.adyen.com/
 https://www.ag-grid.com/javascript-grid-column-properties/
 https://www.ag-grid.com/javascript-grid-properties/
 https://www.apple.com
@@ -2081,8 +2104,12 @@ https://www.instagram.com/
 https://www.instagram.com/lime/
 https://www.jetbrains.com/company/privacy.html
 https://www.jetbrains.com/help/license-server-in-cloud/Hub_configuration.html
+https://www.jetbrains.com/help/license-vault-cloud/
+https://www.jetbrains.com/help/license-vault-cloud/Hub_configuration.html
+https://www.jetbrains.com/help/license-vault-cloud/True-Up_Billing.html
 https://www.jetbrains.com/hub/
 https://www.jetbrains.com/legal/docs/toolbox/user_eap/
+https://www.jetbrains.com/store/
 https://www.li.me
 https://www.li.me/about-us
 https://www.li.me/careers
