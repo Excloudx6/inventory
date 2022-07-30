@@ -360,6 +360,7 @@ http://canopy-leaf.att.com:80
 http://canopy-swu-playground.att.com:80
 http://canopy-swu.att.com:80
 http://carecentral.att.com:80
+http://careplus.att.com:443
 http://careplus.att.com:80
 http://cargoview.att.com:80
 http://cc.att.com:80
@@ -507,7 +508,10 @@ http://dal05.home.widgets.um.att.com:80
 http://dal05.um.att.com:80
 http://dal05.vm.att.com:80
 http://dal05.work.widgets.um.att.com:80
+http://darp-confluence.att.com:443
 http://darp-confluence.att.com:80
+http://darp-confluence.test.att.com:443
+http://darp-confluence.test.att.com:80
 http://darp-zephyr.test.att.com:80
 http://dashboard.iot.att.com:80
 http://dashboard.stage-e.att.com:80
@@ -523,6 +527,7 @@ http://db.att.com:8080
 http://dbactmgr.att.com:80
 http://dc.att.com:443
 http://dc.att.com:80
+http://dc.att.com:8080
 http://dc.att.com:8443
 http://dcae.research.att.com:80
 http://ddosdemo.att.com:80
@@ -539,6 +544,7 @@ http://dev-cybersecurityservices.att.com:80
 http://dev-developer.att.com:80
 http://dev-paymentstatus.att.com:80
 http://dev-wm.att.com:80
+http://dev2.att.com:80
 http://developer-workforcemanager.att.com:80
 http://developer.att.com:80
 http://developer.firstnet.att.COm:80
@@ -1018,6 +1024,7 @@ http://loc.firstnet.att.com:80
 http://localcontrol.firstnet.att.com:80
 http://localization.att.com:80
 http://login-officeathand.att.com:80
+http://login-workforcemanager.att.com:80
 http://louisiana.att.com:443
 http://louisiana.att.com:80
 http://louisiana.att.com:8080
@@ -1047,6 +1054,7 @@ http://marriottmeeting.att.com:443
 http://maryland.AtT.com:80
 http://maryland.AtT.com:8443
 http://maryland.att.com:80
+http://maryland.att.com:8080
 http://maryland.att.com:8443
 http://massachusetts.att.com:80
 http://massachusetts.att.com:8080
@@ -1514,6 +1522,7 @@ http://portal.att.com:80
 http://portal.att.com:8080
 http://portal.dataflow.iot.att.com:443
 http://portal.dataflow.iot.att.com:80
+http://portal.dataflow.iot.att.com:8443
 http://portal.flow.cloud.att.com:443
 http://portal.flow.cloud.att.com:80
 http://portal.wholesale.att.com:80
@@ -2052,6 +2061,7 @@ http://tudo.att.com:80
 http://tufresh.att.com:80
 http://tuknow.att.com:80
 http://tuknowdev.att.com:80
+http://tulearn.att.com:80
 http://tulh.att.com:80
 http://tuliveaccts.att.com:80
 http://tuliveacctsdev.att.com:80
@@ -2715,6 +2725,7 @@ http://youlead.att.COm:80
 http://youlead.att.com:80
 http://youleaddev.att.com:80
 http://yourefer.att.com:80
+http://youshare.att.com:443
 http://youshare.att.com:80
 http://yt.att.com:80
 http://yt.att.com:8080
@@ -3563,6 +3574,7 @@ https://dev-brandshop.att.com:443
 https://dev-cybersecurityservices.att.com:443
 https://dev-developer.att.com:443
 https://dev-wm.att.com:443
+https://dev2.att.com:443
 https://developer-workforcemanager.att.com:443
 https://developer.att.com:443
 https://developer.firstnet.att.com:443
@@ -4269,6 +4281,7 @@ https://loc.firstnet.att.com:443
 https://localcontrol.firstnet.att.com:443
 https://localization.att.com:443
 https://login-officeathand.att.com:443
+https://login-workforcemanager.att.com:443
 https://lpt.research.att.com:443
 https://lsreg.att.com:443
 https://lte.att.com:443
@@ -4887,6 +4900,8 @@ https://prestage.att.com:443
 https://prf3.att.com:443
 https://prg.att.com:443
 https://prg.test.att.com:443
+https://priceorchestration-ext.att.com:443
+https://priceorchestration-ext.att.com:8443
 https://prime.bus.att.COm:443
 https://prime.bus.att.com:443
 https://prime.eia.att.com:443
@@ -5440,6 +5455,7 @@ https://tudo.att.com:443
 https://tufresh.att.com:443
 https://tuknow.att.com:443
 https://tuknowdev.att.com:443
+https://tulearn.att.com:443
 https://tulh.att.com:443
 https://tuliveaccts.att.com:443
 https://tuliveacctsdev.att.com:443
@@ -6134,6 +6150,7 @@ https://xsp204.hvs.att.com:443
 https://xsp3.hvs.att.com:443
 https://xsp4.hvs.att.com:443
 https://yok-test.stage.att.com:443
+https://yok.att.com:443
 https://youachieve.att.com:443
 https://youknow.att.com:443
 https://youlead.att.COm:443

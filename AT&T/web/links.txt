@@ -151,6 +151,7 @@ http://lnpsrdwmweb005v-c1.int.asurion.com:1111/invoke/newcorp.billinggatewayui.w
 http://loading.retry.widdit.com/
 http://localcontrol.firstnet.com
 http://localhost.att.com:3001/api
+http://localization.att.com/loc/controller?cdvn=landinglocalization&amp;amp;pid=1080&amp;amp;cookieResetted=true&amp;amp;ltype=contactus
 http://maps.google.com/maps?hl=en&amp;f=q&amp;q=
 http://marionettejs.com/docs/v
 http://marionettejs.com/docs/v3.4.4/
@@ -325,6 +326,7 @@ http://www.att.com/couverturevoiturebranchee
 http://www.att.com/coverageviewer
 http://www.att.com/es-us/legal/terms.aup.html
 http://www.att.com/gen/general?pid=11561
+http://www.att.com/gen/landing-pages?pid=3309
 http://www.att.com/gen/privacy-policy?pid=2506
 http://www.att.com/gen/privacy-policy?pid=2506#french
 http://www.att.com/global
@@ -345,7 +347,9 @@ http://www.att.com/privacy
 http://www.att.com/shop/wireless.html
 http://www.att.com/smallbusiness/content/support.page
 http://www.att.com/support/topic/my-account\\
+http://www.att.com/tollfreedirectoryassistance
 http://www.att.com\
+http://www.att.jobs/
 http://www.attsuppliers.com/downloads/SupplierFinancingProgram.pdf
 http://www.attwifi.com
 http://www.audi.ca/connect\
@@ -427,6 +431,7 @@ http://www.w3.org/TR/SVG11/feature#BasicStructure
 http://www.w3.org/TR/SVG11/feature#Image
 http://www.w3.org/TR/html4/loose.dtd
 http://www.w3.org/TR/html4/strict.dtd
+http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd
 http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
 http://www.w3.org/XML/1998/namespace id
 http://www.w3.org/ns/ttml
@@ -436,6 +441,7 @@ http://www.w3.org/ns/ttml/profile/imsc1#parameter
 http://www.w3.org/ns/ttml/profile/imsc1#styling forcedDisplay
 http://www.wireless.att.com/businesscenter
 http://www.wireless.att.com/legal
+http://www.yellowpages.com/?From=att.com
 http://www.youtube.com/att
 http://www.youtube.com/c/{{id}}?sub_confirmation=1
 http://www.youtube.com/channel/{{id}}?sub_confirmation=1
@@ -476,6 +482,7 @@ https://about.att.com/
 https://about.att.com/csr
 https://about.att.com/csr/home/privacy.html
 https://about.att.com/csr/home/privacy.html?source=EACQM0ftr0000000E
+https://about.att.com/csr/home/privacy/full_privacy_policy.html
 https://about.att.com/csr/home/privacy/full_privacy_policy.html#choice
 https://about.att.com/csr/home/privacy/rights_choices.html
 https://about.att.com/ecms/dam/snr/DefaultThumbnails/logo_att_share.png
@@ -484,6 +491,7 @@ https://about.att.com/pages/diversity/employee_groups
 https://about.att.com/privacy.html
 https://about.att.com/privacy/rights_choices.html
 https://about.att.com/sites/accessibility
+https://about.att.com/sites/broadband
 https://about.att.com/sites/privacy_policy
 https://about.att.com/sites/privacy_policy?pid=2506
 https://about.att.com/static/2055ad3dbaf7a73f569b806233c9dc954522001624dcc5
@@ -3403,6 +3411,8 @@ https://idse2.dev.att.com:10081/support_service/_next/static/svg-icons/arrowLeft
 https://idse2.dev.att.com:10081/support_service/_next/static/svg-icons/arrowLeftGrey.svg
 https://idse2.dev.att.com:10081/support_service/_next/static/svg-icons/arrowRightBlue.svg
 https://idse3.dev.att.com:10081
+https://idse3.dev.att.com:10081/support_service/_next/static/svg-icons/shm-qr-code.png
+https://idse3.dev.att.com:10081/support_service/_next/static/svg-icons/shmIconBlue.svg
 https://ifrc.att.com
 https://img.en25.com/i/elqCfg.min.js
 https://img.youtube.com/vi/
@@ -3641,6 +3651,7 @@ https://myhomenetwork.att.com/assets/img/4971/mt_equipment_4971_refresh.svg
 https://myhomenetwork.att.com/assets/img/devices/mt_extender4971_medium_one.svg
 https://myhomenetwork.att.com/assets/img/devices/mt_extender4971_medium_three.svg
 https://myhomenetwork.att.com/assets/img/devices/mt_extender4971_medium_two.svg
+https://myhomenetwork.att.com/eula.html
 https://myhomenetwork.att.com/r/privacy.html
 https://myspace.com/{{id}}
 https://myvehicle.att.com
@@ -4752,8 +4763,10 @@ https://www.att.com/idpassets/global/icons/svg/black/misc/customersupportL.svg
 https://www.att.com/idpassets/global/icons/svg/black/people/onepersonL.svg
 https://www.att.com/idpassets/global/icons/svg/black/security-alerts/badgealertL.svg
 https://www.att.com/idpassets/global/icons/svg/data-network/pictogram_wifi_96.svg
+https://www.att.com/idpassets/global/icons/svg/devices/functional-icon_residential-gateway_64.svg
 https://www.att.com/idpassets/global/icons/svg/people/functional-icon_person_32.svg
 https://www.att.com/idpassets/global/icons/svg/security/functional-icon_personal-security_32.svg
+https://www.att.com/idpassets/global/icons/svg/time/functional-icon_calendar-2-time_64.svg
 https://www.att.com/idpassets/global/icons/svg/transportation/pictogram_truck_96.svg
 https://www.att.com/idpassets/images/support/help/phone_white.png
 https://www.att.com/idpassets/images/support/tv/atttv_streaming_device.png
@@ -4776,6 +4789,7 @@ https://www.att.com/legal/terms.consumerServiceAgreementInformation.html
 https://www.att.com/legal/terms.consumerServiceAgreementInformation.html\
 https://www.att.com/legal/terms.dmca.html
 https://www.att.com/legal/terms.forumguidelines.html
+https://www.att.com/legal/terms.internetAttTermsOfService.htm
 https://www.att.com/legal/terms.internetAttTermsOfService.html
 https://www.att.com/legal/terms.secureFamilyEULA.html
 https://www.att.com/legal/terms.sessionBasedWirelessDataServicesAgreement
