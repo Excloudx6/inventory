@@ -186,6 +186,7 @@ http://avmapexplorer-qa.uberinternal.com:80
 http://avmapexplorer.uberinternal.com:80
 http://avmaps-wave-staging.uberinternal.com:80
 http://avmaps.uberinternal.com:80
+http://avmaptriage-staging.UBErInTERnal.com:80
 http://avmaptriage-staging.uberinternal.com:80
 http://avmaptriage.uberinternal.com:80
 http://avrouting-web-staging.uberinternal.com:80
@@ -685,6 +686,7 @@ http://direct.uberinternal.com:80
 http://dispatcher.uberinternal.com:80
 http://docapprover.uberinternal.com:80
 http://docker-all-artifacts.uberinternal.com:80
+http://docker-phx4.UBErInTERnal.com:80
 http://docker-phx4.uberinternal.com:80
 http://docnn.uberinternal.com:80
 http://docs.uber.com:80
@@ -973,6 +975,7 @@ http://geo-frontends-all-dca1.uber.com:80
 http://geo-frontends-all-phx2.uber.com:80
 http://geo-frontends-dca1.uber.com:80
 http://geo-frontends-phx2.uber.com:80
+http://geo-internalfrontends-dca1.UBErInTERnal.com:80
 http://geo-internalfrontends-dca1.uberinternal.com:80
 http://geo-internalfrontends-phx2.uberinternal.com:80
 http://geo-sjc1.cfe.uber.com:80
@@ -1018,6 +1021,7 @@ http://godocs.uberinternal.com:80
 http://googlefffffffffbdedc85.uber.com:80
 http://gopkg-mesos.uberinternal.com:80
 http://gopkg.uberinternal.com:80
+http://goplay.UBErInTERnal.com:80
 http://goplay.uberinternal.com:80
 http://goproxy-beta.uberinternal.com:80
 http://goproxy.uberinternal.com:80
@@ -1796,6 +1800,7 @@ http://r.uber.com:80
 http://ramendca.uber.com:80
 http://ramenphx.uber.com:80
 http://ramenphx.uber.com:8080
+http://rbadillo.UBErInTERnal.com:80
 http://rbadillo.UbeRInteRNAL.com:80
 http://rbadillo.uberinternal.com:80
 http://rc.uberinternal.com:80
@@ -1845,6 +1850,7 @@ http://restaurant.uber.com:8080
 http://restaurant.uberinternal.com:80
 http://restauranthelp.uber.com:443
 http://restauranthelp.uber.com:80
+http://restauranthelp.uber.com:8443
 http://restaurants-staging.uberinternal.com:80
 http://restaurants.uber.com:443
 http://restaurants.uber.com:80
@@ -2456,6 +2462,7 @@ http://usuppliers.uber.com:80
 http://usurv-pat.uberinternal.com:80
 http://usurv-staging.UbERInTernal.com:80
 http://usurv-staging.uberinternal.com:80
+http://usurv-tst.UBErInTERnal.com:80
 http://usurv-tst.uberinternal.com:80
 http://usurv.uberinternal.com:80
 http://utask.uberinternal.com:80
@@ -2777,6 +2784,7 @@ https://avmapexplorer-qa.uberinternal.com:443
 https://avmapexplorer.uberinternal.com:443
 https://avmaps-wave-staging.uberinternal.com:443
 https://avmaps.uberinternal.com:443
+https://avmaptriage-staging.UBErInTERnal.com:443
 https://avmaptriage-staging.uberinternal.com:443
 https://avmaptriage.uberinternal.com:443
 https://avrouting-web-staging.uberinternal.com:443
@@ -3193,6 +3201,7 @@ https://direct.uberinternal.com:443
 https://dispatcher.uberinternal.com:443
 https://docapprover.uberinternal.com:443
 https://docker-all-artifacts.uberinternal.com:443
+https://docker-phx4.UBErInTERnal.com:443
 https://docker-phx4.uberinternal.com:443
 https://docnn.uberinternal.com:443
 https://domains.uberinternal.com:443
@@ -3282,6 +3291,7 @@ https://erd.uberinternal.com:443
 https://erp.uberinternal.com:443
 https://escuela.uber.com:443
 https://ess-a.uberinternal.com:443
+https://ess-staging-a.UBErInTERnal.com:443
 https://ess-staging-a.uberinternal.com:443
 https://ess-staging.uberinternal.com:443
 https://ess.uberinternal.com:443
@@ -3425,6 +3435,7 @@ https://geo-frontends-all-dca1.uber.com:443
 https://geo-frontends-all-phx2.uber.com:443
 https://geo-frontends-dca1.uber.com:443
 https://geo-frontends-phx2.uber.com:443
+https://geo-internalfrontends-dca1.UBErInTERnal.com:443
 https://geo-internalfrontends-dca1.uberinternal.com:443
 https://geo-internalfrontends-phx2.uberinternal.com:443
 https://geo-sjc1.cfe.uber.com:443
@@ -3463,6 +3474,7 @@ https://godocs.uberinternal.com:443
 https://googlefffffffffbdedc85.uber.com:443
 https://gopkg-mesos.uberinternal.com:443
 https://gopkg.uberinternal.com:443
+https://goplay.UBErInTERnal.com:443
 https://goplay.uberinternal.com:443
 https://goproxy-beta.uberinternal.com:443
 https://goproxy.uberinternal.com:443
@@ -3716,6 +3728,7 @@ https://lost.uber.com:443
 https://love.uber.com:443
 https://luna.uberinternal.com:443
 https://lzc-crane.uberinternal.com:443
+https://lzc-staging.UBErInTERnal.com:443
 https://lzc-staging.uberinternal.com:443
 https://lzc.uberinternal.com:443
 https://m-staging.uber.com:443
@@ -4129,6 +4142,7 @@ https://qumulo-01-dca19.uberinternal.com:443
 https://r.uber.com:443
 https://ramendca.uber.com:443
 https://ramenphx.uber.com:443
+https://rbadillo.UBErInTERnal.com:443
 https://rbadillo.UbeRInteRNAL.com:443
 https://rbadillo.uberinternal.com:443
 https://rc.uberinternal.com:443
@@ -4385,6 +4399,7 @@ https://stardeploy.uberinternal.com:443
 https://starfish-ui.uberinternal.com:443
 https://stargate.uberinternal.com:443
 https://stash-cdn-staging.uberinternal.com:443
+https://stash-cdn.UBErInTERnal.com:443
 https://stash-cdn.uberinternal.com:443
 https://static-maps.uber.com:443
 https://static.uber.com:443
@@ -4530,6 +4545,7 @@ https://toolshed.uberinternal.com:443
 https://toolshed2.uberinternal.com:443
 https://topofflineplaces-staging.uberinternal.com:443
 https://topofflineplaces.uberinternal.com:443
+https://topofflineplacesscheduler.UBErInTERnal.com:443
 https://topofflineplacesscheduler.uberinternal.com:443
 https://topofflineplacesvisualization.uberinternal.com:443
 https://totalrewards.uberinternal.com:443
@@ -4695,6 +4711,7 @@ https://usuppliers.uber.com:443
 https://usurv-pat.uberinternal.com:443
 https://usurv-staging.UbERInTernal.com:443
 https://usurv-staging.uberinternal.com:443
+https://usurv-tst.UBErInTERnal.com:443
 https://usurv-tst.uberinternal.com:443
 https://usurv.uberinternal.com:443
 https://utask.uberinternal.com:443
