@@ -35,6 +35,7 @@ http://aegis.stage.att.com:80
 http://aem-business.test-e.att.com:80
 http://aem-firstnet.test-e.att.com:80
 http://aem-preprodbusiness.test-e.att.com:80
+http://aero.att.com:8443
 http://afmfe.att.com:80
 http://afmfe.att.com:8080
 http://afmfe0.att.com:80
@@ -195,6 +196,7 @@ http://ast.att.com:8080
 http://astra-dev.att.com:80
 http://astra-preprod.att.com:443
 http://astra-preprod.att.com:80
+http://astra-test-api.att.com:443
 http://astra-test.att.com:80
 http://astra.att.com:80
 http://atlas.att.com:80
@@ -1008,6 +1010,7 @@ http://lf.uc.att.com:80
 http://lfd-attdashboard.wireless.att.com:80
 http://lgbt.att.com:80
 http://lgbt.att.com:8080
+http://lgw-az.att.com:80
 http://lgw-nprod-uat-az.test.att.com:80
 http://lh-gamify-dev.att.com:80
 http://lidbas.att.com:80
@@ -1310,6 +1313,7 @@ http://mystore.att.com:8080
 http://myvehicle-qc.stage.att.com:80
 http://myvehicle.att.com:443
 http://myvehicle.att.com:80
+http://myvehicle.sTagE.att.com:80
 http://myvehicle.stage.att.com:443
 http://myvehicle.stage.att.com:80
 http://naadmin.uc.att.com:443
@@ -1901,6 +1905,7 @@ http://sskb.att.com:80
 http://ssm-test.az.cloud.att.com:80
 http://sspdev.test.att.com:80
 http://ssplarge.test.att.com:80
+http://sspsmall.Test.att.com:80
 http://sspsmall.test.att.com:80
 http://st.teleconference.att.com:80
 http://stacm.ccgwsl-st.teleconference.att.COm:80
@@ -2021,6 +2026,7 @@ http://test3-wireless.firstnet.att.com:80
 http://test3.att.com:80
 http://test4-businesscenter.att.com:80
 http://test4.att.com:80
+http://test5.att.com:80
 http://test6.att.com:80
 http://texas.att.com:80
 http://texas.att.com:8080
@@ -2042,6 +2048,7 @@ http://tsnrui-alpha.att.com:80
 http://tsnrui-beta.att.com:80
 http://tst.sTage.att.com:80
 http://tst.stage.att.com:80
+http://tst01.sTagE.att.com:80
 http://tst01.stage.att.com:80
 http://tst02.stage.att.com:80
 http://tst03.stage.att.com:80
@@ -2243,6 +2250,7 @@ http://vnch013.acss.att.com:80
 http://vnch014.acss.att.com:80
 http://vnch015.acss.att.com:80
 http://vnch016.acss.att.com:80
+http://vnch017.ACss.att.com:80
 http://vnch017.acss.att.com:80
 http://vnch018.acss.att.com:80
 http://vnch019.acss.att.com:80
@@ -4253,6 +4261,7 @@ https://learningconnection.att.com:443
 https://learningsolutions.att.com:443
 https://lfd-attdashboard.wireless.att.com:443
 https://lgbt.att.com:443
+https://lgw-az.att.com:443
 https://lgw-nprod-uat-az.test.att.com:443
 https://lgw.att.com:443
 https://lgw.att.com:8443
@@ -4609,6 +4618,7 @@ https://mytime-mobile.att.com:443
 https://mytime-mobile.test.att.com:443
 https://myvehicle-qc.stage.att.com:443
 https://myvehicle.att.com:443
+https://myvehicle.sTagE.att.com:443
 https://myvehicle.stage.att.com:443
 https://ncblink.att.com:8443
 https://ncbls.vpn.att.com:443
@@ -5256,6 +5266,7 @@ https://ssl.pltx.dvl.labs.att.com:443
 https://ssm-test.az.cloud.att.com:443
 https://sspdev.test.att.com:443
 https://ssplarge.test.att.com:443
+https://sspsmall.Test.att.com:443
 https://sspsmall.test.att.com:443
 https://st.teleconference.att.com:443
 https://stacm.ccgwsl-st.teleconference.att.COm:443
@@ -5436,6 +5447,7 @@ https://tspacemobile.stage.att.com:443
 https://tspacex.e-access.att.com:443
 https://tst.sTage.att.com:443
 https://tst.stage.att.com:443
+https://tst01.sTagE.att.com:443
 https://tst01.stage.att.com:443
 https://tst02.stage.att.com:443
 https://tst03.stage.att.com:443
@@ -5658,6 +5670,7 @@ https://vnch013.acss.att.com:443
 https://vnch014.acss.att.com:443
 https://vnch015.acss.att.com:443
 https://vnch016.acss.att.com:443
+https://vnch017.ACss.att.com:443
 https://vnch017.acss.att.com:443
 https://vnch018.acss.att.com:443
 https://vnch019.acss.att.com:443
