@@ -3,7 +3,7 @@ http://akamai-apigateway-automation-billing.tesla.com:80 ["Service Unavailable"]
 http://akamai-apigateway-automation.tesla.com:80 ["Service Unavailable"] [503] [269] ["text/html"] ["104.90.109.222"] ["https://akamai-apigateway-automation.tesla.com/"] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-bender.tesla.com:80 ["Service Unavailable"] [503] [269] ["text/html"] ["104.90.109.222"] ["https://akamai-apigateway-bender.tesla.com/"] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-captiveunderwriting.tesla.com:80 ["Service Unavailable"] [503] [269] ["text/html"] ["104.111.226.14"] ["https://akamai-apigateway-captiveunderwriting.tesla.com/"] ["AkamaiGHost"] [null] [];
-http://akamai-apigateway-charging-ownership.tesla.com:80 ["Service Unavailable"] [503] [267] ["text/html"] ["104.111.226.14"] ["https://akamai-apigateway-charging-ownership.tesla.com/"] ["AkamaiGHost"] [null] [];
+http://akamai-apigateway-charging-ownership.tesla.com:80 ["Service Unavailable"] [503] [269] ["text/html"] ["104.89.18.184"] ["https://akamai-apigateway-charging-ownership.tesla.com/"] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-deliveryopsapi.tesla.com:80 [null] [401] [75] ["application/problem+json"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-deliveryopsapi1.tesla.com:80 ["Service Unavailable"] [503] [268] ["text/html"] ["104.90.109.222"] ["https://akamai-apigateway-deliveryopsapi1.tesla.com/"] ["AkamaiGHost"] [null] [];
 http://akamai-apigateway-deliveryopsvitu.tesla.com:80 ["Service Unavailable"] [503] [269] ["text/html"] ["104.111.226.14"] ["https://akamai-apigateway-deliveryopsvitu.tesla.com/"] ["AkamaiGHost"] [null] [];
@@ -122,7 +122,7 @@ http://click.email.tesla.com:80 [null] [301] [null] [null] ["92.123.225.49"] [nu
 http://click.emails.tesla.com:80 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.111.48.179"] ["https://click.emails.tesla.com/"] [null] [null] [];
 http://courses.tesla.com:80 [null] [302] [null] ["text/html"] ["104.111.226.14"] ["https://courses.tesla.com/auth/login/tesla-prod-oauth2/?auth_entry=login&next=%2Fdashboard"] ["nginx"] [["Nginx"]] [];
 http://dataviz.tesla.com:80 ["302 Found"] [302] [427] ["text/html"] ["104.97.82.192"] ["https://dataviz.tesla.com/"] ["akamai/nginx"] [["Nginx"]] [];
-http://digitalassets-accounts.tesla.com:80 [null] [301] [null] [null] ["23.203.68.145"] [null] ["Cloudinary"] [null] [];
+http://digitalassets-accounts.tesla.com:80 [null] [301] [null] [null] ["104.109.66.99"] [null] ["Cloudinary"] [null] [];
 http://digitalassets-energy.tesla.com:80 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
 http://digitalassets-learning.tesla.com:80 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
 http://digitalassets-shop.tesla.com:80 [null] [301] [null] [null] ["2.16.186.242"] [null] ["Cloudinary"] [null] [];
@@ -287,7 +287,7 @@ https://akamai-apigateway-automation-billing.tesla.com:443 ["Service Unavailable
 https://akamai-apigateway-automation.tesla.com:443 ["Service Unavailable"] [503] [269] ["text/html"] ["104.90.109.222"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-bender.tesla.com:443 ["Service Unavailable"] [503] [269] ["text/html"] ["104.90.109.222"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-captiveunderwriting.tesla.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
-https://akamai-apigateway-charging-ownership.tesla.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
+https://akamai-apigateway-charging-ownership.tesla.com:443 ["Service Unavailable"] [503] [268] ["text/html"] ["104.89.18.184"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-deliveryopsapi.tesla.com:443 [null] [401] [75] ["application/problem+json"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-deliveryopsapi1.tesla.com:443 ["Service Unavailable"] [503] [269] ["text/html"] ["104.90.109.222"] [null] ["AkamaiGHost"] [null] [];
 https://akamai-apigateway-deliveryopsvitu.tesla.com:443 ["Service Unavailable"] [503] [269] ["text/html"] ["104.111.226.14"] [null] ["AkamaiGHost"] [null] [];
@@ -402,7 +402,7 @@ https://cicerone.tesla.com:443 [null] [401] [24] ["text/html"] ["104.90.109.222"
 https://cld-ec.tesla.com:443 ["404 Not Found"] [404] [223] ["text/html"] ["104.90.109.222"] [null] ["Splunkd"] [["Splunkd"]] [];
 https://click.email.tesla.com:443 [null] [301] [null] [null] ["2.16.238.151"] [null] ["AkamaiGHost"] [null] [];
 https://click.emails.tesla.com:443 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.111.48.179"] [null] [null] [null] [];
-https://cnvpn.tesla.com:443 ["Tesla Motors VPN"] [404] [1591] ["text/html"] ["103.222.41.215"] [null] [null] [null] [];
+https://cnvpn.tesla.com:443 ["Tesla Motors VPN"] [404] [2543] ["text/html"] ["103.222.41.215"] [null] [null] [null] [];
 https://cnvpn1.tesla.com:443 ["Tesla Motors VPN"] [404] [2617] ["text/html"] ["114.141.176.215"] [null] [null] [null] [];
 https://courses.tesla.com:443 [null] [302] [null] ["text/html"] ["104.111.226.14"] ["https://courses.tesla.com/auth/login/tesla-prod-oauth2/?auth_entry=login&next=%2Fdashboard"] ["nginx"] [["Nginx"]] [];
 https://dataviz.tesla.com:443 ["302 Found"] [302] [428] ["text/html"] ["104.97.82.192"] [null] ["akamai/nginx"] [["Nginx"]] [];
