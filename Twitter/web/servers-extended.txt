@@ -2908,7 +2908,7 @@ http://staging.vpn.twttr.com:80 ["404 Not Found"] [404] [111] ["text/html"] ["8.
 http://staging1-partner-stream.twitter.com:80 [null] [404] [null] [null] ["104.244.42.131"] [null] ["tsa_f"] [null] [];
 http://staging1-partnerstream1.twitter.com:80 [null] [404] [null] [null] ["199.16.156.200"] ["https://staging1-partnerstream1.twitter.com/"] ["tsa_b"] [null] [];
 http://staging1-stream-data-api.twitter.com:80 [null] [404] [null] [null] ["104.244.42.67"] ["https://staging1-stream-data-api.twitter.com/"] ["tsa_f"] [null] [];
-http://staging2-partner-stream.twitter.com:80 [null] [404] [null] [null] ["104.244.42.67"] [null] ["tsa_o"] [null] [];
+http://staging2-partner-stream.twitter.com:80 [null] [404] [null] [null] ["104.244.42.131"] [null] ["tsa_f"] [null] [];
 http://staging2-partnerstream1.twitter.com:80 [null] [404] [null] [null] ["199.16.156.200"] ["https://staging2-partnerstream1.twitter.com/"] ["tsa_b"] [null] [];
 http://stagingaccount.account.backup.betabackup-alpha-accountbeta.staging.vpn.twttr.com:80 ["404 Not Found"] [404] [111] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
 http://stagingadmin.access-api.demo.staging.vpn.twttr.com:80 ["404 Not Found"] [404] [111] ["text/html"] ["8.25.194.24"] [null] [null] [null] [];
@@ -7395,7 +7395,7 @@ https://AMtoDM.twitter.com:443 [null] [404] [null] [null] ["104.244.42.67"] [nul
 https://APi-32-0-0-32-4-3.twitter.com:443 [null] [404] [null] [null] ["69.195.184.132"] [null] ["tsa_f"] [null] [];
 https://HouseofHolland.twitter.com:443 [null] [302] [null] [null] ["104.244.42.67"] [null] ["tsa_f"] [null] [];
 https://MLBBattlegrounds.twitter.com:443 [null] [302] [null] [null] ["104.244.42.67"] [null] ["tsa_f"] [null] [];
-https://MMAFighting.twitter.com:443 [null] [404] [null] [null] ["104.244.42.67"] [null] ["tsa_f"] [null] [];
+https://MMAFighting.twitter.com:443 [null] [404] [null] [null] ["104.244.42.67"] [null] ["tsa_o"] [null] [];
 https://PBS.TWIMG.com:443 ["Access Denied"] [403] [223] ["text/html"] ["23.1.106.237"] [null] ["AkamaiGHost"] [null] [];
 https://PBs.twimg.com:443 [null] [400] [null] [null] ["192.229.233.50"] [null] ["ECS (frb/6723)"] [["Amazon ECS","Amazon Web Services","Docker"]] [];
 https://TommyNow.twitter.com:443 [null] [302] [null] [null] ["104.244.42.67"] [null] ["tsa_o"] [null] [];
@@ -16010,7 +16010,7 @@ https://geo0.publish.twitter.com:443 [null] [404] [null] [null] ["104.244.42.3"]
 https://geo0.s.twitter.com:443 [null] [404] [null] [null] ["104.244.42.131"] [null] ["tsa_f"] [null] [];
 https://geo0.stream.twitter.com:443 [null] [404] [null] [null] ["104.244.42.3"] [null] ["tsa_f"] [null] [];
 https://geo0.support.twitter.com:443 [null] [404] [null] [null] ["104.244.42.7"] [null] ["tsa_o"] [null] [];
-https://geo0.syndication.twimg.com:443 [null] [404] [null] [null] ["104.244.42.72"] [null] ["tsa_o"] [null] [];
+https://geo0.syndication.twimg.com:443 [null] [404] [null] [null] ["104.244.42.136"] [null] ["tsa_f"] [null] [];
 https://geo0.syndication.twitter.com:443 [null] [404] [null] [null] ["104.244.42.8"] [null] ["tsa_o"] [null] [];
 https://geo0.td.twitter.com:443 [null] [404] [null] [null] ["104.244.42.132"] [null] ["tsa_f"] [null] [];
 https://geo0.ton-kf.twitter.com:443 [null] [404] [null] [null] ["199.59.149.204"] [null] ["tsa_a"] [null] [];
@@ -18379,7 +18379,7 @@ https://munki-atlc.svc.twttr.com:443 ["400 No required SSL certificate was sent"
 https://munki-atlc.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://munki-smfc.svc.twttr.com:443 ["400 No required SSL certificate was sent"] [400] [632] ["text/html"] ["8.25.194.44"] [null] ["nginx"] [["Nginx"]] [];
 https://munki-smfc.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
-https://munki.svc.twttr.com:443 ["400 No required SSL certificate was sent"] [400] [230] ["text/html"] ["8.25.194.43"] [null] ["nginx"] [["Nginx"]] [];
+https://munki.svc.twttr.com:443 ["400 No required SSL certificate was sent"] [400] [230] ["text/html"] ["8.25.194.44"] [null] ["nginx"] [["Nginx"]] [];
 https://mura.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://muraj.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
 https://murakami.vpn.twttr.com:443 [null] [302] [null] ["text/html"] ["192.133.76.240"] [null] [null] [["Pulse Secure"]] [];
