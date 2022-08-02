@@ -276,6 +276,9 @@ http://2021engineeringv2-preferences-status.ctf.hacker101.com:443 ["400 The plai
 http://2021jenkins-access.accessaccount-access2019.alpha-preferences.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["52.33.0.95"] [null] ["awselb/2.0"] [null] [];
 http://2021statusana-miles.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.233.217.48"] [null] ["awselb/2.0"] [null] [];
 http://2021v4-status.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["44.235.9.210"] [null] ["awselb/2.0"] [null] [];
+http://ErrOrs.hackerone.net:80 [null] [301] [null] [null] ["104.17.235.53"] [null] ["cloudflare"] [["Cloudflare"]] [];
+http://ErrOrs.hackerone.net:8080 [null] [301] [null] [null] ["104.17.235.53"] [null] ["cloudflare"] [["Cloudflare"]] [];
+http://ErrOrs.hackerone.net:8443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [253] ["text/html"] ["104.17.235.53"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://a5s.hackerone-ext-content.com:80 ["ERROR: The request could not be satisfied"] [403] [915] ["text/html"] ["13.249.39.25"] [null] ["CloudFront"] [["Amazon Cloudfront","Amazon Web Services"]] [];
 http://access-2018-engineering.chef.new.update.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["35.161.190.65"] [null] ["awselb/2.0"] [null] [];
 http://access-2019.2021staging-user.startrek-discovery.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["34.210.210.18"] [null] ["awselb/2.0"] [null] [];
@@ -3239,6 +3242,7 @@ https://2021vpn.error-lequinharay-development.ctf.hacker101.com:443 [null] [404]
 https://2021web-2021-status.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.73.50"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2021web-error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.86.13.172"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://2021web.confluence-admin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.27.69.103"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://ErrOrs.hackerone.net:443 ["403 Forbidden"] [403] [548] ["text/html"] ["104.17.235.53"] [null] ["cloudflare"] [["Cloudflare"]] [];
 https://a5s.hackerone-ext-content.com:443 [null] [200] [881] ["text/html"] ["13.249.39.25"] [null] ["AmazonS3"] [["Amazon Cloudfront","Amazon S3","Amazon Web Services"]] [];
 https://access-2018-2018-jenkins.deverror.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.86.13.172"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://access-2018-2020-admin-alpha.chef-2019update.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.69.37.71"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];

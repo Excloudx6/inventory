@@ -276,6 +276,9 @@ http://2021engineeringv2-preferences-status.ctf.hacker101.com:443
 http://2021jenkins-access.accessaccount-access2019.alpha-preferences.ctf.hacker101.com:443
 http://2021statusana-miles.ctf.hacker101.com:443
 http://2021v4-status.ctf.hacker101.com:443
+http://ErrOrs.hackerone.net:80
+http://ErrOrs.hackerone.net:8080
+http://ErrOrs.hackerone.net:8443
 http://a5s.hackerone-ext-content.com:80
 http://access-2018-engineering.chef.new.update.ctf.hacker101.com:443
 http://access-2019.2021staging-user.startrek-discovery.ctf.hacker101.com:443
@@ -3239,6 +3242,7 @@ https://2021vpn.error-lequinharay-development.ctf.hacker101.com:443
 https://2021web-2021-status.ctf.hacker101.com:443
 https://2021web-error.ctf.hacker101.com:443
 https://2021web.confluence-admin.ctf.hacker101.com:443
+https://ErrOrs.hackerone.net:443
 https://a5s.hackerone-ext-content.com:443
 https://access-2018-2018-jenkins.deverror.ctf.hacker101.com:443
 https://access-2018-2020-admin-alpha.chef-2019update.update.ctf.hacker101.com:443
