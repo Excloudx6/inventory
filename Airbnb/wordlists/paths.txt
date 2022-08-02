@@ -632,6 +632,8 @@
 ./StaysCheckoutRoute/StaysCheckoutRoute.prepare
 ./StaysConfirmationRoute
 ./StaysConfirmationRoute.prepare
+./StaysSearchRoute/StaysSearchRoute
+./StaysSearchRoute/StaysSearchRoute.prepare
 ./TransactionDetailsRoute
 ./TransactionDetailsRoute.prepare
 ./TripSurveyRoute.prepare
@@ -2960,6 +2962,7 @@
 /russia/moscow-russia
 /russia/saint-petersburg
 /s/
+/s/:location?/homes/:additionalRefinements?
 /s/:query
 /s/:slug
 /s/:slug/:hotelId
