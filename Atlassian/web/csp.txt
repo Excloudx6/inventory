@@ -216,6 +216,8 @@
 *.qualtrics.com
 *.salesforce.com
 *.sandbox.braintree-api.com
+*.segment.com
+*.sentry.io
 *.statuspage.io
 *.stg.atlassian.com
 *.stg.internal.atlassian.com
@@ -425,11 +427,13 @@ https://www.google.com/recaptcha/
 https://www.googleadservices.com
 https://www.gstatic.com/recaptcha/
 images.ctfassets.net
+img.shields.io
 js-agent.newrelic.com
 js.intercomcdn.com
 js.stripe.com
 m.stripe.network
 mscgen.js.org
+player.vimeo.com
 q.stripe.com
 safe.menlosecurity.com
 secure.gravatar.com
@@ -442,6 +446,7 @@ wss://*.intercom.io
 wss://trellegi.services.atlassian.com
 www.google-analytics.com
 www.googletagmanager.com
+www.gstatic.com
 www.paypalobjects.com
 www.youtube.com
 youtube.com
