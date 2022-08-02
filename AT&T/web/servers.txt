@@ -1609,6 +1609,7 @@ http://r-tst1.test-e.att.com:80
 http://r-tst2.test-e.att.com:80
 http://r-tst3.test-e.att.com:80
 http://r-tst4.test-e.att.com:80
+http://r.research.att.com:443
 http://r.research.att.com:80
 http://rbugs.research.att.com:443
 http://rbugs.research.att.com:80
@@ -2346,6 +2347,7 @@ http://vndh869.acss.att.com:80
 http://vndw01.acss.att.com:80
 http://vndw02.acss.att.com:80
 http://vndw03.acss.att.com:80
+http://vndw04.AcSs.att.com:80
 http://vndw04.acss.att.com:80
 http://vndw05.acss.att.com:80
 http://vndw06.acss.att.com:80
@@ -2527,6 +2529,7 @@ http://vnten04.acss.att.com:80
 http://vnuhg2.acss.att.com:80
 http://vnusc01.aCSs.att.com:80
 http://vnusc01.acss.att.com:80
+http://vnusc02.acSS.att.com:80
 http://vnusc02.acsS.att.com:80
 http://vnusc02.acss.att.com:80
 http://vnusc03.acss.att.com:80
@@ -2538,6 +2541,7 @@ http://vnusres04.acsS.att.com:80
 http://vnusres04.acss.att.com:80
 http://vnusres05.acss.att.com:80
 http://vnusres10.acss.att.com:80
+http://vnusres11.AcSs.att.com:80
 http://vnusres11.acss.att.com:80
 http://vnusres13.acss.att.com:80
 http://vnusres14.acss.att.com:80
@@ -3702,8 +3706,13 @@ https://ed-dev-directvcommercial.test.att.com:8443
 https://ed-directvcommercial.att.com:443
 https://ed-qa-directvcommercial.test.att.com:443
 https://ed-qa-directvcommercial.test.att.com:8443
+https://edS-Sfdc-p1w8.wireless.Att.com:8080
 https://edd.att.com:443
+https://edp-dev.att.com:443
+https://edp-dev.att.com:8443
 https://edp.att.com:443
+https://edpms.att.com:443
+https://edpms.att.com:8443
 https://eds-aldc-dw10.wireless.att.com:8080
 https://eds-aldc-dw11.wireless.att.com:8080
 https://eds-aldc-dw12.wireless.att.com:8080
@@ -5766,6 +5775,7 @@ https://vndh869.acss.att.com:443
 https://vndw01.acss.att.com:443
 https://vndw02.acss.att.com:443
 https://vndw03.acss.att.com:443
+https://vndw04.AcSs.att.com:443
 https://vndw04.acss.att.com:443
 https://vndw05.acss.att.com:443
 https://vndw06.acss.att.com:443
@@ -5947,6 +5957,7 @@ https://vnten04.acss.att.com:443
 https://vnuhg2.acss.att.com:443
 https://vnusc01.aCSs.att.com:443
 https://vnusc01.acss.att.com:443
+https://vnusc02.acSS.att.com:443
 https://vnusc02.acsS.att.com:443
 https://vnusc02.acss.att.com:443
 https://vnusc03.acss.att.com:443
@@ -5958,6 +5969,7 @@ https://vnusres04.acsS.att.com:443
 https://vnusres04.acss.att.com:443
 https://vnusres05.acss.att.com:443
 https://vnusres10.acss.att.com:443
+https://vnusres11.AcSs.att.com:443
 https://vnusres11.acss.att.com:443
 https://vnusres13.acss.att.com:443
 https://vnusres14.acss.att.com:443

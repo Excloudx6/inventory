@@ -17,6 +17,8 @@
 *.firstnet.ws
 *.force.com
 *.foresee.com
+*.glip.net
+*.gliprc.com
 *.go-mpulse.net
 *.google-analytics.com
 *.google.com
@@ -107,6 +109,7 @@ https://*.geotab.com
 https://*.glip.ringcentral.biz
 https://*.googleapis.com
 https://*.msauth.net
+https://*.officeathand.att.com/
 https://*.pndsn.com
 https://*.pubnubapi.com
 https://*.qualtrics.com
@@ -144,6 +147,7 @@ https://community-apimarket.att.com/sidekiq/
 https://csp-report.force.com/_/ContentDomainCSPNoAuth?type=communities
 https://csp-report.force.com/_/ContentDomainCSPNoAuth?type=sites
 https://datlfdmws01.ad.here.com:1443/
+https://dsimicro.com
 https://ebig-int.web.att.com
 https://ebig.web.att.com
 https://ecaprodid1.b2clogin.com
