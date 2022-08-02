@@ -6347,6 +6347,7 @@
 ./utils/common
 ./utils/get-global-config
 ./utils/strings
+./utils\
 ./uz
 ./uz-latn
 ./uz-latn.js
@@ -6426,6 +6427,7 @@
 /#/authenticate
 /#/faqs?accordion=project%20take
 /#/pkce/
+/#/project-request
 /#/site/
 /..
 /./
@@ -7474,6 +7476,7 @@
 /bulk_clone/
 /bundle
 /bundle-ids
+/business-area
 /business-area/[slug]
 /business-areas
 /buyer-dashboard/
@@ -7854,6 +7857,7 @@
 /components/partner-profile/settings/settings.html
 /components/partner-profile/settings/settings.html\
 /components/partner-profile/share-profile-modal/share-profile-modal.html
+/components/partner-profile/shortlist-pay-bank-details/_ca-branchcode-field.shortlist-pay-bank-details.html
 /components/partner-profile/shortlist-pay-bank-details/_fields.shortlist-pay-bank-details.html
 /components/partner-profile/shortlist-pay-bank-details/_fields.shortlist-pay-bank-details.html\
 /components/partner-profile/shortlist-pay-bank-details/shortlist-pay-bank-details.template.html
@@ -8659,6 +8663,7 @@
 /fonts/NetflixSans_W_Lt.woff2
 /fonts/NetflixSans_W_Md.woff
 /fonts/NetflixSans_W_Md.woff2
+/foo/:slug
 /form_templates/
 /forms/
 /forms/\
@@ -8779,6 +8784,7 @@
 /interface/chat/lobby/intent
 /interface/chat/start
 /interface/chat?mobile=true&amp;backToChat=true
+/intern-program
 /interview_schedule/
 /invalid/uri
 /invitation/
@@ -8980,6 +8986,7 @@
 /mz9
 /navigation/
 /netflixContact/
+/new-grad-program
 /new-releases
 /new-to-watch
 /new/project
@@ -10376,6 +10383,7 @@
 /tudum/js/
 /tudum/mocks
 /tudum/mocks/*
+/tudum/sitemap_gn.xml
 /tudum/sitemap_vt.xml
 /tudum/stories/*
 /tv/in/success
@@ -10499,6 +10507,7 @@
 /upgrade/welcomeback
 /upgrades
 /upgrades/nrdpVersions
+/upload
 /upload/flash
 /upload_file_config/
 /upload_files/
@@ -10576,7 +10585,9 @@
 /verifyage
 /verifycode
 /verifydevice
+/verifydevice/1tv
 /verifydevice/code
+/verifydevice/finishverifying
 /verifydevice/network
 /verifydevice/scan
 /verifydevice/start
@@ -11156,6 +11167,7 @@ application/vnd.mif
 application/vnd.mseq
 application/vnd.nitf
 application/vnd.palm
+application/vnd.rar
 application/vnd.sema
 application/vnd.semd
 application/vnd.semf
@@ -11192,6 +11204,7 @@ application/x-bzip
 application/x-bzip2
 application/x-cbr
 application/x-cd-image
+application/x-cdf
 application/x-cdlink
 application/x-cfs-compressed
 application/x-chat
@@ -11367,6 +11380,7 @@ attributors/style/direction
 attributors/style/font
 attributors/style/size
 audio/3gpp
+audio/aac
 audio/adpcm
 audio/aiff
 audio/amr
@@ -12483,6 +12497,7 @@ iPhone/iPad
 icons-ea5a1bec4d8ad6ff9a86.js
 image/aces
 image/apng
+image/avif
 image/bmp
 image/bpg
 image/cgm
