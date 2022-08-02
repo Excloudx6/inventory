@@ -16,6 +16,7 @@
 -152f8c1cd39dc583ee61.js
 -17b480de90b5d4fb2500.js
 -17ccfc4926a4.js
+-1d1c4479f4a1.js
 -1d4f8d7592235ced38d6.js
 -1ea385d5c7ff2dd39ec8.js
 -1ea5dd45dd65.js
@@ -89,6 +90,7 @@
 -aa6ccb50f851.js
 -ab34dd0d3d8c.js
 -ab59e3961e9a.js
+-adefe227d603.js
 -b9402c4f55ed.js
 -ba8ef7c9465c.js
 -bcbeb6770753.js
@@ -719,6 +721,7 @@
 /latest/fleet/config
 /latest/fleet/config/certificate
 /latest/fleet/device
+/latest/fleet/download_installer
 /latest/fleet/email/change/
 /latest/fleet/forgot_password
 /latest/fleet/host_summary
