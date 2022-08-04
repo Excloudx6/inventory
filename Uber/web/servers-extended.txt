@@ -1780,7 +1780,7 @@ http://qbfe-docker.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] [
 http://qifan.uberinternal.com:80 [null] [401] [103] ["application/json"] ["104.36.195.150"] ["https://qifan.uberinternal.com/"] ["ufe"] [["Basic","Envoy"]] [];
 http://qms-staging.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://qms-staging.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://qms.uberinternal.com:80 [null] [301] [null] [null] ["104.36.195.150"] ["https://qms.uberinternal.com/"] ["ufe"] [null] [];
-http://query-result.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://query-result.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
+http://query-result.uberinternal.com:80 ["429"] [429] [301] ["text/html"] ["104.36.195.150"] ["https://query-result.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://querybuilder-dca1.uberinternal.com:80 ["301 Moved Permanently"] [301] [166] ["text/html"] ["104.36.195.150"] ["https://querybuilder-dca1.uberinternal.com/querybuilder/builder/create"] ["ufe"] [["Envoy"]] [];
 http://querybuilder-ea-dca1.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://querybuilder-ea-dca1.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://querybuilder-ea-phx2.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.197.214"] ["https://querybuilder-ea-phx2.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
@@ -4132,7 +4132,7 @@ https://qbfe-docker.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"]
 https://qifan.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://qms-staging.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://qms.uberinternal.com:443 [null] [301] [null] [null] ["104.36.195.150"] [null] ["ufe"] [null] [];
-https://query-result.uberinternal.com:443 [null] [401] [103] ["application/json"] ["104.36.195.150"] [null] ["ufe"] [["Basic","Envoy"]] [];
+https://query-result.uberinternal.com:443 ["429"] [429] [301] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://querybuilder-dca1.uberinternal.com:443 ["301 Moved Permanently"] [301] [166] ["text/html"] ["104.36.195.150"] ["https://querybuilder-dca1.uberinternal.com/querybuilder/builder/create"] ["ufe"] [["Envoy"]] [];
 https://querybuilder-ea-dca1.uberinternal.com:443 [null] [401] [103] ["application/json"] ["104.36.195.150"] [null] ["ufe"] [["Basic","Envoy"]] [];
 https://querybuilder-ea-phx2.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.197.214"] [null] ["ufe"] [["Envoy"]] [];
