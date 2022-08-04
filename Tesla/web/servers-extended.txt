@@ -122,7 +122,7 @@ http://click.email.tesla.com:80 [null] [301] [null] [null] ["92.123.225.49"] [nu
 http://click.emails.tesla.com:80 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.111.48.179"] ["https://click.emails.tesla.com/"] [null] [null] [];
 http://courses.tesla.com:80 [null] [302] [null] ["text/html"] ["104.111.226.14"] ["https://courses.tesla.com/auth/login/tesla-prod-oauth2/?auth_entry=login&next=%2Fdashboard"] ["nginx"] [["Nginx"]] [];
 http://dataviz.tesla.com:80 ["302 Found"] [302] [427] ["text/html"] ["104.97.82.192"] ["https://dataviz.tesla.com/"] ["akamai/nginx"] [["Nginx"]] [];
-http://digitalassets-accounts.tesla.com:80 [null] [301] [null] [null] ["23.203.68.145"] [null] ["Cloudinary"] [null] [];
+http://digitalassets-accounts.tesla.com:80 [null] [301] [null] [null] ["23.37.49.112"] [null] ["Cloudinary"] [null] [];
 http://digitalassets-energy.tesla.com:80 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
 http://digitalassets-learning.tesla.com:80 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
 http://digitalassets-shop.tesla.com:80 [null] [301] [null] [null] ["2.16.186.242"] [null] ["Cloudinary"] [null] [];
@@ -406,7 +406,7 @@ https://cnvpn.tesla.com:443 ["Tesla Motors VPN"] [404] [1591] ["text/html"] ["10
 https://cnvpn1.tesla.com:443 ["Tesla Motors VPN"] [404] [2617] ["text/html"] ["114.141.176.215"] [null] [null] [null] [];
 https://courses.tesla.com:443 [null] [302] [null] ["text/html"] ["104.111.226.14"] ["https://courses.tesla.com/auth/login/tesla-prod-oauth2/?auth_entry=login&next=%2Fdashboard"] ["nginx"] [["Nginx"]] [];
 https://dataviz.tesla.com:443 ["302 Found"] [302] [428] ["text/html"] ["104.97.82.192"] [null] ["akamai/nginx"] [["Nginx"]] [];
-https://digitalassets-accounts.tesla.com:443 [null] [301] [null] [null] ["104.109.66.99"] [null] ["Cloudinary"] [null] [];
+https://digitalassets-accounts.tesla.com:443 [null] [301] [null] [null] ["23.203.68.145"] [null] ["Cloudinary"] [null] [];
 https://digitalassets-energy.tesla.com:443 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
 https://digitalassets-learning.tesla.com:443 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
 https://digitalassets-shop.tesla.com:443 [null] [301] [null] [null] ["2.16.186.242"] [null] ["Cloudinary"] [null] [];
