@@ -115,6 +115,7 @@ https://api-ssl.bitly.com/v3/validate
 https://api.company-target.com/api/v2/ip.json?
 https://api.plixi.com/api/tpapi.svc/imagefromurl?size=medium&amp;url=
 https://api.plixi.com/api/tpapi.svc/imagefromurl?size=thumbnail&amp;url=
+https://api.stocktwits.com/api/2/streams/symbol/
 https://api.twitter.com
 https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js
 https://apps.apple.com/us/app/okta-verify/id490179405
@@ -333,6 +334,7 @@ https://px.ads.linkedin.com/collect/?pid=1863700&amp;fmt=gif
 https://px.ads.linkedin.com/collect/?pid=2300282&amp;fmt=gif
 https://px.ads.linkedin.com/collect/?pid=2306498&amp;fmt=gif
 https://px.ads.linkedin.com/collect/?pid=498010&amp;fmt=gif
+https://q4modules.herokuapp.com/social/stream/
 https://reactjs.org/docs/error-decoder.html?invariant=
 https://s-a.innovid.com/conversion/
 https://schema.org/
@@ -352,6 +354,7 @@ https://secure.ethicspoint.com/domain/media/shared/lrn_logo.png\
 https://secure.ethicspoint.com/domain/media/shared/nglogo.png
 https://secure.ethicspoint.com/domain/media/shared/nglogo.png\
 https://sessions.bugsnag.com
+https://static.ads-twitter.com/uwt.js
 https://stats.g.doubleclick.net/j/collect
 https://support.twitter.com/articles/117063-blocking-people-on-twitter
 https://support.twitter.com/articles/15364
@@ -425,6 +428,7 @@ https://twitter.com
 https://twitter.com/
 https://twitter.com/#!/search?q=%23
 https://twitter.com/#!/search?q=%24
+https://twitter.com/$1
 https://twitter.com/${author.screen_name}/status/${tweet.id_str}
 https://twitter.com/Interior/status/463440424141459456
 https://twitter.com/TwitterDev
@@ -433,6 +437,7 @@ https://twitter.com/TwitterWrite
 https://twitter.com/_username_/status/_id_
 https://twitter.com/account/suspended_help
 https://twitter.com/activity
+https://twitter.com/hashtag/$1
 https://twitter.com/i/broadcasts/
 https://twitter.com/i/cards/tfw/v1/
 https://twitter.com/i/communities/
@@ -532,6 +537,7 @@ https://www.gstatic.com/recaptcha/releases/QENb_qRrX0-mQMyENQjD6Fuj/recaptcha__e
 https://www.gstatic.com/recaptcha/releases/Y-cOIEkAqcfDdup_qnnmkxIC/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/_exWVY_hlNJJl2Abm8pI9i1L/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/g9jXH0OtfQet-V0Aewq23c7K/recaptcha__en.js
+https://www.gstatic.com/recaptcha/releases/gWN_U6xTIPevg0vuq7g1hct0/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/gZWLhEUEJFxEhoT5hpjn2xHK/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/zLD1nfkNCJC1kEswSRdSyd-p/recaptcha__en.js
