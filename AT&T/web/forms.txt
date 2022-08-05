@@ -22,6 +22,7 @@ https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=hmkPxlP0eZvaoJyXljvJS6RHPgfAZTgoYrCzeixmks4
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=lviYyjuetq0tzO5aZD2lRVR7lSCTD1G-IO6wgNzRsN4
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=rOQiwmWyNvXfNlpwzB1yFgKOSZN_RW_zBeRyM3wp3Os
+https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=wRcBMtqd6fILeDA4RbdaN0VZDzEmmg42Co_lzH-812g
 https://autocat.att.com/misc/url_capture.jsp?page=%2Findex.jsp
 https://baccess-al.att.com:443
 https://baccess-ff.att.com:443
@@ -39,6 +40,7 @@ https://c2m-projectone.att.com:443
 https://cabling.att.com:443
 https://caccess-al.att.com:443
 https://caccess.stage.att.com:443
+https://call.att.com:443/control/main
 https://calnet.att.com:443
 https://carecentral.att.com:443
 https://careplus.att.com/
@@ -48,9 +50,13 @@ https://coreconnected.att.com/
 https://coreconnected.att.com:443
 https://currently.att.yahoo.com/
 https://custompricingdev.att.com/misc/url_capture.jsp?page=%2Findex.jsp
+https://custompricingdev2.att.com/misc/url_capture.jsp?page=%2Findex.jsp
 https://custompricingst.att.com/misc/url_capture.jsp?page=%2Findex.jsp
+https://custompricingst2.att.com/misc/url_capture.jsp?page=%2Findex.jsp
+https://custompricingtrain.att.com/misc/url_capture.jsp?page=%2Findex.jsp
 https://cybersecurity.att.com/
 https://cybersecurity.att.com:443
+https://darp-confluence.test.att.com/login.action?os_destination=%2Findex.action&permissionViolation=true
 https://designthinking.att.com/wp-login.php?redirect_to=http%3A%2F%2Fdesignthinking.att.com%3A80%2F&reauth=1
 https://developer.att.com/
 https://developer.att.com/enhanced-push-to-talk
@@ -58,6 +64,7 @@ https://developer.att.com:443
 https://developerstage.att.com/wp-login.php?redirect_to=https%3A%2F%2Fdeveloperstage.att.com%2F&reauth=1
 https://discoverydistrict.att.com/
 https://discoverydistrict.att.com:443
+https://e-tst1-cloud.stage.att.com:443
 https://ecat.em.att.com/
 https://ecat.em.att.com:443
 https://electronics.att.com/
@@ -69,6 +76,7 @@ https://envivo.att.yahoo.com/?lang=es-us
 https://es.mst.att.com/auth/login?returnurl=%2f
 https://fame.att.com/signin
 https://fame.att.com:443/signin
+https://fcontent.test.att.com:443
 https://fnetidp.stage.flogin.att.com:443
 https://giving.att.com:443/Account/login.aspx?ReturnUrl=%2f
 https://idp-fie.test-e.att.com:443
@@ -94,6 +102,7 @@ https://ourlivingroom.att.com:443
 https://oxygen-nprd.att.com:443
 https://oxygen.att.com:443
 https://pittsburgh-attsn.att.com:443
+https://policyforumeventreg.att.com/events/EventRsvp.aspx
 https://policyforumeventreg.att.com:443/events/EventRsvp.aspx
 https://pre-developer.att.com:443
 https://pre-www.att.com/
@@ -109,6 +118,7 @@ https://release.att.com:443
 https://rewardcenter.att.com:443/home.aspx
 https://rmsoca.att.com:443
 https://rmsocatest.att.com:443
+https://rockymountain-attsn.att.com/
 https://rockymountain-attsn.att.com:443
 https://screenready.att.com:443
 https://screenready.att.com:443/
@@ -129,6 +139,7 @@ https://voltage-pp-0000.att.com/login
 https://www.atlassian.com/software/statuspage
 https://www.att.com/
 https://www.att.com/home-phone/landline/
+https://www.att.com/sitemap/
 https://www.att.com/smallbusiness/
 https://www.att.com/support/
 https://www.att.com/support/article/u-verse-tv/KM1333754/

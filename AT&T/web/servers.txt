@@ -248,6 +248,7 @@ http://attdashboard-zr.wireless.att.com:80
 http://attdashboard.wireless.att.com:80
 http://attfacilitiesportal-az-portal.att.com:80
 http://attfacilitiesportal.att.com:80
+http://attfleet.att.com:80
 http://attfleet.test.att.com:80
 http://attmbl-us.att.com:80
 http://attmbl-usdev.att.com:80
@@ -739,6 +740,7 @@ http://events.att.com:80
 http://everest-eu2-beta-dashboard.az.cloud.att.com:80
 http://evolve.att.com:80
 http://evolve.att.com:8080
+http://ewp-az.att.com:80
 http://exp.att.com:80
 http://exp.att.com:8080
 http://experience.att.com:80
@@ -857,6 +859,8 @@ http://hub.att.com:80
 http://hvd-intl01.att.com:80
 http://hvd.att.com:80
 http://hvd.att.com:8080
+http://iam.dev.cloud.att.com:80
+http://iam.devapi.cloud.att.com:80
 http://ibmmeeting.att.com:443
 http://icapoffer-decisioning.att.com:8443
 http://ice-projectone.att.com:80
@@ -1653,6 +1657,7 @@ http://rhodeisland.att.com:8080
 http://rhodeisland.att.com:8443
 http://rmsoca.att.com:80
 http://rockymountain-attsn.att.com:80
+http://rog.att.com:80
 http://rsc.att.com:80
 http://rsvp.att.com:80
 http://rsvp.test.att.com:80
@@ -2035,6 +2040,7 @@ http://texas.att.com:8443
 http://thesummit.att.com:80
 http://touchtrivia.att.com:80
 http://towers.att.com:80
+http://trackers.stage.att.com:80
 http://tracking-cargoview.att.com:80
 http://tracking.att.com:80
 http://tradein-program.att.com:80
@@ -2278,6 +2284,7 @@ http://vnch04.acss.att.com:80
 http://vnch05.acss.att.com:80
 http://vnch06.aCSs.att.com:80
 http://vnch06.acss.att.com:80
+http://vnch07.acSS.att.com:80
 http://vnch07.acss.att.com:80
 http://vnch08.acss.att.com:80
 http://vnch09.aCSs.att.com:80
@@ -2470,6 +2477,7 @@ http://vnsd40.acss.att.com:80
 http://vnsd41.acss.att.com:80
 http://vnsd42.acss.att.com:80
 http://vnsd43.acss.att.com:80
+http://vnsd44.acSS.att.com:80
 http://vnsd44.acss.att.com:80
 http://vnsd47.acss.att.com:80
 http://vnsd48.acss.att.com:80
@@ -2715,6 +2723,7 @@ http://xaaf-st-stage.att.com:80
 http://xaaf.att.com:443
 http://xaaf.att.com:80
 http://xandrlearning.att.com:80
+http://xcelerate.att.com:80
 http://xdm.wireless.att.com:8080
 http://xdmar.wireless.att.com:80
 http://xdmarg.wireless.att.com:80
@@ -3701,6 +3710,8 @@ https://ecare-mat.test-e.att.com:443
 https://ecat.em.att.com:443
 https://ecmng-prod.att.com:443
 https://ecommerce.wireless.att.com:443
+https://ed-asvt-directvcommercial.test.att.com:443
+https://ed-asvt-directvcommercial.test.att.com:8443
 https://ed-dev-directvcommercial.test.att.com:443
 https://ed-dev-directvcommercial.test.att.com:8443
 https://ed-directvcommercial.att.com:443
@@ -3883,6 +3894,7 @@ https://euam.bus.att.com:443
 https://euam.eia.att.com:443
 https://events.att.com:443
 https://evolve.att.com:443
+https://ewp-az.att.com:443
 https://exp.att.com:443
 https://experience.att.com:443
 https://explore.att.com:443
@@ -4063,6 +4075,8 @@ https://hvd-intl13.att.com:443
 https://hvd-intl14.att.com:443
 https://hvd-intl14.att.com:8443
 https://hvd.att.com:443
+https://iam.dev.cloud.att.com:443
+https://iam.devapi.cloud.att.com:443
 https://ibmmeeting.att.com:443
 https://ibs.eia.att.com:443
 https://icam.att.com:443
@@ -5116,6 +5130,7 @@ https://saselearningdev.att.com:443
 https://sasvpdl.callvantage.att.com:443
 https://sasvpdl1r2vdna.att.com:443
 https://sasvpdl1r4vdna.att.com:443
+https://sasvpdl1vdna.att.com:443
 https://sasvpdl2r2vdna.att.com:443
 https://sasvpdl2r4vdna.att.com:443
 https://sasvpdl2vdna.att.com:443
@@ -5430,6 +5445,7 @@ https://test3-wireless.firstnet.att.com:443
 https://test3.att.com:443
 https://test4-businesscenter.att.com:443
 https://test4.att.com:443
+https://test6.att.com:443
 https://texas.att.com:443
 https://texas.att.com:8443
 https://tguard-rt1.stage.att.com:443
@@ -5440,6 +5456,7 @@ https://tlws-ssl-ngeag.att.com:443
 https://tlws-vpn-ngeag.att.com:443
 https://touchtrivia.att.com:443
 https://towers.att.com:443
+https://trackers.stage.att.com:443
 https://tracking-cargoview.att.com:443
 https://tracking.att.com:443
 https://tradein-program.att.com:443
@@ -5706,6 +5723,7 @@ https://vnch04.acss.att.com:443
 https://vnch05.acss.att.com:443
 https://vnch06.aCSs.att.com:443
 https://vnch06.acss.att.com:443
+https://vnch07.acSS.att.com:443
 https://vnch07.acss.att.com:443
 https://vnch08.acss.att.com:443
 https://vnch09.aCSs.att.com:443
@@ -5898,6 +5916,7 @@ https://vnsd40.acss.att.com:443
 https://vnsd41.acss.att.com:443
 https://vnsd42.acss.att.com:443
 https://vnsd43.acss.att.com:443
+https://vnsd44.acSS.att.com:443
 https://vnsd44.acss.att.com:443
 https://vnsd47.acss.att.com:443
 https://vnsd48.acss.att.com:443
@@ -6137,6 +6156,7 @@ https://xandrlearning.att.com:443
 https://xassets.stage.att.com:443
 https://xassets.test.att.com:443
 https://xbfvdna.psl.labs.att.com:443
+https://xcelerate.att.com:443
 https://xcontent-al.att.com:443
 https://xcontent.stage.att.com:443
 https://xcontent.test.att.com:443
