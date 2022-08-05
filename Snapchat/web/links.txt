@@ -177,6 +177,8 @@ https://advocates.snapchat.com
 https://advocates.superfan.studio
 https://am-api.snapchat.com/v1
 https://ampcid.google.com/v1/publisher:getClientId
+https://api-kit.snapchat.com/com.snap.camerakit.v3.Lenses
+https://api-kit.snapchat.com/com.snap.camerakit.v3.Metrics/metrics/business_events
 https://api.bitmoji.com
 https://api.braintreegateway.com:443
 https://api.mapbox.com
@@ -286,6 +288,7 @@ https://cf-st.sc-cdn.net/
 https://cf-st.sc-cdn.net/aps/bolt/
 https://cf-st.sc-cdn.net/aps/bolt_dpa/
 https://cf-st.sc-cdn.net/d/1Ow4iYodHnydynTZztSTy?bo=Eg0aABoAMgEESAJQCGAB&amp;uc=8
+https://cf-st.sc-cdn.net/d/2GqOg7VkHsrxrA21X8EXs?go=IgsKCTIBBEgBUFxgAQ%3D%3D&amp;uc=92
 https://cf-st.sc-cdn.net/d/9TYOGxBO3cFw9TME3B9BO?bo=Eg0aABoAMgEESAJQCGAB&amp;uc=8
 https://cf-st.sc-cdn.net/d/BQ4e4ixZMSebk9SKmaOEL?bo=EhQaABoAMgIEfUgCUAhaBAjU5TJgAQ%3D%3D&amp;uc=8
 https://cf-st.sc-cdn.net/d/Fj5SOJ9NCL69HtEGwU6bQ?bo=EhUaABoAMgIEfUgCUAhaBQjum5cBYAE%3D&amp;uc=8
@@ -299,8 +302,10 @@ https://cf-st.sc-cdn.net/d/UqfWiVbyKWqRv8TY23oPQ?bo=Eg0aABoAMgEESAJQCGAB&amp;uc=
 https://cf-st.sc-cdn.net/d/XJMJ1szx1HVwt1MqUPrhw?bo=EhQaABoAMgIEfUgCUAhaBAia6wtgAQ%3D%3D&amp;uc=8
 https://cf-st.sc-cdn.net/d/frwDzyNE8mT5DrubgBeHG?bo=EhQaABoAMgIEfUgCUAhaBAiWtG1gAQ%3D%3D&amp;uc=8
 https://cf-st.sc-cdn.net/d/j1li1E7IvqaXu99dR8qCU?bo=Eg0aABoAMgEESAJQCGAB&amp;uc=8
+https://cf-st.sc-cdn.net/d/kzVsAFvYp3hbj2xnQBRyM?go=IgsKCTIBBEgBUFxgAQ%3D%3D&amp;uc=92
 https://cf-st.sc-cdn.net/d/mCPvXF02dY52ACZupCtsP?bo=EhUaABoAMgIEfUgCUAhaBQiSu6ACYAE%3D&amp;uc=8
 https://cf-st.sc-cdn.net/d/nM4Sl0XpUakiqYowqw8NL?bo=EhQaABoAMgIEfUgCUAhaBAijgxhgAQ%3D%3D&amp;uc=8
+https://cf-st.sc-cdn.net/d/uHcaGrd5M15kBiQoVL10J?go=IgsKCTIBBEgBUFxgAQ%3D%3D&amp;uc=92
 https://chat-am-integration.storage.googleapis.com/businessSupportChat.html
 https://chat.sc-corp.net/
 https://chat.snapchat.com/
@@ -493,6 +498,7 @@ https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md
 https://github.com/zloirock/core-js
 https://github.com/zloirock/core-js/blob/v3.21.1/LICENSE
 https://github.com/zloirock/core-js/blob/v3.23.3/LICENSE
+https://github.com/zloirock/core-js/blob/v3.23.5/LICENSE
 https://google.com/pay
 https://graph.facebook.com/?id=
 https://graphql.contentful.com/content/v1/spaces/
@@ -1253,6 +1259,7 @@ https://www.gstatic.com/recaptcha/releases/QENb_qRrX0-mQMyENQjD6Fuj/recaptcha__e
 https://www.gstatic.com/recaptcha/releases/Y-cOIEkAqcfDdup_qnnmkxIC/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/_exWVY_hlNJJl2Abm8pI9i1L/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/g9jXH0OtfQet-V0Aewq23c7K/recaptcha__en.js
+https://www.gstatic.com/recaptcha/releases/gWN_U6xTIPevg0vuq7g1hct0/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/gZWLhEUEJFxEhoT5hpjn2xHK/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/zLD1nfkNCJC1kEswSRdSyd-p/recaptcha__en.js

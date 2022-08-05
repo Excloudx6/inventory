@@ -110,6 +110,7 @@ https://aoao-dot-admin-tool-dot-puppy-cms.appspot.com
 https://aoao2-dot-admin-tool-dot-puppy-cms.appspot.com
 https://api-iam.intercom.io
 https://api-js.mixpanel.com
+https://api-kit.snapchat.com
 https://api.bitmoji.com
 https://api.braintreegateway.com
 https://api.mapbox.com
@@ -393,6 +394,7 @@ support.snapchat.com
 support.snapstore.com
 support.spectacles.com
 wss://*.addlive.io:*
+wss://*.duplex.snapchat.com
 wss://*.zopim.com
 wss://auto-dot-bitmoji-reaction-service-dot-entapps-web-dev.gae.sc-corp.net
 wss://aws.duplex.snapchat.com
