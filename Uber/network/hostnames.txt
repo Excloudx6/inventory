@@ -6576,6 +6576,7 @@ authn-foo.uber.com
 auto-ops.uberinternal.com
 autopsy.uberinternal.com
 autor.uber.com
+autotune.uBErINTerNAL.com
 autotune.uberinternal.com
 av-log-viewer-dev.uberinternal.com
 av-log-viewer-staging.uberinternal.com
@@ -7483,6 +7484,7 @@ cbi.uberinternal.com
 cbus2.uberinternal.com
 cc-staging.uberinternal.com
 cc.uberinternal.com
+ccstore-backend.uBErINTerNAL.com
 ccstore-backend.uberinternal.com
 ccstore.uBeRiNtErnAL.com
 ccstore.uberinternal.com
@@ -7702,6 +7704,7 @@ ci.uberinternal.com
 cinder.uberinternal.com
 cities.uberinternal.com
 citrus.uberinternal.com
+city-lens.uBErINTerNAL.com
 city-lens.uberinternal.com
 citypulse.UbeRInteRNAL.com
 citypulse.uberinternal.com
@@ -7763,6 +7766,7 @@ cnc.uberinternal.com
 cnd.uber.com
 co-adhoc.UbEriNTErnAL.com
 co-adhoc.uberinternal.com
+coconut-staging.uBErINTerNAL.com
 coconut-staging.uberinternal.com
 coconut.uberinternal.com
 code-usso.uberinternal.com
@@ -8151,6 +8155,7 @@ datahealth.uberinternal.com
 dataorchard-api.uberinternal.com
 dataquality.uberinternal.com
 datasets.uberinternal.com
+datastatsservice-dca1.uBErINTerNAL.com
 datastatsservice-dca1.uberinternal.com
 datastatsservice-phx2.uberinternal.com
 datastatsservice.UbERinTeRnal.com
@@ -8688,6 +8693,7 @@ engsearch.uberinternal.com
 engtraining.uberinternal.com
 engucation.uberinternal.com
 engwiki-staging.uberinternal.com
+engwiki.uBErINTerNAL.com
 engwiki.uberinternal.com
 epic.uberinternal.com
 epichealth-staging.uber.com
@@ -8791,6 +8797,7 @@ finance.uberinternal.com
 finmeta-staging.uberinternal.com
 finmeta.uberinternal.com
 firehouse.uberinternal.com
+first.uberinternal.com
 flamegraphs.uberinternal.com
 flashback.uberinternal.com
 fleet.uber.com
@@ -9050,6 +9057,7 @@ gw06-use1.awscorp.uberinternal.com
 gw06-usw1.awscorp.uberinternal.com
 gw08-sae1.tm1ext.awscorp.uberinternal.com
 gw09-sae1.tm1ext.awscorp.uberinternal.com
+gw10-apse1.awscorp.uBErINTerNAL.com
 gw10-apse1.awscorp.uberinternal.com
 gw10-sae1.tm1ext.awscorp.uberinternal.com
 gw10-usw2.awscorp.uberinternal.com
@@ -9374,6 +9382,7 @@ jetbrains-staging.uberinternal.com
 jetbrains.uberinternal.com
 jigsaw.uberinternal.com
 jira-cdn-staging.uberinternal.com
+jira-cdn.uBErINTerNAL.com
 jira-cdn.uberinternal.com
 jira-dev.uberinternal.com
 jira-staging.uberinternal.com
@@ -9421,6 +9430,7 @@ labeling.uberinternal.com
 labs-ui.uberinternal.com
 ladyeng.uber.com
 langley-dca1.uberinternal.com
+langley.uBErINTerNAL.com
 langley.uberinternal.com
 lantern-experiment.uber.com
 lastpass.uberinternal.com
@@ -9739,6 +9749,7 @@ nlexaclient.uberinternal.com
 noemail.uber.com
 notifier.uber.com
 nova-dev.uberinternal.com
+nova-staging.uBErINTerNAL.com
 nova-staging.uberinternal.com
 nova-training.uberinternal.com
 nova.ubeRINTErNAl.com
@@ -9867,6 +9878,7 @@ pdattendance.uberinternal.com
 pe.uberinternal.com
 peloton-dca1.uberinternal.com
 peloton-staging.uberinternal.com
+peloton.uBErINTerNAL.com
 peloton.uberinternal.com
 pending.uber.com
 people-s3.uberinternal.com
@@ -10300,6 +10312,7 @@ shadowdash-sjc1.uberinternal.com
 share-beta.uber.com
 share.uber.com
 sherlock-staging.uberinternal.com
+sherlock.uBErINTerNAL.com
 sherlock.uberinternal.com
 shiny-app-ian-lob-dash.uberinternal.com
 shiny-burn-efficiency.uberinternal.com
@@ -10347,6 +10360,7 @@ shortener.uber.com
 showcase-staging.ubERIntErNAl.com
 showcase-staging.uberinternal.com
 showcase.uberinternal.com
+shs-dca1-hos.uBErINTerNAL.com
 shs-dca1-hos.uberinternal.com
 shs-dca1-secure.uberinternal.com
 shs-dca1.uberinternal.com
@@ -10729,6 +10743,7 @@ tictac.uberinternal.com
 tip.uberinternal.com
 titan.uberinternal.com
 tm1.awscorp.uberinternal.com
+tm1.uBErINTerNAL.com
 tm1.uberinternal.com
 tm1dev.awscorp.uberinternal.com
 tm1dev.uberinternal.com
@@ -10988,6 +11003,7 @@ usearch.uberinternal.com
 usecret-staging.uberinternal.com
 usecret.ubERiNternAL.com
 usecret.uberinternal.com
+usentry.uBErINTerNAL.com
 usentry.uberinternal.com
 user-account-2018.tm1.awscorp.uberinternal.com
 user-accountaccess-access-admin.authgw08-sae1.tm1ext.awscorp.uberinternal.com
@@ -11249,6 +11265,7 @@ web-gw08-sae1.tm1ext.awscorp.uberinternal.com
 web-jarvis.uberinternal.com
 web-klaxon-staging.uberinternal.com
 web-klaxon.uberinternal.com
+web-mastermind.uBErINTerNAL.com
 web-mastermind.uberinternal.com
 web-pass-admin.uberinternal.com
 web-platform-bot.uber.com
@@ -11335,6 +11352,7 @@ y.uber.com
 yab.uberinternal.com
 yandex.uberinternal.com
 yellen-dca1.uberinternal.com
+yellen-staging.uBErINTerNAL.com
 yellen-staging.uberinternal.com
 yellen.uberinternal.com
 yolo.gtm.uberinternal.com

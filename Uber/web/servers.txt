@@ -161,6 +161,7 @@ http://auth-staging.uberinternal.com:80
 http://auth-test.uber.com:80
 http://auth-test.uberinternal.com:80
 http://auth-test2.uber.com:80
+http://auth-test3.uber.com:80
 http://auth.uber.com:80
 http://auth.uber.com:8080
 http://auth.uberinternal.com:80
@@ -173,6 +174,7 @@ http://auto-ops.uberinternal.com:80
 http://autopsy.uberinternal.com:80
 http://autor.uber.com:80
 http://autor.uber.com:8080
+http://autotune.uBErINTerNAL.com:80
 http://autotune.uberinternal.com:80
 http://av-log-viewer-dev.uberinternal.com:80
 http://av-log-viewer-staging.uberinternal.com:80
@@ -477,6 +479,7 @@ http://cnd.uber.com:80
 http://cnd.uber.com:8080
 http://co-adhoc.UbEriNTErnAL.com:80
 http://co-adhoc.uberinternal.com:80
+http://coconut-staging.uBErINTerNAL.com:80
 http://coconut-staging.uberinternal.com:80
 http://coconut-staging.uberinternal.com:8080
 http://coconut.uberinternal.com:80
@@ -535,6 +538,7 @@ http://cpg-api-19208a97.uber.com:80
 http://cpg-api-19208a97.uber.com:8080
 http://cpg-api-b27c7352.uber.com:80
 http://cpg-api-b27c7352.uber.com:8080
+http://cpg-api-e2450ce4.uber.com:80
 http://cpg-api-ef83c3b4.uber.com:80
 http://cpg-api-ef83c3b4.uber.com:8080
 http://cpg-api-ef83c3b4.uberinternal.com:80
@@ -601,6 +605,7 @@ http://datahealth.uberinternal.com:80
 http://dataorchard-api.uberinternal.com:80
 http://dataquality.uberinternal.com:80
 http://datasets.uberinternal.com:80
+http://datastatsservice-dca1.uBErINTerNAL.com:80
 http://datastatsservice-dca1.uberinternal.com:80
 http://datastatsservice-phx2.uberinternal.com:80
 http://datastatsservice.uberinternal.com:80
@@ -856,6 +861,7 @@ http://finance.uberinternal.com:80
 http://finmeta-staging.uberinternal.com:80
 http://finmeta.uberinternal.com:80
 http://firehouse.uberinternal.com:80
+http://first.uberinternal.com:80
 http://flamegraphs.uberinternal.com:80
 http://flashback.uberinternal.com:80
 http://fleet.uber.com:80
@@ -2023,6 +2029,7 @@ http://shortener.uber.com:8080
 http://showcase-staging.ubERIntErNAl.com:80
 http://showcase-staging.uberinternal.com:80
 http://showcase.uberinternal.com:80
+http://shs-dca1-hos.uBErINTerNAL.com:80
 http://shs-dca1-hos.uberinternal.com:80
 http://shs-dca1-secure.uberinternal.com:80
 http://shs-dca1.uberinternal.com:80
@@ -2769,6 +2776,7 @@ https://auth-staging.uberinternal.com:443
 https://auth-test.uber.com:443
 https://auth-test.uberinternal.com:443
 https://auth-test2.uber.com:443
+https://auth-test3.uber.com:443
 https://auth.uber.com:443
 https://auth.uberinternal.com:443
 https://auth3-staging.uber.com:443
@@ -2777,6 +2785,7 @@ https://authn-foo.uber.com:443
 https://auto-ops.uberinternal.com:443
 https://autopsy.uberinternal.com:443
 https://autor.uber.com:443
+https://autotune.uBErINTerNAL.com:443
 https://autotune.uberinternal.com:443
 https://av-log-viewer-dev.uberinternal.com:443
 https://av-log-viewer-staging.uberinternal.com:443
@@ -3033,6 +3042,7 @@ https://cnc.uberinternal.com:443
 https://cnd.uber.com:443
 https://co-adhoc.UbEriNTErnAL.com:443
 https://co-adhoc.uberinternal.com:443
+https://coconut-staging.uBErINTerNAL.com:443
 https://coconut-staging.uberinternal.com:443
 https://coconut.uberinternal.com:443
 https://code-usso.uberinternal.com:443
@@ -3078,6 +3088,7 @@ https://corpss-test.uberinternal.com:443
 https://country-profile-explorer.uberinternal.com:443
 https://cpg-api-19208a97.uber.com:443
 https://cpg-api-b27c7352.uber.com:443
+https://cpg-api-e2450ce4.uber.com:443
 https://cpg-api-ef83c3b4.uber.com:443
 https://cpg-api-ef83c3b4.uberinternal.com:443
 https://cpms.uberinternal.com:443
@@ -3344,6 +3355,7 @@ https://finance.uberinternal.com:443
 https://finmeta-staging.uberinternal.com:443
 https://finmeta.uberinternal.com:443
 https://firehouse.uberinternal.com:443
+https://first.uberinternal.com:443
 https://flamegraphs.uberinternal.com:443
 https://flashback.uberinternal.com:443
 https://fleet.uber.com:443
@@ -4341,6 +4353,7 @@ https://shortener.uber.com:443
 https://showcase-staging.ubERIntErNAl.com:443
 https://showcase-staging.uberinternal.com:443
 https://showcase.uberinternal.com:443
+https://shs-dca1-hos.uBErINTerNAL.com:443
 https://shs-dca1-hos.uberinternal.com:443
 https://shs-dca1-secure.uberinternal.com:443
 https://shs-dca1.uberinternal.com:443
@@ -4413,6 +4426,7 @@ https://static-maps.uber.com:443
 https://static.uber.com:443
 https://static.ubereats.com:443
 https://status.uberinternal.com:443
+https://status01-uswest2.prod.uber.com:443
 https://storage.uberinternal.com:443
 https://storagetapper-dca1.uberinternal.com:443
 https://storagetapper-phx2.uberinternal.com:443
