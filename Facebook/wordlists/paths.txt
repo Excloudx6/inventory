@@ -2815,6 +2815,7 @@
 /oauth/message_consents/accept
 /oauth/message_consents/reject
 /oauth/ofa_control/allowlist_app
+/oauth/ofa_control/turn_on_future_activity
 /oauth/ofa_control/unblocklist_app
 /oauth/oidc
 /oauth/oidc/user_consent/
