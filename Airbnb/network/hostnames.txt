@@ -9637,6 +9637,7 @@ api.prototype-internal-next.airbnb.com
 api.prototype-internal-staging.airbnb.com
 api.prototype-internal.airbnb.com
 api.redirect.jenkins-pollwatch.admin-lite.airbnb.com
+api.rotator.www-qa.luxuryretreats.com
 api.staging.airbnb.com
 api.staging.next-branch.airbnb.com
 api.stephane.next.airbnb.com
@@ -12801,6 +12802,7 @@ bucket.prototype-internal-next.airbnb.com
 bucket.prototype-internal-staging.airbnb.com
 bucket.prototype-internal.airbnb.com
 bucket.rates-feature5.canary.airbnb.com
+bucket.rotator.new.luxuryretreats.com
 bucket.rule.admin-next.airbnb.com
 bucket.s3config-account.access.alpha.backup-admin.account.config.prototype-internal-next.airbnb.com
 bucket.status.prototype-internal-staging.airbnb.com
@@ -15946,6 +15948,7 @@ dbms.prototype-internal-next.airbnb.com
 dbms.prototype-internal-staging.airbnb.com
 dbms.prototype-internal.airbnb.com
 dbms.raovishal.next.airbnb.com
+dbms.rotator.www-qa.luxuryretreats.com
 dbms.softnoise.admin-next.airbnb.com
 dbms.staging.airbnb.com
 dbms.statusatorian.canary.airbnb.com
@@ -22744,6 +22747,7 @@ o2.next.airbnb.com
 o20.email.airbnb.com
 o21.email.airbnb.com
 o22.email.airbnb.com
+o23.eMAiL.airbnb.com
 o23.email.airbnb.com
 o3.email.airbnb.com
 o3omng.admin-lite-next.airbnb.com
@@ -24382,6 +24386,7 @@ rorapache.next.airbnb.com
 rosenberg-it.next.airbnb.com
 rossgraham.next.airbnb.com
 rostislav.next.airbnb.com
+rotator.new.luxuryretreats.com
 rotator.www-qa.luxuryretreats.com
 rotenotes.next.airbnb.com
 rotunda.upress.next.airbnb.com
@@ -26016,6 +26021,7 @@ system.pollwatch.admin-lite.airbnb.com
 system.prototype-internal-next.airbnb.com
 system.prototype-internal-staging.airbnb.com
 system.prototype-internal.airbnb.com
+system.rotator.www-qa.luxuryretreats.com
 system.www.casualengineer.admin-lite.airbnb.com
 system.www.peermotion.next.airbnb.com
 system108-235.admin-lite.airbnb.com
@@ -28721,6 +28727,7 @@ web.physics.admin-lite-next.airbnb.com
 web.prototype-internal-next.airbnb.com
 web.prototype-internal-staging.airbnb.com
 web.prototype-internal.airbnb.com
+web.rotator.www-qa.luxuryretreats.com
 web.umesh-moradiya.canary.airbnb.com
 web0-tlcovid19-private.secure.admin.airbnb.com
 web1.admin-lite-next.airbnb.com

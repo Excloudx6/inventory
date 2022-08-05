@@ -258,6 +258,9 @@
 ./../../../notification-settings/components/EmailUnsubscribePage
 ./../../../pro-host-service-fee-setting/AsyncProHostServiceFeeOptOutFlowApp
 ./../../../pro-host-service-fee-setting/AsyncProHostServiceFeeSettingApp
+./../../../tax-experience-tpi/routes/TaxExperienceTpiRoute/TaxExperienceTpiRoute
+./../../../tax-experience-tpi/routes/TaxExperienceTpiRoute/TaxExperienceTpiRoute.prepare
+./../../../tax-experience-tpi/routes/TaxExperienceTpiRoute/TaxExperienceTpiRouteWrapper
 ./../../../user-profile-next/routes/UserProfileRoute.prepare
 ./../../content-platform/routes/ContentArticlePage.prepare
 ./../../core-guest-loop-routes/Loopstrap
@@ -2068,6 +2071,7 @@
 /agent_client_config
 /aircover
 /analytics
+/api
 /api/event
 /api/v0/reports
 /api/v2
