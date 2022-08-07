@@ -2102,6 +2102,7 @@ http://gcpjenkinsaccessaccount.accountbeta.staging.vpn.twttr.com:80
 http://gdpr-dev.twitter.com:80
 http://gdpr-staging.twitter.com:80
 http://gdpr.twitter.com:80
+http://geO6.api.twitter.com:80
 http://geo0.abs.twimg.com:80
 http://geo0.api-stream.twitter.com:80
 http://geo0.api.twitter.com:80
@@ -15981,6 +15982,7 @@ https://gdpr.twitter.com:443
 https://ge-2-0-1.vpn.twttr.com:443
 https://ge.vpn.twttr.com:443
 https://ge33ek.vpn.twttr.com:443
+https://geO6.api.twitter.com:443
 https://gearmobile.vpn.twttr.com:443
 https://ged.vpn.twttr.com:443
 https://geektoad.vpn.twttr.com:443
@@ -19541,6 +19543,7 @@ https://prod-chatman-ancillary-eu-central-1.periscope.tv:443
 https://prod-chatman-ancillary-eu-central-1.pscp.tv:443
 https://prod-chatman-ancillary-us-east-1.periscope.tv:443
 https://prod-chatman-ancillary-us-east-1.pscp.tv:443
+https://prod-chatman-ancillary-us-west-2.PEriSCOPe.tv:443
 https://prod-chatman-ancillary-us-west-2.periscope.tv:443
 https://prod-chatman-ancillary-us-west-2.pscp.tv:443
 https://prod-chatman-ancillary-us-west-2.vpn.twttr.com:443
