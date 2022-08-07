@@ -683,14 +683,20 @@ http://enable-extlb.att.com:80
 http://encode-atlas.att.com:80
 http://engage.att.com:80
 http://engage.att.com:8443
+http://engage000.hvs.att.com:443
+http://engage000.hvs.att.com:80
 http://engage001.hvs.att.com:443
 http://engage001.hvs.att.com:80
 http://engage002.hvs.att.com:443
 http://engage002.hvs.att.com:80
+http://engage100.hvs.att.com:443
+http://engage100.hvs.att.com:80
 http://engage101.hvs.att.com:443
 http://engage101.hvs.att.com:80
 http://engage102.hvs.att.com:443
 http://engage102.hvs.att.com:80
+http://engage200.hvs.att.com:443
+http://engage200.hvs.att.com:80
 http://engage201.hvs.att.com:443
 http://engage201.hvs.att.com:80
 http://engage202.hvs.att.com:443
@@ -1386,6 +1392,7 @@ http://ohio.att.com:8080
 http://ohio.att.com:8443
 http://oklahoma.att.com:443
 http://oklahoma.att.com:80
+http://oklahoma.att.com:8080
 http://oklahoma.att.com:8443
 http://oml.att.com:80
 http://opex.att.com:80
@@ -1615,6 +1622,7 @@ http://r-tst3.test-e.att.com:80
 http://r-tst4.test-e.att.com:80
 http://r.research.att.com:443
 http://r.research.att.com:80
+http://ran.att.com:80
 http://rbugs.research.att.com:443
 http://rbugs.research.att.com:80
 http://readytogotrainingportal.att.com:80
@@ -1948,6 +1956,7 @@ http://support.marketplace.att.com:80
 http://support.uc.att.com:80
 http://svd.att.com:80
 http://svd.att.com:8080
+http://sweepstakesauth.att.com:80
 http://systemmigrationtraining.att.com:80
 http://tagalog.att.com:80
 http://tags.att.com:80
@@ -1963,6 +1972,7 @@ http://tchosted.business.att.com:80
 http://tchosted.businessdirect.att.com:443
 http://tchosted.businessdirect.att.com:80
 http://tchosted.cnm.att.com:443
+http://tchosted.corp.att.com:80
 http://tchosted.firstnet.att.com:80
 http://tchosted.synaptic.att.com:80
 http://tchosted.wireless.att.com:80
@@ -2589,6 +2599,7 @@ http://wbslqa3.stage.att.com:80
 http://wbslqa4.stage.att.com:80
 http://wbslqa6.stage.att.com:80
 http://webdesign.att.com:443
+http://webdesign.att.com:80
 http://webhosting.att.com:80
 http://webinars.att.com:80
 http://webmeeting.att.com:80
@@ -4840,6 +4851,8 @@ https://payment.myvehicle.att.com:443
 https://payment.myvehicle.stage.att.com:443
 https://paymentcard.att.com:443
 https://paymentcard.att.com:8443
+https://paymentcardutil.att.com:443
+https://paymentcardutil.att.com:8443
 https://paymentstatus.att.com:443
 https://peer.att.com:443
 https://pennsylvania.att.com:443
@@ -4902,6 +4915,7 @@ https://portal.ato.cloud.att.com:443
 https://portal.att.com:443
 https://portal.dataflow.iot.att.com:443
 https://portal.dataflow.iot.att.com:8443
+https://portal.esinet-911.att.com:3000
 https://portal.flow.cloud.att.com:443
 https://portal.flow.cloud.att.com:8443
 https://portal.wholesale.att.com:443
@@ -5000,6 +5014,7 @@ https://r-tst2.test-e.att.com:443
 https://r-tst3.test-e.att.com:443
 https://r-tst4.test-e.att.com:443
 https://r.research.att.com:443
+https://ran.att.com:443
 https://rcscatt.wireless.labs.att.com:443
 https://rcscattg.wireless.labops.att.com:443
 https://rcscattg.wireless.labs.att.com:443
@@ -5284,6 +5299,7 @@ https://src.att.com:443
 https://srca.labs.att.com:443
 https://srca1.labs.att.com:443
 https://srvcmss.att.com:443
+https://ssaf-azgw-prod-e2.cloud.att.com:8443
 https://ssaf.att.com:443
 https://sskb.att.com:443
 https://ssl.pltx.dvl.labs.att.com:443
@@ -5307,11 +5323,13 @@ https://staginglwm2m.dm.iot.att.com:443
 https://standards.att.com:443
 https://starterkit.att.com:443
 https://state-territory.firstnet.att.com:443
+https://static-js-al-econtent.att.com:443
 https://static-js-bcontent.att.com:443
 https://static-js-bcontent.stage.att.com:443
 https://static-js-fcontent.att.com:443
 https://static-js-fcontent.stage.att.com:443
 https://static-js-fcontent.test.att.com:443
+https://static-js-ff-econtent.att.com:443
 https://status-firstnetcontrolcenter.att.com:443
 https://status-iotcontrolcenter.att.com:443
 https://status-m2x.att.com:443
@@ -5350,6 +5368,7 @@ https://support.uc.att.com:443
 https://svcdev.digitallife.att.com:443
 https://svcdev.test.dlife.att.com:443
 https://svd.att.com:443
+https://sweepstakesauth.att.com:443
 https://sxm360iotgw.att.com:443
 https://sxmchrysleriotgw.att.com:443
 https://synaptic.att.com:443
@@ -5372,6 +5391,7 @@ https://tchosted.bus.att.com:443
 https://tchosted.business.att.com:443
 https://tchosted.businessdirect.att.com:443
 https://tchosted.cnm.att.com:443
+https://tchosted.corp.att.com:443
 https://tchosted.e-access.att.com:443
 https://tchosted.firstnet.att.com:443
 https://tchosted.synaptic.att.com:443
@@ -5445,6 +5465,7 @@ https://test3-wireless.firstnet.att.com:443
 https://test3.att.com:443
 https://test4-businesscenter.att.com:443
 https://test4.att.com:443
+https://test5.att.com:443
 https://test6.att.com:443
 https://texas.att.com:443
 https://texas.att.com:8443
@@ -6026,6 +6047,7 @@ https://wbslqa2.stage.att.com:443
 https://wbslqa3.stage.att.com:443
 https://wbslqa4.stage.att.com:443
 https://wbslqa6.stage.att.com:443
+https://webdesign.att.com:443
 https://webhosting.att.com:443
 https://webinars.att.com:443
 https://webmail.research.att.com:443

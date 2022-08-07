@@ -17248,6 +17248,8 @@
 /CallServices/TerminateCall?name=
 /CapHeight 
 /Ch
+/ChapterMarkers.js
+/ChapterTitles.js
 /ColorSpace /DeviceRGB
 /Colors 
 /Common/indc/images/nav/primaryNavOrange.png
@@ -17281,6 +17283,7 @@
 /DeviceServices/Proximity?sess=
 /DeviceServices/Release?sess=
 /DeviceServices/Ring?enabled=
+/E-v1.js
 /EDR
 /EMS-responder-icon-map-label.svg
 /EMS-responder-icon-map.svg
@@ -17793,6 +17796,7 @@
 /account-settings
 /account/
 /account/$1/
+/account/activities
 /account/add-emergency-location
 /account/admin
 /account/auth
@@ -19034,6 +19038,12 @@
 /assets/config/config.json
 /assets/css/main.min.css
 /assets/devices_sample.csv
+/assets/external/
+/assets/external/airplay.js
+/assets/external/chapters.js
+/assets/external/customerLogo.js
+/assets/external/vulcanV2Player.js
+/assets/external/wistiaLogo.js
 /assets/file/PSF User Guide 2007.docx
 /assets/file/PSF_EXTERNAL_USER_GUIDE.docx
 /assets/fonts/ATTAleckSans_Web/EOT/ATTAleckSans_W_Bd.eot
@@ -19215,6 +19225,7 @@
 /assets/images/at_t_logo_2016_K.svg
 /assets/images/banner-artwork/applemusic_logo.svg
 /assets/images/banner-artwork/iTunes_icon@2x-2bebb71080717c1e66aa78730e96c9cd.png
+/assets/images/blank.gif
 /assets/images/dataflow-screens.png
 /assets/images/editor_grid_16_B.svg
 /assets/images/feature_ask_allie.gif\
@@ -19476,6 +19487,7 @@
 /blocked-subscription-dcp
 /blockquote
 /body
+/book-a-demo
 /book-store
 /bookings
 /bookmark
@@ -21144,6 +21156,9 @@
 /email-verification?d&amp;oem&amp;username&amp;emailAddress&amp;country&amp;region&amp;verificationCode&amp;identifierType&amp;identifierValue&amp;language&amp;firstName&amp;lastName&amp;phoneNumber
 /embed/
 /embed/captioned?cr=1&amp;v=12
+/embed/iframe/
+/embed/medias/
+/embed/playlists/
 /emergency-locations
 /emergencyAddress
 /emergencyAddress/forbiddenWithoutDL
@@ -21523,6 +21538,7 @@
 /fax/default.html
 /fax/emailfax.asp
 /fax/emailfax.html
+/features
 /features/
 /features/att-thanks-app/
 /features/real-time-control/overview.html
@@ -21607,6 +21623,7 @@
 /form-elements/select
 /form-elements/text-area
 /form-elements/text-field
+/forms/
 /foryou
 /foundation
 /foundation/color
@@ -21802,6 +21819,7 @@
 /heure
 /hi0
 /hide
+/hideUntil
 /highlights
 /historical
 /history
@@ -22679,6 +22697,7 @@
 /listing\
 /live-reports
 /live-reports/:id?
+/live-stream/1.0.0
 /live/red_lojson/300lo.json?
 /liveagent/autoquery.apexp
 /loader.gif
@@ -23038,6 +23057,7 @@
 /mpel/mpel?href\x3d
 /mpel/mpel_storage.html?cmd\x3dgetpref\x26href\x3d
 /mpel/mpel_storage.html?cmd\x3dstorePref\x26href\x3d
+/mput?topic=metrics
 /mqdefault.jpg
 /msapi
 /msapi/accountservices/v1/common/accountDetails
@@ -23687,6 +23707,8 @@
 /planned/createticket
 /planned/listmarket
 /planned/listticket
+/plans
+/plans.html
 /platform/
 /platforms/
 /play
@@ -23832,6 +23854,10 @@
 /prevSlide
 /preview
 /previously-connected
+/pricing
+/pricing-plans
+/pricing-plans.html
+/pricing.html
 /primitives/
 /principal-policies/{policyName}\
 /principal-policies\
@@ -25492,6 +25518,7 @@
 /sw/repair-replace
 /swagger.json
 /swagger/
+/swatch
 /sweepstakes
 /sync
 /sysadmin
@@ -26307,6 +26334,7 @@
 /virtual/welcomemodal.html
 /visibility/private
 /visibility/public
+/visit
 /visitor/addons/deploy2.asp
 /vjB
 /vm-users
@@ -26365,13 +26393,16 @@
 /wicket/resource/com.appdirect.wicket.resources.Resource/spa/themes/acme/images/acme_logo.png
 /wicket/resource/com.appdirect.wicket.resources.Resource/spa/themes/appdirectapp/images/logo_white_2x.png
 /widget/
+/widgets/follow_button.2b1befbea3a1424bb94efd70105dfa52.{{lang}}.html
 /widgets/follow_button.d7fc2fc075c61f6fa34d79a0cbbf1e34.{{lang}}.html
 /widgets/follow_button.dc05643fdb8d0e2b89e5cc3c1d26d1b5.{{lang}}.html
 /widgets/follow_button.f39f39d5e1aec76c12af50a9a19e4fee.{{lang}}.html
 /widgets/hub.html
+/widgets/tweet_button.2b1befbea3a1424bb94efd70105dfa52.{{lang}}.html
 /widgets/tweet_button.d7fc2fc075c61f6fa34d79a0cbbf1e34.{{lang}}.html
 /widgets/tweet_button.dc05643fdb8d0e2b89e5cc3c1d26d1b5.{{lang}}.html
 /widgets/tweet_button.f39f39d5e1aec76c12af50a9a19e4fee.{{lang}}.html
+/widgets/widget_iframe.2b1befbea3a1424bb94efd70105dfa52.html
 /widgets/widget_iframe.d7fc2fc075c61f6fa34d79a0cbbf1e34.html
 /widgets/widget_iframe.dc05643fdb8d0e2b89e5cc3c1d26d1b5.html
 /widgets/widget_iframe.f39f39d5e1aec76c12af50a9a19e4fee.html
@@ -27620,6 +27651,7 @@ DraftEditor/alignLeft
 DraftEditor/alignRight
 DraftEditor/editorContainer
 DraftEditor/root
+E-v1.js
 ERRORS/CLEAR_ALL_ERRORS
 EditConversationComposer/CLEAR_EDIT_CONVERSATION
 EditConversationComposer/LOAD_EDIT_CONVERSATION
@@ -28793,6 +28825,7 @@ aggregations.html
 air-datepicker.js
 alerts.action
 all/none
+allIntegrations.js
 allnews.html
 allowPopupIframe.jsp
 amd.js
@@ -29918,6 +29951,7 @@ canvas/justified-gallery.init
 canvas/posts
 canvas/slider-gallery
 canvas/slider-gallery.init
+captions-v3.js
 care/dashboardTitle
 care/home
 care/searchFan
@@ -29991,6 +30025,7 @@ chemical/x-cmdf
 chemical/x-cml
 chemical/x-csml
 chemical/x-xyz
+ck/forms/modal/
 classlist.js
 cms/ticket/
 color-space/hsl
@@ -31212,6 +31247,7 @@ elementor/frontend/init
 elementor/modules/init/before
 elementor/popup/
 embed/error-page/
+embedLinks.js
 ember-app-scheduler/helpers/route-idle
 ember-app-scheduler/index
 ember-app-scheduler/scheduler
@@ -31388,6 +31424,12 @@ endpoints/filters?
 engage/EscalationForm
 engage/successPage
 engagement/user-
+engines/hls_video.js
+engines/manual_quality_video.js
+engines/native_hls_video.js
+engines/simple_audio.js
+engines/spherical_video.js
+engines/two_stroke_video.js
 enter.html
 enterprise/adminMsg
 enterprise/policies
@@ -32046,6 +32088,7 @@ idaas/mtfim/sps/idaas/logout
 identity/acquire
 idpassets/sales/uf/test/CountdownTimer/seconds-clock-whiteBlue-000_BG.gif
 ie8-eventlistener/storage
+iframeApi.js
 image/WebP
 image/aces
 image/apng
@@ -32158,6 +32201,8 @@ img/favicon-vodafone.svg
 img/ivrEditor/ctxmenu_icon_settings.svg
 img/panel/record.svg
 img/sonatype-logo-with-hexagon.png
+incidents/resolved
+incidents/unresolved
 include/instagram/instagram.php
 include/twitter/tweets.php
 index.html
@@ -32169,6 +32214,8 @@ indicators/spinner
 indicators/star-rating
 indicators/tracker
 indicators/usage-meter
+insideIframe.js
+interFontFace.js
 internet/index2
 intersection-observer.js
 intl/locale-data/jsonp/en
@@ -32336,6 +32383,7 @@ landing/temp-sensor
 landing/water
 language/SET_LANGUAGE
 learn/efota
+legacy/video-quality-set
 lib/advice
 lib/base
 lib/component
@@ -32955,6 +33003,32 @@ piwik.js
 piwik.php
 pl-pl/resource.json
 play/watch
+playPauseLoadingControl.js
+player/ab-test-selection
+player/available-players
+player/bandwidth_test/ended_early
+player/bandwidth_test/ended_on_time
+player/bandwidth_test/failed
+player/clicked-play-before-ready
+player/distillery-error-response/
+player/initembed
+player/no-co-key
+player/no-data/10-seconds
+player/no-data/15-seconds
+player/no-data/5-seconds
+player/no-public-assets
+player/originV2/media-has-no-metadata
+player/play
+player/played-10-seconds
+player/played-30-seconds
+player/rebuild-non-hls-on-error/
+player/resumable-close-to-beginning
+player/resumable-close-to-end
+player/show-loading-long-time/all
+player/show-loading-long-time/first
+player/show-loading/all
+player/show-loading/first
+player/suspicious-bandwidth-test
 poc/demo
 podcasts://podcasts.apple.com
 podcasts://podcasts.apple.com/browse
@@ -32969,6 +33043,7 @@ podcasts://podcasts.apple.com/search
 polyfills-es2015.js
 polyfills-es5.js
 polytope-closest-point/lib/closest_point_2d.js
+popover.js
 popper.js
 popups/DisplayController.js
 portal-app/common/components/terms-and-conditions/tcSessionPlans-
@@ -33343,6 +33418,8 @@ satelliteLib-bee1ce9b89e943a46b1dfd167adc564fe75eef37-staging.js
 satelliteLib-bee1ce9b89e943a46b1dfd167adc564fe75eef37.js
 satelliteLib-fbb4967966de28cdc2de129137985fac3edfbc59-staging.js
 satelliteLib-fbb4967966de28cdc2de129137985fac3edfbc59.js
+scheduled-maintenances/active
+scheduled-maintenances/upcoming
 scheduler/unstable_mock
 schema/example
 scoc/usa/fl/dade/miami/airport/all
@@ -33576,6 +33653,7 @@ skins/mediapage/
 skins/showcase/
 skins/vertical/
 skip/landingpage
+skipControls.js
 sl-sl/resource.json
 small-business.html
 small-business/website/deluxe-marketing-suite
@@ -34915,6 +34993,17 @@ virtual/request-for-deployable/sceneinfo
 virtual/request-for-deployable/situationinfo
 vm-users/new-vm-user
 vtt.js
+vulcanV2Player/TouchEvents.js
+vulcanV2Player/audio/AudioUIBehavior.js
+vulcanV2Player/behaviors/OverlaysBehavior.js
+vulcanV2Player/shared/controls/ContextMenuControl/menu.js
+vulcanV2Player/shared/ui_components
+vulcanV2Player/video/controls/LastFrameCanvasControl.js
+vulcanV2Player/video/controls/SettingsControl/dialog.js
+vulcanV2Player/video/controls/SphericalControl/SphericalControl.js
+vulcanV2Player/video/controls/TechInfoControl/TechInfoControl.js
+vulcanV2Player/video/controls/VolumeSliderControl/VolumeSliderControl.js
+vulcanV2Player/video/ui_components/Storyboard.js
 we-connecting/generic
 we-localnav/app-store
 we-localnav/apple-arcade-cta
@@ -35552,6 +35641,8 @@ widget/templates/form/_BaseSinglePicker.html
 widget/templates/objectselector/ObjectSelectorTreeNode.html
 widget/templates/tree/TreeNode.html
 widgets/video
+wistia-mux.js
+wistiajsonp-/embed/medias/
 worklet.js
 worksheets/sheet
 world-calendars/dist/calendars/chinese

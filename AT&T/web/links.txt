@@ -87,6 +87,7 @@ http://elasticache.amazonaws.com/doc/2015-02-02/\
 http://elasticbeanstalk.amazonaws.com/docs/2010-12-01/\
 http://elasticloadbalancing.amazonaws.com/doc/2012-06-01/\
 http://elasticloadbalancing.amazonaws.com/doc/2015-12-01/\
+http://embed.wistia.com/deliveries/76a57ca47a1978a834d82dcf7eeb03a6.bin?bust=2015-12-29a
 http://espanol.att.com/privacy_policy/index.html
 http://example.com/example.json
 http://facebook.github.io/react/docs/error-decoder.html?invariant=
@@ -942,9 +943,11 @@ https://apis.google.com/js/api.js
 https://apis.google.com/js/plusone.js
 https://app.clearml.srs.lab.nordigy.ru/projects/3dfeb120785f46bc9324bdf7efa1a3ca/models/d0c6efa5059948cf9a247b5430afed6a
 https://app.clearml.srs.lab.nordigy.ru/projects/3dfeb120785f46bc9324bdf7efa1a3ca/models/fd1d9908ed6e4606ba9819234f1a2e44
+https://app.convertkit.com
 https://app.five9.com/consoles/
 https://app.five9.com/consoles/SocialWidget/five9-social-widget.min.js
 https://app.geotab.com
+https://app.groovehq.com/signup
 https://app.launchdarkly.com
 https://app.mycompliancereport.com/report.aspx?cid=att
 https://app.mycompliancereport.com/report?cid=ATT
@@ -3304,6 +3307,7 @@ https://ec2.ap-southeast-1.amazonaws.com
 https://ecorplb.sbc.com/irj/go/km/docs/ATT/oldoc/onestop_payroll_taxes/w4/Required_Paper_W-4_Forms.pdf
 https://edge.addthis.com/
 https://ello.co/{{id}}
+https://embed-ssl.wistia.com/deliveries/6992339c876a95a37250fbe5b0a0eaecca3018a5/file.jpg?bust=2015-12-29a
 https://embed.music.apple.com
 https://embed.podcasts.apple.com
 https://emergingvoices.att.com/
@@ -4507,6 +4511,7 @@ https://static-na.payments-amazon.com/checkout.js
 https://static.addtoany.com/buttons/share_save_342_32.png 2x
 https://static.addtoany.com/menu
 https://static.addtoany.com/menu/
+https://static.addtoany.com/menu/sm.23.html#type=core&amp;event=load
 https://static.addtoany.com/menu/sm.23.html#type=core&amp;event=load&amp;url=
 https://static.arcgis.com/fonts
 https://static.filestackapi.com/picker/1.23.0/picker.js
@@ -5397,6 +5402,7 @@ https://www.googletagmanager.com/ns.html?id=GTM-KT46X7P&amp;
 https://www.gravatar.com/
 https://www.gravatar.com/avatar/token?s=30&amp;r=g&amp;d=mm
 https://www.gravatar.com/avatar/{token}?s={size}&amp;r=g&amp;d=mm
+https://www.groovehq.com/join-groove
 https://www.gstatic.com/domainads/images/chevron-white.png
 https://www.gstatic.com/recaptcha/releases/4rwLQsl5N_ccppoTAwwwMrEN/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/5JGZgxkKwe0uOXDdUvSaNtk_/recaptcha__en.js
