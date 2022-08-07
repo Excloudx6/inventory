@@ -5102,3 +5102,15 @@
 [url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?client_id=finops&scope=openid%20email%20profile%20employee%20metadata%7Cfinancepartner%20offline_access&response_type=code&redirect_uri=https%3A%2F%2Ffinops.tesla.com%2Fauth%2Fcallback&grant_type=authorization_code%2Crefresh_token%2Caccess_token&nonce=296ffbebe9b4752172ac409458e800e0&state=eyJyZXR1cm5UbyI6Ii8iLCJub25jZSI6ImViOWM2ZWViN2RlODVhOGM5NGRmM2NhZTUyZDI0MzkyIn0
 [url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&scope=openid%20email&state=1659732505247%3A0.2915136870519188
 [url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&scope=openid%20email&state=1659732506643%3A0.9743560009991588
+[form] - https://sso.tesla.com/adfs/ls/?SAMLRequest=fZHBbsIwEETv%2FYrI98SJSQtYJIgWoSJRFUHooZfKMRuw5NjgdVA%2Fv2koKj2U40ozb0czo%2FFnrYMTOFTWZCSJYhKAkXarzC4jm2IWDsg4vxuhqPWBTxq%2FNys4NoA%2BmCCC863tyRpsanBrcCclYbNaZGTv%2FQE5pVIk0bER2jslMZK2ptrulKGnhCJa%2Bo1ldAuVaLQP8UCCaYtWRvguzoXSSiMPqEVHENsKqUZKgpl1ErpQGamERiDBfJqRj1imW1GWshz076skTntl1UuhGkrol8NhmrYyXApEdYJfI2IDc4NeGJ8RFjMWxoMwfihYzFnCUxb10sE7CZbOeiutflTmXFLjDLcCFXIjakDuJV9PXhacRTEvzyLkz0WxDJev64IEb5ey2XfZbf0GeVfvbdTh5y%2FJuzF4l9dd%2BW%2FbxWUtkv%2B7zYhekfPz9Xf0%2FAs%3D&RelayState=LNS-_62aa4adf846ed0b94b9a6c118fef457c
+[href] - https://referral.tesla.com/css/text.css?t=1659817302
+[href] - https://referral.tesla.com/css/viewer.css?t=1659817302
+[href] - https://referral.tesla.com/css/web.css?t=1659817302
+[href] - https://referral.tesla.com/upload/css/uploadText.css?t=1659817302
+[href] - https://teamchat.tesla.com/static/main.fee395d4b8af194f7fd2.css
+[href] - https://teamchat.tesla.com:443/static/main.fee395d4b8af194f7fd2.css
+[javascript] - https://suppliers-stg.tesla.com/runtime.37572d86f7b79359cf8d.js
+[javascript] - https://teamchat.tesla.com/static/main.6e374ba99bc84eabb2bf.js
+[javascript] - https://teamchat.tesla.com:443/static/main.6e374ba99bc84eabb2bf.js
+[url] - [code-403] - https://akamai-apigateway-suppliers-stg.tesla.com:443
+[url] - [code-403] - https://cx-api-apac.tesla.com:443

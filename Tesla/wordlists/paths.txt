@@ -6836,6 +6836,7 @@
 /api/v1/call
 /api/v1/groups
 /api/v1/likes?likeable_id=
+/api/v1/limits
 /api/v1/marketplace
 /api/v1/oauth-app-ids
 /api/v1/org/zones
@@ -9811,6 +9812,7 @@
 /estimatestaging/processsupplement
 /evaluate-rule-set?portal=
 /events?app_name=tbx3
+/except
 /execute
 /exists
 /expired
@@ -9985,6 +9987,7 @@
 /instance-initializers/
 /insurance
 /insurance/get-quote-eligibility
+/integrations
 /internal-jobs
 /inventory.json
 /inventory/v1
@@ -10082,6 +10085,7 @@
 /license/renewal
 /like
 /like?portalId=
+/limits
 /lineId/
 /link
 /lists/:slug
@@ -10133,6 +10137,9 @@
 /marketplace/first_admin_visit
 /me/channels
 /me/photo/$value
+/me/top/channels
+/me/top/reactions
+/me/top/threads
 /media/
 /media/attachments/
 /media/attachments/2022/6/23/26657edb-31a4-457e-9200-7bbc91b251d4.png
@@ -10353,6 +10360,7 @@
 /plots_states/
 /plugin
 /plugins
+/plugins/
 /plugins/com.mattermost.apps
 /policies
 /policies/
@@ -10549,6 +10557,7 @@
 /repost
 /request
 /request-role
+/request-trial
 /requestentity
 /required
 /res
@@ -10692,6 +10701,7 @@
 /statuses
 /sticky
 /stocknotifications.json
+/storage
 /store-configurations.json
 /store/
 /store/x_add_inline_file
@@ -11008,6 +11018,9 @@
 /tools/autodiagEditor
 /tools/garage
 /tools/periscope
+/top/channels
+/top/reactions
+/top/threads
 /topicCommentTrend?portalId=
 /topics?portalId=
 /trackers
@@ -11017,6 +11030,7 @@
 /translations
 /trending_approval_distribution/?locale=
 /trending_articles/?locale=
+/trial-license
 /trial-license/prev
 /true
 /type
@@ -11038,6 +11052,7 @@
 /upgrade_to_enterprise/status
 /upvote
 /url
+/usage
 /user
 /user-applications/confirm
 /user-applications/confirm/:token
@@ -11134,6 +11149,7 @@
 /v3
 /v5
 /validate
+/validate-business-email
 /validatetoken
 /var/etc
 /var/ga4_odin.json
