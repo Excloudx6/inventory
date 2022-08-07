@@ -903,6 +903,7 @@ http://fraud-tools.uberinternal.com:80
 http://fraud.uberinternal.com:80
 http://free.uber.com:80
 http://free.uber.com:8080
+http://freight-cx-ops.uberinternal.com:80
 http://freight-inflow.uber.com:80
 http://freight-inflow.uber.com:8080
 http://freight-leaderboard.uberinternal.com:80
@@ -1062,6 +1063,7 @@ http://gryphon.uberinternal.com:80
 http://gslink.uber.com:80
 http://guest.uber.com:80
 http://guestpasses.uber.com:80
+http://h.UbErInTeRnAl.com:80
 http://h.uberinternal.com:80
 http://h.uberinternal.com:8080
 http://h16.uberinternal.com:80
@@ -1594,6 +1596,7 @@ http://osiris-api.uberinternal.com:80
 http://osiris.uberinternal.com:80
 http://oss.uberinternal.com:80
 http://ots.uberinternal.com:80
+http://outages.UbErInTeRnAl.com:80
 http://outages.uberinternal.com:80
 http://outages.uberinternal.com:8080
 http://overwatch.uberinternal.com:80
@@ -3083,6 +3086,7 @@ https://corners-staging.uberinternal.com:443
 https://corners.uberinternal.com:443
 https://corpmdm-adm.uberinternal.com:443
 https://corpmdm.uberinternal.com:443
+https://corpss-staging.UbErInTeRnAl.com:443
 https://corpss-staging.uberinternal.com:443
 https://corpss-test.uberinternal.com:443
 https://country-profile-explorer.uberinternal.com:443
@@ -3389,6 +3393,7 @@ https://framework-maker.uberinternal.com:443
 https://fraud-tools.uberinternal.com:443
 https://fraud.uberinternal.com:443
 https://free.uber.com:443
+https://freight-cx-ops.uberinternal.com:443
 https://freight-inflow.uber.com:443
 https://freight-leaderboard.uberinternal.com:443
 https://freight-marketing-web-staging.uber.com:443
@@ -3524,6 +3529,7 @@ https://gryphon.uberinternal.com:443
 https://gslink.uber.com:443
 https://guest.uber.com:443
 https://guestpasses.uber.com:443
+https://h.UbErInTeRnAl.com:443
 https://h.uberinternal.com:443
 https://h16.uberinternal.com:443
 https://hack.uberinternal.com:443
@@ -3981,6 +3987,7 @@ https://osiris-api.uberinternal.com:443
 https://osiris.uberinternal.com:443
 https://oss.uberinternal.com:443
 https://ots.uberinternal.com:443
+https://outages.UbErInTeRnAl.com:443
 https://outages.uberinternal.com:443
 https://overwatch.uberinternal.com:443
 https://oyster.uberinternal.com:443
