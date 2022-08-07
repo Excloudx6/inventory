@@ -11,6 +11,7 @@ Bootstrap
 CakePHP
 Cloudflare Network Error Logging
 Divi
+Elementor
 Envoy
 Express
 F5 BigIP
@@ -54,4 +55,6 @@ WordPress
 Yoast SEO
 jQuery
 lighttpd
+reCAPTCHA
 webpack
+wpBakery

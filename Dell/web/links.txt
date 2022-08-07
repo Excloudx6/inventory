@@ -42,6 +42,7 @@ http://service.jfrog.org/artifactory/addons/info/properties
 http://someuri.com/test
 http://support.apple.com/downloads/#internet
 http://support.dell.com/
+http://support.emc.com/
 http://support.vmwarelearningplatform.com/hc/en-us/articles/201778730
 http://windows.microsoft.com/en-us/internet-explorer/download-ie
 http://www.dailymotion.com/video/xqdpyk
@@ -119,6 +120,7 @@ http://www.dell.com/support/my-support?~ck=mn
 http://www.dell.com/support/retail/us/en/19/?~ck=mn
 http://www.dell.com/support/retail/us/en/19/ownershiptransfer/IdentifySystem?~ck=mn
 http://www.dell.com/support/troubleshooting/us/en/19/SupportVideos?~ck=mn
+http://www.dellemc.com/en-us/converged-infrastructure/converged-infrastructure.htm
 http://www.example.com
 http://www.extjs.com/s.gif
 http://www.google-analytics.com/__utm.gif
@@ -139,6 +141,7 @@ http://www.w3.org/1998/MathML/
 http://www.w3.org/1999/XPath
 http://www.w3.org/1999/xhtml
 http://www.w3.org/1999/xlink
+http://www.w3.org/1999/xlink\
 http://www.w3.org/2000/svg
 http://www.w3.org/2000/svg\
 http://www.w3.org/2000/xmlns/
@@ -201,11 +204,14 @@ https://cdn.embed.ly/player-0.1.0.min.js
 https://cdn.filestackcontent.com
 https://cdn.heapanalytics.com/js/heap-
 https://cdn.jsdelivr.net/npm/css-vars-ponyfill@2
+https://cdn.jsdelivr.net/npm/flv.js@VERSION/dist/flv.min.js
 https://cdn.jsdelivr.net/npm/hls.js@VERSION/dist/hls.min.js
+https://cdn.zoominsoftware.io/vendors/darkreader/darkreader.min.js.gz
 https://cdnjs.cloudflare.com/ajax/libs/dashjs/VERSION/dash.all.min.js
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
 https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm
 https://chrome.google.com/webstore/detail/edcast-guideme/acildjkogadjdnolbaiepkefilhglcdm
+https://cicodeportal.dell.com/
 https://clientstream.launchdarkly.com
 https://cloud.filestackapi.com
 https://cloud.vmware.com/learning-platform#get-started
@@ -278,6 +284,7 @@ https://github.com/jfrog/jfrog-ui-essentials.git
 https://github.com/joeldenning/import-map-overrides
 https://github.com/philipwalton/flexbugs#9-some-html-elements-cant-be-flex-containers
 https://github.com/zloirock/core-js
+https://github.com/zloirock/core-js/blob/v3.21.0/LICENSE
 https://github.com/zloirock/core-js/blob/v3.23.1/LICENSE
 https://i.dell.com/is/image/DellContent
 https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/latitude_notebooks/14_5420/media_gallery/la5420nt_cnb_00000ff090_gy_5000x5000_gettyimages-1254825733.psd?fmt=pjpg&amp;pscan=auto&amp;scl=1&amp;wid=4659&amp;hei=2676&amp;qlt=85,0&amp;resMode=sharp2&amp;op_usm=1.75,0.3,2,0&amp;size=4659,2676
@@ -306,17 +313,23 @@ https://nexus.ensighten.com/dell/external/Bootstrap.js
 https://nexus.ensighten.com/dell/externalDev/Bootstrap.js
 https://noembed.com/embed?url=
 https://nuxtjs.org
+https://partner.dell.com/en-us/partner/utilities/global-site-selector.htm
 https://pf-uat.us.dell.com/idp/startSSO.ping?PartnerSpId=RDOC.OAM.SP&amp;TargetResource=
 https://pf.us.dell.com/idp/startSSO.ping?PartnerSpId=RDOC.OAM.SP.HTML&amp;TargetResource=
 https://pi.apkudo.com/generic_desktop.png
 https://pi.apkudo.com/generic_laptop.png
+https://platform.cloud.coveo.com/rest
+https://platform.cloud.coveo.com/rest/ua/v15/analytics
 https://play.google.com/store/apps/details?id=com.edcast
+https://play.vidyard.com/embed/v4.js
 https://player.twitch.tv/js/embed/v1.js
 https://player.vimeo.com/api/player.js
 https://player.vimeo.com/video/
 https://players.brightcove.net/6057277730001/3v68OqkF3_default/index.html?videoId=1711721162497396996
+https://plus.google.com/share?url=
 https://productengineering-np.us.dell.com/rdoc/api
 https://productengineering.us.dell.com/rdoc/api
+https://px.ads.linkedin.com/collect/?pid=3291785&amp;conversionId=4559105&amp;fmt=gif
 https://qrl.dell.com/#/productVideo/&lt;video ID&gt;
 https://qrl.dell.com/Product/Detail/102
 https://reactjs.org/docs/error-decoder.html?invariant=
@@ -332,6 +345,7 @@ https://s3.amazonaws.com/edc-dev-web/csod_logo.png
 https://s3.amazonaws.com/edc-dev-web/saba_logo.png
 https://s3.us-east-2.amazonaws.com/dellvisualizerstuff.s3.us-east-2.amazonaws.com/detection_model/model.json
 https://satc.dell.com/help/en/GUID-2768B767-A385-4D6C-B69A-A3326C192AC4.html
+https://schema.org
 https://secure.gravatar.com/avatar/
 https://secure.opinionlab.com/ccc01/comment_card_d.asp
 https://service.force.com
@@ -350,14 +364,17 @@ https://ssl.google-analytics.com/__utm.gif
 https://static.filestackapi.com/picker/
 https://streamable.com/o/
 https://support.cookiebot.com/hc/en-us/articles/4406571299346
+https://support.google.com/fit/answer/9488336\\
 https://techdirect-uat2.dell.com
 https://techdirect.dell.com
 https://tools.google.com/dlpage/gaoptout
 https://tradein.dell.com/
+https://trello.com/c/kmzkAFeI/2-submit-an-idea\\
 https://twitter.com/
 https://twitter.com/hashtag/
 https://twitter.com/hashtag/ProjectNEE
 https://twitter.com/settings/applications
+https://twitter.com/share?url=
 https://uicore.dellcdn.com/1.3.2/svgs/dds__alert-info-cir.svg
 https://uicore.dellcdn.com/1.3.2/svgs/dds__arrow-tri-solid-right.svg
 https://uicore.dellcdn.com/1.3.2/svgs/dds__brand-dell.svg
@@ -394,6 +411,8 @@ https://upload.filestackapi.com
 https://use.typekit.net/
 https://vaas-api-gateway.azure-api.net/feedback/api/powerautomate
 https://vaas-api-gateway.azure-api.net/pc-catalog/v1/graphql
+https://videodelivery.net/{id}/manifest/video.m3u8
+https://view.officeapps.live.com/op/embed.aspx?src=
 https://vimeo.com/300970506
 https://visualizer.dell.com/prod_clf/predict
 https://visualizer.dell.com/productapi/productinfo
@@ -416,9 +435,12 @@ https://www.dell.com/gbxtarget.aspx/post/WEB/report
 https://www.dell.com/identity/global/out/e47ffba3-643b-4d0b-88de-14d2bb503b1b?wreply=
 https://www.dell.com/identity/v2/discovery?wa=wsignout1.0&amp;wreply=http%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fen%2Fus%2F19%2Fproduct-support%2Fservicetag%2FBTNY9V1%2Fwarranty&amp;wctx=rh%3doverride&amp;whr=urn:transaction
 https://www.dell.com/learn/
+https://www.dell.com/learn/us/en/uscorp1/corporate~corp-comm~en/documents~dell-california-trafficking.pdf
 https://www.dell.com/learn/us/en/uscorp1/legal_docs/dell-trade-in-sd-us.pdf
+https://www.dell.com/learn/us/en/uscorp1/policies-privacy
 https://www.dell.com/learn/us/en/uscorp1/policies-privacy-country-specific-privacy-policy
 https://www.dell.com/learn/us/en/uscorp1/policies-website-accessibility
+https://www.dell.com/learn/us/en/uscorp1/terms
 https://www.dell.com/preferences/listremoval/?c=us&amp;amp;l=en
 https://www.dell.com/support/contents/en-us/category/contact-information
 https://www.dell.com/support/contents/en-us/category/product-support/self-support-knowledgebase/locate-service-tag
@@ -471,6 +493,7 @@ https://www.facebook.com/
 https://www.facebook.com/VMware-Cloud
 https://www.facebook.com/hashtag/
 https://www.facebook.com/settings?tab=applications
+https://www.facebook.com/sharer/sharer.php?u=
 https://www.fedex.com/locate/index.html?locale=en_US
 https://www.figma.com/file/mLUbYhAN8JBc6uTTTpGiWN/Dell.com-%2F-Library?node-id=2348%3A5282
 https://www.filestackapi.com/api/file
@@ -479,9 +502,11 @@ https://www.formassembly.com/blog/
 https://www.formassembly.com/how-it-works/
 https://www.formassembly.com/support/
 https://www.gnu.org/software/inetutils/manual/html_node/The-_002enetrc-file.html
+https://www.google-analytics.com/analytics.js
 https://www.google.com/chrome
 https://www.google.com/maps/embed/v1/place?key=
 https://www.google.com/recaptcha/api.js
+https://www.googletagmanager.com/gtag/js?id\x3d
 https://www.googletagmanager.com/gtm.js?id=
 https://www.highcharts.com?credits
 https://www.jfrog.com/confluence/display/CLI/CLI+for+JFrog+Artifactory#CLIforJFrogArtifactory-BuildIntegration
@@ -526,6 +551,7 @@ https://www.jfrog.com/confluence/pages/viewpage.action?pageId=89294955
 https://www.jfrog.com/confluence/site/documentation
 https://www.linkedin.com/
 https://www.linkedin.com/secure/settings?userAgree=&amp;goback=.nas_*1_*1_*1
+https://www.linkedin.com/shareArticle?mini=true&amp;url=
 https://www.linkedin.com/showcase/4829968/
 https://www.microsoft.com/en-us/windows/microsoft-edge
 https://www.mixcloud.com/widget/iframe/?
@@ -544,4 +570,8 @@ https://www.youtube.com/embed/
 https://www.youtube.com/embed/yGl4f2V3dEQ
 https://www.youtube.com/iframe_api
 https://www.youtube.com/watch?v=GlCmAC4MHek
+https://www.youtube.com/watch?v=jX7YdG4s1nI
+https://www.zoominsoftware.com
+https://www.zoominsoftware.com/
 https://zoom.us/j/
+https://zoominsoftware.com

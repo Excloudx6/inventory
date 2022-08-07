@@ -102,6 +102,7 @@ PENSMTPMRKDC101.ap.dell.com
 PENSMTPMRKDC102.ap.dell.com
 PENSMTPMRKDC103.ap.dell.com
 PENSMTPMRKDC104.ap.dell.com
+PENSMTPMRKDC105.ap.dell.com
 PENSMTPMRKDC106.ap.dell.com
 PENSMTPMRKDC108.ap.dell.com
 PENSMTPMRKDC109.ap.dell.com
@@ -110,7 +111,9 @@ PS3-GMAP.euro.dell.com
 PTCPWKULCREP01.ap.dell.com
 PTCPWKULCREP02.ap.dell.com
 SNNPWFTAPROX01.euro.dell.com
+SNNSWFTAPROX02.euro.dell.com
 Sonicwall.dsc.euro.dell.com
+TEST-channels.euro.dell.com
 TEST-channels1.ap.dell.com
 TEST-channels1.euro.dell.com
 TEST-channels2.ap.dell.com
@@ -491,8 +494,18 @@ app.techdirect.dell.com
 app.techniciandirect.dell.com
 app1.pc1sslsw.dell.com
 app10.pc1sslsw.dell.com
+app11.pc1sslsw.dell.com
+app12.pc1sslsw.dell.com
+app13.pc1sslsw.dell.com
+app14.pc1sslsw.dell.com
+app15.pc1sslsw.dell.com
+app16.pc1sslsw.dell.com
+app17.pc1sslsw.dell.com
 app2.pc1sslsw.dell.com
+app20.pc1sslsw.dell.com
+app21.pc1sslsw.dell.com
 app3.pc1sslsw.dell.com
+app30.pc1sslsw.dell.com
 app4.pc1sslsw.dell.com
 app5.pc1sslsw.dell.com
 app6.pc1sslsw.dell.com
@@ -3079,6 +3092,7 @@ channels17.ins.dell.com
 channels17.us.dell.com
 channels1apj.ins.dell.com
 channels1euro.ins.dell.com
+channels2-S3B.ap.dell.com
 channels2-S3B.euro.dell.com
 channels2-s3b.ap.dell.com
 channels2-s3b.euro.dell.com
@@ -3100,6 +3114,7 @@ channels3.ins.dell.com
 channels3.us.dell.com
 channels3apj.ins.dell.com
 channels3euro.ins.dell.com
+channels4-S3B.ap.dell.com
 channels4-S3B.euro.dell.com
 channels4-s3b.ap.dell.com
 channels4-s3b.euro.dell.com
@@ -3288,6 +3303,7 @@ china.home.dell.com
 chinajobs.dell.com
 chn.dell.com
 chrisdavis.us.dell.com
+ciS-Student-hiring.coecis.dell.com
 cil.ca.dell.com
 cil.ins.dell.com
 cil.us.dell.com
@@ -4623,6 +4639,7 @@ dellvbv02.sg.dell.com
 dellvip.us.dell.com
 dellware.dell.com
 dellware.euro.dell.com
+dellware.sg.dell.com
 dellware.us.dell.com
 dellware02.euro.dell.com
 dellwebfarm.ins.dell.com
@@ -7977,6 +7994,7 @@ link.dell.com
 link.dellsmalloffice.usa.dell.com
 link.email.dell.com
 link.email.jp.dell.com
+link.email.sg.dell.com
 linux.dell.com
 linux.ins.dell.com
 linux.us.dell.com
@@ -8155,6 +8173,7 @@ ma-payment-nonprod-sit3.dell.com
 ma-payment-nonprod-sup2.dell.com
 ma-payment-nonprod-trn2.dell.com
 ma-payment-nonprod-uat3.dell.com
+maMEYaoi.dfs.dell.com
 macdaddysw5.us.dell.com
 macdaddysw6.us.dell.com
 macdaddysw7.us.dell.com
@@ -8433,6 +8452,7 @@ mta5.comm.delltechnologies.com
 mtg.us.dell.com
 mtp1lndswvpn01.dell.com
 mtp1lndswvpn02.dell.com
+muSHImaruuro2.us.dell.com
 multib2bsecasap.dell.com
 musashi.us.dell.com
 mxmrs01.dell.com
@@ -8718,6 +8738,7 @@ ns1.euro.dell.com
 ns1.federal.dell.com
 ns1.ie.dell.com
 ns1.netscaler.dell.com
+ns1.sg.dell.com
 ns1.us.dell.com
 ns10.us.dell.com
 ns11.us.dell.com
@@ -8725,6 +8746,7 @@ ns12.us.dell.com
 ns1ak.dell.com
 ns1drc.ie.dell.com
 ns2-ipmi.us.dell.com
+ns2.Federal.dell.com
 ns2.dell.com
 ns2.euro.dell.com
 ns2.federal.dell.com
@@ -10027,6 +10049,7 @@ premapp1.us.dell.com
 premapp2.sg.dell.com
 premapp3.us.dell.com
 premappjp.dell.com
+premdoc.sg.dell.com
 premdoc.us.dell.com
 premier-cdn.dell.com
 premier.ap.dell.com
@@ -10137,6 +10160,7 @@ proxy-aus.ins.dell.com
 proxy-csb.dell.com
 proxy-csb.ins.dell.com
 proxy.ins.dell.com
+proxy.sg.dell.com
 proxy.uk.dell.com
 proxy.us.dell.com
 prr.us.dell.com
@@ -10842,6 +10866,7 @@ rim1.dell.com
 rimemea1.dell.com
 rma.dell.com
 rma.ins.dell.com
+rmqvip-AUSVDC02.pcf.dell.com
 rmqvip-ausvdc02.pcf.dell.com
 rmqvip-ausvtc01.pcf.dell.com
 rms.dell.com
@@ -12163,6 +12188,7 @@ supportsearch.us.dell.com
 supportservices.dell.com
 supportstac.us.dell.com
 supportstg.euro.dell.com
+supportstg.sg.dell.com
 supportsuite.us.dell.com
 supportupdates.dell.com
 svc-dit1.dell.com
@@ -12511,6 +12537,8 @@ test-wp.delltechnologies.com
 test.dell.com
 test.us.dell.com
 test01dellportal.us.dell.com
+test1.sg.dell.com
+test2.sg.dell.com
 testaccess.federal.dell.com
 testdrive-ps3.us.dell.com
 testdrive.ins.dell.com
@@ -13018,11 +13046,13 @@ wcepta.us.dell.com
 wd3lv.us.dell.com
 wdtn0.us.dell.com
 we.us.dell.com
+weBMYsql.us.dell.com
 web15.democenter.dell.com
 web16.democenter.dell.com
 web17.democenter.dell.com
 web18.democenter.dell.com
 webapp.us.dell.com
+webapps.sg.dell.com
 webcast.ins.dell.com
 webcast.us.dell.com
 webchat.dell.com
@@ -13283,6 +13313,8 @@ ws06.bray.ie.dell.com
 ws07.bray.ie.dell.com
 wsjzt.us.dell.com
 ww1.dell.com
+wwW.Cinam.delltechnologies.com
+wwW.Lets.dell.com
 www-cdn.dell.com
 www-csb.dell.com
 www-dit-d1-proxy.dell.com
