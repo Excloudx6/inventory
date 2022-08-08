@@ -104,6 +104,7 @@ PENSMTPMRKDC103.ap.dell.com
 PENSMTPMRKDC104.ap.dell.com
 PENSMTPMRKDC105.ap.dell.com
 PENSMTPMRKDC106.ap.dell.com
+PENSMTPMRKDC107.ap.dell.com
 PENSMTPMRKDC108.ap.dell.com
 PENSMTPMRKDC109.ap.dell.com
 PENSMTPMRKDC110.ap.dell.com
@@ -126,8 +127,10 @@ TEST-channels5.ap.dell.com
 TEST-channels5.euro.dell.com
 TEST-channelslb.ap.dell.com
 TEST-channelslb.euro.dell.com
+TEST-channelspro.EuRo.dell.com
 TEST-channelspro.ap.dell.com
 TEST-channelspro.euro.dell.com
+USAUS01-DMZ-ESAE-SD01-vl850.networks.dell.com
 USAUS01-DMZ-ESAE-SD02-vl850.networks.dell.com
 VMware.dsc.euro.dell.com
 XMNDRGCCPRX01.ap.dell.com
@@ -2604,6 +2607,7 @@ authecomm.federal.dell.com
 authecommn.federal.dell.com
 author.dam.dell.com
 autodiscover.dell.com
+autodiscover.fEdErAl.dell.com
 autodiscover.federal.dell.com
 autodiscover.ins.federal.dell.com
 autodiscover.office365.dell.com
@@ -4553,6 +4557,7 @@ dellprod3-dd890-3.us.dell.com
 dellprod3-sws.us.dell.com
 dellpublisher.portal.dell.com
 dellqa.us.dell.com
+dellsap3.bray.IE.dell.com
 dellsap3.bray.ie.dell.com
 dellsdsecm-ps3.us.dell.com
 dellsdsecm.us.dell.com
@@ -7014,6 +7019,7 @@ horizon-osp.dell.com
 horizon-osp.ins.dell.com
 horizon-podb-pc1.us.dell.com
 horizon-vdi-india.dell.com
+horizon-vdi.dell.com
 horizon.dell.com
 horus.us.dell.com
 hpcc.us.dell.com
@@ -7215,6 +7221,7 @@ ie-bry-mpdc-nt1.bray.ie.dell.com
 ie-bry-mshcomm-002.bray.ie.dell.com
 ie-bry-mshcomm-003.bray.ie.dell.com
 ie-bry-mshdc-001.bray.ie.dell.com
+ie-bry-mshecns-001.bRAy.Ie.dell.com
 ie-bry-mshecns-001.bray.ie.dell.com
 ie-bry-mshlscomm-002.bray.ie.dell.com
 ie-bry-mshlscomm-003.bray.ie.dell.com
@@ -8470,8 +8477,10 @@ myappsdr-osp-poda-pc1.us.dell.com
 myappsdr-osp-poda-ps3.us.dell.com
 myappsdr-osp-podc-pc1.us.dell.com
 myappsdr-osp-podc-ps3.us.dell.com
+myappsdr-osp-vdi-poda-las.us.dell.com
 myappsdr-podb-pc1.us.dell.com
 myappsdr-podb-ps3.us.dell.com
+myappsdr-vdi-podb-las.us.dell.com
 myappsku-cyb.ap.dell.com
 myappsku-secure.dell.com
 myappsku.ap.dell.com
@@ -12885,6 +12894,7 @@ uk-ehq-omd3-nt.uk.dell.com
 uk.business.dell.com
 uk.dell.com
 uk.home.dell.com
+uk2-borg.bray.IE.dell.com
 uk2-borg.bray.ie.dell.com
 uk2-crusher.bray.ie.dell.com
 uk2-mccoy.bray.ie.dell.com

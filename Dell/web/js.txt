@@ -95,6 +95,8 @@ https://customerengagements.request.dell.com:443/dist/frontdoor.259380815937dc5c
 https://customerengagements.request.dell.com:443/dist/jquery/jquery.js
 https://de-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
 https://de-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
+https://dell-attachments-api-lb.dell.com:443/swagger-ui-bundle.js
+https://dell-attachments-api-lb.dell.com:443/swagger-ui-standalone-preset.js
 https://dellets.dell.com:443/Scripts/MBWorkflow.js
 https://dellets.dell.com:443/Scripts/bootstrap-multiselect.js
 https://dellets.dell.com:443/Scripts/bootstrap-select.js
@@ -151,6 +153,7 @@ https://fact.dfs.us.dell.com/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/
 https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22xQpR3Jg-V34qRvj7e1Wr-w%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/bootstrap.js?aura.attributes=%7B%22ac%22%3A%22%22%2C%22authenticated%22%3A%22false%22%2C%22brandingSetId%22%3A%22752ee406-f708-44b3-9e05-91f6272d9102%22%2C%22formFactor%22%3A%22SMALL%22%2C%22isHybrid%22%3A%22false%22%2C%22language%22%3A%22en_US%22%2C%22pageId%22%3A%22f42e5b29-169b-4b14-83d1-5d789b3e4697%22%2C%22publishedChangelistNum%22%3A%2216%22%2C%22schema%22%3A%22Published%22%2C%22themeLayoutType%22%3A%22Inner%22%2C%22viewType%22%3A%22Published%22%7D
 https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22xQpR3Jg-V34qRvj7e1Wr-w%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/inline.js?aura.attributes=%7B%22ac%22%3A%22%22%2C%22authenticated%22%3A%22false%22%2C%22brandingSetId%22%3A%22752ee406-f708-44b3-9e05-91f6272d9102%22%2C%22formFactor%22%3A%22SMALL%22%2C%22isHybrid%22%3A%22false%22%2C%22language%22%3A%22en_US%22%2C%22pageId%22%3A%22f42e5b29-169b-4b14-83d1-5d789b3e4697%22%2C%22publishedChangelistNum%22%3A%2216%22%2C%22schema%22%3A%22Published%22%2C%22themeLayoutType%22%3A%22Inner%22%2C%22viewType%22%3A%22Published%22%7D
 https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22xQpR3Jg-V34qRvj7e1Wr-w%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/resources.js?pv=16597169520001076029550&rv=1659568824000
+https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22xQpR3Jg-V34qRvj7e1Wr-w%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/resources.js?pv=16597912850001076029550&rv=1659568824000
 https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22serializationVersion%22%3A%221-2.11.8-238.4-b%22%2C%22parts%22%3A%22f%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/app.js?2=
 https://fcs.dellcdn.com/fonts/asynccss.js
 https://fedaccess.federal.dell.com:443/portal/resources/main.js?v=19431065
@@ -283,6 +286,11 @@ https://myappsuag-osp-poda-pc1.us.dell.com:443/portal/resources/main.js?v=194310
 https://myappsuag-osp-poda-ps3.us.dell.com:443/portal/resources/main.js?v=19431065
 https://myappsuag-osp-podc-pc1.us.dell.com:443/portal/resources/main.js?v=19431065
 https://myappsuag-osp-podc-ps3.us.dell.com:443/portal/resources/main.js?v=19431065
+https://mydfs.dell.com/jslibrary/1637251310238/sfdc/VFRemote.js
+https://mydfs.dell.com/resource/1659568824000/DellFinancialServices/public_a0c5fafe78df775bca3f.js
+https://mydfs.dell.com/resource/1659568824000/DellFinancialServices/runtime_597f579a9903b660b2bb.js
+https://mydfs.dell.com/resource/1659568824000/DellFinancialServices/vendors_f48979f3d4f553646d65.js
+https://mydfs.dell.com/static/111213/js/perf/stub.js
 https://mydfs.dell.com:443/jslibrary/1637251310238/sfdc/VFRemote.js
 https://mydfs.dell.com:443/resource/1659568824000/DellFinancialServices/public_a0c5fafe78df775bca3f.js
 https://mydfs.dell.com:443/resource/1659568824000/DellFinancialServices/runtime_597f579a9903b660b2bb.js
@@ -322,6 +330,15 @@ https://mytoken-ext.ins.dell.com:443/scripts/jquery.base64.min.js
 https://mytoken-ext.ins.dell.com:443/scripts/jsClasses.js
 https://mytoken-ext.ins.dell.com:443/scripts/libphonenumber.js
 https://mytoken-ext.ins.dell.com:443/scripts/login.js
+https://mytoken-uat.us.dell.com:443/branding/js/branding.js
+https://mytoken-uat.us.dell.com:443/scripts/credentialProviderHost.js
+https://mytoken-uat.us.dell.com:443/scripts/globalhandler.js
+https://mytoken-uat.us.dell.com:443/scripts/jquery-3.5.1.min.js
+https://mytoken-uat.us.dell.com:443/scripts/jquery-ui.js
+https://mytoken-uat.us.dell.com:443/scripts/jquery.base64.min.js
+https://mytoken-uat.us.dell.com:443/scripts/jsClasses.js
+https://mytoken-uat.us.dell.com:443/scripts/libphonenumber.js
+https://mytoken-uat.us.dell.com:443/scripts/login.js
 https://mytoken.us.dell.com:443/branding/js/branding.js
 https://mytoken.us.dell.com:443/scripts/credentialProviderHost.js
 https://mytoken.us.dell.com:443/scripts/globalhandler.js
