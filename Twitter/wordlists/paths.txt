@@ -3106,6 +3106,7 @@
 /client-applications
 /clients
 /clients/
+/clients/permissionsState
 /cms/
 /cms/prod/user/profile
 /collect
@@ -4334,8 +4335,10 @@
 /fleets/v1/avatar_content
 /focus/
 /follow
+/follow_in_thread
 /follower_requests
 /followers
+/followers_you_follow
 /following
 /followings
 /form_submission.json
@@ -4435,6 +4438,7 @@
 /i/content-control-tools
 /i/cookies-policy
 /i/curation/libs/cq/i18n/dict.
+/i/custom-timelines/
 /i/custom-timelines/:toolId/info
 /i/delegate/delegations
 /i/discover
@@ -4450,6 +4454,7 @@
 /i/flow/lite/verify_password
 /i/flow/login
 /i/flow/login?input_flow_data=
+/i/flow/make_more_connections
 /i/flow/post_signup
 /i/flow/signup
 /i/flow/single_sign_on
@@ -4517,6 +4522,10 @@
 /i/reports/reviewed/
 /i/safety/report_story_complete
 /i/safety/report_story_start
+/i/safety_center
+/i/safety_center/reports/
+/i/safety_center/reports/open
+/i/safety_center/reports/reviewed
 /i/safety_mode
 /i/safety_mode/actioned_tweets/
 /i/safety_mode/flagged_accounts
@@ -7389,6 +7398,9 @@ rweb/communityMemberships/UPDATE_MEMBERSHIPS
 rweb/dcm/UPDATE_LOCAL_ID
 rweb/devices/BROWSER_PUSH_LOADING
 rweb/devices/BROWSER_PUSH_UNSUPPORTED
+rweb/devices/FETCH_PUSH_NOTIFICATION_PERMISSION_STATE_FAILURE
+rweb/devices/FETCH_PUSH_NOTIFICATION_PERMISSION_STATE_REQUEST
+rweb/devices/FETCH_PUSH_NOTIFICATION_PERMISSION_STATE_SUCCESS
 rweb/devices/PROMPT_DISMISSED_PROPERTIES_LOADED
 rweb/devices/REMOVE_PUSH_DESTINATION_FAILURE
 rweb/devices/REMOVE_PUSH_DESTINATION_REQUEST
@@ -7396,6 +7408,9 @@ rweb/devices/REMOVE_PUSH_DESTINATION_SUCCESS
 rweb/devices/UNSUBSCRIBE_BROWSER_PUSH
 rweb/devices/UPDATE_BROWSER_PUSH_STATUS
 rweb/devices/UPDATE_PROMPT_DISMISSED_PROPERTIES
+rweb/devices/UPDATE_PUSH_NOTIFICATION_PERMISSION_STATE_FAILURE
+rweb/devices/UPDATE_PUSH_NOTIFICATION_PERMISSION_STATE_REQUEST
+rweb/devices/UPDATE_PUSH_NOTIFICATION_PERMISSION_STATE_SUCCESS
 rweb/directMessages/ADD_AVATAR_MEDIA
 rweb/directMessages/ADD_CONVERSATIONS
 rweb/directMessages/ADD_ENTRIES
@@ -7747,6 +7762,7 @@ statuses/update
 statuses/update.json
 statuses/user_timeline
 statuses/user_timeline.json
+strato/column/None/
 strato/column/ScheduledTweet/
 strato/column/User/
 strato/op/insert/schedule/insert
