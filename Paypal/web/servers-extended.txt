@@ -93,7 +93,7 @@ http://demo.paypal.com:80 ["PayPal Demo"] [200] [67895] ["text/html"] ["23.45.10
 http://developer.glb.paypal.com:80 ["Send Money, Pay Online or Set Up a Merchant Account - PayPal"] [200] [133392] ["text/html"] ["173.0.93.193"] ["https://developer.glb.paypal.com/us/home"] ["nginx"] [["Nginx","React"]] [];
 http://developer.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.193"] [null] [null] [null] [];
 http://developer.paypal.com:80 [null] [200] [37762] ["text/html"] ["173.0.93.193"] ["https://developer.paypal.com/"] ["nginx"] [["Algolia","Gatsby","Nginx","React","webpack"]] [];
-http://dropzone.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.197"] [null] [null] [null] [];
+http://dropzone.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.197"] [null] [null] [null] [];
 http://dropzone.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.197"] [null] [null] [null] [];
 http://embed.xoom.com:80 ["Send Money Online | Xoom, a PayPal Service"] [200] [28834] ["text/html"] ["151.101.193.21"] ["https://embed.xoom.com/"] [null] [["Contentful","Envoy","Varnish"]] [];
 http://financing.paypal.com:80 [null] [301] [null] [null] ["151.101.65.35"] ["https://financing.paypal.com/"] [null] [["Varnish"]] [];
@@ -197,7 +197,7 @@ http://paypalmanager-migration.glb.paypal.com:443 ["400 The plain HTTP request w
 http://paypalmanager-migration.glb.paypal.com:80 [null] [200] [6874] ["text/html"] ["173.0.93.189"] ["https://paypalmanager-migration.glb.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://paypalmanager-v2.paypal.com:80 [null] [200] [6885] ["text/html"] ["173.0.93.190"] ["https://paypalmanager-v2.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://paypalmanager-v2.sandbox.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.205"] [null] [null] [null] [];
-http://paypalmanager-v2.sandbox.paypal.com:80 ["Send Money, Pay Online or Set Up a Merchant Account - PayPal"] [200] [128110] ["text/html"] ["173.0.93.205"] ["https://paypalmanager-v2.sandbox.paypal.com/us/home"] [null] [["React"]] [];
+http://paypalmanager-v2.sandbox.paypal.com:80 ["Digital Wallets, Money Management, and More | PayPal US | PayPal US"] [200] [202549] ["text/html"] ["173.0.93.205"] ["https://paypalmanager-v2.sandbox.paypal.com/us/home"] [null] [null] [];
 http://paypalmanager.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [271] ["text/html"] ["173.0.93.188"] [null] [null] [null] [];
 http://paypalmanager.paypal.com:80 [null] [200] [123] ["text/html"] ["173.0.93.189"] ["https://paypalmanager.paypal.com/"] ["nginx"] [["Nginx"]] [];
 http://paypalmanager.sandbox.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.205"] [null] [null] [null] [];
@@ -594,7 +594,7 @@ https://qwac.paypal.com:443 [null] [200] [6876] ["text/html"] ["151.101.129.21"]
 https://refer.xOom.com:443 [null] [204] [null] ["application/json"] ["52.6.220.202"] [null] ["Extole"] [null] [];
 https://refer.xoom.com:443 [null] [204] [null] ["application/json"] ["54.205.81.81"] [null] ["Extole"] [null] [];
 https://registration-edgemigration.glb.paypal.com:443 [null] [200] [6871] ["text/html"] ["173.0.93.191"] [null] ["nginx"] [["Nginx"]] [];
-https://registration-migration.glb.paypal.com:443 [null] [200] [6886] ["text/html"] ["173.0.93.190"] [null] ["nginx"] [["Nginx"]] [];
+https://registration-migration.glb.paypal.com:443 [null] [200] [6880] ["text/html"] ["173.0.93.190"] [null] ["nginx"] [["Nginx"]] [];
 https://registration.paypal.com:443 [null] [200] [null] ["text/html"] ["173.0.93.190"] [null] ["nginx"] [["Java","Nginx"]] [];
 https://safebreach.paypal.com:443 [null] [404] [null] [null] ["151.101.193.21"] [null] [null] [["Varnish"]] [];
 https://safetyhub.paypal.com:443 [null] [200] [128] ["text/html"] ["173.0.93.196"] [null] [null] [null] [];
