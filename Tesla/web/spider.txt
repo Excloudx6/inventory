@@ -5114,3 +5114,25 @@
 [javascript] - https://teamchat.tesla.com:443/static/main.6e374ba99bc84eabb2bf.js
 [url] - [code-403] - https://akamai-apigateway-suppliers-stg.tesla.com:443
 [url] - [code-403] - https://cx-api-apac.tesla.com:443
+[href] - https://business-ui-ownership.tesla.com:443/static/css/main.2688bdd1.css
+[href] - https://cx-apac.tesla.com/favicon.ico
+[href] - https://cx-apac.tesla.com/umi.c231fc22.css
+[href] - https://referral.tesla.com/css/text.css?t=1659982803
+[href] - https://referral.tesla.com/css/text.css?t=1659982804
+[href] - https://referral.tesla.com/css/viewer.css?t=1659982803
+[href] - https://referral.tesla.com/css/viewer.css?t=1659982804
+[href] - https://referral.tesla.com/css/web.css?t=1659982803
+[href] - https://referral.tesla.com/css/web.css?t=1659982804
+[href] - https://referral.tesla.com/upload/css/uploadText.css?t=1659982803
+[href] - https://referral.tesla.com/upload/css/uploadText.css?t=1659982804
+[href] - https://res.wx.qq.com/t/wx_fed/weui-source/res/2.5.1/weui.min.css
+[javascript] - https://business-ui-ownership.tesla.com:443/static/js/main.679e86d2.js
+[javascript] - https://cx-apac.tesla.com/umi.538d3e85.js
+[javascript] - https://player.polyv.net/script/player.js
+[javascript] - https://res.wx.qq.com/open/js/jweixin-1.6.0.js
+[subdomains] - https://cx-api-apac.tesla.com
+[subdomains] - https://cxadmin-apac.tesla.com
+[subdomains] - https://cxadmin-api-apac.tesla.com
+[url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&scope=openid%20email&state=1659982804299%3A0.930614439837741
+[url] - [code-200] - https://cx-apac.tesla.com/
+[url] - [code-403] - https://cx-apac.tesla.com:443

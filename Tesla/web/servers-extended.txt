@@ -121,8 +121,8 @@ http://cld-ec.tesla.com:80 ["404 Not Found"] [404] [223] ["text/html"] ["104.90.
 http://click.email.tesla.com:80 [null] [301] [null] [null] ["92.123.225.49"] [null] ["AkamaiGHost"] [null] [];
 http://click.emails.tesla.com:80 ["403 - Forbidden: Access is denied."] [403] [1233] ["text/html"] ["13.111.48.179"] ["https://click.emails.tesla.com/"] [null] [null] [];
 http://courses.tesla.com:80 [null] [302] [null] ["text/html"] ["104.111.226.14"] ["https://courses.tesla.com/auth/login/tesla-prod-oauth2/?auth_entry=login&next=%2Fdashboard"] ["nginx"] [["Nginx"]] [];
-http://cx-apac.tesla.com:80 ["Tesla"] [200] [6243] ["text/html"] ["184.30.18.203"] ["https://cx-apac.tesla.com/"] [null] [["Akamai"]] [];
-http://cx-api-apac.tesla.com:80 [null] [200] [42] ["application/json"] ["104.92.71.218"] ["https://cx-api-apac.tesla.com/"] [null] [null] [];
+http://cx-apac.tesla.com:80 ["Tesla"] [200] [6244] ["text/html"] ["69.192.160.83"] ["https://cx-apac.tesla.com/"] [null] [["Akamai"]] [];
+http://cx-api-apac.tesla.com:80 [null] [200] [42] ["application/json"] ["104.76.200.116"] ["https://cx-api-apac.tesla.com/"] [null] [null] [];
 http://dataviz.tesla.com:80 ["302 Found"] [302] [427] ["text/html"] ["104.97.82.192"] ["https://dataviz.tesla.com/"] ["akamai/nginx"] [["Nginx"]] [];
 http://digitalassets-accounts.tesla.com:80 [null] [301] [null] [null] ["151.101.2.92"] [null] ["Cloudinary"] [null] [];
 http://digitalassets-energy.tesla.com:80 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
@@ -407,8 +407,8 @@ https://click.emails.tesla.com:443 ["403 - Forbidden: Access is denied."] [403] 
 https://cnvpn.tesla.com:443 ["Tesla Motors VPN"] [404] [1591] ["text/html"] ["103.222.41.215"] [null] [null] [null] [];
 https://cnvpn1.tesla.com:443 ["Tesla Motors VPN"] [404] [2617] ["text/html"] ["114.141.176.215"] [null] [null] [null] [];
 https://courses.tesla.com:443 [null] [302] [null] ["text/html"] ["104.111.226.14"] ["https://courses.tesla.com/auth/login/tesla-prod-oauth2/?auth_entry=login&next=%2Fdashboard"] ["nginx"] [["Nginx"]] [];
-https://cx-apac.tesla.com:443 ["Tesla"] [200] [6239] ["text/html"] ["184.30.18.203"] [null] [null] [["Akamai"]] [];
-https://cx-api-apac.tesla.com:443 [null] [200] [42] ["application/json"] ["104.92.71.218"] [null] [null] [null] [];
+https://cx-apac.tesla.com:443 ["Tesla"] [200] [6240] ["text/html"] ["69.192.160.83"] [null] [null] [["Akamai"]] [];
+https://cx-api-apac.tesla.com:443 [null] [200] [42] ["application/json"] ["104.76.200.116"] [null] [null] [null] [];
 https://dataviz.tesla.com:443 ["302 Found"] [302] [428] ["text/html"] ["104.97.82.192"] [null] ["akamai/nginx"] [["Nginx"]] [];
 https://digitalassets-accounts.tesla.com:443 [null] [301] [null] [null] ["151.101.2.92"] [null] ["Cloudinary"] [null] [];
 https://digitalassets-energy.tesla.com:443 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
