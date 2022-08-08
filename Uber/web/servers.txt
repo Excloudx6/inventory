@@ -550,6 +550,7 @@ http://crm-dev.uberinternal.com:80
 http://cronetdash.uberinternal.com:80
 http://cronus-dca1.uberinternal.com:80
 http://cronus.uberinternal.com:80
+http://crypt.UbErinTeRNAL.com:80
 http://crypto.uberinternal.com:80
 http://cs.uberinternal.com:80
 http://csp.uber.com:80
@@ -650,6 +651,7 @@ http://developer.uberinternal.com:80
 http://developers.uber.com:80
 http://developers.uber.com:8080
 http://devhub.uberinternal.com:80
+http://devices.UbErInTeRnAl.com:80
 http://devices.uberinternal.com:443
 http://devices.uberinternal.com:80
 http://devpod-auth.uberinternal.com:80
@@ -1640,6 +1642,7 @@ http://pathfinder.UBEriNtERNaL.com:80
 http://pathfinder.uberinternal.com:80
 http://payment-profile.uberinternal.com:80
 http://payment-providers.uber.com:80
+http://payments-staging.UbErInTeRnAl.com:80
 http://payments-staging.uber.com:80
 http://payments-staging.uber.com:8080
 http://payments-staging.uberinternal.com:80
@@ -2217,6 +2220,7 @@ http://tbs.uberinternal.com:80
 http://tc.uber.com:80
 http://tc.uber.com:8080
 http://tc.uberinternal.com:80
+http://tc2.UbErinTeRNAL.com:80
 http://tc2.UberINtERnAl.com:80
 http://tc2.uberinternal.com:80
 http://tdottest1.uber.com:80
@@ -3104,6 +3108,7 @@ https://cronetdash.uberinternal.com:443
 https://cronus-dca1.uberinternal.com:443
 https://cronus.uberinternal.com:443
 https://crypt-staging.uberinternal.com:443
+https://crypt.UbErinTeRNAL.com:443
 https://crypt.uberinternal.com:443
 https://crypto.uberinternal.com:443
 https://cs.uberinternal.com:443
@@ -3196,6 +3201,7 @@ https://developer.uber.com:443
 https://developer.uberinternal.com:443
 https://developers.uber.com:443
 https://devhub.uberinternal.com:443
+https://devices.UbErInTeRnAl.com:443
 https://devices.uberinternal.com:443
 https://devpod-auth.uberinternal.com:443
 https://devpod-bra.uberinternal.com:443
@@ -4525,6 +4531,7 @@ https://tbs-static.uber.com:443
 https://tbs.uberinternal.com:443
 https://tc.uber.com:443
 https://tc.uberinternal.com:443
+https://tc2.UbErinTeRNAL.com:443
 https://tc2.UberINtERnAl.com:443
 https://tc2.uberinternal.com:443
 https://tdottest1.uber.com:443
@@ -4692,6 +4699,7 @@ https://umonitor-dca1.uberinternal.com:443
 https://umonitor-dca8.uberinternal.com:443
 https://umonitor-labs.uberinternal.com:443
 https://umonitor-phx2.uberinternal.com:443
+https://umonitor-phx3.UbErinTeRNAL.com:443
 https://umonitor-phx3.uberinternal.com:443
 https://umonitor.uberinternal.com:443
 https://ums-staging.uberinternal.com:443
