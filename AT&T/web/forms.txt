@@ -16,6 +16,7 @@ https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=197NQywoiwrVcHL6V0DniFcvKMDDSkZAhwraWQ4QvsU
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=3dRkJ71lRIkr-csxGVYNGYwAuWf9HOvwdNThinGwYTI
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=B8d0KS3rxfagTbGS5sK-e759usOHZJ9ogqSS2hoUVGk
+https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=DWHgAFF7lTrGH5x5KgEqjvoEhrwymPi2WG_lCYIvIPY
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=EWMAxP4rTmJKpyH7DTTD6fUdpLGq-o2m23hlUeQyYTU
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=GdnoeNFjRUGhyPUSuMgFtHkEkmirpTxrWBd6uNF1Tes
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=UJD6u1XQWlkeGmGn6NYAl32RFEnsCrPpJIlyTd2o95w
@@ -101,6 +102,7 @@ https://oauth-da.idp.flogin.att.com:443
 https://oauth-sf.idp.flogin.att.com:443
 https://origin-wsp-aldc01.att.com:443/admin/login.jsp
 https://origin-wsp-aldc02.att.com:443/admin/login.jsp
+https://origin-wsp-dadc02.att.com:443/admin/login.jsp
 https://ourlivingroom.att.com:443
 https://oxygen-nprd.att.com:443
 https://oxygen.att.com:443

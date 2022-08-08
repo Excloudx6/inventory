@@ -13074,6 +13074,19 @@
 ./spec/wrap-actions.js
 ./specialfeatures.svg
 ./specialfeaturesL.svg
+./specialist
+./specialist1.json
+./specialist2.json
+./specialist3.json
+./specialist4.json
+./specialist5.json
+./specialistCustomTableTest.json
+./specialistTaskTest.json
+./specialist_errAndWarn.json
+./specialist_warnings.json
+./specialistdm865q.json
+./specialistok576g.json
+./specialists.json
 ./sphere-collider
 ./sphere.js
 ./spinner.component.html
@@ -14289,6 +14302,12 @@
 ./target.svg
 ./targetL.svg
 ./task
+./task1.json
+./task2.json
+./task3.json
+./task55104960.json
+./task55104964.json
+./tasks.json
 ./te
 ./te.js
 ./team-black-temp.svg
@@ -16593,6 +16612,7 @@
 /#/login?loggedOut=true
 /#/start?oem=
 /#1:2
+/#?
 /#\
 /#_
 /#affiliations
@@ -17211,6 +17231,7 @@
 /Account
 /AcroForm 
 /AddIns/
+/Administrator
 /Annot
 /Annots [
 /ArtBox [
@@ -18250,7 +18271,9 @@
 /api/footers
 /api/games/top?locale=
 /api/getReferralOffer/
+/api/getapimanager
 /api/iam/v1/sessions/endImpersonation
+/api/import
 /api/index
 /api/internal/renameadmin
 /api/internal/storefront/v1/cta\
@@ -18654,6 +18677,8 @@
 /api/sites/:siteId/site-en-ranges
 /api/sites/:siteId/translation-pattern
 /api/sites/:siteName/:customerId/siteSettings
+/api/specialist/:specialist/date/:date
+/api/specialists/query
 /api/sso/google/startup
 /api/sso/register
 /api/sso/startup
@@ -18668,6 +18693,9 @@
 /api/system/scanAll
 /api/systeminfo
 /api/systeminfo/volumes
+/api/task/:taskId
+/api/tasks/autoAssignment?date=:date
+/api/tasks/query
 /api/team
 /api/team/assignments
 /api/theme/v1/publishedVersion/settings/header?locale=
@@ -19327,6 +19355,7 @@
 /assigned-accounts
 /assigned-accounts/edit
 /assigned-role
+/assignments
 /assurance/apps/api/v1/orgs/
 /atc1.
 /atc2.
@@ -19403,6 +19432,7 @@
 /auto-attendant/schedules/
 /auto-attendant/schedules/new-schedule
 /auto-login
+/autoAssign
 /autoReceptionist
 /automation
 /automation-zones
@@ -19643,6 +19673,7 @@
 /build/entry.client-QHQSUSGC.js
 /build/manifest-048DD76B.js
 /build/manifest-9D6A70D2.js
+/build/manifest-A25376AE.js
 /build/manifest-B0BCB8B6.js
 /build/manifest-CDE6F201.js
 /build/manifest-FE83CC3F.js
@@ -19815,12 +19846,14 @@
 /build/routes/products/remote-work/summary-TG6M2NQ6.js
 /build/routes/products/remote-work/wifi-E7PRGZAX.js
 /build/routes/products/remote-work/wifi-IJUJF7K6.js
+/build/routes/products/work-from-home-GUYDU3MR.js
 /build/routes/products/work-from-home-SCD2ULWL.js
 /build/routes/products/work-from-home-SKQWHVIB.js
 /build/routes/products/work-from-home/dhcp-F7TJVPV5.js
 /build/routes/products/work-from-home/dhcp-GDPMQ44W.js
 /build/routes/products/work-from-home/ssid-A4LKADPH.js
 /build/routes/products/work-from-home/ssid-JYMOJFOR.js
+/build/routes/products/work-from-home/success-NJLMZ33T.js
 /builds/GECZBJvu/0/dash/twilight/packages/cadance/lib
 /builtins/intents/\
 /builtins/intents/{signature}\
@@ -20602,6 +20635,7 @@
 /conversations/search?q={search_term_string}
 /convert_to_team
 /cookies-policy
+/copy
 /cordae/
 /cordaelive
 /cordaelive/FAQ
@@ -20810,6 +20844,7 @@
 /datasource/
 /datastores/{datastoreName}\
 /datastores\
+/date/
 /day
 /dchelp/
 /dcp
@@ -21516,6 +21551,7 @@
 /fac.js
 /facesDef
 /factdata
+/failedToGetData
 /failover
 /fake_7eac155c.js
 /family/internet-of-things/iot-resources.html
@@ -22181,6 +22217,7 @@
 /images/icons/arrow-down-right.svg
 /images/icons/avatar_group_48.png
 /images/icons/calendar.svg
+/images/icons/camera.svg
 /images/icons/cancel.svg
 /images/icons/clock.svg
 /images/icons/close.svg
@@ -22263,6 +22300,8 @@
 /immutabletagrules
 /immutabletagrules/
 /implement
+/import
+/import?date=
 /imports/\
 /imports/{importId}\
 /impression/
@@ -23018,6 +23057,7 @@
 /mobile/oauthredirect
 /mobile/oauthredirect?code={authCode}&amp;mailbox_id=
 /mobile/restapi/v1.0
+/mockServiceWorker.js
 /mod.js
 /modal
 /modal/
@@ -24936,6 +24976,10 @@
 /sparse/values
 /sparse/values/bufferView
 /spawn
+/specialist
+/specialist/
+/specialists
+/specialists/query?date=
 /specularGlossinessTexture
 /specularImages/
 /specularTexture
@@ -25550,8 +25594,11 @@
 /targetState
 /targets/
 /task
+/task/
 /tasks
 /tasks/
+/tasks/autoAssignment?date=
+/tasks/query?date=
 /taxes/filters?
 /taxes?
 /tc
@@ -33394,6 +33441,7 @@ routes/products/remote-work/wifi
 routes/products/work-from-home
 routes/products/work-from-home/dhcp
 routes/products/work-from-home/ssid
+routes/products/work-from-home/success
 rtmp/flv
 rtmp/mp4
 ru-ru/resource.json

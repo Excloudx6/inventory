@@ -286,6 +286,7 @@ http://bcuat3.stage-e.att.com:80
 http://bcuat4.stage-e.att.com:80
 http://bd-asa1.research.att.com:80
 http://bd-asa2.research.att.com:80
+http://believeatlanta.att.com:443
 http://believeatlanta.att.com:80
 http://believeatlanta.att.com:8080
 http://believeatlanta.att.com:8443
@@ -315,6 +316,7 @@ http://bizsummit.att.com:80
 http://bjs.att.com:80
 http://bma.att.com:80
 http://bma.test.att.com:80
+http://bmad.tEst.att.com:80
 http://bmad.test.att.com:80
 http://bmam-businessmessaging.att.com:443
 http://bnc-businessmessaging.att.com:443
@@ -323,6 +325,7 @@ http://boost-dr.att.com:443
 http://bootstrap.dm.iot.att.com:80
 http://bp03.att.com:80
 http://bp04.att.com:80
+http://bpmeeting.att.com:443
 http://brandcenter.att.com:80
 http://brandcenter.test.att.com:80
 http://brandshop.att.com:80
@@ -372,6 +375,7 @@ http://ccgwsl-sm.teleconference.att.com:80
 http://ccgwsl-st.teleconference.att.com:80
 http://ccltraining.att.com:80
 http://cctrng.att.com:80
+http://cd.ato.cloud.att.com:443
 http://cd.ato.cloud.att.com:80
 http://cd2migration.att.com:80
 http://cdi.att.com:80
@@ -442,6 +446,7 @@ http://coreconnected.att.com:80
 http://coretechtraining.att.com:80
 http://cp.eia.att.com:80
 http://cpaas-msg.cloud.att.com:80
+http://cpeticketingexpress.att.com:443
 http://cpr-tmp.att.com:80
 http://cpr.att.com:443
 http://cpr.att.com:80
@@ -489,6 +494,7 @@ http://dal01.em.att.com:80
 http://dal01.home.widgets.um.att.com:80
 http://dal01.um.att.com:80
 http://dal01.vm.att.com:80
+http://dal01.work.WidGETS.UM.att.com:80
 http://dal01.work.widgets.um.att.com:80
 http://dal02.em.att.com:80
 http://dal02.home.widgets.um.att.com:80
@@ -525,6 +531,7 @@ http://dataflow.att.com:8443
 http://dataflow.iot.att.com:443
 http://dataflow.iot.att.com:80
 http://dataflow.iot.att.com:8443
+http://dataweb.att.com:443
 http://db.att.com:80
 http://db.att.com:8080
 http://dbactmgr.att.com:80
@@ -898,6 +905,7 @@ http://iiwc1-al.dlife.att.com:8080
 http://iiwc1-al.dlife.att.com:8888
 http://iiwc1-da.dlife.att.com:8080
 http://iiwc1-da.dlife.att.com:8888
+http://iiwc1-dlife.test.att.com:8888
 http://iiwc2-al.dlife.att.com:8080
 http://iiwc2-al.dlife.att.com:8888
 http://iiwc2-da.dlife.att.com:8080
@@ -1957,6 +1965,7 @@ http://support.uc.att.com:80
 http://svd.att.com:80
 http://svd.att.com:8080
 http://sweepstakesauth.att.com:80
+http://sweepstakesauth.stage.att.com:80
 http://systemmigrationtraining.att.com:80
 http://tagalog.att.com:80
 http://tags.att.com:80
@@ -2279,6 +2288,7 @@ http://vnch0204.acss.att.com:80
 http://vnch0205.acss.att.com:80
 http://vnch0207.acss.att.com:80
 http://vnch0208.acss.att.com:80
+http://vnch0209.ACSs.att.com:80
 http://vnch0209.acss.att.com:80
 http://vnch021.acsS.att.com:80
 http://vnch021.acss.att.com:80
@@ -3243,6 +3253,7 @@ https://bizsummit.att.com:443
 https://bjs.att.com:443
 https://bma.att.com:443
 https://bma.test.att.com:443
+https://bmad.tEst.att.com:443
 https://bmad.test.att.com:443
 https://bnc-businessmessaging.att.com:443
 https://boauthaccess-al.att.com:443
@@ -3550,6 +3561,7 @@ https://dal01.em.att.com:443
 https://dal01.home.widgets.um.att.com:443
 https://dal01.um.att.com:443
 https://dal01.vm.att.com:443
+https://dal01.work.WidGETS.UM.att.com:443
 https://dal01.work.widgets.um.att.com:443
 https://dal02.c2bc.um.att.com:443
 https://dal02.em.att.com:443
@@ -4242,6 +4254,7 @@ https://ipusagereports.att.com:443
 https://istarsportal.att.com:443
 https://it.teleconference.att.com:443
 https://itacm.teleconference.att.com:443
+https://iwc-dlife.test.att.com:443
 https://iwc-qa1.test.dlife.att.com:443
 https://iwc-qa1.test.dlife.att.com:8080
 https://iwc-qa1.test.dlife.att.com:8888
@@ -5369,6 +5382,7 @@ https://svcdev.digitallife.att.com:443
 https://svcdev.test.dlife.att.com:443
 https://svd.att.com:443
 https://sweepstakesauth.att.com:443
+https://sweepstakesauth.stage.att.com:443
 https://sxm360iotgw.att.com:443
 https://sxmchrysleriotgw.att.com:443
 https://synaptic.att.com:443
@@ -5729,6 +5743,7 @@ https://vnch0204.acss.att.com:443
 https://vnch0205.acss.att.com:443
 https://vnch0207.acss.att.com:443
 https://vnch0208.acss.att.com:443
+https://vnch0209.ACSs.att.com:443
 https://vnch0209.acss.att.com:443
 https://vnch021.acsS.att.com:443
 https://vnch021.acss.att.com:443

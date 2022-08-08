@@ -23964,3 +23964,312 @@
 [url] - [code-400] - https://static-js-al-econtent.att.com:443
 [url] - [code-400] - https://static-js-ff-econtent.att.com:443
 [url] - [code-400] - https://tchosted.corp.att.com:443
+[form] - https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=DWHgAFF7lTrGH5x5KgEqjvoEhrwymPi2WG_lCYIvIPY
+[form] - https://origin-wsp-dadc02.att.com:443/admin/login.jsp
+[href] - http://r.research.att.com:80
+[href] - https://about.att.com/story/2022/firstnet-family.html
+[href] - https://attfacilitiesportal-az-portal.att.com/_sec/cp_challenge/sec-3-8.css
+[href] - https://auth.lab.dco.cloud.att.com:443/password/forgot?tenantId=9381a4b2-3603-b5da-9517-fff9b041bfbe&client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&nonce=&redirect_uri=%2Flogin&response_mode=&response_type=code&scope=&state=DWHgAFF7lTrGH5x5KgEqjvoEhrwymPi2WG_lCYIvIPY&timezone=&metaData.device.name=&metaData.device.type=UNKNOWN&code_challenge=&code_challenge_method=&user_code=
+[href] - https://bizcommunity.att.com/public-assets/community/Authentication_a892ad2b630ced579ee2.css
+[href] - https://bizcommunity.att.com/public-assets/community/BannerContainer_4d409138304f6aaa5b74.css
+[href] - https://bizcommunity.att.com/public-assets/community/BodyConversationListContainer_1a6edf1e333d95cb5c70.css
+[href] - https://bizcommunity.att.com/public-assets/community/ConversationListListViewWidget_43e814e260889403cb50.css
+[href] - https://bizcommunity.att.com/public-assets/community/FullSearchBar_2d26c6480ab7eaf1bb4d.css
+[href] - https://bizcommunity.att.com/public-assets/community/LandingPageList_21985875b04c3cf6fec9.css
+[href] - https://bizcommunity.att.com/public-assets/community/MobileHeaderBar_191953442b9e958b8af6.css
+[href] - https://bizcommunity.att.com/public-assets/community/PageLayoutRenderer_0faa45080df985f5d1a5.css
+[href] - https://bizcommunity.att.com/public-assets/community/SelectBoxContainer_d780fb4ccc392403fc9b.css
+[href] - https://bizcommunity.att.com/public-assets/community/SidebarConversationListContainer_da5e8c68cc693c62fb68.css
+[href] - https://bizcommunity.att.com/public-assets/community/TabbedConversationListWithSort_9b98357773186c485e32.css
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.Authentication_d74696e88e23565cce70.0.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.BannerContainer_bceb999d245b1bea57b9.60.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.BodyConversationListContainer_93fb42b58053c9b72fcc.63.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.CategoryListGridViewContainer_351a9967ad3bd15d463f.75.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.ConversationListListViewWidget_51abb0720f52eb5ca01e.93.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.FullSearchBar_ac705f1223e4142761a0.113.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.HomePage_490d3e0df3ce0faa8aae.16.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.LandingPageList_9a4507166569f8e285be.125.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.MobileHeaderBar_8329d717c0900bf36714.134.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.NavBarContainer_c3c11bba7fdd4110374f.141.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.PageLayoutRenderer_3c30a3aae2318d618252.146.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.SelectBoxContainer_8e4e421761025efe5263.162.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.SidebarConversationListContainer_ba9c89dde6a1801d59d2.165.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.TabbedConversationListWithSort_512d9a37c68664f79b72.177.js
+[href] - https://bizcommunity.att.com/public-assets/community/en_US.main_662d285127343433d4f7.js
+[href] - https://bizcommunity.att.com/public-assets/community/main_9394a75ca9430f8dd196.css
+[href] - https://bizcommunity.att.com/public-assets/community/vendor.7bd840dcab6da92a7ee9.js
+[href] - https://bizcommunity.att.com/resources/883fc6e8828c5529d77b46233c9dc954522001624dcc5
+[href] - https://brandshop.att.com/on/demandware.static/-/Sites-ATT-Shop-Library/default/v1659934101826/css/att-content-styles.css
+[href] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1659934101826/css/allinone.css
+[href] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1659934101826/css/myfontswebfontskit.css
+[href] - https://c3-stage.firstnet.att.com/static/css/49.d703eb75.chunk.css
+[href] - https://c3-stage.firstnet.att.com/static/css/main.f8187e57.chunk.css
+[href] - https://c3-stage.firstnet.att.com:443/static/css/49.d703eb75.chunk.css
+[href] - https://c3-stage.firstnet.att.com:443/static/css/main.f8187e57.chunk.css
+[href] - https://call.att.com:443/control/ListLocales;jsessionid=9860460FE55D72125A590ACE4715C9C9.jvm1
+[href] - https://call.att.com:443/control/getpassword;jsessionid=9860460FE55D72125A590ACE4715C9C9.jvm1
+[href] - https://cran.r-project.org/doc/manuals/r-patched/R-admin.html
+[href] - https://csms-stage.az.cloud.att.com:443/favicon.ico
+[href] - https://csms-stage.az.cloud.att.com:443/logo192.png
+[href] - https://csms-stage.az.cloud.att.com:443/manifest.json
+[href] - https://csms-stage.az.cloud.att.com:443/static/css/main.a414ea56.css
+[href] - https://currently.att.yahoo.com/att/cm/arkansas-judge-found-dead-bottom-112353096.html
+[href] - https://currently.att.yahoo.com/att/cm/celebs-ripped-asking-prayers-anne-024450513.html
+[href] - https://currently.att.yahoo.com/att/cm/first-covid-symptom-dr-fauci-114525820.html
+[href] - https://currently.att.yahoo.com/att/cm/jiu-jitsu-legend-leandro-lo-154544557.html
+[href] - https://currently.att.yahoo.com/att/cm/only-cbsla-ring-video-shows-001000284.html
+[href] - https://currently.att.yahoo.com/att/cm/photos-purport-show-notes-trump-112346498.html
+[href] - https://currently.att.yahoo.com/entertainment/ashton-kutcher-reveals-autoimmune-disorder-060033809.html
+[href] - https://currently.att.yahoo.com/finance/m/2b703245-93ca-355a-b6fc-a26febf8413b/%E2%80%98she%E2%80%99s-going-to-spend-every.html
+[href] - https://currently.att.yahoo.com/finance/m/33aa9622-4b4a-3212-9383-68a8c54adac3/%E2%80%98i-must-humbly-and-honestly.html
+[href] - https://currently.att.yahoo.com/lifestyle/hilarious-mom-draws-cartoon-face-154330553.html
+[href] - https://currently.att.yahoo.com/lifestyle/seattle-karen-calls-cops-black-161532257.html
+[href] - https://currently.att.yahoo.com/news/bastards-and-scum-ex-russian-president-medvedev-broadcasts-dark-kremlin-ambitions-171440926.html
+[href] - https://currently.att.yahoo.com/news/fbi-director-cut-congressional-hearing-172529529.html
+[href] - https://currently.att.yahoo.com/news/second-highest-ranking-us-general-160011004.html
+[href] - https://currently.att.yahoo.com/news/video-captures-las-vegas-vape-175856683.html
+[href] - https://currently.att.yahoo.com/news/woman-visited-ezra-millers-airbnb-164237626.html
+[href] - https://currently.att.yahoo.com/sports/miguel-cabrera-made-hilarious-prayer-211056803.html
+[href] - https://cybersecurity.att.com/blogs/security-essentials/stories-from-the-soc-credential-compromise-and-the-importance-of-mfa
+[href] - https://cybersecurity.att.com/public/61be0b82ab00cc2f496a6233c9dc954522001624dcc5
+[href] - https://cybersecurity.att.com:443/blogs/security-essentials/stories-from-the-soc-credential-compromise-and-the-importance-of-mfa
+[href] - https://developer.att.com/static-assets/css/common/bs4-developer.min.css?v=08082022
+[href] - https://developer.att.com:443/static-assets/css/common/bs4-developer.min.css?v=08082022
+[href] - https://developer.r-project.org/Blog/public/2020/11/02/will-r-work-on-apple-silicon/index.html
+[href] - https://digitaldesign.att.com/assets/d40789fe1765789b0ab6233c9dc954522001624dcc5
+[href] - https://dmp.stage.att.com/static/250df84a4a4b489d8248f96233c9dc954522001624dcc5
+[href] - https://envivo.att.yahoo.com/att/cm/conmoci%C3%B3n-brasil-polic%C3%ADa-mat%C3%B3-tiro-134643087.html
+[href] - https://envivo.att.yahoo.com/deportes/chicharito-hern%C3%A1ndez-aclara-raz%C3%B3n-tirar-091801810.html
+[href] - https://envivo.att.yahoo.com/finanzas/noticias/veneno-letal-caracol-de-mar-podria-ayudar-a-salvar-vidas-111211653.html
+[href] - https://envivo.att.yahoo.com/noticias/alberto-fern%C3%A1ndez-durmi%C3%B3-acto-asunci%C3%B3n-130304226.html
+[href] - https://envivo.att.yahoo.com/noticias/camioneta-ovidio-captan-convoy-hijo-192135328.html
+[href] - https://envivo.att.yahoo.com/noticias/empresario-confiesa-fraude-millonario-suicida-214551334.html
+[href] - https://envivo.att.yahoo.com/noticias/j%C3%B3venes-escribieron-carta-sangre-lograron-042720250.html
+[href] - https://envivo.att.yahoo.com/noticias/jos%C3%A9-ram%C3%B3n-l%C3%B3pez-beltr%C3%A1n-se%C3%B1ala-215317444.html
+[href] - https://envivo.att.yahoo.com/noticias/ricardo-salinas-animar%C3%ADa-comprar-chivas-103142433.html
+[href] - https://envivo.att.yahoo.com/vida-estilo/ana-b%C3%A1rbara-sufre-incidente-falda-161302086.html
+[href] - https://envivo.att.yahoo.com/vida-estilo/duras-declaraciones-ana-armas-relaci%C3%B3n-171514585.html
+[href] - https://envivo.att.yahoo.com/vida-estilo/evaluna-montaner-camilo-compartieron-desagradable-222707792.html
+[href] - https://envivo.att.yahoo.com/vida-estilo/jane-fonda-luck-andy-garcia-152615456.html
+[href] - https://envivo.att.yahoo.com/vida-estilo/letizia-presume-piernas-bronceadas-vestido-corto-zara-100840325.html
+[href] - https://experience.att.com:443/sites/g/files/jueztd336/files/css/css_qfldrSHXojIKvjL9Q2b3PG9gcEWgm7BPeXwJ4hkIhFM.css
+[href] - https://fonts.googleapis.com/css?family=Open+Sans%3A400&ver=1652907914
+[href] - https://forums.att.com/assets/69d425b610536561bbc6233c9dc954522001624dcc5
+[href] - https://forums.att.com/conversations/account-features/transferring-numbers-to-a-new-plan-with-a-twist/62f150947a05d965454a0dde
+[href] - https://forums.att.com/conversations/apple/e911-address-causing-apple-watch-data-and-wifi-calling-issue/62f147e3521a9257946d119a
+[href] - https://forums.att.com/conversations/att-fiber-account/fiber-optic-internet-service/62f14323b80a287081dfcf38
+[href] - https://forums.att.com/conversations/att-fiber-account/fiber-out-due-to-att-contractor-destruction/62f0c4fbb2b2e606ecc29d80
+[href] - https://forums.att.com/conversations/att-fiber-equipment/vpn-settings-for-bgw320505/62f15290c971e30321d61ee4
+[href] - https://forums.att.com/conversations/att-internet-installation/presidential-escalation-team-contact/6121a9861c088943c8b39510
+[href] - https://forums.att.com/conversations/att-mail-login-security/cannot-access-sbcglobal-email-account-online/62ed16d7b80a287081dfb9da
+[href] - https://forums.att.com/conversations/att-mail-login-security/my-email-account/62f11af37a05d965454a0b4f
+[href] - https://forums.att.com/conversations/att-mail-login-security/too-many-login-attempts/62b092e312b51950c91b121b
+[href] - https://forums.att.com/conversations/community-lounge/fiber-burial-operator-destroys-yard/62e2dbf94a366c200e4d8919
+[href] - https://forums.att.com/conversations/data-messaging-features-internet-tethering/i-unlocked-att-switched-to-straight-talk-now-i-cant-make-a-phone-call-but-can-text-and-use-the-data/62f1544c1a30484467f95243
+[href] - https://forums.att.com/conversations/network-coverage/att-is-about-to-lose-many-customers-in-our-neighborhood/62f131d17a05d965454a0c89
+[href] - https://forums.att.com/conversations/online-account-access/website-error-message/5defcc0bbad5f2f6068a3e62
+[href] - https://forums.att.com/conversations/other-phones-devices/service-in-murrieta/62f14a50521a9257946d11b5
+[href] - https://forums.att.com/conversations/phones-tablets-devices/hotspot-turbo-2-wps-button-and-webui-selection-of-push-wps-button-result-in-wifi-is-dormant-or-wifi-is-manually-turned-off-message/62f0bd1b1a30484467f94ee2
+[href] - https://forums.att.com/conversations/tones-games-videos-more/hbo-max-activation-tile-missing/62f15351c971e30321d61eec
+[href] - https://forums.att.com/conversations/wireless-account/help/62f14bf8b80a287081dfd089
+[href] - https://forums.att.com/conversations/wireless-account/no-longer-want-the-secondary-access-i-was-granted/62f082ae4a366c200e4dd951
+[href] - https://forums.att.com/users/5defaba4fd08351cbe1f89c5
+[href] - https://forums.att.com/users/5defb32cfd08351cbe279529
+[href] - https://forums.att.com/users/5defb406fd08351cbe2895c2
+[href] - https://forums.att.com/users/5faa812fed9970384f9bc390
+[href] - https://forums.att.com/users/6121a59ba49ddb1c346987ef
+[href] - https://forums.att.com/users/624ecc04453e2f45c8bc9ab3
+[href] - https://forums.att.com/users/62b091889b98e9691d161e98
+[href] - https://forums.att.com/users/62ed165b1a30484467f93c64
+[href] - https://forums.att.com/users/62f08218521a9257946d0e50
+[href] - https://forums.att.com/users/62f0bb82b2b2e606ecc29d5c
+[href] - https://forums.att.com/users/62f11aaf7a05d965454a0b4a
+[href] - https://forums.att.com/users/62f131a64a366c200e4ddb6b
+[href] - https://forums.att.com/users/62f142d8b2b2e606ecc29f43
+[href] - https://forums.att.com/users/62f14a1d7a05d965454a0d64
+[href] - https://forums.att.com/users/62f14aeeb80a287081dfd06e
+[href] - https://forums.att.com/users/62f14e6e7a05d965454a0d99
+[href] - https://forums.att.com/users/62f15205c971e30321d61ed3
+[href] - https://forums.att.com/users/62f1538cb2b2e606ecc2a005
+[href] - https://forums.att.com:443/conversations/account-features/transferring-numbers-to-a-new-plan-with-a-twist/62f150947a05d965454a0dde
+[href] - https://forums.att.com:443/conversations/apple/e911-address-causing-apple-watch-data-and-wifi-calling-issue/62f147e3521a9257946d119a
+[href] - https://forums.att.com:443/conversations/att-fiber-account/fiber-optic-internet-service/62f14323b80a287081dfcf38
+[href] - https://forums.att.com:443/conversations/att-fiber-account/fiber-out-due-to-att-contractor-destruction/62f0c4fbb2b2e606ecc29d80
+[href] - https://forums.att.com:443/conversations/att-fiber-equipment/vpn-settings-for-bgw320505/62f15290c971e30321d61ee4
+[href] - https://forums.att.com:443/conversations/att-internet-installation/presidential-escalation-team-contact/6121a9861c088943c8b39510
+[href] - https://forums.att.com:443/conversations/att-mail-login-security/cannot-access-sbcglobal-email-account-online/62ed16d7b80a287081dfb9da
+[href] - https://forums.att.com:443/conversations/att-mail-login-security/my-email-account/62f11af37a05d965454a0b4f
+[href] - https://forums.att.com:443/conversations/att-mail-login-security/too-many-login-attempts/62b092e312b51950c91b121b
+[href] - https://forums.att.com:443/conversations/community-lounge/fiber-burial-operator-destroys-yard/62e2dbf94a366c200e4d8919
+[href] - https://forums.att.com:443/conversations/data-messaging-features-internet-tethering/i-unlocked-att-switched-to-straight-talk-now-i-cant-make-a-phone-call-but-can-text-and-use-the-data/62f1544c1a30484467f95243
+[href] - https://forums.att.com:443/conversations/network-coverage/att-is-about-to-lose-many-customers-in-our-neighborhood/62f131d17a05d965454a0c89
+[href] - https://forums.att.com:443/conversations/online-account-access/website-error-message/5defcc0bbad5f2f6068a3e62
+[href] - https://forums.att.com:443/conversations/other-phones-devices/service-in-murrieta/62f14a50521a9257946d11b5
+[href] - https://forums.att.com:443/conversations/phones-tablets-devices/hotspot-turbo-2-wps-button-and-webui-selection-of-push-wps-button-result-in-wifi-is-dormant-or-wifi-is-manually-turned-off-message/62f0bd1b1a30484467f94ee2
+[href] - https://forums.att.com:443/conversations/tones-games-videos-more/hbo-max-activation-tile-missing/62f15351c971e30321d61eec
+[href] - https://forums.att.com:443/conversations/wireless-account/help/62f14bf8b80a287081dfd089
+[href] - https://forums.att.com:443/conversations/wireless-account/no-longer-want-the-secondary-access-i-was-granted/62f082ae4a366c200e4dd951
+[href] - https://forums.att.com:443/users/5defaba4fd08351cbe1f89c5
+[href] - https://forums.att.com:443/users/5defb32cfd08351cbe279529
+[href] - https://forums.att.com:443/users/5defb406fd08351cbe2895c2
+[href] - https://forums.att.com:443/users/5faa812fed9970384f9bc390
+[href] - https://forums.att.com:443/users/6121a59ba49ddb1c346987ef
+[href] - https://forums.att.com:443/users/624ecc04453e2f45c8bc9ab3
+[href] - https://forums.att.com:443/users/62b091889b98e9691d161e98
+[href] - https://forums.att.com:443/users/62ed165b1a30484467f93c64
+[href] - https://forums.att.com:443/users/62f08218521a9257946d0e50
+[href] - https://forums.att.com:443/users/62f0bb82b2b2e606ecc29d5c
+[href] - https://forums.att.com:443/users/62f11aaf7a05d965454a0b4a
+[href] - https://forums.att.com:443/users/62f131a64a366c200e4ddb6b
+[href] - https://forums.att.com:443/users/62f142d8b2b2e606ecc29f43
+[href] - https://forums.att.com:443/users/62f14a1d7a05d965454a0d64
+[href] - https://forums.att.com:443/users/62f14aeeb80a287081dfd06e
+[href] - https://forums.att.com:443/users/62f14e6e7a05d965454a0d99
+[href] - https://forums.att.com:443/users/62f15205c971e30321d61ed3
+[href] - https://forums.att.com:443/users/62f1538cb2b2e606ecc2a005
+[href] - https://gaming.att.com/static/c329fc6e515e48024926926233c9dc954522001624dcc5
+[href] - https://git.rud.is/hrbrmstr/RSwitch
+[href] - https://hub.att.com/static/e89e1418a9c3a2ae6e166b6233c9dc954522001624dcc5
+[href] - https://mac.R-project.org/RSwitch-1.2.dmg
+[href] - https://mac.R-project.org/RSwitch-1.2.tar.gz
+[href] - https://mac.R-project.org/big-sur/R-4.2-branch/R-4.2-branch.pkg
+[href] - https://mac.R-project.org/big-sur/R-4.2-branch/R-GUI-8115-4.2-big-sur-arm64-Debug.dmg
+[href] - https://mac.R-project.org/big-sur/R-4.2-branch/R-GUI-8115-4.2-big-sur-arm64-Release.dmg
+[href] - https://mac.R-project.org/big-sur/R-4.2-branch/arm64/R-4.2-branch.tar.gz
+[href] - https://mac.R-project.org/big-sur/R-devel/R-GUI-8115-4.3-big-sur-arm64-Debug.dmg
+[href] - https://mac.R-project.org/big-sur/R-devel/R-GUI-8115-4.3-big-sur-arm64-Release.dmg
+[href] - https://mac.R-project.org/big-sur/R-devel/R-devel.pkg
+[href] - https://mac.R-project.org/big-sur/R-devel/arm64/R-devel.tar.gz
+[href] - https://mac.R-project.org/big-sur/last-success
+[href] - https://mac.R-project.org/bin/
+[href] - https://mac.R-project.org/high-sierra/R-4.2-branch/R-GUI-8105-4.2-high-sierra-x86_64-Debug.dmg
+[href] - https://mac.R-project.org/high-sierra/R-4.2-branch/R-GUI-8105-4.2-high-sierra-x86_64-Release.dmg
+[href] - https://mac.R-project.org/high-sierra/R-devel/R-GUI-8102-4.3-high-sierra-x86_64-Debug.dmg
+[href] - https://mac.R-project.org/high-sierra/R-devel/R-GUI-8102-4.3-high-sierra-x86_64-Release.dmg
+[href] - https://mac.R-project.org/high-sierra/last-success
+[href] - https://mac.R-project.org/libs/GTK_2.18.5-X11.pkg
+[href] - https://mac.R-project.org/libs/GTK_2.24.17-X11.pkg
+[href] - https://mac.R-project.org/logs/log-R-4.2-branch.big-sur.arm64.html
+[href] - https://mac.R-project.org/logs/log-R-4.2-branch.high-sierra.x86_64.html
+[href] - https://mac.R-project.org/logs/log-R-devel.big-sur.arm64.html
+[href] - https://mac.R-project.org/main.css
+[href] - https://mac.R-project.org/man/
+[href] - https://mac.R-project.org/old.html
+[href] - https://mac.R-project.org/openmp
+[href] - https://mac.R-project.org/src/
+[href] - https://mac.R-project.org/tools/
+[href] - https://meetings.officeathand.att.com/resources/27f3084e6a46c3482420f6233c9dc954522001624dcc5
+[href] - https://origin-wsp-dadc02.att.com:443/admin/css/images/favicon.ico
+[href] - https://origin-wsp-dadc02.att.com:443/admin/css/loginpage.css?_isever=165960655330957
+[href] - https://origin-wsp-dadc02.att.com:443/admin/lib/xwt/themes/reboot2/reboot2-base.css?_isever=165960655330957
+[href] - https://origin-wsp-dadc02.att.com:443/admin/lib/xwt/themes/reboot2/reboot2-xwt.css?_isever=165960655330957
+[href] - https://tcdirectorylink.att.com:443/login/login.jsp;jsessionid=BfF-tJi2drq4LZAksvFJT4HDpjs6XGHUWnh-kzk6aTThoabeS9D1!1079137557
+[href] - https://watch.att.com:443/sites/g/files/jueztd341/files/css/css_rx50mZ5vfN7dkprxtFpWRIctsmYfnVvOCh0RHIk7SGw.css
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1659980843
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1659980843
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462330.css?ver=1659980893
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462335.css?ver=1659980901
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462344.css?ver=1659981078
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462350.css?ver=1659981683
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462354.css?ver=1659980906
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462365.css?ver=1659981138
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462370.css?ver=1659981104
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462373.css?ver=1659980915
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462374.css?ver=1659981008
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462377.css?ver=1659981045
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462378.css?ver=1659981149
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462380.css?ver=1659980922
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462385.css?ver=1659980843
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-5.css?ver=1659980865
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-6.css?ver=1659980843
+[href] - https://www.corp.att.com/alliance/wp-content/themes/business-digital-parent/css/styles.css?ver=1659983129
+[href] - https://www.developer.att.com/static-assets/css/common/bs4-developer.min.css?v=08082022
+[href] - https://www.developer.att.com:443/static-assets/css/common/bs4-developer.min.css?v=08082022
+[href] - https://www.r-project.org/
+[href] - https://www.xquartz.org
+[javascript] - http://astra-dev.att.com:80/main.9f753beb2dbc9049.js
+[javascript] - http://astra-dev.att.com:80/runtime.e9de6ee7b0a63bb6.js
+[javascript] - http://dss-p9mbw11.att.com:8000/ruxitagentjs_ICA2SVfqru_10233220201140653.js
+[javascript] - http://dss-p9mbw22.att.com:8000/ruxitagentjs_ICA2SVfqru_10233220201140653.js
+[javascript] - http://dss-p9mbw30.att.com:8000/ruxitagentjs_ICA2SVfqru_10233220201140653.js
+[javascript] - http://dss-p9mbw33.att.com:8000/ruxitagentjs_ICA2SVfqru_10233220201140653.js
+[javascript] - http://dss-p9mbw8.att.com:8000/ruxitagentjs_ICA2SVfqru_10233220201140653.js
+[javascript] - https://apstesmp1.att.com/universal-header/universal-header-global.js?ccc69f5b-7e69-41c0-8b5e-291723fadf3f
+[javascript] - https://astra-dev.att.com:443/main.9f753beb2dbc9049.js
+[javascript] - https://astra-dev.att.com:443/runtime.e9de6ee7b0a63bb6.js
+[javascript] - https://astra-test.att.com/main.e8372c5f46d9bc85.js
+[javascript] - https://astra-test.att.com:443/main.e8372c5f46d9bc85.js
+[javascript] - https://attfacilitiesportal-az-portal.att.com/_sec/cp_challenge/sec-cpt-3-8.js
+[javascript] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1659934101826/internal/jscript/applepay.js
+[javascript] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1659934101826/internal/jscript/dwac-21.7.js
+[javascript] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1659934101826/internal/jscript/dwanalytics-22.2.js
+[javascript] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1659934101826/js/allinone.js
+[javascript] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1659934101826/lib/jquery/jquery-3.4.1.min.js
+[javascript] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1659934101826/lib/jquery/jquery-migrate-3.0.1.min.js
+[javascript] - https://c3-stage.firstnet.att.com/config.618f9c45598a72d88caa41b3045b024b.js
+[javascript] - https://c3-stage.firstnet.att.com/static/js/49.ee0ac450.chunk.js
+[javascript] - https://c3-stage.firstnet.att.com/static/js/main.4dac4e57.chunk.js
+[javascript] - https://c3-stage.firstnet.att.com:443/config.618f9c45598a72d88caa41b3045b024b.js
+[javascript] - https://c3-stage.firstnet.att.com:443/static/js/49.ee0ac450.chunk.js
+[javascript] - https://c3-stage.firstnet.att.com:443/static/js/main.4dac4e57.chunk.js
+[javascript] - https://csms-stage.az.cloud.att.com:443/env.js
+[javascript] - https://csms-stage.az.cloud.att.com:443/static/js/main.ba33bff6.js
+[javascript] - https://customer.cludo.com/scripts/bundles/search-script.min.js?ver=1659983129
+[javascript] - https://dmp.stage.att.com/businessconsole/main-es2015.f8da4a88236d6cb5367b.js
+[javascript] - https://dmp.stage.att.com/businessconsole/main-es5.f8da4a88236d6cb5367b.js
+[javascript] - https://dss-p9mbw11.att.com:8443/ruxitagentjs_ICA2SVfqru_10233220201140653.js
+[javascript] - https://dss-p9mbw22.att.com:8443/ruxitagentjs_ICA2SVfqru_10233220201140653.js
+[javascript] - https://dss-p9mbw30.att.com:8443/ruxitagentjs_ICA2SVfqru_10233220201140653.js
+[javascript] - https://dss-p9mbw33.att.com:8443/ruxitagentjs_ICA2SVfqru_10233220201140653.js
+[javascript] - https://dss-p9mbw8.att.com:8443/ruxitagentjs_ICA2SVfqru_10233220201140653.js
+[javascript] - https://experience.att.com:443/modules/custom/attsite_adobe_dtm/js/dtm-prod.js?rg35rb
+[javascript] - https://experience.att.com:443/sites/g/files/jueztd336/files/google_tag/primary/google_tag.script.js?rg35rb
+[javascript] - https://experience.att.com:443/sites/g/files/jueztd336/files/js/js_eqV_99mS91OP_S7D-uXIv8ch7lXBYG_vXsAa3zpAeVU.js
+[javascript] - https://origin-wsp-dadc02.att.com:443/admin/lib/cpm/widget/LoginPage.js?_isever=165960655330957
+[javascript] - https://origin-wsp-dadc02.att.com:443/admin/lib/dojo/dojo.js?_isever=165960655330957
+[javascript] - https://origin-wsp-dadc02.att.com:443/admin/lib/xwt/nls/xwt_en-us.js?_isever=165960655330957
+[javascript] - https://origin-wsp-dadc02.att.com:443/admin/lib/xwt/nls/xwt_en.js?_isever=165960655330957
+[javascript] - https://origin-wsp-dadc02.att.com:443/admin/lib/xwt/nls/xwt_ja.js?_isever=165960655330957
+[javascript] - https://origin-wsp-dadc02.att.com:443/admin/lib/xwt/xwt.js?_isever=165960655330957
+[javascript] - https://ssm-test.az.cloud.att.com:443/build/manifest-A25376AE.js
+[javascript] - https://watch.att.com:443/modules/custom/attsite_adobe_dtm/js/dtm-prod.js?rg35rj
+[javascript] - https://watch.att.com:443/sites/g/files/jueztd341/files/google_tag/primary/google_tag.script.js?rg35rj
+[javascript] - https://watch.att.com:443/sites/g/files/jueztd341/files/js/js_MeG2NwTHwGzjJ8x8y6sxlRe9kwd8jJs9tLv8R5Z6xYk.js
+[javascript] - https://www.corp.att.com/alliance/wp-content/plugins/wp-customization/resources/js/cookie-js.js?ver=1659983129
+[javascript] - https://www.corp.att.com/alliance/wp-content/plugins/wp-customization/resources/js/jquery.cookie.js?ver=1659983129
+[javascript] - https://www.corp.att.com/alliance/wp-content/plugins/wp-customization/resources/js/wpc_theme.js?ver=1659983129
+[url] - [code-200] - https://bmad.tEst.att.com/
+[url] - [code-200] - https://bmad.tEst.att.com:443
+[url] - [code-200] - https://csms-stage.az.cloud.att.com:443
+[url] - [code-200] - https://iwc-dlife.test.att.com:443
+[url] - [code-200] - https://mac.R-project.org/
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVJNj9owFLzzK1a5J05SQlgLkNKlH0gU0JL20AvyOg9iybFTvxe2%2Ffc1ybbsViqWT88z82ZGnqFodMuLjmrzCD86QBrd%2BfOz0QZ5%2FzgPOme4FaiQG9EAcpJ8X3xZ8zSKeessWWl18A%2FtNksggiNlzUBbLefBdvNhvf202hzy8SSX%2BUSORSzku6rKq0mVJUJMqywbHzPxlKfJfXV%2FHKjfwKHXmQdeNhgNaogdrAySMOTncZqG8dTfMpnyNOPj5PtAXfqwygjq6TVRi5yxi%2FcIQiElIEaCKJK2YcqPGbbIirJcLXeHtTrVVNsOoSekMdP2pF7S7F4qea9MpczpdhNPAwj557LchbvtvhxEij8NPViDXQNuD%2B6sJHx9XF%2FNUqfVGbxXulp9bkNpDYEh1urOm0JmDfT2wovXENEyoQncJfoZDkJi1NZtsOj3zi4Y3lfoFjf2zNhr4JXa8o3P6DuyWslf%2FfxyPlrXCPp%2FFUmU9BNVhcceyjuDLUh1VFAFf2UKre3zgwNBMA%2FIdRDcscVo8PL2Fy9%2BAw%3D%3D&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJUoyEtuEbUCN%2BzDg2kas9NCLQVNriyhFstxV0v59KSltkgIJwdNwZ3ZmwDmKRjtetFSbO%2FjZAtLoKpxfjTbI%2B8dF1HrDrUCF3IgGkJPkh%2BLrhudJyp23ZKXV0X%2B091kCETwpawbaerWIdtuPm93n9fY4u8mqXI7PkFZykkkpK5nPpiIA0%2FHkJr9OxydRnSZioH4Dj0FnEQXZaDSoIbawNkjCUMDTPI%2FTabhlNuX5NR%2FPvg%2FUVQirjKCeXhM55Ix13hOIhZSAmAiiRNqGqQAzdMiKslyv9seNutRU2xahJ%2BQp0%2FaintLsnyr5oEylzOX9Jk7DEPIvZbmP97tDOYgUfxu6tQbbBvwB%2FIOScH%2B3eWH2h9L62eWji6U1BIaY023wg8wa6J3Fnc0Y0TKhCXyX%2BgGOQmLiahct%2B5Xzbob37fnlGyvm7OXQM83xbYgWqrFayd893p1P1jeC3m4gS7IeUVV87kd5a9CBVGcFVfRPptDaPt56EASLiHwL0RVbjgYvrz%2Fv8g8%3D&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJUqMnLqEbUCJ%2BzDg2kas5pCLQVNri4hEqtxVkv59KSlN0qAwwdNyZnZmwCnKumpE1lJpbuFXC0ijC3%2Be68qg6B9nQeuMsBI1CiNrQEFK7LIfK8GjWDTOklW2Cj7QzrMkIjjS1gy05WIWbNZfVptvy%2FVe8uJScp584vA5VVepiiFNkiMfjyeFuryKD6kqjsmxGKh34NDrzAIvG4wGNcQWlgZJGvLzmPMwnvibJxPBxyJN7gfqwofVRlJPL4kaFIx13iMIpVKAGEmiSNmaaT9m2CDL8ny52O5X%2BlRSaVuEnsBjVtmTfkmzfankWptCm9P5Jg4DCMX3PN%2BG280uH0Syvw3dWINtDW4H7lEr%2BHm7ejNLLT0cXk0%2BNaGyhsAQa6rW20FmDfTGws5liGiZrAhcF%2FoR9lJh1JRNMO83TjuM6Mtz8%2F9umLL3kDdSI9Y%2Bl%2B%2FFVlr97ufd%2BWpdLel8%2FG6ii%2FDYQwU5aVD7AMGrSFZV9unGgSSYBeRaCC7YfDQ4%2Bfffzv8A&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJUqyUzuEbUCN%2BzDg2kas9tCLwVBri6hEstxl3Px9KSlN2gIJwdNyZnZmwDmKtrG88FTrO%2FjpAWl0Fc6vttHI%2B8dF5J3mRqBCrkULyEnyQ%2FFlw%2FMk5dYZMtI00X%2B0t1kCERwpowfaerWIdtsPm92n9fY4hUqAqHJ5kqkcZ5Msv59k42oyG8PNzXQqTmLyrhIVDNRv4DDoLKIgG40GNUQPa40kNIV5mudxOgu3zGY8v%2Bbj6%2B8DdRXCKi2op9dEFjljnfcEYiElICaCKJGmZSqMGVpkRVmuV%2FvjRp1rqo1H6Al5yhpzVk9p9k%2BVvFe6Uvr8dhP3Awj557Lcx%2FvdoRxEij8N3RqNvgV3APegJHy927yYPUv7aPwPbS7PTi82lkYTaGK28cETMqOhdxd3VmNEw0RD4LrkD3AUEhNb22jZr513GN436Javr5mzv3EvTMu3IWFoyDRKPvbz7nw0rhX0ehFZkvUTVcWnHsq9RgtSnRRU0bNM0TTmcutAECwich6iK7YcDV7%2B%2FcPL3w%3D%3D&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJVpKYrmEbUCN%2BzDg2kas9tCLQVFriwBFstxV0v59KSlJH0BC8DScmZ0dcIGi1Y4XHTXmHn50gDS5Cudnqw3y4XEZdd5wK1AhN6IF5CT5sfiy5Vky5c5bstLq6D%2FZ2yqBCJ6UNaNss15G%2B92H7f7TZncS%2BTyf32TzvD5f38J1Navyup6laZ7nMr1Js1kFs3cVyFH6DTwGn2UUbKPJ6IbYwcYgCUMBn2ZZPJ2HW6Zznt3yLP0%2BStdhWWUEDfKGyCFnrM%2BeQCykBMREECXStkwFmKFDVpTlZn04bdWlocZ2CIMgmzJtL%2Bppm8NTJe%2BVqZW5vN1ENZKQfy7LQ3zYH8vRpHhu6M4a7FrwR%2FAPSsLX%2B%2B0YNmTVILwJYmmNAdmTXwI%2FujigBIaY012IhswaGELGfeIY0TKhCXxfwAOchMTENS5aDdMXPYcPRfrVczWvj1uwv%2Fl%2FHBzfhYVDYVYr%2BWvA%2B%2FPR%2BlbQ672kSTogqo7PA5V3Bh1IdVZQRy82hdb28c6DIFhG5DuIrthqMmb590uvfgM%3D&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJVqyk8iEbcCN%2BzDg2kas9tCLQVMri4BEstxl0vx9KSlN2gIJwdNyZnZmwDmKtrF85anW9%2FDTA9LoKpxfbaOR94%2BLyDvNjUCFXIsWkJPkx9XXLc%2BSMbfOkJGmif6jvc8SiOBIGT3QNutFtN993O4%2Fb3antMzKyXk2nc2ubyfifJvn6aSUskpBnG%2BmN6nMRVWls3ygfgeHQWcRBdloNKghethoJKEpzMdZFo%2FzcIs059k1n6Y%2FBuo6hFVaUE%2BviSxyxjrvCcRCSkBMBFEiTctUGDO0yFZFsVkfTlt1qak2HqEnZGPWmIt6TnN4ruSD0qXSl%2FebOA8g5F%2BK4hAf9sdiEFn9aejOaPQtuCO4ByXh2%2F321Sz5ygHWLzYfbSyNJtDEbOODIWRGQ28t7nzGiIaJhsB1sR%2FgJCQmtrbRst857zC8r88t39gxZ3%2BDXmmW70K20I1plHzq5935ZFwr6O0K0iTtJ6qMqx7KvUYLUlUKyuhFZtU05vHOgSBYROQ8RFdsORq8%2FPt7l78B&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJdpyUkuEbUCN%2BzDg2kas9tCLwVIriwBFstxV0vx9KSlJH2hD8LScmZ0ZcImi1Y4XHTXmDr53gDS5CudHqw3y4XEVdd5wK1AhN6IF5CT5qfi042ky5c5bstLq6C%2Fa6yyBCJ6UNSNtu1lFh%2F273eHDdn9Os0V1Xc1z8WYhq2xWCynSKl9kC8igFrmcV1Wd3%2BTXI%2FULeAw6qyjIRpNRDbGDrUEShsJ8mqbxNAu3nGU8veHp%2FOtI3YSwygga6A2RQ85Y7z2BWEgJiIkgSqRtmQpjhg5ZUZbbzfG8U5eGGtshDIR0yrS9qKc0x6dK3ipTKXN5vYlvIwj5x7I8xsfDqRxFiueGbq3BrgV%2FAn%2BvJHy%2B241mg1cPJJQmL5QJEi9mH1wsrSEwxJzugi1k1sBgMO7dxoiWCU3g%2B%2FD3cBYSE9e4aD1sXvYYPpTo18%2B1%2FHvVkv2O%2FcV2fB%2BChqKsVvJxmPfnvfWtoP%2F3MUtmw0RVcT1AeWfQgVS1gip6kSm0tg%2B3HgTBKiLfQXTF1pPRy59fef0T&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVLRTtswFH3vV6C8J06ThoDVVsooG5W6tqJhD3upjHvbWEps43sD4%2B%2FnJAw2xLjy0%2FU5x%2BcceYqiqS0vWqr0LTy0gDQ68%2FOrqTXy%2FnIWtE5zI1Ah16IB5CT5rvi%2B4kkUc%2BsMGWnq4B3tc5ZABEfK6IG2XMyCzfp6tfm2XO%2Fj%2BzidnGdJmqV5ml6mqciSDJLLiczzXOSxPE7S8xyOA%2FUHOPQ6s8DLBqNBDbGFpUYSmvw%2BTpIwvvCnHF%2FwJOOT%2BOdAXfiwSgvq6RWRRc5Y5z2CUEgJiJEgiqRpmPJrhhZZUZbLxXa%2FUqeKKtMi9IQkZrU5qZc025dKvih9UPr0eRP3Awj5TVluw%2B1mVw4ixZ%2BGrozGtgG3A%2FeoJNzdrt7M0sG%2BWnyyoTSaQBOzdevNIDMaelth5zFENEzUBK6L%2FAh7ITGylQ3m%2FXvTDsP76tz8A%2F0p%2BxvwRrF87TP5Tkyt5HO%2F7%2BarcY2g%2F0cfR%2BN%2Bow7hsYfyVqMFqY4KDsGrTFHX5unKgSCYBeRaCM7YfDR4%2BffXzn8D&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVLRbtowFH3nK6q8J04CrMECpLR0KxIDVLI97AUZ50IsJbbre9Nufz8naddt2nrlp%2Btzjs858hxFU1uet1TpB3hsAWl05ed7U2vk%2FeUiaJ3mRqBCrkUDyEnyQ%2F55w9Mo5tYZMtLUwV%2B091kCERwpowfaerUIdtu7ze7TensUk%2Bk0%2BXAax2U5OZ2SRMBEiNlUQlyOs3M6yybZ7DqOxUD9Cg69ziLwssFoUENsYa2RhCa%2Fj9M0jDN%2FiiTj6ZSPr78N1JUPq7Sgnl4RWeSMdd4jCIWUgBgJokiahim%2FZmiR5UWxXu2PG3WpqDItQk9IY1abi3pJs3%2Bp5EbpUunL%2B02cBhDy%2B6LYh%2FvdoRhE8teGbo3GtgF3APekJHx52LyZNd7rq8VnG0qjCTQxW7feDDKjobcVdh5DRMNETeC6yE9wFBIjW9lg2b837zC8r84t%2F6E%2FZ78D3iiWb30m34mplfzR77v5aFwj6P%2FRkyjpN6oMzz2UtxotSHVWUAa%2FZPK6Ns%2B3DgTBIiDXQnDFlqPBy5%2B%2FdvkT&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fZJPj9owEMXvfIpV7omJsymsBUjp0j9IFNCS9tALcp2BWEps1zPZbb99nWS721Yqlk%2Fj%2Bb158%2BQFyrZxouioNg%2FwvQOkyU04P9rGoBgel1HnjbASNQojW0BBShyLT1vBk6lw3pJVton%2Bwa5TEhE8aWtGbLNeRvvdu%2B3%2Bw2Z3Sis5kyq%2FyzKe3ULK%2BSyfV2om%2BTnPqvys4BZyru5mI%2FoFPAadZRRko8mohtjBxiBJQ6E%2B5TyezsMt07ngucjefB3RdVhWG0kDXhM5FIz13hOIpVKAmEiiRNmW6VBm6JAVZblZH05bfampth3CAPApa%2BxFP29zeI7krTaVNpfrSXwbm1B8LMtDfNgfy1Gk%2BJ3QvTXYteCP4B%2B1gs8P21ez2hB4Q15qEzRe3D65WNnwZIi5pgu%2BkFkDg8O4txsjWiabng3bP8JJKkxc7aLVMHrR94ghRb%2B6PmrB%2Fux9pZ3YhU1DUrbR6udQ789761tJ%2Fw8kTdKhoqv4PLSKzqADpc8aquhFpmga%2B3TvQRIsI%2FIdRDdsNRm9%2FP2XV78A&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=hVLLbtswELz7KwLdJcpyEtuEbUCN%2BzDg2kas9tCLQVMriwBFstxV0vx9KSlN2gJNCZ6GM7OzAy5QNNrxvKXa3MP3FpBGV%2BH8aLRB3j8uo9YbbgUq5EY0gJwkP%2BaftzxLUu68JSutjv6Sva0SiOBJWTPINutltN%2B93%2B4%2Fbnan81SmpShBXMt0djOZXotsPgco0zlM4DybillWVVDdDtKv4DH4LKNgG40GN8QWNgZJGAp4mmVxOgu3GM94dsMnt98G6Tosq4ygXl4TOeSMddkTiIWUgJgIokTahqkAM3TI8qLYrA%2BnrbrUVNsWoRdkKdP2op63OTxX8k6ZUpnL202cBxLyT0VxiA%2F7YzGY5L8aurMG2wb8EfyDkvDlfvsaVoPwJqilNQZkx35J%2FOjigBIYYk63IRsya6BPGXeRY0TLhCbwXQMPcBISE1e7aNWPX3Qc3jfpV%2F8ft2C%2F818dHN%2BFjUNjViv51OPd%2BWB9I%2BjfxYyTcY%2BoMq56Km8NOpCqUlBGLza51vbxzoMgWEbkW4iu2Go0ZPnzT69%2BAg%3D%3D&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=hVLLbtswELz7KwLeJUqy0ySEbUCN%2BzDg2kas9tCLQVMriwBFslwyaf6%2BlJTWbYGmBE%2FDmdnZAefIO2VZGXyrH%2BBbAPSTq3i%2Bd0ojGx4XJDjNDEeJTPMOkHnBDuWnDSvSjFlnvBFGkb9kr6s4IjgvjR5l69WC7LbvNrsP6%2B3xNGsghxlk9ezuxPO7m%2Bu6mRYZzwsOIp%2FWTSaKJstvRukXcBh9FiTaksnohhhgrdFz7SOeFUWS3cZb5besuGbTN19H6SouKzX3g7z13iKjtM%2BeQsKFAMSUe58K01EZYYoWaVlV69X%2BuJHn1rcmIAyCIqPKnOXLNvuXSt5KXUt9fr2J00hC9rGq9sl%2Bd6hGk%2FJnQ%2FdGY%2BjAHcA9SgGfHzaXsAq4073aqNBzL4GfbCKM9qA9tSrEaEiNhiFk0idOEA3lyoPrC3iEIxeY2taS5TB93nPYUKRb%2FnfanP5OvxhYto37xr6MkuJ5wPvz3riO%2B3%2FXkqf5gMg6aQYqCxotCNlIqMkvm1Ip83TvgHtYEO8CkCu6nIxZ%2FvzRyx8%3D&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=jZJPj5swEMXvlfodkO9gDN1NYoWs0o1WjZS20YbtoZeVcSbEEoypx2zab18HGml72D%2BIAx7es39vxvOb320TPYEjY7FgIklZBKjt3mBdsIfyLp6ym8WcVNt0ctn7I97Drx7IR8GHJIcfBesdSqvIkETVAkmv5W75dSOzJJWds95q27DR8rpYEYHzgYVF61XBHoXI8kOuDyDy6lqLK5hNDrDPpzMhKjHL8mpSTSaZ%2FjQN3D8uKbJzijVRD2skr9CHUpplcToNbymmMruS%2BfVPFm3%2FoX02OAZ%2BDa0aRSS%2FlOU23n7flSxaXnBvLVLfgtuBezIaHu43BTt635HkXHlf9WQQiJJTB1iHz0TblrNoFTppUPkB%2B6I%2F9zSBWGl9dgT3IDahzKkjvizL9Wr7uDH10R9tTzAYspQ3NuzMxmHJIb57NqX39n3xJvapi7VFD%2Bh51%2FShTLw1aKxTWEN8PivO0jg46yYsTY2xRT7nz7AuF%2Bpb4AhZbGP0n2jZNPZ060B5KJh3PbDozrpW%2BZfJRSKGitnHh0Eqe6QOtDkY2LOPH6IXHr4Ycf6%2F0ou%2F&RelayState=attbusiness.wpengine.com%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=jZLLbtswEEX3%2FopAe4l62XAI24Aa92HAtY1Y7SIbg6HGFgGJZDmjpP37UFKatAUaZMDVcO7lmQsuULSN5UVHtb6FHx0gTa58%2FWwbjXy4XAad09wIVMi1aAE5SX4svm55GsXcOkNGmib4R%2Fa2SiCCI2X0KNusl8F%2B93G7%2F7zZnfIsgVk2z%2FNzGs%2FSdD6VaXUtk2qax9cyzu%2Fjc57Psmw2Sr%2BDQ%2B%2BzDLxtMBndEDvYaCShyffjNA3juT9lMufplGezu1G69ssqLWiQ10QWOWM9ewShkBIQI0EUSdMy5dsMLbKiLDfrw2mrLjXVpkMYBGnMGnNRz9scniP5oHSl9OXtJO7HIeRfyvIQHvbHcjQpfid0YzR2LbgjuAcl4dvt9hVWaYKLEwSV0JUVjrRPwzQv2I82lMbPaGK26TwgMqNhQA177hDRMNEQuD6GBzgJiZGtbbAaGBb9DB%2FidKt3vrlgf4pebSzf%2Bd19dqZR8tfQ7%2BuTca2g%2F0eURMnQUVV4HkZ5p9GCVGcFVfBiUzSNebxx4LGWAbkOgiu2mowsf%2F%2Fu1RM%3D&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/auth?PartnerId=https%3A%2F%2Ftest-cybersecurityservices.att.com
+[url] - [code-200] - https://saml.stage.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJcpK7QiEbUCJ%2BzDg2kas9pCLQZMrmwBFqtyV0%2F59KClN2gL1Yk%2FLmdnZAWcoatPwoqWzfYQfLSCNbkL9rI1F3j%2FOo9Zb7gRq5FbUgJwk3xdf1zxLUt54R046E%2F1Du84SiOBJOzvQVst5tN18XG8%2FrzYHmU3lBMbp3RGgSuX0WE3zPFfV7Ydc3ao7pdIJHKXKB%2Bp38Bh05lGQjUaDGmILK4skLIV5mmVxmocuxznPJqGfBuoyHKutoJ5%2BJmqQM9Z5TwL1BIkgSqSrmQ4zhg2yoixXy91hrU9nOrsWoUdnKTPupF9P2b3mca%2Bt0vZ0PYbjAEL%2BpSx38W67LweR4nc8D85iW4Pfg79oCd8e1%2B9OqTX6AkJKQgWXN7fPTSydJbDEGtMGX8ichd5h3NmNER0ThsB3p1%2FgICQmzbmJFv3qWYfhfYR%2BcX3VjP2JfWc3fBMuDUk5o%2BWvft7VJ%2BdrQf8PZJyM%2B4lWcdVDeWuxAakrDSp6kymMcc8PHgTBPCLfQnTDFqPBy98fefEC&RelayState=%2F
+[url] - [code-200] - https://saml.stage.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVNNr9owELzzK1DuiZPwUbAgEoV%2BIFFAkPbQCzLOBiw5dup1eLx%2FXyfhPVDVh%2BXTemZ3ZrKZICtkSWeVPasd%2FKkAbafrzrWQCmnzOPUqo6hmKJAqVgBSy%2Bl%2B9mNF4yCkpdFWcy29f2jPWQwRjBVatbTlYupt1l9Wm2%2FL9SHPj8PxOIz7n4Zs3O%2F1RjDssSga5BEf9KL4GB6BDaMobKm%2FwKDrM%2FVcW6%2FTdkOsYKnQMmVdPYxjPxy5m0YjGg9ov%2F%2B7pS6cWaGYbehna0ukhNTaA0c9QcCsDbguiHA1giWSWZouF9vDSpzO9qwrhAYdh0Tqk7hZ2d7y%2BCxUJtTpeQzHFoT0e5pu%2Fe1mn7ZNZm%2FxzLXCqgCzB3MRHH7uVnelr7qSwLIMLu9KX0qfa2VBWVLKymlCohU06vxaqo%2BoCZMWTG37AgfGMSjPpZc0Yyc1hjbxmeTjMRPyiLszS7p2Dl1CWgr%2B2tTr81WbgtmPg4iCqKmIzM8bKK0UlsBFLiDz3tvMpNQvcwPMwtSzpgKvS5KH2bfthazZ5Xkdw9V257oomRFYf2K4Mm5vVu92H%2BFz6RZzB3nydHc55TXOlR%2BE3kL5b7c2IvJEZ9J5e378E5O%2F&RelayState=%2F
+[url] - [code-200] - https://saml.stage.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=jZJLb9swEITv%2FhWB7hIlpX4RtgE17sOAaxux2kMvBk2tJQISyXJXTvvvS0lp0hRIUIKn5czw44ALFE1tedZSpe%2FhRwtIoxu%2Ffja1Rt4fLoPWaW4EKuRaNICcJD9mX7Y8jWJunSEjTR38Y3vbJRDBkTJ6sG3Wy2C%2F%2B7Ddf9rsTmksZTIDmIv0ksyKOJ4nUzmbvDvPxXg6j8eT6Xl8mca3g%2FUbOPQ5y8DHBqMhDbGFjUYSmvw8TtMwnvmdJzOejvnt5PtgXfvHKi2ot1dEFjljHXvkrSVEgiiSpmHKzxhaZFmeb9aH01aVFVWmRejVacxqU6rHpxwe%2B3ivdKF0%2BXYN50GE%2FHOeH8LD%2FpgPIdmfeu6MxrYBdwR3VRK%2B3m%2BfSZUmKJ0gKIQurHCkfRWmLuD6RP5gQ2m8TBOzdesZkRkNPW3YoYeIhomawHU1XOEkJEa2ssGqx1h0Gt7X6Vb%2Ff%2B2C%2Fe17TrJ85xvwDZpayV%2F9vFsfjWsEvV5UEiX9RBXhpZfyVqMFqS4KiuApJqtr83DnwJMtA3ItBDdsNRpYXn7w1W8%3D&RelayState=%2F
+[url] - [code-200] - https://vnbr09.acss.att.com/
+[url] - [code-200] - https://vnbr12.acss.att.com/
+[url] - [code-200] - https://vnbr14.acss.att.com/
+[url] - [code-200] - https://vnbr15.acss.att.com/
+[url] - [code-200] - https://vnch0209.ACSs.att.com:443
+[url] - [code-200] - https://vnigaus01.acss.att.com/
+[url] - [code-400] - http://believeatlanta.att.com:443
+[url] - [code-400] - http://bpmeeting.att.com:443
+[url] - [code-400] - http://cd.ato.cloud.att.com:443
+[url] - [code-400] - http://cpeticketingexpress.att.com:443
+[url] - [code-400] - http://dataweb.att.com:443
+[url] - [code-400] - http://retail-api-hotfix.att.com:80
