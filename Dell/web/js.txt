@@ -34,6 +34,7 @@ https://artifactorycpgst.cpg.dell.com/ui/js/app.2d75db3a.js
 https://artifactorycpgst.cpg.dell.com/ui/js/chunk-vendors.c554f74b.js
 https://artifactorycpgst.cpg.dell.com/ui/js/preloader.58e23e59.js
 https://au-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://au-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://au-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://ausplngnxap01.us.dell.com:443/main.bfcd3877d02be8f565e2.js
 https://ausplngnxap01.us.dell.com:443/polyfills.fe6489e4b67779eeacbb.js
@@ -46,6 +47,13 @@ https://ausul1ngnxap01.us.dell.com:443/scripts.03e042f1f102bf0e2ed8.js
 https://b2bprn.dell.com:443/includes/menu.js
 https://b2bprn.dell.com:443/includes/opentour.js
 https://b2bprn.dell.com:443/includes/swapimg.js
+https://blog.demos.dell.com/wp-content/plugins/divi-builder/core/admin/js/common.js?ver=3.0.106
+https://blog.demos.dell.com/wp-content/themes/Divi/js/custom.min.js?ver=3.0.90
+https://blog.demos.dell.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+https://blog.demos.dell.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+https://blog.demos.dell.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16
+https://blog.demos.dell.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.9.3
+https://blog.demos.dell.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.9.3
 https://boss.dell.com:443/js/application/Guest/guest.js?v=gyUHGBuH0pJzlRvnmuNy_aNvPV7jLUcmYCjkWr0ybHA
 https://boss.dell.com:443/lib/bootstrap/dist/js/bootstrap.min.js
 https://boss.dell.com:443/lib/jquery/dist/jquery-3.4.1.min.js
@@ -94,6 +102,7 @@ https://ctm.ins.dell.com:443/scripts.caa91ae92c3457747b1e.js
 https://customerengagements.request.dell.com:443/dist/frontdoor.259380815937dc5c4f34.js
 https://customerengagements.request.dell.com:443/dist/jquery/jquery.js
 https://de-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://de-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://de-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://dell-attachments-api-lb.dell.com:443/swagger-ui-bundle.js
 https://dell-attachments-api-lb.dell.com:443/swagger-ui-standalone-preset.js
@@ -139,11 +148,13 @@ https://docs.delltechnologies.com:443/app.86194bfd2e6ddce6da93.js
 https://docs.delltechnologies.com:443/bootstrapSelect.55100f273594a27961b3.js
 https://docs.delltechnologies.com:443/ekkoLightbox.2a7a7e37c2dba607f30b.js
 https://documentcloud.adobe.com/view-sdk/main.js
+https://es-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://es-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://esgvr.dell.com/wp-content/themes/dell-esg-theme/js/main.min.js?ver=1f5703c22e6fac3973097c4b4c7d4ab4
 https://esgvr.dell.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
 https://esgvr.dell.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
 https://eu-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://eu-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://eu-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://events.dell.com/Events/JavaScriptLib/utility.js
 https://events.dell.com:443/Events/JavaScriptLib/utility.js
@@ -154,6 +165,7 @@ https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%
 https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22xQpR3Jg-V34qRvj7e1Wr-w%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/inline.js?aura.attributes=%7B%22ac%22%3A%22%22%2C%22authenticated%22%3A%22false%22%2C%22brandingSetId%22%3A%22752ee406-f708-44b3-9e05-91f6272d9102%22%2C%22formFactor%22%3A%22SMALL%22%2C%22isHybrid%22%3A%22false%22%2C%22language%22%3A%22en_US%22%2C%22pageId%22%3A%22f42e5b29-169b-4b14-83d1-5d789b3e4697%22%2C%22publishedChangelistNum%22%3A%2216%22%2C%22schema%22%3A%22Published%22%2C%22themeLayoutType%22%3A%22Inner%22%2C%22viewType%22%3A%22Published%22%7D
 https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22xQpR3Jg-V34qRvj7e1Wr-w%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/resources.js?pv=16597169520001076029550&rv=1659568824000
 https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22xQpR3Jg-V34qRvj7e1Wr-w%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/resources.js?pv=16597912850001076029550&rv=1659568824000
+https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22xQpR3Jg-V34qRvj7e1Wr-w%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/resources.js?pv=16600522110001076029550&rv=1659568824000
 https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22serializationVersion%22%3A%221-2.11.8-238.4-b%22%2C%22parts%22%3A%22f%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/app.js?2=
 https://fcs.dellcdn.com/fonts/asynccss.js
 https://fedaccess.federal.dell.com:443/portal/resources/main.js?v=19431065
@@ -182,6 +194,7 @@ https://fisheye.cpg.dell.com:443/static/rdrr9r/concat.commonScriptAndStyleInclud
 https://fisheye.cpg.dell.com:443/static/rdrr9r/concat.fecru.eb66fd1851ab5122d202b4bc05780f58.cache.js
 https://fisheye.cpg.dell.com:443/static/rdrr9r/concat.jquery.f9987a607431b33c63fc5ec3cab197d6.cache.js
 https://fr-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://fr-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://fr-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://future.dell.com/_next/static/C9ergeHM_MixzE9YExshX/_buildManifest.js
 https://future.dell.com/_next/static/C9ergeHM_MixzE9YExshX/_ssgManifest.js
@@ -214,10 +227,13 @@ https://i.dell.com/images/global/js/home88s.js
 https://i.dell.com/images/global/js/lib/jquery-1.2.2e.js
 https://i.dell.com/images/global/js/ph.js
 https://ie-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://ie-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://ie-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://in-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://in-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://in-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://jp-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://jp-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://jp-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://learningstudio.dell.com:443/dist-1658474968337-bootstrap.js
 https://learningstudio.dell.com:443/dist-1658474968337-common.chunk.js
@@ -272,6 +288,7 @@ https://moodle.com/us/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
 https://moodle.com/wp-content/js/readMoreJS.min.js
 https://moodle.com/wp-content/js/readmore.min.js
 https://my-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://my-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://my-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://myappsdr-osp-poda-pc1.us.dell.com:443/portal/resources/main.js?v=19431065
 https://myappsdr-osp-poda-ps3.us.dell.com:443/portal/resources/main.js?v=19431065
@@ -352,10 +369,13 @@ https://nexus.dell.com/dell/external/Bootstrap.js
 https://nexus.ensighten.com/dell/Bootstrap.js
 https://nexus.ensighten.com/dell/mobileDev/Bootstrap.js
 https://nl-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://nl-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://nl-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://no-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://no-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://no-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://nz-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://nz-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://nz-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://pf.us.dell.com:443/assets/scripts/jquery-3.3.1.min.js
 https://pf.us.dell.com:443/assets/scripts/sso-linked-sites.085b207cd.js
@@ -412,6 +432,7 @@ https://satc.dell.com:443/runtime.01647e63e3c242c8ff82.js
 https://satc.dell.com:443/scripts.7b165b8edd384492bfe3.js
 https://se-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
 https://sg-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://sg-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://sg-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://signals.dell.com:443/static/js/2.dec7ef9b.chunk.js
 https://signals.dell.com:443/static/js/main.f2958a35.chunk.js
@@ -504,6 +525,7 @@ https://uat-saproxy.dell.com:443/scripts.7b165b8edd384492bfe3.js
 https://uicore.dellcdn.com/1.3.3/js/index.min.js
 https://uicore.dellcdn.com/1.6.1/js/index.min.js
 https://uk-cp.cloudstore.dell.com/auth/resources/swrvd/login/adminlte/js/adminlte-keycloak-theme.js
+https://uk-cp.stg.cloudstore.dell.com/auth/resources/kofaz/login/adminlte/js/adminlte-keycloak-theme.js
 https://uk-cp.stg.cloudstore.dell.com/auth/resources/q3y5l/login/adminlte/js/adminlte-keycloak-theme.js
 https://visualizer.dell.com:443/_next/static/chunks/275-fee2c5ef6facc6d4416d.js
 https://visualizer.dell.com:443/_next/static/chunks/2dc05096-e2f6154092a0fd3dcb37.js

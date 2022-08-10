@@ -21,6 +21,9 @@
 1rjtk11.us.dell.com
 1wcg761.us.dell.com
 1zwmyb1.us.dell.com
+2019.auspocc01.pcf.dell.com
+2020.auspocc01.pcf.dell.com
+2021.auspocc01.pcf.dell.com
 2459-win-srv-1.us.dell.com
 2967q41.us.dell.com
 2faxtmg-kul.ap.dell.com
@@ -111,6 +114,7 @@ PENSMTPMRKDC110.ap.dell.com
 PS3-GMAP.euro.dell.com
 PTCPWKULCREP01.ap.dell.com
 PTCPWKULCREP02.ap.dell.com
+SINAPORDB1O02.sg.dell.com
 SNNPWFTAPROX01.euro.dell.com
 SNNSWFTAPROX02.euro.dell.com
 Sonicwall.dsc.euro.dell.com
@@ -133,6 +137,7 @@ TEST-channelspro.euro.dell.com
 USAUS01-DMZ-ESAE-SD01-vl850.networks.dell.com
 USAUS01-DMZ-ESAE-SD02-vl850.networks.dell.com
 VMware.dsc.euro.dell.com
+Www.leaRNINg.deLL.com
 XMNDRGCCPRX01.ap.dell.com
 XMNDRGCCPRX02.ap.dell.com
 XMNDRGCCPRX03.ap.dell.com
@@ -207,6 +212,7 @@ adcpgnet.ins.dell.com
 adcpgnet.us.dell.com
 adm.dell.com
 admin-vsc.ins.dell.com
+admin.auspocc01.pcf.dell.com
 admin.kcs.dell.com
 admintest.us.dell.com
 advisors.apj.dell.com
@@ -2727,6 +2733,7 @@ b2btools.us.dell.com
 b2buat.dell.com
 b2buat.us.dell.com
 babylon5.us.dell.com
+backup.auspocc01.pcf.dell.com
 backup.demos.dell.com
 bakeoff.us.dell.com
 ballintra.bray.ie.dell.com
@@ -2753,6 +2760,7 @@ bentley.us.dell.com
 bes.us.dell.com
 beta-pprc-proxy-pc1.dell.com
 beta-pprc-proxy.dell.com
+beta.auspocc01.pcf.dell.com
 beta.event-repository.dell.com
 betasearch.dell.com
 betasearch.ins.dell.com
@@ -2940,6 +2948,7 @@ bt17k2.us.dell.com
 bt1san51f01.us.dell.com
 bt1san51f02.us.dell.com
 bts.us.dell.com
+bucket.auspocc01.pcf.dell.com
 buckwheat-icorp.us.dell.com
 buckwheat.dell.com
 bugs.us.dell.com
@@ -3022,6 +3031,7 @@ cdasprdclus1.us.dell.com
 cdasprdsqlclus1.us.dell.com
 cdasrpt.ins.dell.com
 cdasrpt.us.dell.com
+cdg.us.dell.com
 cdm.dell.com
 cdp3v51.us.dell.com
 cds.service.securityscore.dell.com
@@ -3479,6 +3489,7 @@ configure.us.dell.com
 configure2.euro.dell.com
 configureap.ins.dell.com
 confluence-stage.gtie.dell.com
+confluence.auspocc01.pcf.dell.com
 confluence.cpg.dell.com
 confluence.gtie.dell.com
 confluence.ins.dell.com
@@ -3782,6 +3793,7 @@ darknet.us.dell.com
 darth.us.dell.com
 darthmaul.us.dell.com
 dashi.us.dell.com
+data.auspocc01.pcf.dell.com
 database.us.dell.com
 datacenter.us.dell.com
 dataclassification.dell.com
@@ -3801,6 +3813,7 @@ dbcs.ins.dell.com
 dbdev.ols.us.dell.com
 dbfofsprdclus.us.dell.com
 dbfofsprdmscs.us.dell.com
+dbms.auspocc01.pcf.dell.com
 dbv.bray.ie.dell.com
 dbwatch1.us.dell.com
 dbwatch2old.us.dell.com
@@ -3824,6 +3837,7 @@ dcgrmpls-f01.us.dell.com
 dcgrmpls-f01sec.us.dell.com
 dcgrmpls.us.dell.com
 dcm.cloudmarketplace.dell.com
+dcopsturnover.Dell.com
 dcopsturnover.dell.com
 dcs-01.us.dell.com
 dcs-02.us.dell.com
@@ -3876,6 +3890,7 @@ de.community.dell.com
 de.home.dell.com
 de1c3.us.dell.com
 deals.dell.com
+debug.auspocc01.pcf.dell.com
 deele.bray.ie.dell.com
 deepblue.us.dell.com
 deftexternal-lim.dell.com
@@ -4668,6 +4683,7 @@ demo.apidp.dell.com
 demo.apidp.ins.dell.com
 demo.apim.dell.com
 demo.apim.ins.dell.com
+demo.auspocc01.pcf.dell.com
 demo.delltechnologies.com
 demo.develop.dell.com
 demo.develop.ins.dell.com
@@ -5728,6 +5744,7 @@ ejmtwebclt.ins.dell.com
 ejmtwebclt.us.dell.com
 elabnavigator.dell.com
 elastic.dell.com
+elasticbeanstalk.auspocc01.pcf.dell.com
 elasticsearch.ins.dell.com
 elasticsearch.us.dell.com
 elba.us.dell.com
@@ -6024,6 +6041,7 @@ emsannprodcs.us.dell.com
 emsannproddb.us.dell.com
 emt.us.dell.com
 en.community.dell.com
+engineering.auspocc01.pcf.dell.com
 enotifications.dell.com
 enterprise.dell.com
 enterprise.us.dell.com
@@ -6054,6 +6072,7 @@ eris.us.dell.com
 erne.bray.ie.dell.com
 eros.us.dell.com
 eros1-se.us.dell.com
+error.auspocc01.pcf.dell.com
 ers.us.dell.com
 ersl.ins.dell.com
 ersl.us.dell.com
@@ -6907,6 +6926,7 @@ gscv.ins.dell.com
 gssganalyticsstaging.dell.com
 gssgexecutive.dell.com
 gssgstaging.dell.com
+gsuite.cloudstore.dell.com
 gtdsworkflow.us.dell.com
 gtie-bamboo.us.dell.com
 gtie-crucible-stage.us.dell.com
@@ -7465,6 +7485,7 @@ intelligencecenter.ins.dell.com
 interactivedemos.democenter.dell.com
 internal-np.delltechnologies.com
 internal-testapis-dur-mdc.dell.com
+internal.auspocc01.pcf.dell.com
 internal.delltechnologies.com
 interse.ols.us.dell.com
 intranet.dell.com
@@ -8492,6 +8513,7 @@ myappsuag-osp-poda-ps3.us.dell.com
 myappsuag-osp-podc-pc1.us.dell.com
 myappsuag-osp-podc-ps3.us.dell.com
 myappsuag-osp-uat-pc1.us.dell.com
+myappsuag-osp-vdi-poda-las.us.dell.com
 myappsuag-podb-pc1.us.dell.com
 myappsuag-podb-ps3.us.dell.com
 myappsuag-uat-pc1.us.dell.com
@@ -8633,6 +8655,7 @@ networks.euro.dell.com
 new-auspafwvpnps302-outside.us.dell.com
 new-auspafwvpnps303-outside.us.dell.com
 new-auspafwvpnps304-outside.us.dell.com
+new.auspocc01.pcf.dell.com
 newfp01.mfg.ie.dell.com
 newfp02.mfg.ie.dell.com
 newinside.dell.com
@@ -10050,6 +10073,7 @@ predict.dell.com
 predict.euro.dell.com
 preeldorado.dell.com
 preeldorado.ins.dell.com
+preferences.auspocc01.pcf.dell.com
 prem2.euro.dell.com
 prem3.euro.dell.com
 premapp.sg.dell.com
@@ -10130,6 +10154,7 @@ printerdc1d23.us.dell.com
 prism-perf.us.dell.com
 prism.ins.dell.com
 prism.us.dell.com
+private.auspocc01.pcf.dell.com
 prm-ps3dmz.dell.com
 prm.dell.com
 prm.ins.dell.com
@@ -10803,6 +10828,7 @@ realtimes.us.dell.com
 rebates.dell.com
 rec.us.dell.com
 recycling.dell.com
+redirect.auspocc01.pcf.dell.com
 redmine.us.dell.com
 redoak.us.dell.com
 reef.dell.com
@@ -11127,6 +11153,7 @@ s3-premier2.us.dell.com
 s3-premierce80.us.dell.com
 s3-prtoolsce80.us.dell.com
 s3-signin.us.dell.com
+s3.auspocc01.pcf.dell.com
 s3.euro.dell.com
 s3b-ars80.us.dell.com
 s3b-atlas.us.dell.com
@@ -11961,6 +11988,7 @@ stage.ins.dell.com
 staging-auoutlet.dell.com
 staging.ap.dell.com
 staging.apj.dell.com
+staging.auspocc01.pcf.dell.com
 staging.ca.dell.com
 staging.dell.com
 staging.dellmses.dell.com
@@ -11985,6 +12013,7 @@ star-cs02.us.dell.com
 start.dell.com
 statelocalgovernment.dell.com
 stats.dell.com
+status.auspocc01.pcf.dell.com
 status.cpg.dell.com
 stg-prvgw.office365.dell.com
 stg.dmf.dell.com
@@ -12383,6 +12412,7 @@ synergy-pc1-vip.us.dell.com
 synergy-ps3-vip.us.dell.com
 synergy.us.dell.com
 syslog.bray.ie.dell.com
+system.auspocc01.pcf.dell.com
 systems-1-dimension.us.dell.com
 t.em.business.dell.com
 t.em.home.dell.com
@@ -12482,6 +12512,7 @@ tdm.dell.com
 tdm01.us.dell.com
 tdp.dell.com
 tdxdwtmsdev01.dell.com
+team.auspocc01.pcf.dell.com
 team.v4.boomerang.dell.com
 techdirect-ext.us.dell.com
 techdirect-perf.us.dell.com
@@ -12885,6 +12916,8 @@ ucpilot.dell.com
 ucr2-amer.ins.dell.com
 ucr2-amer.us.dell.com
 uefa-de.dell.com
+ui.dev.remediation.dell.com
+ui.test.remediation.dell.com
 uipath.dell.com
 uipath.ins.dell.com
 uk-cp.cloudstore.dell.com
@@ -12910,12 +12943,16 @@ unixwms.mfg.ie.dell.com
 unjdu.us.dell.com
 uns05189.us.dell.com
 uns05190.us.dell.com
+update.auspocc01.pcf.dell.com
 updates.clientsolutions.dell.com
 updates.dell.com
 updates.test.clientsolutions.dell.com
+upgrade.auspocc01.pcf.dell.com
 upgradetest.us.dell.com
 upload-uat.dell.com
+upload.auspocc01.pcf.dell.com
 upload.dell.com
+ups.dell.com
 uptime.us.dell.com
 urmg1.us.dell.com
 us-amfbck1.us.dell.com
@@ -12945,9 +12982,13 @@ uscp-pc1.portal.dell.com
 uscp-ps3.portal.dell.com
 usdoi.cloudstore.dell.com
 usdoi.stg.cloudstore.dell.com
+user.auspocc01.pcf.dell.com
 ussp.ins.dell.com
 ussp.us.dell.com
 uvmgissweb.ins.dell.com
+v1.auspocc01.pcf.dell.com
+v2.auspocc01.pcf.dell.com
+v4.auspocc01.pcf.dell.com
 v4.boomerang.dell.com
 valex.ins.dell.com
 valex.us.dell.com
@@ -13027,6 +13068,7 @@ vmwarenowps3clus.us.dell.com
 voltron.us.dell.com
 volunteer.dell.com
 vplsq.us.dell.com
+vpn.auspocc01.pcf.dell.com
 vpnaccess.federal.dell.com
 vr.delltechnologies.com
 vrtxblade1.us.dell.com
@@ -13057,6 +13099,7 @@ wd3lv.us.dell.com
 wdtn0.us.dell.com
 we.us.dell.com
 weBMYsql.us.dell.com
+web.auspocc01.pcf.dell.com
 web15.democenter.dell.com
 web16.democenter.dell.com
 web17.democenter.dell.com
@@ -13325,6 +13368,7 @@ wsjzt.us.dell.com
 ww1.dell.com
 wwW.Cinam.delltechnologies.com
 wwW.Lets.dell.com
+wwW.dell.com
 www-cdn.dell.com
 www-csb.dell.com
 www-dit-d1-proxy.dell.com
