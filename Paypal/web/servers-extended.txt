@@ -45,7 +45,7 @@ http://api.glb.paypal.com:80 [null] [404] [1364] ["text/xml"] ["173.0.84.66"] ["
 http://api.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.84.66"] [null] [null] [null] [];
 http://api.paypal.com:80 ["406 Not Acceptable"] [406] [558] ["text/html"] ["173.0.84.66"] ["https://api.paypal.com/"] [null] [null] [];
 http://api.sandbox.glb.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.93.199"] [null] [null] [null] [];
-http://api.sandbox.glb.paypal.com:80 ["Digital Wallets, Money Management, and More | PayPal US | PayPal US"] [200] [200776] ["text/html"] ["173.0.93.199"] ["https://api.sandbox.glb.paypal.com/us/home"] [null] [null] [];
+http://api.sandbox.glb.paypal.com:80 ["Digital Wallets, Money Management, and More | PayPal US | PayPal US"] [200] [202635] ["text/html"] ["173.0.93.199"] ["https://api.sandbox.glb.paypal.com/us/home"] [null] [null] [];
 http://api.sandbox.paypal.com:80 ["406 Not Acceptable"] [406] [574] ["text/html"] ["173.0.93.199"] ["https://api.sandbox.paypal.com/"] [null] [null] [];
 http://api.sandbox.pilot.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [673] ["text/html"] ["173.0.82.78"] [null] [null] [null] [];
 http://arkose.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [655] ["text/html"] ["104.18.42.229"] [null] ["cloudflare"] [["Cloudflare"]] [];
