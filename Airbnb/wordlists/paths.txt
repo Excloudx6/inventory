@@ -2461,6 +2461,7 @@
 /homes
 /hostnames/admin/check-availability
 /hostnames/admin/set-hostname
+/hot
 /hotel-partners
 /hotel/
 /hotel/:slug
@@ -2972,6 +2973,7 @@
 /s/:slug/:hotelId
 /s/:slug/map
 /s/:tabPathOrLocation?/:tabPathOrRefinements?/:additionalRefinements?
+/s/Paris--France/homes
 /s/[^/#?]+?[/#?]?$
 /s/douglas-rushkoff
 /s/greatescape
@@ -6672,5 +6674,6 @@ web-experience-app/utils/truncate-text
 web-experience-app/utils/url
 web-experience-app/utils/url-search-params
 web-experience-app/utils/urls
+wss://ws.metro.localhost.airbnb.com
 yyyy/mm/d
 yyyy/mm/dd
