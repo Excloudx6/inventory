@@ -603,6 +603,7 @@
 /android-chrome-192x192.png
 /android-chrome-512x512.png
 /api
+/api/
 /api/events
 /api/graphql
 /api/products/
@@ -2238,6 +2239,7 @@ images/settings/zoom-in.png
 images/settings/zoom-out.png
 img/github.svg
 index.js
+index.json
 login/forgot
 login/reset
 make-plural/pluralCategories
