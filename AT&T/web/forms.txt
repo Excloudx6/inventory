@@ -100,6 +100,7 @@ https://myrewards.att.com:443
 https://nfsdportal.att.com:443/accounts/login/?next=/
 https://oauth-da.idp.flogin.att.com:443
 https://oauth-sf.idp.flogin.att.com:443
+https://onboarding.xandr-services.com/wp-login.php?redirect_to=https%3A%2F%2Fxandrlearning.att.com%2F&reauth=1
 https://origin-wsp-aldc01.att.com:443/admin/login.jsp
 https://origin-wsp-aldc02.att.com:443/admin/login.jsp
 https://origin-wsp-dadc02.att.com:443/admin/login.jsp
@@ -136,6 +137,8 @@ https://southwest-attsn.att.com:443
 https://sponsoreddata.att.com/
 https://sponsoreddata.att.com:443
 https://ssm-test.az.cloud.att.com:443
+https://sweepstakesauth.stage.att.com/
+https://sweepstakesauth.stage.att.com:443
 https://tdpdev.att.com/wp-login.php?redirect_to=https%3A%2F%2Ftdpdev.att.com%2F&reauth=1
 https://techbuzz.att.com/
 https://techbuzz.att.com:443

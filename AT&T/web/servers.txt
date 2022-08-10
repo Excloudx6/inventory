@@ -749,6 +749,7 @@ http://ethernet-reports-test-eastus2.cloud.att.com:80
 http://etsa.att.com:80
 http://etsa.att.com:8080
 http://euam.bus.att.com:443
+http://euam.eia.att.com:443
 http://events.att.com:80
 http://everest-eu2-beta-dashboard.az.cloud.att.com:80
 http://evolve.att.com:80
@@ -847,6 +848,7 @@ http://hawaii.att.com:443
 http://hawaii.att.com:80
 http://hawaii.att.com:8080
 http://hawaii.att.com:8443
+http://healthchecks.att.com:80
 http://help-mdm.att.com:80
 http://help-officeathand.att.com:80
 http://help-workforcemanager.att.COm:80
@@ -2087,6 +2089,9 @@ http://tst08.stage.att.com:80
 http://tst09.stage.att.com:80
 http://tst10.stage.att.com:80
 http://tst13.stage.att.com:80
+http://tuab-dev.att.com:80
+http://tuab.att.com:80
+http://tuassessments-dev.att.com:80
 http://tuconnect.att.com:80
 http://tudesign.att.com:80
 http://tudevopse2e.att.com:80
@@ -2450,6 +2455,7 @@ http://vnigaus13.acss.att.com:80
 http://vnigaus14.acss.att.com:80
 http://vnigaus15.acss.att.com:80
 http://vnigaus16.acss.att.com:80
+http://vnigaus17.ACss.att.com:80
 http://vnigaus17.acss.att.com:80
 http://vnln01.acss.att.com:80
 http://vnln02.acss.att.com:80
@@ -2665,6 +2671,7 @@ http://wug.uc.att.com:80
 http://www.RESEARCH.att.COm:80
 http://www.about.att.com:80
 http://www.adworks.att.com:80
+http://www.alliance.att.com:80
 http://www.ap.att.com:80
 http://www.att.com:80
 http://www.bizcircle.att.com:80
@@ -4054,6 +4061,7 @@ https://halo-support-tdata-offers.att.com:443
 https://haloc.stage.att.com:443
 https://haloc.test.att.com:443
 https://hc-analytics.idp.clogin.att.com:443
+https://healthchecks.att.com:443
 https://heartbeat-iotcore.hnm-test.aws.cloud.att.com:443
 https://heartbeat-iotcore.hnm.aws.cloud.att.com:443
 https://help-officeathand.att.com:443
@@ -4700,6 +4708,7 @@ https://nghslg-directvcommercial.test.att.com:443
 https://njmtcas1.research.att.com:443
 https://nnaiotgw.att.com:443
 https://northdakota.att.com:443
+https://northdakota.att.com:8443
 https://northeastregion.att.com:443
 https://notify.att.com:443
 https://notifyhistory.stage.att.com:443
@@ -5521,6 +5530,9 @@ https://tst08.stage.att.com:443
 https://tst09.stage.att.com:443
 https://tst10.stage.att.com:443
 https://tst13.stage.att.com:443
+https://tuab-dev.att.com:443
+https://tuab.att.com:443
+https://tuassessments-dev.att.com:443
 https://tuconnect.att.com:443
 https://tudesign.att.com:443
 https://tudevopse2e.att.com:443
@@ -5905,6 +5917,7 @@ https://vnigaus13.acss.att.com:443
 https://vnigaus14.acss.att.com:443
 https://vnigaus15.acss.att.com:443
 https://vnigaus16.acss.att.com:443
+https://vnigaus17.ACss.att.com:443
 https://vnigaus17.acss.att.com:443
 https://vnln01.acss.att.com:443
 https://vnln02.acss.att.com:443
@@ -6113,6 +6126,7 @@ https://wug.uc.att.com:443
 https://www.RESEARCH.att.COm:443
 https://www.about.att.com:443
 https://www.adworks.att.com:443
+https://www.alliance.att.com:443
 https://www.ap.att.com:443
 https://www.att.com:443
 https://www.bizcircle.att.com:443

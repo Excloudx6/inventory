@@ -17487,7 +17487,9 @@ events.att.com
 events.uc.att.com
 everest-eu2-beta-dashboard.az.cloud.att.com
 everest-eu2-beta.az.cloud.att.com
+everest-eu2.az.cloud.att.com
 everest-wu2-beta.az.cloud.att.com
+everest-wu2.az.cloud.att.com
 evolve.att.com
 ewp-az.att.com
 ewp-pocnew.test.att.com
@@ -31915,6 +31917,7 @@ hccprpt.airs.att.com
 hccpsoap.airs.att.com
 hccpsoapdr.airs.att.com
 heALBymudra.stage.att.com
+healthchecks.att.com
 heartbeat-iotcore.hnm-test.aws.cloud.att.com
 heartbeat-iotcore.hnm.aws.cloud.att.com
 hegel-new.research.att.com
@@ -34868,6 +34871,9 @@ tst10.stage.att.com
 tst13.stage.att.com
 tu-https.att.com
 tu-initial-training.att.com
+tuab-dev.att.com
+tuab.att.com
+tuassessments-dev.att.com
 tube.research.att.com
 tuconnect.att.com
 tudesign.att.com
@@ -35427,6 +35433,7 @@ vnigaus13.acss.att.com
 vnigaus14.acss.att.com
 vnigaus15.acss.att.com
 vnigaus16.acss.att.com
+vnigaus17.ACss.att.com
 vnigaus17.acss.att.com
 vnln01.acss.att.com
 vnln02.acss.att.com
@@ -35505,6 +35512,7 @@ vnsd57.AcSs.att.com
 vnsd57.aCSs.att.com
 vnsd57.acss.att.com
 vnsd58.acss.att.com
+vnsd59.ACss.att.com
 vnsd59.acss.att.com
 vnsd60.acss.att.com
 vnsd61.acss.att.com
@@ -35779,6 +35787,7 @@ www.acss.att.com
 www.adev.labs.voicetone.att.com
 www.adworks.att.com
 www.airs.att.com
+www.alliance.att.com
 www.ap.att.com
 www.att.com
 www.bizcircle.att.com
