@@ -2576,6 +2576,7 @@
 2020.admin.api.beta.confluence.betaamir-antivirus.tm1ext.awscorp.uberinternal.com
 2020.admin.apiapi.admin.tm1dev.awscorp.uberinternal.com
 2020.admin.auth.tm1ext.awscorp.uberinternal.com
+2020.admin.backupalpha-dev.update.tm1dev.awscorp.uberinternal.com
 2020.admin.backupapiadmin.gw08-sae1.tm1ext.awscorp.uberinternal.com
 2020.admin.betaaccountaccessaccess.debug.tm1ext.awscorp.uberinternal.com
 2020.admin.bucket.api.tm1ext.awscorp.uberinternal.com
@@ -6598,6 +6599,7 @@ avrouting-web-staging.uberinternal.com
 avrouting.uberinternal.com
 awd.uberinternal.com
 aws-staging-michelangelo.uberinternal.com
+aws-staging.UberINteRnAL.com
 aws-staging.uberinternal.com
 aws.uberinternal.com
 axonius.uberinternal.com
@@ -8033,6 +8035,7 @@ csp.uber.com
 css.uberinternal.com
 curtisyu-test.uberinternal.com
 cutlass.uberinternal.com
+cyphortcloud.UberINteRnAL.com
 cyphortcloud.uberinternal.com
 d3.uberinternal.com
 daas.uberinternal.com
@@ -8474,6 +8477,7 @@ devhub.uberinternal.com
 devicelab.uberinternal.com
 devices.UbErInTeRnAl.com
 devices.uberinternal.com
+devpod-auth.UberINteRnAL.com
 devpod-auth.uberinternal.com
 devpod-bra.uberinternal.com
 devpod-eu.uberinternal.com
@@ -9507,6 +9511,7 @@ mail.prod.uber.com
 mail.uber.com
 mam.uberinternal.com
 mamute-staging.uberinternal.com
+mamute.UberINteRnAL.com
 mamute.uberinternal.com
 managed.uberinternal.com
 manhattan.uberinternal.com
@@ -11005,6 +11010,7 @@ urate.uberinternal.com
 uresiliency.uberinternal.com
 uscorer-manager.uberinternal.com
 usearch-api.uberinternal.com
+usearch-backend-dev.UberINteRnAL.com
 usearch-backend-dev.uberinternal.com
 usearch-backend-stage.uberinternal.com
 usearch-backend.uberinternal.com

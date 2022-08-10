@@ -3834,6 +3834,7 @@
 /:languageCountryPair?/store/:storeSlug/:encodedStoreUuid/:sectionUuid?/start-group-order/payment/profile/:profileUuid?/select-meal-program
 /:languageCountryPair?/store/:storeSlug/:encodedStoreUuid/:sectionUuid?/start-group-order/payment/select-intent
 /:languageCountryPair?/store/:storeSlug/:encodedStoreUuid/:sectionUuid?/start-group-order/repeat-group-order
+/:languageCountryPair?/store/:storeSlug/:encodedStoreUuid/:sectionUuid?/start-group-order/store-hours
 /:languageCountryPair?/store/:storeSlug/:encodedStoreUuid/:sectionUuid?/time-up/
 /:languageCountryPair?/store/:storeSlug/:encodedStoreUuid/limited-delivery-tracking
 /:languageCountryPair?/store/:storeSlug/:encodedStoreUuid/nugget/:nuggetType
@@ -5051,6 +5052,11 @@
 /blog/new-york-city/eat/eats-promotions/
 /blog/new-york-city/eat/eats-stories/
 /blog/new-york-city/engineering/
+/blog/new-york-city/engineering/ai/
+/blog/new-york-city/engineering/backend/
+/blog/new-york-city/engineering/culture/
+/blog/new-york-city/engineering/data/
+/blog/new-york-city/engineering/mobile/
 /blog/new-york-city/freight/
 /blog/new-york-city/freight/carrier/
 /blog/new-york-city/freight/shipper/
@@ -5290,6 +5296,7 @@
 /blog/sw.js?ver=1659435142367&amp;scope=en-DE
 /blog/sw.js?ver=1659435161832&amp;scope=en-US
 /blog/sw.js?ver=1659435240441&amp;scope=en-US
+/blog/sw.js?ver=1660058745018&amp;scope=en-US
 /blog/tacoma/
 /blog/tallahassee/
 /blog/tampa-bay/
@@ -7575,6 +7582,7 @@
 /start-group-order/payment/profile/
 /start-group-order/payment/select-intent
 /start-group-order/repeat-group-order
+/start-group-order/store-hours
 /start-new-order
 /start-new-quick-add-order
 /start_google_sso
@@ -12199,6 +12207,7 @@ uber/main/202206301024
 uber/main/202207071520
 uber/main/202207081019
 uber/main/202208040942
+uber/main/202208091646
 ui.html
 ui/appBarAriaLabel
 ui/appBarCommandAriaLabel
