@@ -4161,7 +4161,11 @@
 ./node_modules/cross-domain-safe-weakmap/src/weakmap.js
 ./node_modules/cross-domain-utils/src/index.js
 ./node_modules/cross-domain-utils/src/util.js
+./node_modules/css-mediaquery/index.js
 ./node_modules/hi-base32/src/base32.js
+./node_modules/hyphenate-style-name/index.js
+./node_modules/matchmediaquery/index.js
+./node_modules/object-assign/index.js
 ./node_modules/post-robot/src/bridge/bridge.js
 ./node_modules/post-robot/src/bridge/child.js
 ./node_modules/post-robot/src/bridge/common.js
@@ -4193,6 +4197,14 @@
 ./node_modules/post-robot/src/public/index.js
 ./node_modules/post-robot/src/public/server.js
 ./node_modules/process/browser.js
+./node_modules/prop-types/checkPropTypes.js
+./node_modules/prop-types/factoryWithTypeCheckers.js
+./node_modules/prop-types/index.js
+./node_modules/prop-types/lib/ReactPropTypesSecret.js
+./node_modules/prop-types/lib/has.js
+./node_modules/react-is/cjs/react-is.development.js
+./node_modules/react-is/index.js
+./node_modules/shallow-equal/dist/index.esm.js
 ./node_modules/webpack/buildin/amd-define.js
 ./node_modules/webpack/buildin/amd-options.js
 ./node_modules/webpack/buildin/global.js
@@ -4761,6 +4773,8 @@
 ./sr.d.ts
 ./sr.js
 ./sr_RS.js
+./src/Component.ts
+./src/Context.ts
 ./src/api/index.js
 ./src/api/rest.js
 ./src/compat/fallback.js
@@ -4839,6 +4853,7 @@
 ./src/constants.js
 ./src/experiments.js
 ./src/index.js
+./src/index.ts
 ./src/interface.js
 ./src/legacy/button.js
 ./src/legacy/common.js
@@ -4867,10 +4882,13 @@
 ./src/lib/session.js
 ./src/lib/throttle.js
 ./src/lib/util.js
+./src/mediaQuery.ts
 ./src/setup.js
 ./src/store.js
 ./src/styles/polaris-tokens
+./src/toQuery.ts
 ./src/types
+./src/useMediaQuery.ts
 ./src/util.js
 ./ss
 ./ss.d
@@ -6724,6 +6742,7 @@
 /accounts/signup/resend_verification_code
 /accounts/signup/verifyphone
 /accounts/signup?client_id=
+/accounts/snapcodes
 /accounts/snapcodes?type=packaged
 /accounts/snapcodes?type=png
 /accounts/snapcodes?type=svg
@@ -14225,6 +14244,7 @@
 /settings/personal/
 /settings/personal/\
 /settings/personal\
+/settings/pixels
 /settings/shared
 /settings/transactions
 /setup
@@ -39160,6 +39180,7 @@ sha384-/TbyDPv6NcDdRFDwISwr/VGiF2yzftaXkEscUpzzmKuTld6yrrZoQVX7Ed0aPMoB
 sha384-/USqewxO79kvJCkHmNkwB1ieMj4S7hf8MbrsKTREqQzBzjD276Vz0s/Gry/CbYEs
 sha384-/UjxZE7kSAQZdrmOgeE2tRV7bwIn3mId8y6AHTFRtTh27TfIG0LPFOFHL7jFUP3l
 sha384-/VNJz1RgWxmeAWivW2Fgb99tjfZSd/loYbGWgW2Cbpa3pxNkn7TNL78vQFGkxiEq
+sha384-/WCYGXsG3HPm9zNobA17QMiYpJlG0AiQlctLvoQVPRaBdDMMi0K7AN8V1u2OLd95
 sha384-/WVDWFg/XCLhcqGhxF3ikc3coXYXKKiH95JaZcvGvgAoknKcdxTwjhGjQf6Kswwm
 sha384-/Wk4aWLylBMt0Jmb9fdxodIkKi0d0SPus6yKb/OlD1odLP/7eTu5IWuhUmXUnTdu
 sha384-/XqSaS/fTSN7QIscav/lh/jUPtHwZs9pMWvlrF3v0NucKca0Tzz/PgQ2lUNsQyWM
@@ -39184,6 +39205,7 @@ sha384-0/siDUSLm9S0YziWVoKviUGs0HJQTju4dAEMIlgtLo4/eKXDquzU/rSzLz5hS3Q4
 sha384-01Ez3B5Mo317cijUyrhfpWJwjtK8ryg1WeRef5k1mYfgNlpa7Fkh7Fhl/aqQPjhy
 sha384-02NcaL5FFkS4/NOcNerlkimHub/MUhomSaUrdymtmHa0xOyvHSgNti1NbQFgC2e1
 sha384-02a3TdugIr/In/KixMiO64BPu5NzYK4yGEGsbc9vVqIdso7YxHF42jOQrranMcsx
+sha384-036G7/NVoE2EHlfySH07vJzT4OEHr3jEJpNsCbmPC1hlxDvMYWzWd1iR/jW6fz4Y
 sha384-03hUUfv7GKsgMe0nByqRYOXnpH4hODykrUv2/HsIeo638b7xVeOei0CjpTFFZNM0
 sha384-04GFXlHQd0Q4I/ISzCmaKs580yMUl4H2SFbe11ym82460l7/YYFS52hzSikOfvIb
 sha384-04U86ZV/pLp7H5pgZ5SWSTiOVGS7c5f5AhntDe6pkrtr3SWDXe0Js51v6CVfQYcK
@@ -39212,6 +39234,7 @@ sha384-0lrsmoQNFnSAyvvKVqoGCeYsWkatox0s8K0xn5bnmgAo/40JKACtG8kAeya/fvzu
 sha384-0pIjNLcJKMtJroLBWbCiNI54eeHrynFj7scbOu/2TuslpN78rA7cUjv4IlvVTPC9
 sha384-0u9pabc/7r7zjzkUQzo/WItPJNvWJZTBp7FVkTN9sczdASTid4EFAQZXC0YThGfU
 sha384-0uCOlr5anGIRTh7JRMWa9WDObG0R4HdH7E8mkYfaHZP46jFciuX0O0k/C2ind2Ey
+sha384-0w3vLX/mTV/xQZN3/UxxZDPvVNAdTMDeZjNAe/f1iEIMGSN0L7pE7ySwkTfJeijc
 sha384-0yAYI3FRUxDPxG609eBGMXlNTEE1hjaiTjkIoyGoSn/jrPJ3GIDdwzUwsmzyvmRR
 sha384-1/2QLo/9BqkJiX9yFlOHm7jOHz7m09GO8gPDnuod96qGnrztnjhvNTGSTGM/ipVl
 sha384-1/M6njjIidwQSoAzZhp7j1Bp6yxCjgX9DyR2KiwwLtJ476ngBiLsZ0FW7pyEzUz9
@@ -39247,6 +39270,7 @@ sha384-24okSQFEig1cqrM/dCz5F7Vl51BfyZRhZS1qmfoqz5Y5ek9j0VQ3O0wKgzpqXquG
 sha384-2AZyuQv0q44pQYKGEKMZm29FlNMIXmnn9M1YMYJif2iDwwrzX/TCnQyipL5ub7YU
 sha384-2D3nFpInjPXIloEHITQmScURQZu7a09zcOw5FnBsFDdS7aec/S9Fk88/9ea/VnWT
 sha384-2D8qp8BfZP2DFsi6/Q4miSj4/VkL0abanhyGZwkjHQWt6VB5t5lX9FJgsG5caRup
+sha384-2Dh2hXp85kk1BOezPwsMU114YISR2aMAG5Rc7WILHs/EIkyKez8j7XUH5pW4VBk4
 sha384-2Euab1wEXbzsKIO7f5JPPqlyPot0UJtWnYtsVjb4hieMm8yUhFjrQxhk/tam2ZkP
 sha384-2FvyF7JF81nljqGRIQcctkCFWPzkryCkGDCeBguA3Y/YTFBikimkUbxbT50czqEv
 sha384-2LZrJvU9o0jkWoOgvbHEQzUcui/zblveOB9NcgekgoVO54X1VYXY30xnujQnMgTs
@@ -39277,6 +39301,7 @@ sha384-3Wmcq6Y1xcX3MtB3Sy7MU41eGdr062YdIan1Tecu5cKNhJqu3xrq/zeq6zBWNdT3
 sha384-3XtNNT1JMUpwsLKQltz2sAPXThgCJjafMHUllm6rLL/U2HVtnh0FipFAvk/laxlP
 sha384-3Xu4Oku58MYxNs3HAP7c/chM4jWeuOxiY392WqvQ37l6mXhIHTZnNaKvlxvLhsNV
 sha384-3dMhwZBShQARPfL/GYLwKQ2atZx2gxs9S1VAUc3HM9qMIzO14B7lSN5ZICtV49v1
+sha384-3eH/MFSqngJbGuijduZAs/3/nqIFTBO2cLbraBjN5qcZZYUtOcLwJJRkBRP0t41y
 sha384-3gcGVrpm6JQacN8PxlvEeZCLZAl7msSohMNy3i0JgSPWtDHB9IN6O/u0TsmL4/8U
 sha384-3jsnVEhOWy9zEb3Qp1CH2zxWMaZsH4cj72fxsm94sAZEGL/OjxYBIwN0UQ6kC5Uu
 sha384-3jxHZykN95JkEEBgOBQDe1i5zH1tMFSV610vztL7yAA/Pz/o94c64Kwh3jzplMWV
@@ -39323,6 +39348,7 @@ sha384-5AIihmvz2a3/m/dr1zAwxn1MOlEBod7Ps19m4xoOwyaPLvasaFlvz38BAolsD11H
 sha384-5FBZf7bTPQFAo1s7gta6VZkkiMaELFXycWprSAWRqEHk8y9jMgS6HSYq/OADvLyP
 sha384-5MZln7W2KqkJpPWSVnrjCdZPbkiPBrvuV455LXTCN99P/24lxUmFqEn9QgJgEVVU
 sha384-5RrVusi28Wh5eL70Buk8n7wa2pziacSdB7OgDkQ0QeJ10oLJuqTwN0cREtaP/wr5
+sha384-5SqViuKksrZs3r/DHPzhT8IH1dCAxggQBRAQrFd0HGy1ZHDebUcAlRezQzbqWiIH
 sha384-5VA/G1Qv5gA1JEg8oOLzpulnAwIxRkAdOrS7VvpWarVjf5N6J77NxUxVsfR8YK4u
 sha384-5X1jZI7u/1V0ZYtPlp95xkC4FqIfTRPelDmhQMa1yV9M0XN7PCgibmOagd4tLIkr
 sha384-5Y3BVPRB6Ju/I68XU59k0b2R2/iUhfAD10TLtxewGe0mNql6dmai28MuOuCL1QBj
@@ -39434,6 +39460,7 @@ sha384-9976j7mEXDOTY1Pcq7VrcO9T/iKYTA0oMcfFRRIwPWRDAAfcerxIeGNO5KxzypFz
 sha384-9DA2quI/UDBk6MhhdKnV5SdnWQJBRQAoNO8tQ1YbfJSyZFur6ZkQf3MxnbqyZgT/
 sha384-9H/JXROQp1ba8w/xA1y4KpiylOs9Rq00JbbQpqjBZ1H0FAEfisVb78v/sOBRGzRR
 sha384-9LU5DLPj5gaBrlprn1MLbgYvBGMnNkZj/sas1k/u1BOMSF34LNwfRmtN0//21vSc
+sha384-9OfhATT1uxI//JH9sqKBMh3YxDMDjjVIp/NTLiw7kB2RrqtSP6Gle7veO7TevX/0
 sha384-9PzMPKv3B4yOFzyRZhhxoheFD88GQJBuzOhtneScRMuTq6m3yfcKUi8fc9V/fVRf
 sha384-9QKeQ3cAHtA8rl5flndEihLLWmiuYy2mnERCRVzI5SBA8Te/u0YqVeWIdUGgoSPF
 sha384-9Ra0yS6WfirzXH6FSJ28jPdv6TFrK8P2/YtSAXNBk2S9zarebh7N2zFLL/6d5P5A
@@ -39513,6 +39540,7 @@ sha384-D3Xogu4cAOJk0LaJAWJLVJitdIPtyjioVLYv4v9MZKOeDG2n6CQWET/zfwiJ5DiA
 sha384-D3jgTSwIgSKKImVMUPZVbHZDNW6QlsEaWKYyEpW8N80d/lKEvB6EzJOPCongnqTX
 sha384-D3yByanEZkxQ64l9bx4knfSWCJeINL/dpLJ8JO3OWJ8shyW4u5ljjKljGuxGlZCU
 sha384-D5M3yUWHRUUoW38k4psjvTgPiuDFvyDOyGLlPFObPy7FrOrhQcNr4pGm/sRVkks4
+sha384-D5NaDGIWAMsSmyz3R2Apmt/ydfgTWAJLy0enp85jDBvtmindSCunAlh3RPHOi3lS
 sha384-D6VrYE4lVQ6uSmES7UGyg6NK5i11SvqIGCK2yM/DVowRSPM07Spq0pOpq9ffFS1L
 sha384-D8DWLoMtyseo0WyIjFVRG0ZHkrWXiR0wXrJwjIscjmxbemk3ZJVmz5/lPev7JneB
 sha384-D8bhxeXl3iPvfO9apMt/YX5BHb7eyWa/5EDvWkJocvBLFQMZv9t9S2KdvUb4y0w5
@@ -39706,6 +39734,7 @@ sha384-JzerZFWuub/TY41s5DO/TcnBUqcp6ysH2FLD1PyBuGudUItOoP4JvYfrqVzUnmJl
 sha384-K/SJGRCFxexnkrQcLISDMdpRot8jnGUP1VkXn1nnwjn7YVJNwyJZcMwJ3B3T2UAN
 sha384-K6aQuM7XiZFsL4E3t6QOcsXHKTSpPD1aURkE2NJxIJ92fpKLew6g0hN/WiPcC8F6
 sha384-K9gL1nGtGhTSZeCbd1Y6XIju/qLAidr6GOkSfIoymOXDRKQKOeMAG92SfiFZW36U
+sha384-KAL/IVlVCf88qeusJILvJe5ILLXlA04ocdzm6jYHuAXK38xD6NRB/Hqd70HXogeZ
 sha384-KF6Sf0eGC9y/KC/3X6e43r/DTao6SBH3vU1VSKU66EyseIir67toPqvJblzKf636
 sha384-KFaJYDyemvu/4c/5loSuxsx7d78YXi7NEIZM6YFZO3CUyBwo0fkL4/G/XlLwqotY
 sha384-KGcT4GNGvjDhfNw17/qfOmVx8HOrM9MN//40opqDZIo7rkfu7zSOUnR9r3IoDoX8
@@ -39868,6 +39897,7 @@ sha384-Q7mL/NksXW/WS38RBaETOANqJWtt6pNEWZzAD9cdr/DquqTLi2H0JktuaQELmKSW
 sha384-Q8glbSZEdu8aVWrTJPHdWkgNdGWf8R61aQBK2GZjDt0nDNKuK7L/bFTMGssGbacv
 sha384-Q9vYYCEPR/ppfilVh3zTDv/SLH0Nhj2FFtf/1RKfX8zlecUbT33xYi330YT7/21n
 sha384-QCfQe5KyUEHp1rgMJlghuDDGoYeoik/nXI0Mk4Y5gkiKXBg8DGIhgFMqiX2XsVaL
+sha384-QHa2yCvUK5QR7LHIdGeQJWOF4Vfzhm3Av/VlsHQbNr4Cc3FwmQjGhE62s1eVBSKt
 sha384-QItw0t4sdQQvcSW/Jer/PSOLiDGZ1ttuHw3J5Ph90Tr/eOdGnXDd9wbiVbJ6vVRE
 sha384-QJ772IapoXFHZWSAfxUJxc7JNOj9GEIS/ueZPLAOdFfA0dFqkOx5NUp8b0eOmehr
 sha384-QLT25Ki4rEfCmFWrq2kD12EY/0qEELDCTqbEldFfWVA3mqHiLtuCRnrHjv/1A0Dn
@@ -39960,6 +39990,7 @@ sha384-TzDqgstbNWDnAkelNai3Py0lkmHwfnl7Gc7/JsOZZn4SwsI7r9BMxbaN8DxNOs8l
 sha384-U4pn4SPrn1w/4Q28syAG0axFl7K9RxjokG4b8OBAMmd/9V5ZnFhPt46EWVhM4veR
 sha384-U56nvmL5PQmZDtAMWlX8/ZwPUcIuxOHXiCaTejrIQ2ag1ivbbcG1uytCYKAPbgG8
 sha384-U83bLPYvNaoIv0UNL6K7qj9d9BS31zvezYOjy3RZ1DWULhe/7gTZWWj9pAJVwAws
+sha384-U9YbUsUJ5Zebs7xuinljHsmuG/Xk2p9a/9lVJLLz/2/9r4XN7UFTwK1KYXABL4CQ
 sha384-UAp2ogKSNLpgQjyb3A6/h3fCCM6IdM2wIXcibfAerTGOELbX02Vxotx1U2WahTnH
 sha384-UGKVnQN5kuo/9pCrO/RCSdtHs1tkHLNhUa0CWS54wDMGmRDPIakPWVZe8cvDrlvf
 sha384-UH0sMmeNSCPhzCO5FiZZvd6pU/tgfDoX0pvSpLCYnZ2pLZVXjMUq5L17xVQwj8Ls
@@ -40135,6 +40166,7 @@ sha384-bJkz1ZbtpB/fL459BgYIOBAvqI9z3qUgflt5xJ9pl4PBa4oGk3N7lmsz1qxmyxBL
 sha384-bM35Qm/pYgbre8co8GzfFU1GjYLoiFegqvwzGCSXSHOSk0igw6WkkT0xw8ZrSvp1
 sha384-bMxsHuTqAk89I4Gob6Bc9oUBN7oJQkZUREHSxUSrodWturflVycK/CD7x9adBRRA
 sha384-bQiJDuJqscscefBmftHUz9nRRF30JkDLR2mMjpWr/qmE2tnFLU7igTxRY6Fz4IfQ
+sha384-bWvVCHVh90Fod1/A6y33G2J9ChvvE/oVhlXp5SguWBeXNBtxsAhmEmxJqlartqSy
 sha384-bYyqA5TCNQ5sUt6KZjYvJ2DQ3HcMxD4SCBV4sb5/XiT3Tmu3ZCfYTcuXlS18FN2l
 sha384-bZ/SVdjmhPoPk/zTV3mzHCR39gNtRzaeV6QADUXgHEjfd16DFLn5QKuIqLhpu6B8
 sha384-bbChGZ9d4U78keNrUP3vgKnop48MbSB01UMFJPh/a0OJ9tCB/Ps6fZIjA8u0jVve
@@ -40617,6 +40649,7 @@ sha384-t/1scy1HCV4CA/dsLCUI8HOHMRZk7p98cVdSNEJ248Jib3AXVQS2HQEcUjUk8CQR
 sha384-t25nGAC940YOJ8GSIYdxMn0touY/MDMmSu/UVu8z2U9Jgh5zsd7YywY5DPyRYXl2
 sha384-t4Z9i4vtnsAOjFIF6JSfkHww/Ri25yEMYgjtuMB0wgo9MOItbv7wHm5/1fPzh69s
 sha384-t5fB2kFkuL0rs8OOc/Nx7iHxsnYKRQn5xoAmRmhX46eVHw5tKRrxuLydSbJke0hp
+sha384-t8o2ryai5r6e1irx3jg1maNK5SmIkB1abJKzKWP/fkr0Q2KtIXYD7FR2RuIJLCsY
 sha384-tA4oqjHTaGYmNsJEqr2mYqeDCmfmSxKeJ/eIMOwFbIttUZxgXZz3NpcvDeL/MvhA
 sha384-tB1SzbfiXwupwtIDhdq64/R6bujdMzkhHgfhN9G6wp3/WUU3VKI7HuTvNvlLo36e
 sha384-tECQ/2QE3NnE2OrZaG0tCE65ojRrqTAb6M3T1EDRPrtsLL/uA9yDOfNtB3KngYa7
@@ -40659,6 +40692,7 @@ sha384-uc47TrA/7Hk4tp/PWyuAu9lkSFeH3vLftSsy4j0yWek3BKjURlAxpDJdeicZ7Wp3
 sha384-ucCJjykKkC74UUSSQapTXa6yRAfGfEnXVmj09YsAynm5kFwh6/JFezirpOwpZ/q9
 sha384-ueFdENy1QYebsbk/s2PAaXHjID9rqtyWquqGihqEpsy2B64gmxt9cs5I0/hUSIdF
 sha384-uisUqhvA2POGO48Jds1Q/mDLr8a/YrXlLRGTdDNN8VwuL9NNLEXC2NFXL0f/DYuu
+sha384-ulSsOH8QznN8etQuOFa4dwYGtCROvNF56Bq4OfplAafW2B6/3unga/V/OH5D14Ut
 sha384-unR7kRsMgqZNVXp43gCFy2/cgfR/UKFdsqlWnSjUTd0sTFWMC2d7brNo1n8WX6e3
 sha384-uoJoeSwBMkvrdzzjaLiC5RhJkvR0NUtmmIbm2s3n5AWjPmQw5Ab6Ft8AniG/HGS9
 sha384-usyOMLVzrcpl1wVbsp9Gg/ZRtehsEKIWsYRX3OnUwmrVhYe1ebA9n52WEsxBc2ZN
