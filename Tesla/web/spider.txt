@@ -5136,3 +5136,23 @@
 [url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&scope=openid%20email&state=1659982804299%3A0.930614439837741
 [url] - [code-200] - https://cx-apac.tesla.com/
 [url] - [code-403] - https://cx-apac.tesla.com:443
+[href] - https://engage.tesla.com/assets/countable-1660063478.css
+[href] - https://engage.tesla.com/assets/vendor-1660063478.css
+[href] - https://engage.tesla.com:443/assets/countable-1660063478.css
+[href] - https://engage.tesla.com:443/assets/vendor-1660063478.css
+[href] - https://referral.tesla.com/css/text.css?t=1660101724
+[href] - https://referral.tesla.com/css/viewer.css?t=1660101724
+[href] - https://referral.tesla.com/css/web.css?t=1660101724
+[href] - https://referral.tesla.com/upload/css/uploadText.css?t=1660101724
+[href] - https://www.businesswire.com/news/home/20220809005708/en/Cloudinary-is-Named-to-the-Forbes-Cloud-100-for-Fifth-Consecutive-Year
+[javascript] - https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_Iv7XMeuZVl-aYT0h4Oq7Gg2.js
+[javascript] - https://engage.tesla.com/assets/countable-1660063478.js
+[javascript] - https://engage.tesla.com/assets/vendor-1660063478.js
+[javascript] - https://engage.tesla.com:443/assets/countable-1660063478.js
+[javascript] - https://engage.tesla.com:443/assets/vendor-1660063478.js
+[javascript] - https://inside.tesla.com/en-US/runtime-es2015.e01dcc3e7099f5f58fd9.js
+[javascript] - https://inside.tesla.com/en-US/runtime-es5.e01dcc3e7099f5f58fd9.js
+[javascript] - https://suppliers-stg.tesla.com/runtime.feb4fdbd97a244db23b1.js
+[url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?client_id=finops&scope=openid%20email%20profile%20employee%20metadata%7Cfinancepartner%20offline_access&response_type=code&redirect_uri=https%3A%2F%2Ffinops.tesla.com%2Fauth%2Fcallback&grant_type=authorization_code%2Crefresh_token%2Caccess_token&nonce=4974af57227d3c74318b82e3e2942473&state=eyJyZXR1cm5UbyI6Ii8iLCJub25jZSI6ImEzNGYwYmIxYTZhNWFhZThmZTY4Y2NlMGE1MGNiYzNjIn0
+[url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=2c37db65-87c9-0506-6d9f-5015bb2c961b&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=c.tesla.com&nonce=637956985221910994.29298403-0b19-4a90-aa2d-65932195d7b2&state=DYs5DsMgEAAh_ktSgZfl8haW37IGiki2kHzl-9lipprRSqlBeAkaRConnykmmiKiIwdEwSIhTQG8gdWRCUxgmLGaFMlLFGteUcv7GfuPx-VovO1zsVc7N7al7--nznxfvX7P0p92_AE
+[url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=ca12d5aa-bcd3-d8cb-9fc4-a562ca7f7437&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=tesla.com&nonce=637956985222115906.e86caf37-c563-4c20-a3c0-69ccaea0d4b7&state=DctNDoMgEEBhaM-iO2QEGWRhepZxGJMmGhJ_6PXL4nu7p5VS7-bVaGhREX1MAdMcnHPjGBLgIDMybT4aDujNxA4MeQaDiZmEIE9r1O3tbPmR_ZxC-7Hccu00cDn6mhd67pK_F5cq5x8
