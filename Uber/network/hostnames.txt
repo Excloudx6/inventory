@@ -4852,6 +4852,7 @@ accountaccessadmin-account-access.access.tm1ext.awscorp.uberinternal.com
 accountaccessadmin-account-data-chefbackup.tm1dev.awscorp.uberinternal.com
 accountaccessadmin-gw08-sae1.tm1ext.awscorp.uberinternal.com
 accountaccessadminaccount.confluenceamir-antivirus.tm1ext.awscorp.uberinternal.com
+accountaccessalpha-beta.tm1ext.awscorp.uberinternal.com
 accountaccessalpha.access.access-confluence-gw08-sae1.tm1ext.awscorp.uberinternal.com
 accountaccessalphaadminauthaccess.access-amir-antivirus.tm1ext.awscorp.uberinternal.com
 accountaccessapi-admin.beta.accountamir-antivirus.tm1ext.awscorp.uberinternal.com
@@ -7482,6 +7483,7 @@ cascade-staging.uberinternal.com
 cascade.uberinternal.com
 casper.uberinternal.com
 catalog.uberinternal.com
+catalogs.uberinternal.com
 cbi.uberinternal.com
 cbus2.uberinternal.com
 cc-staging.uberinternal.com
@@ -7555,6 +7557,7 @@ chef-config.tm1dev.awscorp.uberinternal.com
 chef-error.beta.system.tm1ext.awscorp.uberinternal.com
 chef-gw09-sae1.tm1ext.awscorp.uberinternal.com
 chef-staging.uberinternal.com
+chef.UBERIntErNaL.com
 chef.access-access-access-accessadmin.backup.api.admin.tm1dev.awscorp.uberinternal.com
 chef.access-access-accessalpha.admin.alpha-alpha-account.access-bucketgw08-sae1.tm1ext.awscorp.uberinternal.com
 chef.access-access.debug.tm1ext.awscorp.uberinternal.com
@@ -7704,6 +7707,7 @@ ci-vertica-dca1.uberinternal.com
 ci.uber.com
 ci.uberinternal.com
 cinder.uberinternal.com
+cisimlerin-golge-boyu-ne-zaman-uzun-olur.tm1ext.awscorp.uberinternal.com
 cities.uberinternal.com
 citrus.uberinternal.com
 city-lens.uBErINTerNAL.com
@@ -9702,6 +9706,7 @@ nagios.uberinternal.com
 nagios02-sjc1.prod.uber.com
 nagios03-sjc1.prod.uber.com
 nagioscheck.uber.com
+nagprodmaster.tm1ext.awscorp.uberinternal.com
 nav.uberinternal.com
 nebraska.uberinternal.com
 net.uberinternal.com
@@ -10107,12 +10112,14 @@ ramenphx.uber.com
 rbadillo.UBErInTERnal.com
 rbadillo.UbeRInteRNAL.com
 rbadillo.uberinternal.com
+rc.UBERIntErNaL.com
 rc.uberinternal.com
 rdp.uberinternal.com
 realtime.uberinternal.com
 rec-review.uberinternal.com
 receipts.uber.com
 receipts.uberinternal.com
+recon-prod-staging.UBERIntErNaL.com
 recon-prod-staging.uberinternal.com
 recon-prod.uberinternal.com
 recon-staging.uberinternal.com
@@ -10700,6 +10707,7 @@ team.access-alpha.access-access.debug.tm1ext.awscorp.uberinternal.com
 team.access.admin.auth.backupaccess.access-amir-antivirus.tm1ext.awscorp.uberinternal.com
 team.accountapi.dataaccess.access.debug.tm1ext.awscorp.uberinternal.com
 team.admin.account-access.backup.tm1dev.awscorp.uberinternal.com
+team.admin.bucket.api.tm1ext.awscorp.uberinternal.com
 team.admin.bucketgw08-sae1.tm1ext.awscorp.uberinternal.com
 team.alpha-access.access.debug.tm1ext.awscorp.uberinternal.com
 team.alphaaccessapi-beta.access.auth.tm1ext.awscorp.uberinternal.com
@@ -10724,6 +10732,7 @@ teleassist.uberinternal.com
 temp.uber.com
 ten.UbErInTeRnAl.com
 ten.uberinternal.com
+teqtivity-staging.UBERIntErNaL.com
 teqtivity-staging.uberinternal.com
 teqtivity.uberinternal.COm
 teqtivity.uberinternal.com
@@ -11068,6 +11077,7 @@ utoll-staging.uberinternal.com
 utoll.uberinternal.com
 utube.uberinternal.com
 uview-node-api.uber.com
+uworc.UBERIntErNaL.com
 uworc.uberinternal.com
 v.uber.com
 v1-accessadminaccount.chefbackup.tm1dev.awscorp.uberinternal.com

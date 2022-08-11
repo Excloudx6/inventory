@@ -3794,6 +3794,7 @@
 /:languageCountryPair?/region/:slugName
 /:languageCountryPair?/repeat-order
 /:languageCountryPair?/repeat-order/:repeatOrderTemplateUuid
+/:languageCountryPair?/repeat-order/:repeatOrderTemplateUuid/edit-rgo-settings
 /:languageCountryPair?/repeat-order/:repeatOrderTemplateUuid/edit-rgo-settings/
 /:languageCountryPair?/repeat-order/:repeatOrderTemplateUuid/scheduled
 /:languageCountryPair?/restaurants-near-me/
@@ -4011,6 +4012,7 @@
 /activity/:project/:slug
 /actuals/
 /add
+/add-asset
 /additionalItems
 /additionalProperties
 /addon/
@@ -4888,6 +4890,7 @@
 /blog/alabama/
 /blog/alaska/
 /blog/albuquerque/
+/blog/all-new-trip-radar/
 /blog/amex-corp-card/
 /blog/ann-arbor/
 /blog/annapolis/
@@ -5297,6 +5300,7 @@
 /blog/sw.js?ver=1659435161832&amp;scope=en-US
 /blog/sw.js?ver=1659435240441&amp;scope=en-US
 /blog/sw.js?ver=1660058745018&amp;scope=en-US
+/blog/sw.js?ver=1660151325843&amp;scope=en-US
 /blog/tacoma/
 /blog/tallahassee/
 /blog/tampa-bay/
@@ -7259,6 +7263,7 @@
 /reload
 /remote-scripts
 /remove
+/remove-asset
 /removeAll
 /renewMusicToken
 /replicatedDatasets$\

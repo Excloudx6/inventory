@@ -349,6 +349,7 @@ http://cascade.uberinternal.com:80
 http://casper.uberinternal.com:80
 http://casper.uberinternal.com:8080
 http://catalog.uberinternal.com:80
+http://catalogs.uberinternal.com:80
 http://cbi.uberinternal.com:80
 http://cc-staging.uberinternal.com:80
 http://cc.uberinternal.com:80
@@ -1820,12 +1821,14 @@ http://ramenphx.uber.com:8080
 http://rbadillo.UBErInTERnal.com:80
 http://rbadillo.UbeRInteRNAL.com:80
 http://rbadillo.uberinternal.com:80
+http://rc.UBERIntErNaL.com:80
 http://rc.uberinternal.com:80
 http://rdp.uberinternal.com:80
 http://realtime.uberinternal.com:80
 http://rec-review.uberinternal.com:80
 http://receipts.uber.com:80
 http://receipts.uberinternal.com:80
+http://recon-prod-staging.UBERIntErNaL.com:80
 http://recon-prod-staging.uberinternal.com:80
 http://recon-prod.uberinternal.com:80
 http://recon-staging.uberinternal.com:80
@@ -2495,6 +2498,7 @@ http://utoll-staging.uberinternal.com:80
 http://utoll.uberinternal.com:80
 http://utube.uberinternal.com:80
 http://uview-node-api.uber.com:80
+http://uworc.UBERIntErNaL.com:80
 http://uworc.uberinternal.com:80
 http://v.uber.com:80
 http://v.uber.com:8080
@@ -2944,6 +2948,7 @@ https://cascade-staging.uberinternal.com:443
 https://cascade.uberinternal.com:443
 https://casper.uberinternal.com:443
 https://catalog.uberinternal.com:443
+https://catalogs.uberinternal.com:443
 https://cbi.uberinternal.com:443
 https://cc-staging.uberinternal.com:443
 https://cc.uberinternal.com:443
@@ -2969,6 +2974,7 @@ https://charter-staging.uberinternal.com:443
 https://charter.uber.com:443
 https://charter.uberinternal.com:443
 https://chef-staging.uberinternal.com:443
+https://chef.UBERIntErNaL.com:443
 https://chef.awscorp.uberinternal.com:443
 https://chef.uberinternal.com:443
 https://chroma.uberinternal.com:443
@@ -4184,12 +4190,14 @@ https://ramenphx.uber.com:443
 https://rbadillo.UBErInTERnal.com:443
 https://rbadillo.UbeRInteRNAL.com:443
 https://rbadillo.uberinternal.com:443
+https://rc.UBERIntErNaL.com:443
 https://rc.uberinternal.com:443
 https://rdp.uberinternal.com:443
 https://realtime.uberinternal.com:443
 https://rec-review.uberinternal.com:443
 https://receipts.uber.com:443
 https://receipts.uberinternal.com:443
+https://recon-prod-staging.UBERIntErNaL.com:443
 https://recon-prod-staging.uberinternal.com:443
 https://recon-prod.uberinternal.com:443
 https://recon-staging.uberinternal.com:443
@@ -4769,6 +4777,7 @@ https://utoll-staging.uberinternal.com:443
 https://utoll.uberinternal.com:443
 https://utube.uberinternal.com:443
 https://uview-node-api.uber.com:443
+https://uworc.UBERIntErNaL.com:443
 https://uworc.uberinternal.com:443
 https://v.uber.com:443
 https://vault-admin.uberinternal.com:443
