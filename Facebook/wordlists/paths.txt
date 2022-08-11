@@ -1436,6 +1436,8 @@
 //img.youtube.com/vi/
 //img.youtube.com/vi/$4/hqdefault.jpg
 //maps.google.
+//munchkin-cdn.marketo.net/
+//munchkin.marketo.net/
 //pixel.wp.com/
 //pixel.wp.com/t.gif?
 //player.vimeo.com/video/
@@ -2790,6 +2792,7 @@
 /mobile/settings/
 /mockServiceWorker.js
 /move/
+/munchkin.js
 /mute/
 /mute_video_call/
 /nametag/
