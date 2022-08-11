@@ -4513,6 +4513,7 @@ backup-2019.jenkins-gcp.confluence-admin.ctf.hacker101.com
 backup-access-2020.ctf.hacker101.com
 backup-accessredirect-access-new.update.ctf.hacker101.com
 backup-account-2020newauth.ctf.hacker101.com
+backup-account-2021alpha.accountconfig.elasticbeanstalk.teamuser.startrek-discovery.ctf.hacker101.com
 backup-account-team.2018debug.demochefadmin.ctf.hacker101.com
 backup-accountgoseiin.blog.ctf.hacker101.com
 backup-accountpreferences.ctf.hacker101.com
@@ -5490,6 +5491,7 @@ dbms2021.beta.ctf.hacker101.com
 dbmsaccess-elasticbeanstalk.update.ctf.hacker101.com
 dbmsaccess.alpha.access-v3upgrade-update.ctf.hacker101.com
 dbmsaccessnew.adminchefadmin.ctf.hacker101.com
+dbmsaccount-2021alpha.accountconfig.elasticbeanstalk.teamuser.startrek-discovery.ctf.hacker101.com
 dbmsaccountauth-status.ctf.hacker101.com
 dbmsadmin.new.update.ctf.hacker101.com
 dbmsadminchef.bucket.status.ctf.hacker101.com
@@ -5739,6 +5741,7 @@ devv2-update.ctf.hacker101.com
 devvpnmaysuryan.ctf.hacker101.com
 dfbsd.ctf.hacker101.com
 docs.hackerone.com
+dpst.0bf6709005c36959ba1e998ecb183f62.ctf.hacker101.com
 elasticbeanstalk-2018-accountdebugnew.update.ctf.hacker101.com
 elasticbeanstalk-2018.confluence.v2-preferences-status.ctf.hacker101.com
 elasticbeanstalk-2019.status.ctf.hacker101.com
@@ -6232,6 +6235,7 @@ mongodbcanred.ctf.hacker101.com
 morning.ctf.hacker101.com
 mosteligible.ctf.hacker101.com
 motion.ctf.hacker101.com
+mta-sts.HACkErone.com
 mta-sts.forwarding.hackerone.com
 mta-sts.hackerone.com
 mta-sts.managed.hackerone.com
@@ -7312,6 +7316,7 @@ www.hacker101.com
 www.hackerone.com
 www.hackerone.net
 www.mairie16.ctf.hacker101.com
+www.majorelle.0bf6709005c36959ba1e998ecb183f62.ctf.hacker101.com
 www.orf.od.ctf.hacker101.com
 www.pcmasterweb.ctf.hacker101.com
 ydarbleoj.ctf.hacker101.com

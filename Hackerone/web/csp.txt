@@ -10,6 +10,7 @@
 *.browser-intake-datadoghq.com
 *.bugherd.com
 *.bugsnag.com
+*.clickagy.com
 *.cloudflare.com
 *.company-target.com
 *.demandbase.com
@@ -23,6 +24,7 @@
 *.marketo.com
 *.mktoresp.com
 *.mktoutil.com
+*.optimizely.com
 *.pusher.com
 *.stripe.com
 *.techtarget.com

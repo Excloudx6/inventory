@@ -750,6 +750,7 @@ http://levels-b.hacker101.com:80 [null] [302] [null] [null] ["104.18.192.12"] ["
 http://levels-b.hacker101.com:8080 [null] [301] [null] [null] ["104.18.192.12"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://maintenance.hacker101.com:80 ["Site Maintenance"] [200] [888] ["text/html"] ["104.18.193.12"] ["https://maintenance.hacker101.com/"] ["cloudflare"] [["Cloudflare","Cloudflare Network Error Logging"]] [];
 http://maintenance.hacker101.com:8080 [null] [301] [null] [null] ["104.18.193.12"] [null] ["cloudflare"] [["Cloudflare"]] [];
+http://mta-sts.HACkErone.com:80 ["301 Moved Permanently"] [301] [162] ["text/html"] ["185.199.108.153"] [null] ["GitHub.com"] [["Fastly","GitHub Pages","Ruby on Rails","Varnish"]] [];
 http://mta-sts.forwarding.hackerone.com:80 ["Page not found · GitHub Pages"] [404] [9339] ["text/html"] ["185.199.108.153"] ["https://mta-sts.forwarding.hackerone.com/"] ["GitHub.com"] [["Fastly","GitHub Pages","Ruby on Rails","Varnish"]] [];
 http://mta-sts.hackerone.com:80 ["Page not found · GitHub Pages"] [404] [9339] ["text/html"] ["185.199.111.153"] ["https://mta-sts.hackerone.com/"] ["GitHub.com"] [["Fastly","GitHub Pages","Ruby on Rails","Varnish"]] [];
 http://mta-sts.managed.hackerone.com:80 ["Page not found · GitHub Pages"] [404] [9339] ["text/html"] ["185.199.108.153"] ["https://mta-sts.managed.hackerone.com/"] ["GitHub.com"] [["Fastly","GitHub Pages","Ruby on Rails","Varnish"]] [];
@@ -4839,6 +4840,7 @@ https://backup-2019.confluenceengineeringupdate.ctf.hacker101.com:443 [null] [40
 https://backup-2019.jenkins-gcp.confluence-admin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.71.17.146"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://backup-access-2020.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.71.99.216"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://backup-accessredirect-access-new.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.188.21.63"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://backup-account-2021alpha.accountconfig.elasticbeanstalk.teamuser.startrek-discovery.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.83.98.98"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://backup-account-team.2018debug.demochefadmin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.27.184.30"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://backup-accountpreferences.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.85.28"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://backup-admin-2019-auth-v2.v1update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.191.238.193"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
@@ -5692,6 +5694,7 @@ https://dbms2021.beta.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["10
 https://dbmsaccess-elasticbeanstalk.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["100.20.6.136"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://dbmsaccess.alpha.access-v3upgrade-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.88.18.49"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://dbmsaccessnew.adminchefadmin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.244.243"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://dbmsaccount-2021alpha.accountconfig.elasticbeanstalk.teamuser.startrek-discovery.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.83.98.98"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://dbmsaccountauth-status.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.71.99.216"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://dbmsadmin.new.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["100.20.6.136"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://dbmsadminchef.bucket.status.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["34.211.88.5"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
@@ -5913,6 +5916,7 @@ https://devv2-preferences-status.ctf.hacker101.com:443 [null] [404] [22] ["text/
 https://devv2-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.85.28"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://devvpnmaysuryan.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.239.183"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://docs.hackerone.com:443 ["HackerOne Platform Documentation"] [200] [66272] ["text/html"] ["185.199.108.153"] [null] ["GitHub.com"] [["Fastly","Gatsby","GitHub Pages","React","Ruby on Rails","Varnish","webpack"]] [];
+https://dpst.0bf6709005c36959ba1e998ecb183f62.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.166.235.26"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://elasticbeanstalk-2018-accountdebugnew.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.161.190.65"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://elasticbeanstalk-2018.confluence.v2-preferences-status.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.73.50"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://elasticbeanstalk-2019.status.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.71.99.216"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
@@ -6358,6 +6362,7 @@ https://mongodbcanred.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35
 https://morning.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.86.13.172"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://mosteligible.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["34.208.128.127"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://motion.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.86.13.172"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://mta-sts.HACkErone.com:443 ["Page not found · GitHub Pages"] [404] [9339] ["text/html"] ["185.199.108.153"] [null] ["GitHub.com"] [["Fastly","GitHub Pages","Ruby on Rails","Varnish"]] [];
 https://mta-sts.forwarding.hackerone.com:443 ["Page not found · GitHub Pages"] [404] [9339] ["text/html"] ["185.199.108.153"] [null] ["GitHub.com"] [["Fastly","GitHub Pages","Ruby on Rails","Varnish"]] [];
 https://mta-sts.hackerone.com:443 ["Page not found · GitHub Pages"] [404] [9339] ["text/html"] ["185.199.111.153"] [null] ["GitHub.com"] [["Fastly","GitHub Pages","Ruby on Rails","Varnish"]] [];
 https://mta-sts.managed.hackerone.com:443 ["Page not found · GitHub Pages"] [404] [9339] ["text/html"] ["185.199.108.153"] [null] ["GitHub.com"] [["Fastly","GitHub Pages","Ruby on Rails","Varnish"]] [];
@@ -7260,6 +7265,7 @@ https://www.hacker101.com:443 ["Home | Hacker101"] [200] [7917] ["text/html"] ["
 https://www.hackerone.com:443 ["HackerOne | #1 Trusted Security Platform and Hacker Program"] [200] [137549] ["text/html"] ["104.16.100.52"] [null] ["cloudflare"] [["Cloudflare","Drupal","Fastly","Google Tag Manager","MariaDB","Nginx","PHP","Pantheon","Varnish"]] [];
 https://www.hackerone.net:443 [null] [301] [null] [null] ["104.17.235.53"] [null] ["cloudflare"] [["Cloudflare"]] [];
 https://www.hackerone.net:8443 [null] [301] [null] [null] ["104.17.235.53"] [null] ["cloudflare"] [["Cloudflare"]] [];
+https://www.majorelle.0bf6709005c36959ba1e998ecb183f62.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.166.235.26"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://www.orf.od.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.239.183"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://www.pcmasterweb.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.86.13.172"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://ydarbleoj.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.81.28.91"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
