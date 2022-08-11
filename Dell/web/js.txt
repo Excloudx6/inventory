@@ -21,6 +21,7 @@ https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js
 https://ajax.aspnetcdn.com/ajax/jquery.ui/1.10.3/jquery-ui.min.js
 https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
 https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
+https://api.intellimize.co/client/117889429.js
 https://appc1.euro.dell.com/login/js/css-vars-ponyfill.js
 https://appc1.euro.dell.com/login/js/inline.bundle.js?t=17444397
 https://artifactory.cpg.dell.com/ui/externals/import-map-overrides/dist/import-map-overrides.js
@@ -59,6 +60,8 @@ https://boss.dell.com:443/lib/bootstrap/dist/js/bootstrap.min.js
 https://boss.dell.com:443/lib/jquery/dist/jquery-3.4.1.min.js
 https://c.la1-c2-phx.salesforceliveagent.com/content/g/js/46.0/deployment.js
 https://c.la2-c2-ia5.salesforceliveagent.com/content/g/js/50.0/deployment.js
+https://cdn.cookielaw.org/consent/5b405a34-0f19-4e82-bbdc-8a610acbde7e/OtAutoBlock.js
+https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
 https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/js/bootstrap.min.js
 https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js
 https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js
@@ -167,6 +170,7 @@ https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%
 https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22xQpR3Jg-V34qRvj7e1Wr-w%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/resources.js?pv=16597912850001076029550&rv=1659568824000
 https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22xQpR3Jg-V34qRvj7e1Wr-w%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/resources.js?pv=16600522110001076029550&rv=1659568824000
 https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22serializationVersion%22%3A%221-2.11.8-238.4-b%22%2C%22parts%22%3A%22f%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/app.js?2=
+https://fast.wistia.com/assets/external/E-v1.js
 https://fcs.dellcdn.com/fonts/asynccss.js
 https://fedaccess.federal.dell.com:443/portal/resources/main.js?v=19431065
 https://fisheye.cpg.dell.com:443/s/45f2aba8ea139b910837d84e3806646c-CDN/20220620091927/1/55cde501234eed3bdac1c79f80efd6fa/_/download/contextbatch/js/atl.general,-_super/batch.js?locale=en-US
@@ -223,6 +227,7 @@ https://hol.delltechnologies.com/scripts/init.js
 https://horizon-osp.dell.com:443/portal/resources/main.js?v=19431065
 https://horizon-osp.ins.dell.com:443/portal/resources/main.js?v=19431065
 https://horizon-vdi-india.dell.com:443/portal/resources/main.js?v=18199005
+https://horizon.dell.com:443/portal/resources/main.js?v=19431065
 https://i.dell.com/images/global/js/home88s.js
 https://i.dell.com/images/global/js/lib/jquery-1.2.2e.js
 https://i.dell.com/images/global/js/ph.js
@@ -365,6 +370,11 @@ https://mytoken.us.dell.com:443/scripts/jquery.base64.min.js
 https://mytoken.us.dell.com:443/scripts/jsClasses.js
 https://mytoken.us.dell.com:443/scripts/libphonenumber.js
 https://mytoken.us.dell.com:443/scripts/login.js
+https://new.artifactory.cpg.dell.com/ui/externals/import-map-overrides/dist/import-map-overrides.js
+https://new.artifactory.cpg.dell.com/ui/externals/systemjs/dist/s.min.js
+https://new.artifactory.cpg.dell.com/ui/js/app.2d75db3a.js
+https://new.artifactory.cpg.dell.com/ui/js/chunk-vendors.c554f74b.js
+https://new.artifactory.cpg.dell.com/ui/js/preloader.58e23e59.js
 https://nexus.dell.com/dell/external/Bootstrap.js
 https://nexus.ensighten.com/dell/Bootstrap.js
 https://nexus.ensighten.com/dell/mobileDev/Bootstrap.js
@@ -409,6 +419,11 @@ https://qrl-ps3.dell.com:443/Scripts/ViewScripts/slick.js
 https://qrl-ps3.dell.com:443/Scripts/jquery-1.9.1.min.js
 https://qrl-ps3.dell.com:443/Scripts/jquery.cookies.2.2.0.js
 https://qrl-ps3.dell.com:443/Scripts/jquery.mobile-1.3.1.min.js
+https://redirect.artifactory.cpg.dell.com/ui/externals/import-map-overrides/dist/import-map-overrides.js
+https://redirect.artifactory.cpg.dell.com/ui/externals/systemjs/dist/s.min.js
+https://redirect.artifactory.cpg.dell.com/ui/js/app.2d75db3a.js
+https://redirect.artifactory.cpg.dell.com/ui/js/chunk-vendors.c554f74b.js
+https://redirect.artifactory.cpg.dell.com/ui/js/preloader.58e23e59.js
 https://renewals.dell.com:443/assets/js/c2r-libs.js
 https://saproxy.dell.com:443/main.9ab279bddc103525f78d.js
 https://saproxy.dell.com:443/polyfills-es5.1a9445e71beb55d0acee.js
@@ -503,6 +518,11 @@ https://stage-fisheye.cpg.dell.com:443/s/d41d8cd98f00b204e9800998ecf8427e-CDN/20
 https://stage-fisheye.cpg.dell.com:443/static/rdrr9r/concat.commonScriptAndStyleIncludes.334abc1825e8b8d6c2fb4a38c365c4a7.cache.js
 https://stage-fisheye.cpg.dell.com:443/static/rdrr9r/concat.fecru.eb66fd1851ab5122d202b4bc05780f58.cache.js
 https://stage-fisheye.cpg.dell.com:443/static/rdrr9r/concat.jquery.f9987a607431b33c63fc5ec3cab197d6.cache.js
+https://test.remediation.dell.com:443/main.js
+https://test.remediation.dell.com:443/polyfills.js
+https://test.remediation.dell.com:443/runtime.js
+https://test.remediation.dell.com:443/scripts.js
+https://test.remediation.dell.com:443/vendor.js
 https://tmxvaas.dell.com:443/_nuxt/6bbf182.js
 https://tmxvaas.dell.com:443/_nuxt/90e0119.js
 https://tmxvaas.dell.com:443/_nuxt/bf0704e.js
@@ -555,6 +575,8 @@ https://www.delltechnologies.com/etc/designs/oaks/clientlibs/js/spkc/v4/dt-core.
 https://www.delltechnologies.com/etc/designs/oaks/clientlibs/js/spkc/v4/dt-getContent.min.1a556f78bea6b28ebaedf07c0f85f060.js
 https://www.delltechnologies.com/etc/designs/oaks/clientlibs/js/spkc/v4/dt.min.c945e47fc7ba577c313d6e350726e876.js
 https://www.delltechnologies.com/partner/en-us/partner/%5C/%5C/afcs.dellcdn.com%5C/tnt%5C/adobebundle%5C/shop%5C/bundle_toggle.min.js
+https://www.quickbase.com/dist/bundle.ef3daa43aa843dd7f0ac.js
+https://www.quickbase.com/dist/shared.e51bed5044e7d72cf8f8.js
 https://yourid.dell.com:443/Scripts/app/app.min.js?version=202207122153
 https://yourid.dell.com:443/Scripts/libs/angularjs/angular-animate.min.js
 https://yourid.dell.com:443/Scripts/libs/angularjs/angular-cookies.min.js

@@ -2235,8 +2235,10 @@
 /../
 /./
 //afcs.dellcdn.com/boomerang/latest/boomerang-nonspaWithClicks.min.js
+//bat.bing.com/action/0?ti=5321433&amp;Ver=2
 //boomerang.dell.com/api/beacon
 //c.evidon.com/
+//cdn-0.d41.co/tags/dnb_coretag_v
 //cdn.evergage.com/beacon/dell/delloutletuk/scripts/evergage.min.js
 //cdn.evergage.com/beacon/dell/engage/scripts/evergage.min.js
 //cdn.evergage.com/beacon/dell/qadelloutlet/scripts/evergage.min.js
@@ -2403,8 +2405,12 @@
 //www.delltechnologies.com/
 //www.delltechnologies.com/partner/en-us/partner/partner.htm
 //www.emc.com
+//www.google.com/recaptcha/api.js
+//www.google.com/recaptcha/api.js?render=
+//www.googleadservices.com/pagead/conversion/1072361838/?value=1.00&amp;label=tQHPCNDQjwEQ7uKr_wM&amp;guid=ON
 //www.gravatar.com/avatar/
 //www.macromedia.com/go/getflashplayer
+//www.rkdms.com/order.gif?mid=quickbase&amp;oid=
 //www.vmware.com/files/templates/inc/utag_data.js
 //www.w3.org/2000/svg
 //www.youtube
@@ -2446,7 +2452,10 @@
 /AsP
 /Available 
 /Bootstrap.js
+/ChapterMarkers.js
+/ChapterTitles.js
 /ContactDell/Feedback
+/E-v1.js
 /Events/Popup/Airports.aspx?FormName=
 /Events/Popup/Calendar.aspx?FormName=
 /Events/Popup/EmailPage.aspx?page=
@@ -2548,12 +2557,17 @@
 /access/vault/configs
 /access/vault/configs/verify
 /access_denied
+/account/activities
 /accounts
 /action-link-redirect
 /action-logs$\
 /actions/global\
 /actions/lookup/\
 /actions/object/\
+/actions/quickbase-process/forms/trial-check-realm
+/actions/quickbase-process/forms/trial-check-user
+/actions/quickbase-process/forms/trial-goals
+/actions/quickbase-process/forms/trial-register
 /actions/record-defaults/\
 /actions/record/\
 /activities
@@ -2785,6 +2799,12 @@
 /assets/css/c2r.min.css
 /assets/ed_logo_cobranded.png
 /assets/edcast_logo.png
+/assets/external/
+/assets/external/airplay.js
+/assets/external/chapters.js
+/assets/external/customerLogo.js
+/assets/external/vulcanV2Player.js
+/assets/external/wistiaLogo.js
 /assets/i18n/
 /assets/icon-globe-dds.svg
 /assets/icons/action-sprite/svg/symbols.svg\
@@ -2792,6 +2812,7 @@
 /assets/icons/doctype-sprite/svg/symbols.svg\
 /assets/icons/standard-sprite/svg/symbols.svg\
 /assets/icons/utility-sprite/svg/symbols.svg\
+/assets/images/blank.gif
 /assets/images/logo-wt-bl.png
 /assets/images/smlflags/us.gif
 /assets/js/c2r-libs.js
@@ -2867,6 +2888,7 @@
 /bezel-styling-screen
 /billing\
 /bios-settings
+/blog/search/
 /bookmarks
 /boomerang
 /branding
@@ -2947,6 +2969,7 @@
 /clearIgnoreFlags.do
 /click
 /client
+/clientlogger
 /clm\
 /cloud/support/css/images/ui-login-form-background.png
 /cms/
@@ -2971,6 +2994,8 @@
 /connections$\
 /connectors$\
 /connectors/[A-Z0-9_-]\
+/consent
+/consent/
 /consentconfig/
 /consumer-goods\
 /contact
@@ -3112,6 +3137,10 @@
 /earpillar.png
 /elliptic
 /email
+/email-search
+/embed/iframe/
+/embed/medias/
+/embed/playlists/
 /emoji-data/img-apple-64/
 /emoji-data/img-facebook-64/
 /emoji-data/img-google-64/
@@ -3323,6 +3352,7 @@
 /info
 /info/processor_ram_help.pdf
 /init
+/init?v=
 /insight/api/v1
 /insight/api/v2
 /insights/
@@ -3330,6 +3360,7 @@
 /instr/
 /instructorClass/
 /integration
+/integration-data
 /interaction/orchestration/instances$\
 /interaction\
 /interest-tags/categories$\
@@ -3432,6 +3463,7 @@
 /list-ui/\
 /listBundles?jfLoader=true
 /listeners
+/live-stream/1.0.0
 /local/info
 /locales
 /locales/add/{{lng}}/{{ns}}
@@ -3439,10 +3471,12 @@
 /locationsDef
 /log_in
 /log_out
+/logger
 /login
 /login/signout
 /login?redirectTo=
 /logout
+/lookup?r=
 /lookups\
 /luggage-tag-screen
 /lwr/apex/v55.0\
@@ -3460,6 +3494,7 @@
 /manuals
 /marker.png
 /marketing-model-names
+/marketo-id-associator
 /marketplace_demo.html
 /mavenDistributionManagement
 /mavenSettings
@@ -3515,6 +3550,7 @@
 /modules/
 /movementpillar.png
 /moxieplayer.swf
+/mput?topic=metrics
 /mru-list-records/\
 /mru-list-ui/\
 /multi-prod-documents
@@ -3861,6 +3897,10 @@
 /script
 /scripts/
 /scripts/library/utilities/speed-test-worker.js
+/scripttemplates/
+/scripttemplates/new/scripttemplates/
+/scripttemplates/old/scripttemplates/
+/scripttemplates/old/scripttemplates/5.11.0/
 /sdk/bc-v4.min.html
 /sdk/evalx/
 /sdk/goals/
@@ -3967,6 +4007,7 @@
 /status/
 /stop
 /storage-project/profile/:id
+/storage.html
 /storageinfo
 /store/
 /stories$\
@@ -3994,6 +4035,7 @@
 /sustainability/dgf/identify-date-issues\
 /sustainability/footprint-calculation/recalculate\
 /svg
+/swatch
 /system
 /system-emails
 /system-privileges
@@ -4079,6 +4121,7 @@
 /trends/meta
 /trends/meta?chartId=
 /trigger
+/typeahead?q=
 /u2f-comms.html
 /uUt
 /uc.js
@@ -4240,6 +4283,7 @@
 /uploadfile/
 /uploads/
 /user
+/user-alias
 /user-info/
 /user-state\
 /user/
@@ -4313,6 +4357,7 @@
 /watches
 /wave\
 /web-publish-documents
+/welcome
 /wiki
 /windows-activation
 /windows.png
@@ -4900,6 +4945,7 @@ DraftEditor/alignLeft
 DraftEditor/alignRight
 DraftEditor/editorContainer
 DraftEditor/root
+E-v1.js
 Error: invalid input defined or SSL error: <urlopen error [SSL: NO_CIPHERS_AVAILABLE] no ciphers available (_ssl.c:997)>
 Etc/GMT
 Etc/UCT|UCT
@@ -5214,6 +5260,7 @@ admin/xray/general/integrations/jira_integration/new
 admin/xray/general/integrations/jira_integration/profile/list
 admin/xray/general/integrations/jira_integration/profile/new
 alb/sqi
+allIntegrations.js
 analytics.js
 analytics_debug.js
 api/Account/IsUserLoggedIn
@@ -5555,6 +5602,7 @@ bur/mya
 callback/path
 captcha/image
 captcha/sound
+captions-v3.js
 catalog/all
 catalogs/all
 chai/deep-eql__
@@ -6122,7 +6170,14 @@ documents/resources/images/bezels/
 dut/nld
 ecdsa/rsa
 embed/error-page/
+embedLinks.js
 engine.js
+engines/hls_video.js
+engines/manual_quality_video.js
+engines/native_hls_video.js
+engines/simple_audio.js
+engines/spherical_video.js
+engines/two_stroke_video.js
 enrollments/course/
 enrollments/lab/
 error/message
@@ -6215,6 +6270,7 @@ home/rule
 home/sendError
 ice/isl
 idmauth/renewtoken
+iframeApi.js
 image/bmp
 image/gif
 image/heic
@@ -6234,6 +6290,7 @@ index.html
 index.js
 index.jsp
 inline.js
+insideIframe.js
 insight/api/v1/system/support/bundle
 instance/instances
 instrumentation/componentProfiler
@@ -6248,6 +6305,7 @@ instrumentation/telemetryService
 instrumentation/tracingService
 instrumentation/uiThreadObserver
 instrumentation/utility
+interFontFace.js
 isotope-layout/js/item
 isotope-layout/js/layout-mode
 isotope-layout/js/layout-modes/fit-rows
@@ -6851,6 +6909,7 @@ laf/navigationService
 latest.js
 layouts/new
 leaderboard.json
+legacy/video-quality-set
 lib/elliptic.js
 library/atmosphere
 library/backbone/backbone
@@ -7150,6 +7209,7 @@ one/two
 one/two/three
 one/two/three.js
 oneDs_8363475333f6d315e7ae.js
+otBannerSdk.js
 outlayer/item
 outlayer/outlayer
 overlay-hbs.js
@@ -7273,7 +7333,34 @@ pause/break
 per/fas
 pipe/api/v1/frontend/pipeInfo
 pipeInfo.json
+playPauseLoadingControl.js
+player/ab-test-selection
+player/available-players
+player/bandwidth_test/ended_early
+player/bandwidth_test/ended_on_time
+player/bandwidth_test/failed
+player/clicked-play-before-ready
+player/distillery-error-response/
+player/initembed
+player/no-co-key
+player/no-data/10-seconds
+player/no-data/15-seconds
+player/no-data/5-seconds
+player/no-public-assets
+player/originV2/media-has-no-metadata
+player/play
+player/played-10-seconds
+player/played-30-seconds
+player/rebuild-non-hls-on-error/
+player/resumable-close-to-beginning
+player/resumable-close-to-end
+player/show-loading-long-time/all
+player/show-loading-long-time/first
+player/show-loading/all
+player/show-loading/first
+player/suspicious-bandwidth-test
 policies/new
+popover.js
 popover/popover.js
 popper.js
 popups/DisplayController.js
@@ -7382,6 +7469,7 @@ settings.xml
 sheet1.xml
 skatejs-template-html/dist/template-html.js
 skatejs/dist/skate.js
+skipControls.js
 slo/slk
 sony/com
 soy/aui.soy
@@ -8015,6 +8103,17 @@ views/waiting-room-preview/main
 visualEditor/postmessage
 vue-tags-input/tag-input.vue
 vue-tags-input/vue-tags-input.vue
+vulcanV2Player/TouchEvents.js
+vulcanV2Player/audio/AudioUIBehavior.js
+vulcanV2Player/behaviors/OverlaysBehavior.js
+vulcanV2Player/shared/controls/ContextMenuControl/menu.js
+vulcanV2Player/shared/ui_components
+vulcanV2Player/video/controls/LastFrameCanvasControl.js
+vulcanV2Player/video/controls/SettingsControl/dialog.js
+vulcanV2Player/video/controls/SphericalControl/SphericalControl.js
+vulcanV2Player/video/controls/TechInfoControl/TechInfoControl.js
+vulcanV2Player/video/controls/VolumeSliderControl/VolumeSliderControl.js
+vulcanV2Player/video/ui_components/Storyboard.js
 watchesNew/create
 web/AccountMVC/EditPartner/?v=
 web/AccountMVC/EditRoles/?v=
@@ -8097,6 +8196,8 @@ web/topMenu/me
 wel/cym
 widgets/remote
 widgets/widget
+wistia-mux.js
+wistiajsonp-/embed/medias/
 workbook.xml
 worksheets/sheet1.xml
 wrappedAction.action
