@@ -1171,6 +1171,7 @@
 2018apheniti.next.airbnb.com
 2018api-kyle703.staging.airbnb.com
 2018api.access.backup.admin-staging.airbnb.com
+2018api.admin-api.rotator.www-qa.luxuryretreats.com
 2018api.admin.airbnb.com
 2018api.alpha-api.error.next-branch.airbnb.com
 2018api.b3-webdesigner.next.airbnb.com
@@ -2514,6 +2515,7 @@
 2019admin.configautodiscover.admin.airbnb.com
 2019admin.confluence.prototype-internal-staging.airbnb.com
 2019admin.next.airbnb.com
+2019admin.preferences.bucket.rotator.new.luxuryretreats.com
 2019admin.prototype-internal-next.airbnb.com
 2019admin.prototype-internal-staging.airbnb.com
 2019admin.prototype-internal.airbnb.com
@@ -2567,6 +2569,7 @@
 2019anujprashar.admin-lite.airbnb.com
 2019anxolerd.next.airbnb.com
 2019ap1rh1.admin-next.airbnb.com
+2019api-api.rotator.www-qa.luxuryretreats.com
 2019api-system.admin-staging.airbnb.com
 2019api.2021.admin-staging.airbnb.com
 2019api.admin.airbnb.com
@@ -6071,6 +6074,7 @@ accessalpha.binaryaesthetics.next.airbnb.com
 accessalpha.crazy-programs.next.airbnb.com
 accessalpha2019-android-everyday.next.airbnb.com
 accessalphaalpha-prototype.admin-lite-staging.airbnb.com
+accessalphaapi.admin-api.rotator.www-qa.luxuryretreats.com
 accessamazonsikander.canary.airbnb.com
 accessame.admin-next.airbnb.com
 accessamehassab.canary.airbnb.com
@@ -7762,6 +7766,7 @@ admin.alpha.new.prototype-internal-next.airbnb.com
 admin.alpha.next-branch.airbnb.com
 admin.alpha.next.airbnb.com
 admin.alphaaaaaaa6gallery.next.airbnb.com
+admin.alphaapi.admin-api.rotator.www-qa.luxuryretreats.com
 admin.amarulsamsudin.next.airbnb.com
 admin.antlr.next.airbnb.com
 admin.api-confluence.prototype-internal-next.airbnb.com
@@ -7947,6 +7952,7 @@ adminadmin.confluence.prototype-internal-staging.airbnb.com
 adminadmin.prototype-internal-staging.airbnb.com
 adminadmin2021.backup.next-branch.airbnb.com
 adminadminnagarajtantri.admin-next.airbnb.com
+adminadminprivate-bucket.rotator.new.luxuryretreats.com
 adminafkatja.canary.airbnb.com
 adminak-arun.staging.airbnb.com
 adminalanjavatuts.admin-next.airbnb.com
@@ -7971,6 +7977,7 @@ adminanshulmalik.canary.airbnb.com
 adminanujprashar.admin-lite.airbnb.com
 adminapi-kyle703.staging.airbnb.com
 adminapi.access.jenkins.prototype-internal-staging.airbnb.com
+adminapi.admin-api.rotator.www-qa.luxuryretreats.com
 adminapi.prototype-internal.airbnb.com
 adminapi.staging.airbnb.com
 adminapi0-6.staging.airbnb.com
@@ -8409,6 +8416,7 @@ alpha-accountvpn.prototype-internal.airbnb.com
 alpha-adfs.cc.next.airbnb.com
 alpha-aditya-science.admin-next.airbnb.com
 alpha-admin-access.admin.authbetaweb.admin-next.airbnb.com
+alpha-admin-api.rotator.www-qa.luxuryretreats.com
 alpha-admin-api.staging.airbnb.com
 alpha-admin-jp1017.canary.airbnb.com
 alpha-admin.account.account.admin-lite.airbnb.com
@@ -11317,6 +11325,7 @@ backupandroid-everyday.next.airbnb.com
 backupandroidgeekplus.admin-next.airbnb.com
 backupangadrajput.canary.airbnb.com
 backupanshulmalik.canary.airbnb.com
+backupapi-api.rotator.www-qa.luxuryretreats.com
 backupapi-beta.blainne.next.airbnb.com
 backupapi-kyle703.staging.airbnb.com
 backupapi.canary.airbnb.com
@@ -12856,6 +12865,7 @@ bucket.alexi.admin-next.airbnb.com
 bucket.alpha-debug.next-branch.airbnb.com
 bucket.alpha.next-branch.airbnb.com
 bucket.ankitjain28may.next.airbnb.com
+bucket.api-api.rotator.www-qa.luxuryretreats.com
 bucket.api.canary.airbnb.com
 bucket.api.staging.airbnb.com
 bucket.apiprototype.admin-lite-next.airbnb.com
@@ -13666,7 +13676,9 @@ chefaccount.admin-staging.airbnb.com
 chefaccount.bingovoiceapp.next.airbnb.com
 chefaccountalpha-prototype.admin-lite-staging.airbnb.com
 chefadmin-access.admin.authbetaweb.admin-next.airbnb.com
+chefadmin-api.rotator.www-qa.luxuryretreats.com
 chefadmin-api.staging.airbnb.com
+chefadmin-api.status.system.rotator.www-qa.luxuryretreats.com
 chefadmin-data.prototype-internal-next.airbnb.com
 chefadmin.alpha.backup-config.prototype-internal.airbnb.com
 chefadmin.confluence.prototype-internal-staging.airbnb.com
@@ -14370,6 +14382,7 @@ configaccount-icearl.canary.airbnb.com
 configaccountaccess.backup-config.prototype-internal.airbnb.com
 configaccountelasticbeanstalk.prototype-internal.airbnb.com
 configadmin-api.staging.airbnb.com
+configadmin-api.status.system.rotator.www-qa.luxuryretreats.com
 configadmin-data.prototype-internal-next.airbnb.com
 configadmin-s3.prototype-internal.airbnb.com
 configadmin.api.api.access.jenkins.prototype-internal-staging.airbnb.com
@@ -15170,6 +15183,7 @@ crystalsliders.next.airbnb.com
 cs.airbnb.com
 cs.hoteltonight-test.com
 cs1.next.airbnb.com
+cs9.admin.airbnb.com
 csa.next.airbnb.com
 csb.mty.next.airbnb.com
 csc.staging.airbnb.com
@@ -15793,6 +15807,7 @@ dbms-access.admin-lite-staging.airbnb.com
 dbms-access.engineeringaamk.admin-lite-next.airbnb.com
 dbms-accessbackup-access-alpha.betaprototype.admin-lite-next.airbnb.com
 dbms-accessbusiness.staging.airbnb.com
+dbms-account-chefbucket.rotator.new.luxuryretreats.com
 dbms-accountwww.arilupus.canary.airbnb.com
 dbms-adevs.admin.airbnb.com
 dbms-admin-data.prototype-internal-next.airbnb.com
@@ -16104,6 +16119,7 @@ dbmsanshulmalik.canary.airbnb.com
 dbmsanujprashar.admin-lite.airbnb.com
 dbmsapi-kyle703.staging.airbnb.com
 dbmsapi.prototype-internal-next.airbnb.com
+dbmsapi.staging.airbnb.com
 dbmsappdevpm.admin-next.airbnb.com
 dbmsapply.canary.airbnb.com
 dbmsatechiediary.staging.airbnb.com
@@ -16779,6 +16795,7 @@ demo-accessbusiness.staging.airbnb.com
 demo-accessprototype.admin-lite-staging.airbnb.com
 demo-accesstntn3.blog.next.airbnb.com
 demo-account-backup.rubyofftherails.next.airbnb.com
+demo-account-backup.web.rotator.www-qa.luxuryretreats.com
 demo-account.api.admin-lite-next.airbnb.com
 demo-account.bucketvivian720713.admin.airbnb.com
 demo-admin-api.staging.airbnb.com
@@ -16982,6 +16999,7 @@ demo.accessaccount.accessaccessaccess.access.mau.admin.airbnb.com
 demo.account-chef.prototype-internal.airbnb.com
 demo.account.account.admin-lite.airbnb.com
 demo.adeelkhalid992.admin-lite-next.airbnb.com
+demo.admin-api.status.system.rotator.www-qa.luxuryretreats.com
 demo.admin-lite-next.airbnb.com
 demo.admin-lite-staging.airbnb.com
 demo.admin-lite.airbnb.com
@@ -17683,6 +17701,7 @@ devstatus.prototype-internal-staging.airbnb.com
 devsunnydays2.admin-next.airbnb.com
 devsystem.admin-lite.airbnb.com
 devtetsuwo.admin-next.airbnb.com
+devthai.admin.airbnb.com
 devthejavadevelopmentblog.admin-lite.airbnb.com
 devthemmh.canary.airbnb.com
 devtinybit-blog.admin-next.airbnb.com
@@ -17890,6 +17909,7 @@ easyrailstutorial.next.airbnb.com
 easyride.canary.airbnb.com
 easytolernwebdevlopment.next.airbnb.com
 eatdev.next.airbnb.com
+ebdwa11.admin.airbnb.com
 ebnf.next.airbnb.com
 ec2-35-162-221-77.us-west-2.compute.next.airbnb.com
 ecammar.next.airbnb.com
@@ -18119,6 +18139,7 @@ elasticbeanstalk.2019-system.prototype-internal.airbnb.com
 elasticbeanstalk.2020-accountenirrisky.canary.airbnb.com
 elasticbeanstalk.access-dbmswww.srcf.next.airbnb.com
 elasticbeanstalk.access.mau.admin.airbnb.com
+elasticbeanstalk.accessadmin-api.rotator.www-qa.luxuryretreats.com
 elasticbeanstalk.account.account.admin-lite.airbnb.com
 elasticbeanstalk.accountaccessbucket.alpha-debug.next-branch.airbnb.com
 elasticbeanstalk.admin-lite-next.airbnb.com
@@ -18326,6 +18347,7 @@ elearning-yohan.next.airbnb.com
 electricfun.next.airbnb.com
 electronic.next.airbnb.com
 elegantdarkwolf.next.airbnb.com
+elements.admin.airbnb.com
 elements.next.airbnb.com
 eleventhdistrictcourt.next.airbnb.com
 elgamerpobre.next.airbnb.com
@@ -19206,6 +19228,7 @@ faulkhuang.next.airbnb.com
 fauzism.staging.airbnb.com
 fauziyusarahman.next.airbnb.com
 faveb00k.admin-next.airbnb.com
+fbs.admin.airbnb.com
 fdncred.next.airbnb.com
 feagurth.next.airbnb.com
 feature-1.hoteltonight-test.com
@@ -19267,6 +19290,8 @@ flip.canary.airbnb.com
 florent-pied.next.airbnb.com
 florist.canary.airbnb.com
 flowck.next.airbnb.com
+fls-thai.admin.airbnb.com
+fls.admin.airbnb.com
 flyingtitli.canary.airbnb.com
 fmi.next.airbnb.com
 fns.state.admin-next.airbnb.com
@@ -19600,6 +19625,7 @@ gcpaccess.admin-lite-staging.airbnb.com
 gcpaccount.2018.prototype-internal-staging.airbnb.com
 gcpaccountv2theblrpperspective.canary.airbnb.com
 gcpadmin-api.staging.airbnb.com
+gcpadmin-api.status.system.rotator.www-qa.luxuryretreats.com
 gcpadmin.confluence.prototype-internal-staging.airbnb.com
 gcpadmin.staging.anujacharya.admin-next.airbnb.com
 gcpak-arun.staging.airbnb.com
@@ -19845,6 +19871,7 @@ gopalrohila.next.airbnb.com
 gora.next.airbnb.com
 gordava.next.airbnb.com
 gorishki.canary.airbnb.com
+goto.admin.airbnb.com
 goto.canary.airbnb.com
 gouravgopal.next.airbnb.com
 goutham-bhamidipati.admin.airbnb.com
@@ -20007,6 +20034,7 @@ hel1ow0rld.next.airbnb.com
 heliarsupport.next.airbnb.com
 helloworld1970.next.airbnb.com
 help-en.canary.airbnb.com
+help.admin.airbnb.com
 help7.next.airbnb.com
 helpdesk.airbnb.com
 helpdesk.luxuryretreats.com
@@ -23023,6 +23051,7 @@ oslo.next.airbnb.com
 osmgeeks.next.airbnb.com
 ospchom.next.airbnb.com
 osscar.next.airbnb.com
+ossswebcs4.admin.airbnb.com
 otaciobarbosa.next.airbnb.com
 otak-otak-it.next.airbnb.com
 otakarapa.next.airbnb.com
@@ -23219,6 +23248,7 @@ plequang.next.airbnb.com
 pleyusblog.next.airbnb.com
 plist.staging.airbnb.com
 plotnik.next.airbnb.com
+pmppc01.admin.airbnb.com
 pndarneek.admin-lite.airbnb.com
 pnenp.next.airbnb.com
 pobdr.next.airbnb.com
@@ -24879,6 +24909,7 @@ safareli.next.airbnb.com
 safeguard.admin.airbnb.com
 sagaragaskar.next.airbnb.com
 sagarvd01.next.airbnb.com
+sagelabs.admin.airbnb.com
 saharisgalerias-mty.next.airbnb.com
 sahil.admin.airbnb.com
 saifali.admin.airbnb.com
@@ -24909,6 +24940,7 @@ samirtheprogrammer.next.airbnb.com
 samithcvalsalan.next.airbnb.com
 samuil.next.airbnb.com
 sanaulla.next.airbnb.com
+sandbox.admin.airbnb.com
 sandeep-tada.admin.airbnb.com
 sandeepacharyaa.next.airbnb.com
 sandeepkota.next.airbnb.com
@@ -25725,7 +25757,9 @@ status-2021accesskevintofanelli.admin-lite.airbnb.com
 status-2021arief-rublog.next.airbnb.com
 status-abschaffen.canary.airbnb.com
 status-access-help-en.canary.airbnb.com
+status-access-web.rotator.www-qa.luxuryretreats.com
 status-access.admin-lite-staging.airbnb.com
+status-account-backup.web.rotator.www-qa.luxuryretreats.com
 status-admin.backup.admin-staging.airbnb.com
 status-admin.confluence.prototype-internal-staging.airbnb.com
 status-aitor28ld.next.airbnb.com
@@ -26361,6 +26395,7 @@ team-2021.next-branch.airbnb.com
 team-2021.prototype-internal-staging.airbnb.com
 team-2021accesskevintofanelli.admin-lite.airbnb.com
 team-access-alphabackup.admin-staging.airbnb.com
+team-access-web.rotator.www-qa.luxuryretreats.com
 team-access.admin-lite-staging.airbnb.com
 team-account.accountapi.ios76.next.airbnb.com
 team-admin.confluence.prototype-internal-staging.airbnb.com
@@ -26798,6 +26833,7 @@ trasplantaments.admin-next.airbnb.com
 travel.admin.airbnb.com
 travelagent.luxuryretreats.com
 travelagent0.admin.airbnb.com
+travelexpense.admin.airbnb.com
 travelmap.mainroads.next.airbnb.com
 treasury.admin-lite-next.airbnb.com
 treasury.next.airbnb.com
@@ -27136,6 +27172,7 @@ upgrade-2021.citizenconnect-uat.staging.airbnb.com
 upgrade-2021.next-branch.airbnb.com
 upgrade-2021.prototype-internal-staging.airbnb.com
 upgrade-access.admin-lite-staging.airbnb.com
+upgrade-accesschefbucket.rotator.new.luxuryretreats.com
 upgrade-accessori.next.airbnb.com
 upgrade-admin.confluence.prototype-internal-staging.airbnb.com
 upgrade-ak-arun.staging.airbnb.com
@@ -27228,6 +27265,7 @@ upgrade.admin-next.airbnb.com
 upgrade.admin-staging.airbnb.com
 upgrade.admin.adminalpha-jmn8718.next.airbnb.com
 upgrade.admin.airbnb.com
+upgrade.admin.preferences.bucket.rotator.new.luxuryretreats.com
 upgrade.alpha.admin.next-branch.airbnb.com
 upgrade.alphaaccount.ashutoshbajpai.canary.airbnb.com
 upgrade.alphanew-prototype.admin-lite-next.airbnb.com
@@ -27690,6 +27728,7 @@ user2021accesskevintofanelli.admin-lite.airbnb.com
 useraccess-admin.next.airbnb.com
 useraccess-beta.backup.confluence.prototype-internal-staging.airbnb.com
 useraccessaccess.admin-lite-staging.airbnb.com
+useraccesschefbucket.rotator.new.luxuryretreats.com
 useraccount.account.trivialtruths.admin.airbnb.com
 useradmin.confluence.prototype-internal-staging.airbnb.com
 userak-arun.staging.airbnb.com
@@ -28063,6 +28102,7 @@ v2-yasasindomates.admin-next.airbnb.com
 v2.2019.account-dev.staging.airbnb.com
 v2.2021-mastermusiciansofportjefferson.admin-next.airbnb.com
 v2.access-adjusted.next.airbnb.com
+v2.access-web.rotator.www-qa.luxuryretreats.com
 v2.access.aaaaaa6gallery.next.airbnb.com
 v2.accessaccess.beta-betaweb.admin-next.airbnb.com
 v2.account.account.admin-lite.airbnb.com
@@ -28257,6 +28297,7 @@ v3.2021.dbms-alpha.leonardo-schenkel.next.airbnb.com
 v3.access-admin-2021.admin-riot.staging.airbnb.com
 v3.accessaccess.beta-betaweb.admin-next.airbnb.com
 v3.accessbusiness.staging.airbnb.com
+v3.account-backup.web.rotator.www-qa.luxuryretreats.com
 v3.account-dev.staging.airbnb.com
 v3.accounts3.prototype-internal.airbnb.com
 v3.admin-lite-next.airbnb.com
@@ -28854,6 +28895,7 @@ web-2021.admin-lite.airbnb.com
 web-2021.citizenconnect-uat.staging.airbnb.com
 web-2021.next-branch.airbnb.com
 web-2021.prototype-internal-staging.airbnb.com
+web-access-web.rotator.www-qa.luxuryretreats.com
 web-access.admin-lite-staging.airbnb.com
 web-access.admin.liaogang.next.airbnb.com
 web-access.alitsiya.next.airbnb.com
@@ -29605,6 +29647,7 @@ www.zghotlawala.next.airbnb.com
 www.zippy.next.airbnb.com
 www.zoologi.next.airbnb.com
 www1.admin-lite.airbnb.com
+www1.admin.airbnb.com
 www11.staging.airbnb.com
 www2-1.next.airbnb.com
 www2.in.next.airbnb.com
