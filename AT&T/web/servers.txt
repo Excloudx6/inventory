@@ -230,6 +230,7 @@ http://att-hmwk.stage.blogin.att.com:80
 http://att-mcafee.idp.clogin.att.com:80
 http://att-mcafee.stage.clogin.att.com:80
 http://att-mcafee.test.clogin.att.com:80
+http://att-salesforce.stage.blogin.att.com:80
 http://att-snow-calnet.idp.blogin.att.com:80
 http://att-snow-calnet.stage.blogin.att.com:80
 http://att-snow-calnet.test.blogin.att.com:80
@@ -395,6 +396,7 @@ http://chinese.att.com:80
 http://chinesestage.att.com:80
 http://ci.att.com:80
 http://cim-auth-cpaas.att.com:80
+http://cjis.stage.flogin.att.com:80
 http://claccess-da.att.com:80
 http://claccess-sf.att.com:80
 http://claccess.att.com:80
@@ -766,6 +768,7 @@ http://fame.att.com:443
 http://fame.att.com:80
 http://fedgovservicestest.att.com:80
 http://fedsnowtst.stage.blogin.att.com:80
+http://ffa-ptt.firstnet.att.com:80
 http://ffdcsidmaccess.att.com:80
 http://ffdcsidmgate.att.com:80
 http://ffy.att.com:80
@@ -1116,6 +1119,7 @@ http://midwestregion.att.com:80
 http://midwestregion.att.com:8443
 http://minnesota.att.com:443
 http://minnesota.att.com:80
+http://minnesota.att.com:8080
 http://minnesota.att.com:8443
 http://mis-att.bus.att.com:443
 http://miseleccionmx.att.com:80
@@ -1712,6 +1716,7 @@ http://sasvpdl1r4vdna.itn.labs.att.com:443
 http://sasvpdl1r4vdna.itn.labs.att.com:80
 http://sasvpdl1vdna.att.com:443
 http://sasvpdl1vdna.att.com:80
+http://sasvpdl1vdna.itn.labs.att.com:80
 http://sasvpdl1vdna.r2.itn.labs.att.com:443
 http://sasvpdl1vdna.r2.itn.labs.att.com:80
 http://sasvpdl2r2vdna.att.com:443
@@ -1726,6 +1731,7 @@ http://sasvpdl2r4vdna.itn.labs.att.com:443
 http://sasvpdl2r4vdna.itn.labs.att.com:80
 http://sasvpdl2vdna.att.com:443
 http://sasvpdl2vdna.att.com:80
+http://sasvpdl2vdna.itn.labs.att.com:80
 http://sasvpdl2vdna.r2.itn.labs.att.com:443
 http://sasvpdl2vdna.r2.itn.labs.att.com:80
 http://sasvpdl3r2vdna.att.com:443
@@ -1740,6 +1746,7 @@ http://sasvpdl3r4vdna.itn.labs.att.com:443
 http://sasvpdl3r4vdna.itn.labs.att.com:80
 http://sasvpdl3vdna.att.com:443
 http://sasvpdl3vdna.att.com:80
+http://sasvpdl3vdna.itn.labs.att.com:80
 http://sasvpdl3vdna.r2.itn.labs.att.com:443
 http://sasvpdl3vdna.r2.itn.labs.att.com:80
 http://sasvpdl4r2vdna.att.com:443
@@ -1754,6 +1761,7 @@ http://sasvpdl4r4vdna.itn.labs.att.com:443
 http://sasvpdl4r4vdna.itn.labs.att.com:80
 http://sasvpdl4vdna.att.com:443
 http://sasvpdl4vdna.att.com:80
+http://sasvpdl4vdna.itn.labs.att.com:80
 http://sasvpdl4vdna.r2.itn.labs.att.com:443
 http://sasvpdl4vdna.r2.itn.labs.att.com:80
 http://sasvpdlat4gavdna.att.com:443
@@ -1857,6 +1865,7 @@ http://service2-officeathand.att.com:443
 http://servicecat.bus.att.com:443
 http://serviceguide.att.COm:80
 http://serviceguide.att.com:80
+http://serviceguidenew.att.com:443
 http://serviceguidenew.att.com:80
 http://services-finalstage.att.com:80
 http://services.att.com:80
@@ -1968,6 +1977,7 @@ http://svd.att.com:80
 http://svd.att.com:8080
 http://sweepstakesauth.att.com:80
 http://sweepstakesauth.stage.att.com:80
+http://sxmchrysleriotgw.att.com:443
 http://systemmigrationtraining.att.com:80
 http://tagalog.att.com:80
 http://tags.att.com:80
@@ -2058,6 +2068,8 @@ http://test6.att.com:80
 http://texas.att.com:80
 http://texas.att.com:8080
 http://texas.att.com:8443
+http://tftpr2vdna.itn.labs.att.com:80
+http://tftpr4vdna.itn.labs.att.com:80
 http://thesummit.att.com:80
 http://touchtrivia.att.com:80
 http://towers.att.com:80
@@ -2092,6 +2104,7 @@ http://tst13.stage.att.com:80
 http://tuab-dev.att.com:80
 http://tuab.att.com:80
 http://tuassessments-dev.att.com:80
+http://tuassessments.att.com:80
 http://tuconnect.att.com:80
 http://tudesign.att.com:80
 http://tudevopse2e.att.com:80
@@ -3043,6 +3056,7 @@ https://api.dataflow.iot.att.com:8443
 https://api.flow.cloud.att.com:443
 https://api.flow.cloud.att.com:8443
 https://api.officeathand.att.com:443
+https://apiexchange.att.com:443
 https://apilogin.att.com:443
 https://apilogin.stage.att.com:443
 https://apiloginal.att.com:443
@@ -3140,6 +3154,7 @@ https://att-hmwk.stage.blogin.att.com:443
 https://att-mcafee.idp.clogin.att.com:443
 https://att-mcafee.stage.clogin.att.com:443
 https://att-mcafee.test.clogin.att.com:443
+https://att-salesforce.stage.blogin.att.com:443
 https://att-snow-calnet.idp.blogin.att.com:443
 https://att-snow-calnet.stage.blogin.att.com:443
 https://att-snow-calnet.test.blogin.att.com:443
@@ -3239,6 +3254,7 @@ https://believeatlanta.att.com:443
 https://believechicago.att.com:443
 https://believedallas.att.com:443
 https://believeneworleans.att.com:443
+https://believeneworleans.att.com:8443
 https://bellcaiotgw.att.com:443
 https://best-az.test.att.com:443
 https://beta-www.att.com:443
@@ -3396,6 +3412,7 @@ https://ciamapi-pki-ext.stage.att.com:443
 https://cim-auth-cpaas.att.com:443
 https://citigateway.att.com:443
 https://citigateway.att.com:8443
+https://cjis.stage.flogin.att.com:443
 https://claccess-da.att.com:443
 https://claccess-ff.att.com:443
 https://claccess-sf.att.com:443
@@ -3956,6 +3973,7 @@ https://fcontent.stage.att.com:443
 https://fcontent.test.att.com:443
 https://fedgovservicestest.att.com:443
 https://fedsnowtst.stage.blogin.att.com:443
+https://ffa-ptt.firstnet.att.com:443
 https://ffdcsidmaccess.att.com:443
 https://ffdcsidmgate.att.com:443
 https://ffdcsintegration.att.com:443
@@ -5204,6 +5222,7 @@ https://se.att.com:443
 https://secure-az-e.att.com:443
 https://secure-az-e.stage.att.com:443
 https://secure-az-qc-test-e.cloud.att.com:443
+https://secure-az-stage-e.cloud.att.com:443
 https://securedocs.wireless.att.com:443
 https://securefamily.stage.att.com:443
 https://securefamilylink.wireless.att.com:443
@@ -5234,6 +5253,7 @@ https://servicecat.bus.att.com:443
 https://serviceguide.att.COm:443
 https://serviceguide.att.com:443
 https://serviceguidenew.att.com:443
+https://serviceguidenew.att.com:8443
 https://services-finalstage.att.com:443
 https://services.att.com:443
 https://servicioderelevo.att.com:443
@@ -5533,6 +5553,7 @@ https://tst13.stage.att.com:443
 https://tuab-dev.att.com:443
 https://tuab.att.com:443
 https://tuassessments-dev.att.com:443
+https://tuassessments.att.com:443
 https://tuconnect.att.com:443
 https://tudesign.att.com:443
 https://tudevopse2e.att.com:443
@@ -5596,6 +5617,7 @@ https://ums1.hvs.att.com:443
 https://ums2.hvs.att.com:443
 https://unad-nprd3.att.com:443
 https://unad.att.com:443
+https://unimgr.att.com:443
 https://unlock.att.com:443
 https://upd-expe-vid2.uscfpdweb.att.com:443
 https://upd-expe-vid2.uscfpdweb.att.com:8443

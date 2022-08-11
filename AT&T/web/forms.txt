@@ -22,6 +22,7 @@ https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=UJD6u1XQWlkeGmGn6NYAl32RFEnsCrPpJIlyTd2o95w
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=V_kjh3kQWGilLnZNl4iyXTGLcbkzd8DGHMbiKmaz6LQ
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=WAxtcPEjAcgArgk_fxNNk468NBJtYQJCs69lsSphiDU
+https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=hQb2KNn-GaDVUfky5Ik0CR5gzcSe-03rgIyQPXwQKtU
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=hmkPxlP0eZvaoJyXljvJS6RHPgfAZTgoYrCzeixmks4
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=lviYyjuetq0tzO5aZD2lRVR7lSCTD1G-IO6wgNzRsN4
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=rOQiwmWyNvXfNlpwzB1yFgKOSZN_RW_zBeRyM3wp3Os
@@ -131,6 +132,7 @@ https://screenready.att.com:443
 https://screenready.att.com:443/
 https://serviceguidenew.att.com/
 https://serviceguidenew.att.com:443
+https://serviceguidenew.att.com:8443
 https://singlebill.att.COm:443
 https://singlebill.att.com:443
 https://southwest-attsn.att.com:443
@@ -144,6 +146,8 @@ https://techbuzz.att.com/
 https://techbuzz.att.com:443
 https://techchannel.att.com:443
 https://tedocs.att.com:443
+https://tutrainenv.att.com/wp-login.php?redirect_to=https%3A%2F%2Ftutrainenv.att.com%2F&reauth=1
+https://tutrainenvdev.att.com/wp-login.php?redirect_to=https%3A%2F%2Ftutrainenvdev.att.com%2F&reauth=1
 https://vdssupport.att.com:443
 https://vipirt.att.com/
 https://vipirt.att.com:443
