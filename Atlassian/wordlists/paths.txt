@@ -335,6 +335,7 @@
 ../shared/events
 ../shared/find-parent-tags
 ../shared/get-card-types
+../shared/profile-popup\
 ../src
 ../src/types
 ../storage
@@ -4565,6 +4566,7 @@
 /416
 /417
 /419
+/4Fx
 /4Pv
 /4Xn
 /4ls.7a617fe1.svg
@@ -14211,6 +14213,7 @@ packages/linking-platform/link-picker/examples/10-with-plugins.tsx
 packages/linking-platform/link-picker/examples/20-without-plugins.tsx
 packages/linking-platform/link-picker/examples/90-root-error-boundary.tsx
 packages/linking-platform/link-picker/examples/91-test-content-resize.tsx
+packages/linking-platform/link-picker/examples/97-vr-search-error.tsx
 packages/linking-platform/link-picker/examples/98-in-popup.tsx
 packages/linking-platform/link-picker/examples/98-vr-multiple-plugins.tsx
 packages/linking-platform/link-picker/examples/99-vr.tsx
