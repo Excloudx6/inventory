@@ -19,6 +19,7 @@ http://factual.com/tos
 http://geonames.nga.mil/gns/html/namefiles.html
 http://geosprocket.blogspot.com/2012/10/results-of-burlington-neighborhoods.html
 http://geoweb.dnv.org/data/metadata.php?dataset=RegNeighbourhood
+http://google.com
 http://json-schema.org/draft-04/schema#
 http://json-schema.org/draft-06/schema#
 http://json-schema.org/draft-07/schema
@@ -108,6 +109,7 @@ http://www.w3.org/2000/xmlns/
 http://www.w3.org/TR/SVG11/feature#BasicStructure
 http://www.w3.org/TR/SVG11/feature#Extensibility
 http://www.w3.org/XML/1998/namespace
+http://www.website.com
 http://www.zetashapes.com/license
 http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 http://www3.gatineau.ca/Infoterritoire/WebInterface/help/fr/Content/1_About/1_About_FR.htm
@@ -396,6 +398,7 @@ https://docs.google.com/forms/d/1LDT5AQTT7lUbGif8JD4TjTUtbKzyye-3t-z3OHB0cCw/
 https://docs.google.com/forms/d/1s9M_7D3E-dqYnaNS60hs-EXprJDg2T7vzOr31LicMeY
 https://docs.snap.com
 https://docs.snap.com/docs/snap-kit/home
+https://docs.snap.com/lens-studio/references/guides/publishing/submitting/submitting-your-lens#lens-folder-beta
 https://docs.snap.com/minis/getting-started/quick-start#create-your-build
 https://docs.snap.com/snap-kit
 https://docs.snap.com/snap-kit/home
@@ -458,6 +461,7 @@ https://gcp.api.snapchat.com/ai-releases/public
 https://gcp.api.snapchat.com/am-mt
 https://gcp.api.snapchat.com/am-mt/graphql
 https://gcp.api.snapchat.com/insights-graphql/graphql
+https://gcp.api.snapchat.com/insights-lens-studio-web/graphql
 https://gcp.api.snapchat.com/web/metrics
 https://geobasis-bb.de/lgb/de/geodaten/luftbilder/luftbilder-aktuell/#
 https://geofilters-api.snap-dev.net
@@ -557,7 +561,11 @@ https://lens-storage.storage.googleapis.com
 https://lens.snapchat.com
 https://lensstudio.snapchat.com
 https://lensstudio.snapchat.com/guides/sharing/scan/
+https://lensstudio.snapchat.com/guides/submission/creating-a-preview-video
 https://lensstudio.snapchat.com/guides/submission/creating-an-icon/
+https://lensstudio.snapchat.com/guides/submission/performance-and-optimization/
+https://lensstudio.snapchat.com/guides/submission/sponsored-lenses
+https://lensstudio.snapchat.com/guides/submission/submission-guidelines
 https://lensstudio.snapchat.com/templates/marker/marker/
 https://lensstudio.snapchat.com/v1/search?q=%QUERY
 https://lenswebbuilder.snapchat.com
@@ -685,8 +693,10 @@ https://snap.com/brand-guidelines/
 https://snap.com/cookie-policy
 https://snap.com/cookie-policy/
 https://snap.com/cookie-settings
+https://snap.com/en-US/community-guidelines
 https://snap.com/en-US/cookie-settings
 https://snap.com/en-US/privacy/privacy-policy
+https://snap.com/en-US/terms
 https://snap.com/en-US/terms#arbitration
 https://snap.com/en-US/terms#terms-us
 https://snap.com/en-US/terms/commercial-content
@@ -765,6 +775,7 @@ https://staging--sc-trends.mesh.sc-corp.net/graphql
 https://staging-api.bitmoji.com
 https://staging-api.bitmoji.com/snapchat/content_v2
 https://staging-api.bitmoji.com/snapchat/search_v2
+https://staging-gcp.api.snapchat.com/insights-lens-studio-web/graphql
 https://staging-render.bitstrips.com
 https://staging-render.bitstrips.com/v2/cpanel/
 https://staging-us-central1-gcp.api.snapchat.com/web-analytics-v2/web
@@ -1137,6 +1148,7 @@ https://twitter.com/share
 https://unlockables-highlight-reel-dot-devbubblegum.appspot.com
 https://unlockables-highlight-reel-dot-usedbubblegum.appspot.com
 https://unpkg.com/emoji-datasource-
+https://upload.wikimedia.org/wikipedia/commons/3/3f/JPEG_example_flower.jpg
 https://us-central1-gcp.api.snapchat.com
 https://us-central1-gcp.api.snapchat.com/web-analytics-v2/web
 https://us-central1-gcp.api.snapchat.com/web-analytics/web
@@ -1163,6 +1175,7 @@ https://web.snapchat.com/bolt-http/resolve?co=
 https://web.snapchat.com/mars/resolve_streamer.do
 https://web.snapchat.com/web-analytics-v2/web
 https://webprodfa49887d-dot-geofilters-on-demand.appspot.com/
+https://wiki.sc-corp.net/display/SEC/Spookey+User+Guide
 https://woj-e.tlnk.io/serve?action=click&amp;amp;publisher_id=361090&amp;amp;site_id=140684&amp;amp;my_placement=download
 https://woj-e.tlnk.io/serve?action=click&amp;publisher_id=361090&amp;site_id=140684&amp;my_placement=deeplink&amp;response_format=json
 https://woj-e.tlnk.io/serve?action=click&amp;publisher_id=361090&amp;site_id=140684&amp;my_placement=embedPlayer&amp;response_format=json
@@ -1224,6 +1237,7 @@ https://www.google.com.no
 https://www.google.com.sa
 https://www.google.com/ads/ga-audiences
 https://www.google.com/calendar/render?action=TEMPLATE&amp;text=Snap+Partner+Summit%3A+Back+to+Reality&amp;details=Please+join+us+for+our+fourth+annual+Snap+Partner+Summit+to+hear+the+latest+about+our+new+products%2C+features%2C+and+partnerships.+We+have+so+many+exciting+tools+and+technologies+to+share+and+can%27t+wait+to+see+what+you+will+build+next%21%0A+%0ADoors+open+at+8%3A45+a.m.+PT+and+the+keynote+will+begin+at+9%3A00+a.m.+PT.&amp;location=snappartnersummit.com&amp;dates=20220428T160000Z%2F20220428T173000Z
+https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png
 https://www.google.com/maps/search/?api=1&amp;query=
 https://www.google.com/recaptcha/api.js?hl=
 https://www.google.com/recaptcha/api.js?onload=initRecaptcha&amp;render=explicit
