@@ -67,6 +67,7 @@ http://commonmark.org/xml/1.0
 http://creativecommons.org/licenses/by-sa/3.0
 http://creativecommons.org/licenses/by/3.0
 http://creativecommons.org/ns%23
+http://customer-subdomain.speedtestcustom.com
 http://dashif.org/guidelines/thumbnail_tile
 http://dashif.org/thumbnail_tile
 http://datatables.net).
@@ -404,6 +405,7 @@ http://www.scoop.it/u/{{id}}
 http://www.slideshare.net/{{id}}
 http://www.smpte-ra.org/schemas/2052-1/2010/smpte-tt
 http://www.sonatype.com/nexus/product-overview/nexus-lifecycle
+http://www.speedtest.net
 http://www.sprymedia.co.uk/dataTables/lang.txt
 http://www.state.ct.us/dpuc
 http://www.tollfreeda.com/\
@@ -940,6 +942,7 @@ https://api.test.msnctrl.com
 https://api.tumblr.com/v2/share/stats?url=
 https://api.uat.ringcentral.com/restapi/oauth/authorize
 https://api.weglot.com/projects/settings?api_key=wg_
+https://api.whatsapp.com/send?text=*{title}*%0A{text}%0A{url}
 https://api.whatsapp.com/send?text=*{title}*\n{text}\n{url}
 https://apis.google.com/js/api.js
 https://apis.google.com/js/plusone.js
@@ -3055,6 +3058,7 @@ https://attprotech.com
 https://attservicesinc.tt.omtrdc.net
 https://attsuppliers.com/downloads/SupplierFinancingProgram.pdf
 https://atttest.ice.ibmcloud.com/oidc/endpoint/default
+https://atttest.speedtestcustom.com
 https://auctions.godaddy.com/trpItemListing.aspx?ci=6711&amp;domain=${domain}
 https://auth-att.touchcommerce.com/oauth-server/oauth/token
 https://auth.deluxeforbusiness.com/main/social/deluxesus
@@ -3224,7 +3228,9 @@ https://cdnjs.cloudflare.com/ajax/libs/zepto/1.2.0/zepto.min.js
 https://cdnssl.clicktale.net/
 https://cfwebt.angelfish.probity.cloud
 https://cgate.stage.att.com/TokenService/nxsATS/WATokenService?appID={appId}&amp;returnURL={returnUrl}
+https://cgate.stage.att.com/TokenService/nxsATS/WATokenService?returnURL=XXXX&amp;appID=m14960
 https://cgate.stage.att.com/apiserver/igate_web_dlom/logOut.do?style=relogin&amp;returnurl=https://dmp.stage.att.com/businessconsole/home
+https://cgatemas.stage.att.com/commonLogin/igate_wam/controller.do?TG_OP=WTL
 https://cgatemas.stage.att.com/commonLogin/igate_wam/login.do
 https://cgatemas.stage.att.com/commonLogin/igate_wam/multiLogin.do
 https://chart.googleapis.com/chart?chs=166x166&amp;chld=L|0&amp;cht=qr&amp;chl=
@@ -3283,9 +3289,11 @@ https://controllers.babylonjs.com/vive/
 https://cordaelive.splashthat.com/
 https://cors-anywhere.herokuapp.com/https://api.weather.gov/alerts/active
 https://cprodmasx.att.com/commonLogin/igate_wam/controller.do?TAM_OP=login&amp;USERNAME=unauthenticated&amp;ERROR_CODE=0x00000000&amp;ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&amp;METHOD=GET&amp;URL=%2Fpkmsvouchfor%3FATT%26https%3A%2F%2Fcprodx.att.com%2FTokenService%2FnxsATS%2FWATokenService%3FappID%3Dm26549%26isPassive%3Dfalse%26returnURL%3Dhttps%253A%252F%252Fsecurefamily.stage.att.com%252Fauth%252F&amp;REFERER=&amp;HOSTNAME=cprodmasx.att.com&amp;AUTHNLEVEL=&amp;FAILREASON=&amp;OLDSESSION=1
+https://cprodmasx.att.com/commonLogin/igate_wam/controller.do?TG_OP=WTL
 https://cprodmasx.att.com/commonLogin/igate_wam/login.do
 https://cprodmasx.att.com/commonLogin/igate_wam/multiLogin.do
 https://cprodx.att.com/TokenService/nxsATS/WATokenService?appID={appId}&amp;returnURL={returnUrl}
+https://cprodx.att.com/TokenService/nxsATS/WATokenService?returnURL=XXXX&amp;appID=m14961
 https://cprodx.att.com/apiserver/igate_web_dlom/logOut.do?style=TokenService&amp;returnURL=https%3A%2F%2Fsecurefamily.stage.att.com
 https://cprodx.att.com/apiserver/igate_web_dlom/logOut.do?style=relogin&amp;returnurl=https://dmp.att.com/businessconsole/home
 https://creativecommons.org/licenses/by/4.0/
@@ -3450,12 +3458,23 @@ https://docs.google.com/presentation/d/15hdlSVbgMTAS8x1wg5_RyTYbPSPPdE2G740Y-6t7
 https://dpdb.webvr.rocks/dpdb.json
 https://dpm.demdex.net
 https://dribbble.com/{{id}}
+https://dssbpe1-m.att.com
+https://dssbpe5-m.att.com
+https://dssbpe6-m.att.com
+https://dssbpe8-m.att.com
+https://dssbpe9-m.att.com
+https://dssqa1-m.stage.att.com
 https://dssqa1-m.stage.att.com/my/#/welcome?origination_point=PLACEHOLDER_REGOP&amp;return_url=
+https://dssqa2-m.stage.att.com
+https://dssqa3-m.stage.att.com
+https://dssqa5-m.stage.att.com
+https://dssqa6-m.stage.att.com
 https://dssqa6-m.stage.att.com/my/#/passthrough/forgotPasscode?originationPoint=idplgn
 https://dssqa8-m.stage.att.com/my/#/forgotLoginLanding?origination_point=idplgn&amp;Flow_Indicator=FID
 https://dssqa8-m.stage.att.com/my/#/forgotLoginLanding?origination_point=idplgn&amp;Flow_Indicator=FPWD
 https://dssqa8-m.stage.att.com/scripts/goldeneye/staging/scripts/goldeneye.staging.js
 https://dttaqt8dql79l.cloudfront.net/images/cards/4971_ORDER/mt_poster_4971.png
+https://e-bpe1.att.com
 https://e-tst1.stage.att.com/es-us/
 https://e-tst2.stage.att.com
 https://e-tst3.stage.att.com
@@ -3535,6 +3554,7 @@ https://finalstage.att.com/scripts/goldeneye/staging/scripts/goldeneye.business.
 https://finalstage.att.com/scripts/goldeneye/staging/scripts/goldeneye.staging.js
 https://finalstage.att.com/scripts/goldeneye/staging/scripts/vipr.staging.js
 https://finalstage.att.com/services/shopwireless/model/att/ecom/api/FANDetailsServices/getFan?fanId=
+https://finalstage.directv.com/AccountOverview
 https://finalstg-developer.firstnet.com/static-assets/documents/firstnet/resource-catalog/FirstNet_Application_Testing_and_Security_Requirements.pdf\
 https://finance-app.itunes.apple.com/deeplink?
 https://firstnet-cellbooster.att.com/static/welcome
@@ -3841,6 +3861,7 @@ https://github.com/zloirock/core-js/blob/v3.23.5/LICENSE
 https://github.com/zloirock/core-js/raw/master/LICENSE
 https://github.com/{{id}}
 https://gitlab.com/{{id}}
+https://gmottqa.test.att.com/accounts/overview
 https://go.intrepidsuite.com/
 https://go.ringcentral.com/UnsubscribePage.html
 https://google.ca
@@ -3926,6 +3947,7 @@ https://iotplatform.att.com/contact
 https://iotplatform.att.com/services
 https://ipapi.co/jsonp
 https://ipinfo.io
+https://ipv6-api.speedtest.net/getip
 https://itunes.apple.com
 https://itunes.apple.com/
 https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewFeature?id=1476734846&amp;mt=11
@@ -4128,13 +4150,21 @@ https://my.geotab.com/
 https://my.stg.internal.atlassian.com
 https://my1.geotab.com/registration.html
 https://myaccount.blob.core.windows.net/mycontainer/myblob
+https://myatt-dbp01.att.com
+https://myatt-dbp02.att.com
+https://myatt-dbp03.att.com
+https://myatt-qa3.stage.att.com/checkmyorder/processOSRequest.rt
 https://myattmonitor10.stage.att.com:8442/my/#/passthrough/overview
+https://myattmonitorkm26.stage.att.com:8442
 https://myattqa1.stage.att.com
 https://myattqa1.stage.att.com/ui/services_co_myatt_login/1.0.0/halo-application-edm-bridge.js
+https://myattqa2.stage.att.com
+https://myattqa3.stage.att.com
 https://mybell.bell.ca/
 https://mybell.bell.ca/\
 https://mybell.bell.ca\\
 https://myhomenetwork.att.com
+https://myhomenetwork.att.com/#/devices
 https://myhomenetwork.att.com/assets/img/4971/m-illustration-extenderplacementfurniture.svg
 https://myhomenetwork.att.com/assets/img/4971/m-illustration-extenderplacementhouse.svg
 https://myhomenetwork.att.com/assets/img/4971/mt_equipment_4971.svg
@@ -4766,6 +4796,7 @@ https://test-www.firstnet.com/pilot
 https://test-www.firstnet.com/signup/utf-eligibility
 https://test.localcontrol-firstnet.com/
 https://test17-www.wireless.att.com/business/index.jsp?source=sapmp&amp;rdirect=false&amp;rkey=
+https://testatt.speedtestcustom.com
 https://thecode.dev.att.com/auth
 https://training.firstnet.att.com
 https://training.firstnet.att.com/
@@ -4788,6 +4819,7 @@ https://tst05-ecare.stage.att.com
 https://tst06.stage.att.com/scripts/goldeneye/staging/scripts/goldeneye.staging.js
 https://tst08.stage.att.com/scripts/goldeneye/staging/scripts/goldeneye.staging.js
 https://tst13.stage.att.com/scripts/goldeneye/staging/scripts/goldeneye.staging.js
+https://tst3.directv.com/AccountOverview
 https://tst36.stage.att.com/scripts/goldeneye/staging/scripts/goldeneye.staging.js
 https://tst41.stage.att.com/scripts/goldeneye/staging/scripts/goldeneye.staging.js
 https://tumblr.com/share/link?url={url}
@@ -4808,6 +4840,7 @@ https://twitter.com/hashtag/
 https://twitter.com/intent/
 https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw&amp;text=
 https://twitter.com/intent/tweet?text=
+https://twitter.com/intent/tweet?text={text} {url}
 https://twitter.com/intent/tweet?text={text}\x20{url}
 https://twitter.com/intent/tweet?url={{url}}&amp;text={{descr}}
 https://twitter.com/share
@@ -4836,6 +4869,7 @@ https://ufix.att.com?go=managewifi
 https://ufix.att.com?referre rid=x&amp;go=tv_picture_freezing
 https://ufix.att.com?referrerId=3&amp;go=slowbrowse
 https://ufix.att.com?referrerid=x&amp;go=no_tv_picture
+https://ui-hnm-dev.test.dlife.att.com/naas/api/21840/account/auth
 https://universal-activity-service.itunes.apple.com/play
 https://universal-activity-service.itunes.apple.com/qa/play
 https://university.ringcentral.com/
@@ -5029,6 +5063,7 @@ https://www.att.com/CanadaCRTCCustomerInfo.pdf
 https://www.att.com/MEG/chatserver/js/jsPlugin.js
 https://www.att.com/accessibility
 https://www.att.com/acctmgmt/fastpay
+https://www.att.com/acctmgmt/internet/plan-details
 https://www.att.com/acctmgmt/login
 https://www.att.com/acctmgmt/login?postAuthError=true
 https://www.att.com/additionalcharges target=\
@@ -5247,6 +5282,7 @@ https://www.att.com/esupport/mysupport.jsp#/fixed-wireless-internet
 https://www.att.com/esupport/mysupport.jsp#/u-verse-high-speed-internet
 https://www.att.com/esupport/mysupport.jsp#/u-verse-tv
 https://www.att.com/esupport/mysupport.jsp#/u-verse-voice
+https://www.att.com/esupport/mysupport.jsp?pgId=index#/u-verse-high-speed-internet
 https://www.att.com/esupport/sharedSegments/contactusprofileinfo.jsp?accountType=WIRELESS
 https://www.att.com/features/accessibility.html
 https://www.att.com/features/device-help.html
@@ -5350,6 +5386,7 @@ https://www.att.com/scripts/ssaf_universal_client/{environment}/{name}
 https://www.att.com/search/
 https://www.att.com/search/smallbusiness/
 https://www.att.com/shop/internet/access/index.html#/
+https://www.att.com/shop/myuverse/referrals.html?express_product=prod8690438&amp;destination_page=EXCHK&amp;referral_app_id=SHM
 https://www.att.com/shop/unified/authentication.html
 https://www.att.com/shop/wireless/devices/smartphones.html?source=IC00256491000006O&amp;wtExtndSource=irutokenmrq
 https://www.att.com/shop/wireless/mobile-accessibility.html
@@ -5367,6 +5404,7 @@ https://www.att.com/support/article/directv/KM1044852
 https://www.att.com/support/article/directv/KM1077589/
 https://www.att.com/support/article/u-verse-high-speed-internet/KM1010095/
 https://www.att.com/support/article/u-verse-high-speed-internet/KM1010153/
+https://www.att.com/support/article/u-verse-high-speed-internet/KM1010340/
 https://www.att.com/support/article/u-verse-high-speed-internet/KM1010361
 https://www.att.com/support/article/wireless/KM1008685
 https://www.att.com/support/article/wireless/KM1008711 
@@ -5471,6 +5509,7 @@ https://www.correnet-webinar.com/
 https://www.dailymotion.com/embed/video/
 https://www.dailymotion.com/embed/video/${t[1]}
 https://www.datadoghq-browser-agent.com/datadog-logs-v4.js
+https://www.directv.com/AccountOverview
 https://www.directv.com/accountoverview
 https://www.directv.com/forbusiness/channels/
 https://www.directv.com/forbusiness/customer-support/
@@ -5482,6 +5521,7 @@ https://www.directv.com/support/satellite/topic/topic_ordersappsequipment
 https://www.directv.com/support/satellite/topic/topic_ordersappsequipment-topic_orderstatusinstallat
 https://www.directv.com/support/stream
 https://www.directv.com/support/stream/article/
+https://www.directvnow.com/accounts/overview
 https://www.dropbox.com/static/api/2/dropins.js
 https://www.e-access.att.com/empsvcs/hrpinmgt/pagLogin/
 https://www.e-access.att.com/empsvcs/hrpinmgt/pagLogin/?retURL=

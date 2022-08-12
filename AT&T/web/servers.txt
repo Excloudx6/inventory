@@ -591,6 +591,7 @@ http://down.uc.att.com:80
 http://dpt.bus.att.com:443
 http://dreaminblack.att.com:80
 http://drivetest.wireless.att.com:443
+http://drivetest.wireless.att.com:80
 http://drop.att.com:80
 http://drop.att.com:8080
 http://dropbox-lidbas.att.com:80
@@ -604,7 +605,9 @@ http://dss-p2mbw30.att.com:8443
 http://dss-p2mbw8.att.com:8000
 http://dss-p2mbw8.att.com:8443
 http://dss-p9mbw11.att.com:8000
+http://dss-p9mbw11.att.com:8443
 http://dss-p9mbw22.att.com:8000
+http://dss-p9mbw22.att.com:8443
 http://dss-p9mbw30.att.com:8000
 http://dss-p9mbw33.att.com:8000
 http://dss-p9mbw8.att.com:8000
@@ -734,6 +737,7 @@ http://eservices.bus.att.com:443
 http://eservices.bus.att.com:80
 http://eservices.eia.att.com:443
 http://eservices.eia.att.com:80
+http://eservices2.bus.att.com:443
 http://eservices2.bus.att.com:80
 http://eservices3.bus.att.com:443
 http://eservices3.bus.att.com:80
@@ -1383,6 +1387,7 @@ http://northdakota.att.com:80
 http://northdakota.att.com:8080
 http://northdakota.att.com:8443
 http://northeastregion.att.com:80
+http://northeastregion.att.com:8080
 http://northeastregion.att.com:8443
 http://notify.att.com:80
 http://notify.att.com:8080
@@ -2281,6 +2286,7 @@ http://vnbr23.acss.att.com:80
 http://vnbr24.acss.att.com:80
 http://vnbr25.acss.att.com:80
 http://vnbr26.acss.att.com:80
+http://vnbr27.aCSS.att.com:80
 http://vnbr27.acss.att.COm:80
 http://vnbr27.acss.att.com:80
 http://vnbr28.acSS.att.com:80
@@ -2552,6 +2558,7 @@ http://vnsd97.acss.att.com:80
 http://vnsd98.acss.att.com:80
 http://vnshrso01.acss.att.com:80
 http://vnshrso02.acss.att.com:80
+http://vnshrso03.aCSS.att.com:80
 http://vnshrso03.acss.att.com:80
 http://vnshrso04.acss.att.com:80
 http://vnshrso05.acss.att.com:80
@@ -3486,6 +3493,8 @@ https://comms.att.com:443
 https://communitiesmember.att.com:443
 https://community-apimarket.att.com:443
 https://comrest-directvcommercial.att.com:443
+https://conagw-e2.cloud.att.com:443
+https://conagw-e2.cloud.att.com:8443
 https://conagw-test-e2.cloud.att.com:443
 https://confssp.att.com:443
 https://connect.att.COm:443
@@ -5223,6 +5232,8 @@ https://secure-az-e.att.com:443
 https://secure-az-e.stage.att.com:443
 https://secure-az-qc-test-e.cloud.att.com:443
 https://secure-az-stage-e.cloud.att.com:443
+https://secure-east-stage-e.cloud.att.com:443
+https://secure-west-stage-e.cloud.att.com:443
 https://securedocs.wireless.att.com:443
 https://securefamily.stage.att.com:443
 https://securefamilylink.wireless.att.com:443
@@ -5752,6 +5763,7 @@ https://vnbr23.acss.att.com:443
 https://vnbr24.acss.att.com:443
 https://vnbr25.acss.att.com:443
 https://vnbr26.acss.att.com:443
+https://vnbr27.aCSS.att.com:443
 https://vnbr27.acss.att.COm:443
 https://vnbr27.acss.att.com:443
 https://vnbr28.acSS.att.com:443
@@ -6023,6 +6035,7 @@ https://vnsd97.acss.att.com:443
 https://vnsd98.acss.att.com:443
 https://vnshrso01.acss.att.com:443
 https://vnshrso02.acss.att.com:443
+https://vnshrso03.aCSS.att.com:443
 https://vnshrso03.acss.att.com:443
 https://vnshrso04.acss.att.com:443
 https://vnshrso05.acss.att.com:443
