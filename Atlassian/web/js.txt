@@ -64,6 +64,7 @@ https://a.slack-edge.com/bv1-9/app-directory.1fb2d70ef7fbb3271a67.min.js
 https://a.slack-edge.com/bv1-9/app-directory.20a3417c23f6d07b6219.min.js
 https://a.slack-edge.com/bv1-9/app-directory.23a2ef9670eae3bcd2cc.min.js
 https://a.slack-edge.com/bv1-9/app-directory.28659a4573b084ab93f0.min.js
+https://a.slack-edge.com/bv1-9/app-directory.2993147b736c6a9b3458.min.js
 https://a.slack-edge.com/bv1-9/app-directory.2ac0dad05ac9e75954db.min.js
 https://a.slack-edge.com/bv1-9/app-directory.2b9ad598de9c2e1fcfbf.min.js
 https://a.slack-edge.com/bv1-9/app-directory.2ee764a7e1d26edf8243.min.js
@@ -140,6 +141,7 @@ https://a.slack-edge.com/bv1-9/application.76c6005a4fb96c657a1d.min.js
 https://a.slack-edge.com/bv1-9/application.7976c435a5616d6ebad7.min.js
 https://a.slack-edge.com/bv1-9/application.7ca747820fcb22b324a4.min.js
 https://a.slack-edge.com/bv1-9/application.7e9ee079e4fd27d4ec68.min.js
+https://a.slack-edge.com/bv1-9/application.8b5632155225cae76074.min.js
 https://a.slack-edge.com/bv1-9/application.8e1d738f2a985e786af5.min.js
 https://a.slack-edge.com/bv1-9/application.9478511ab5284bc4a862.min.js
 https://a.slack-edge.com/bv1-9/application.9680f75823b1f05f47be.min.js
@@ -195,6 +197,7 @@ https://a.slack-edge.com/bv1-9/modern.vendor.1f02ea7afea0c037133a.min.js
 https://a.slack-edge.com/bv1-9/modern.vendor.201ea4cb683cfbe8c86f.min.js
 https://a.slack-edge.com/bv1-9/modern.vendor.20e5e0369870b4e3c9ed.min.js
 https://a.slack-edge.com/bv1-9/modern.vendor.289dff35bfac093d07a6.min.js
+https://a.slack-edge.com/bv1-9/modern.vendor.2914457f4022d5a6aa36.min.js
 https://a.slack-edge.com/bv1-9/modern.vendor.2cfa14a59a2a4d7c32bf.min.js
 https://a.slack-edge.com/bv1-9/modern.vendor.2f81ed7978e3c43b044c.min.js
 https://a.slack-edge.com/bv1-9/modern.vendor.30edb22df921c443b3c6.min.js
@@ -285,6 +288,7 @@ https://a.slack-edge.com/bv1-9/rollup-secondary_a_required.edf72bcb5f770f5f2489.
 https://a.slack-edge.com/bv1-9/rollup-secondary_a_required.f58924c56e1dafa861e4.min.js
 https://a.slack-edge.com/bv1-9/rollup-secondary_a_required.f9777ea2327caaee34c8.min.js
 https://a.slack-edge.com/bv1-9/rollup-secondary_a_required.faab73c8b12753cb0c09.min.js
+https://a.slack-edge.com/bv1-9/rollup-secondary_b_required.095804dc0d1fd728ec8d.min.js
 https://a.slack-edge.com/bv1-9/rollup-secondary_b_required.1239de8b26d5b8f34378.min.js
 https://a.slack-edge.com/bv1-9/rollup-secondary_b_required.14257f6d5a5ddb5cd43c.min.js
 https://a.slack-edge.com/bv1-9/rollup-secondary_b_required.245233288fa27b58d9d4.min.js
@@ -371,6 +375,7 @@ https://a.slack-edge.com/bv1-9/webpack.manifest.739b4d1377290722f5cd.min.js
 https://a.slack-edge.com/bv1-9/webpack.manifest.74d15c6af98acfd1a61f.min.js
 https://a.slack-edge.com/bv1-9/webpack.manifest.7581461d298b0b7a1219.min.js
 https://a.slack-edge.com/bv1-9/webpack.manifest.798883f1c270d518bf36.min.js
+https://a.slack-edge.com/bv1-9/webpack.manifest.79d03c47b6816211897c.min.js
 https://a.slack-edge.com/bv1-9/webpack.manifest.86158858174d1353be66.min.js
 https://a.slack-edge.com/bv1-9/webpack.manifest.8b3f18dfe8bc753e6e47.min.js
 https://a.slack-edge.com/bv1-9/webpack.manifest.93f9d40a9ed170343240.min.js
@@ -658,6 +663,7 @@ https://admin.atlassian.com/assets/manifest.3af981e76dc5d37d3289-9.js
 https://admin.atlassian.com/assets/manifest.3bdad2b18cba5c628515-9.js
 https://admin.atlassian.com/assets/manifest.40144dae9380d1aefaa3-9.js
 https://admin.atlassian.com/assets/manifest.4608e8f0593d166270aa-9.js
+https://admin.atlassian.com/assets/manifest.468234e29f50b02d6b66-9.js
 https://admin.atlassian.com/assets/manifest.4aa0a6710c9c0425d3c2-9.js
 https://admin.atlassian.com/assets/manifest.4c06fb2dbaf50763de59-9.js
 https://admin.atlassian.com/assets/manifest.4ce4116ff33d4908958a-9.js
@@ -786,6 +792,7 @@ https://admin.dev.atlassian.com/vendors~app~preload.2789316890449af9dca6-9.js
 https://admin.stg.atlassian.com/assets/app.0353579b166cc5fb02d4-9.js
 https://admin.stg.atlassian.com/assets/app.05b50dd00c95ffe97a10-9.js
 https://admin.stg.atlassian.com/assets/app.0a65d8c869c4aaa16fab-9.js
+https://admin.stg.atlassian.com/assets/app.0d9ca3aa3b55a0df8cb0-9.js
 https://admin.stg.atlassian.com/assets/app.10471e0232ff87f928b4-9.js
 https://admin.stg.atlassian.com/assets/app.172f421caa09b18e0ba3-9.js
 https://admin.stg.atlassian.com/assets/app.244c269e5fdd039958b6-9.js
@@ -843,6 +850,7 @@ https://admin.stg.atlassian.com/assets/manifest.31a3a73db6b9049c7e0a-9.js
 https://admin.stg.atlassian.com/assets/manifest.32a4a9e4637b3c437540-9.js
 https://admin.stg.atlassian.com/assets/manifest.3687735e5e788aa6d114-9.js
 https://admin.stg.atlassian.com/assets/manifest.4608e8f0593d166270aa-9.js
+https://admin.stg.atlassian.com/assets/manifest.468234e29f50b02d6b66-9.js
 https://admin.stg.atlassian.com/assets/manifest.48a85b14cd514cbe72d6-9.js
 https://admin.stg.atlassian.com/assets/manifest.4c06fb2dbaf50763de59-9.js
 https://admin.stg.atlassian.com/assets/manifest.4ce4116ff33d4908958a-9.js
@@ -1009,12 +1017,14 @@ https://atl-global.atlassian.com/js/atl-global.min.js?ver=5.9.2
 https://atl-global.stg.atlassian.com/js/atl-global.min.js
 https://atl-preferences-center.services.atlassian.com/static/js/2.77657615.chunk.js
 https://atl-preferences-center.services.atlassian.com/static/js/2.8f792578.chunk.js
+https://atl-preferences-center.services.atlassian.com/static/js/2.bba83706.chunk.js
 https://atl-preferences-center.services.atlassian.com/static/js/2.c3b63e10.chunk.js
 https://atl-preferences-center.services.atlassian.com/static/js/2.d2c54f95.chunk.js
 https://atl-preferences-center.services.atlassian.com/static/js/main.071ab6d9.chunk.js
 https://atl-preferences-center.services.atlassian.com/static/js/main.65d48217.chunk.js
 https://atl-preferences-center.services.atlassian.com:443/static/js/2.77657615.chunk.js
 https://atl-preferences-center.services.atlassian.com:443/static/js/2.8f792578.chunk.js
+https://atl-preferences-center.services.atlassian.com:443/static/js/2.bba83706.chunk.js
 https://atl-preferences-center.services.atlassian.com:443/static/js/2.c3b63e10.chunk.js
 https://atl-preferences-center.services.atlassian.com:443/static/js/2.d2c54f95.chunk.js
 https://atl-preferences-center.services.atlassian.com:443/static/js/main.071ab6d9.chunk.js
@@ -1198,12 +1208,14 @@ https://avocado.stg.atlassian.com:443/static/js/240.772b69e5.chunk.js
 https://avocado.stg.atlassian.com:443/static/js/main.3d88b7bc.chunk.js
 https://avocado.stg.atlassian.com:443/static/js/main.a7cc42ac.chunk.js
 https://avocado.stg.atlassian.com:443/static/js/main.c99dc015.chunk.js
+https://beacon.atlassian.com/assets/index.1f8b76fd.js
 https://beacon.atlassian.com/assets/index.2fd66486.js
 https://beacon.atlassian.com/assets/index.32954b4f.js
 https://beacon.atlassian.com/assets/index.875d3db8.js
 https://beacon.atlassian.com/assets/index.bcf4bbcc.js
 https://beacon.atlassian.com/assets/index.f7a3c777.js
 https://beacon.atlassian.com/assets/index.fc50a9a7.js
+https://beacon.atlassian.com:443/assets/index.1f8b76fd.js
 https://beacon.atlassian.com:443/assets/index.2fd66486.js
 https://beacon.atlassian.com:443/assets/index.32954b4f.js
 https://beacon.atlassian.com:443/assets/index.875d3db8.js
@@ -2032,6 +2044,7 @@ https://halp.services.atlassian.com/static/js/main.1604afa0.chunk.js
 https://halp.services.atlassian.com/static/js/main.1734fece.chunk.js
 https://halp.services.atlassian.com/static/js/main.17d25256.chunk.js
 https://halp.services.atlassian.com/static/js/main.18c9a61d.chunk.js
+https://halp.services.atlassian.com/static/js/main.209c7cb1.chunk.js
 https://halp.services.atlassian.com/static/js/main.210b9b9c.chunk.js
 https://halp.services.atlassian.com/static/js/main.259930d3.chunk.js
 https://halp.services.atlassian.com/static/js/main.2744dea4.chunk.js
@@ -2116,6 +2129,7 @@ https://halp.services.atlassian.com:443/static/js/main.1604afa0.chunk.js
 https://halp.services.atlassian.com:443/static/js/main.1734fece.chunk.js
 https://halp.services.atlassian.com:443/static/js/main.17d25256.chunk.js
 https://halp.services.atlassian.com:443/static/js/main.18c9a61d.chunk.js
+https://halp.services.atlassian.com:443/static/js/main.209c7cb1.chunk.js
 https://halp.services.atlassian.com:443/static/js/main.210b9b9c.chunk.js
 https://halp.services.atlassian.com:443/static/js/main.259930d3.chunk.js
 https://halp.services.atlassian.com:443/static/js/main.2744dea4.chunk.js
@@ -2208,6 +2222,7 @@ https://halp.stg.services.atlassian.com/static/js/main.68675f61.chunk.js
 https://halp.stg.services.atlassian.com/static/js/main.6abfdcc3.chunk.js
 https://halp.stg.services.atlassian.com/static/js/main.6bdc3949.chunk.js
 https://halp.stg.services.atlassian.com/static/js/main.752df192.chunk.js
+https://halp.stg.services.atlassian.com/static/js/main.7d2a7600.chunk.js
 https://halp.stg.services.atlassian.com/static/js/main.8189fcb3.chunk.js
 https://halp.stg.services.atlassian.com/static/js/main.83d9fbe8.chunk.js
 https://halp.stg.services.atlassian.com/static/js/main.8946df69.chunk.js
@@ -2612,6 +2627,7 @@ https://marketplace-cdn.atlassian.com/amkt-frontend-static/amkt.889782178cc5f666
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/amkt.90b4d4cb7c8326375daa.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/amkt.97694858260cb22f9572.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/amkt.9b8a0da67a1704ba35eb.js
+https://marketplace-cdn.atlassian.com/amkt-frontend-static/amkt.9c6b54d5e921fecc059a.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/amkt.a21df65e35995d8ec2d1.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/amkt.a5560d2fef16ad893761.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/amkt.bf5b86ac28d606c11bdd.js
@@ -2649,6 +2665,7 @@ https://marketplace-cdn.atlassian.com/amkt-frontend-static/atlaskit-libs~amkt.70
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/atlaskit-libs~amkt.75fd9f393cd0fb55c871.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/atlaskit-libs~amkt.80343ed0f1fe936148b3.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/atlaskit-libs~amkt.80be9399d88c8179f843.js
+https://marketplace-cdn.atlassian.com/amkt-frontend-static/atlaskit-libs~amkt.840b8edec26e49a74482.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/atlaskit-libs~amkt.8f153b29139142023a77.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/atlaskit-libs~amkt.917b8cf956bc71d7b3fc.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/atlaskit-libs~amkt.91d2cb2098f9d483cb53.js
@@ -2693,6 +2710,7 @@ https://marketplace-cdn.atlassian.com/amkt-frontend-static/manifest.1214e21e454a
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/manifest.25cc08da06b0a34a04d0.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/manifest.2ba0c25f396b1ef9f612.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/manifest.2ffe2a4be017965c1fd9.js
+https://marketplace-cdn.atlassian.com/amkt-frontend-static/manifest.331cb1b931f051b9cf08.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/manifest.392a41ec86afb3489d36.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/manifest.394a09e01d1b6d327a6d.js
 https://marketplace-cdn.atlassian.com/amkt-frontend-static/manifest.4425f80eecce7ac2845d.js
@@ -2942,6 +2960,7 @@ https://partners.atlassian.com/resources/vendor.8e84e6dc01261da20fa0.bundle.js
 https://partners.atlassian.com/resources/vendor.addb4f0bbd30442731ee.bundle.js
 https://partners.atlassian.com/resources/vendor.bc77d32cfd251d5b5c15.bundle.js
 https://partners.atlassian.com/resources/vendor.d83234392088235aadab.bundle.js
+https://partners.atlassian.com/resources/vendor.eddbb6f4e592d576a2b8.bundle.js
 https://partners.atlassian.com/resources/vendor.f739f6942e83c959b219.bundle.js
 https://platform.linkedin.com/in.js
 https://platform.twitter.com/oct.js
@@ -2964,6 +2983,7 @@ https://posture.atlassian.com:443/index.cede0eecd39abb43c565.js
 https://posture.atlassian.com:443/index.d0b6483cab66d888117d.js
 https://preferences.atlassian.com:443/static/js/2.77657615.chunk.js
 https://preferences.atlassian.com:443/static/js/2.8f792578.chunk.js
+https://preferences.atlassian.com:443/static/js/2.bba83706.chunk.js
 https://preferences.atlassian.com:443/static/js/2.c3b63e10.chunk.js
 https://preferences.atlassian.com:443/static/js/2.d2c54f95.chunk.js
 https://preferences.atlassian.com:443/static/js/main.071ab6d9.chunk.js
@@ -2972,12 +2992,15 @@ https://preferences.dev.atlassian.com:443/static/js/2.1847146f.chunk.js
 https://preferences.dev.atlassian.com:443/static/js/2.67bc9264.chunk.js
 https://preferences.dev.atlassian.com:443/static/js/2.77657615.chunk.js
 https://preferences.dev.atlassian.com:443/static/js/2.8f792578.chunk.js
+https://preferences.dev.atlassian.com:443/static/js/2.8fc6ce62.chunk.js
 https://preferences.dev.atlassian.com:443/static/js/2.c3b63e10.chunk.js
 https://preferences.dev.atlassian.com:443/static/js/main.071ab6d9.chunk.js
 https://preferences.dev.atlassian.com:443/static/js/main.65d48217.chunk.js
+https://preferences.dev.atlassian.com:443/static/js/main.f29133f5.chunk.js
 https://preferences.stg.atlassian.com:443/static/js/2.1847146f.chunk.js
 https://preferences.stg.atlassian.com:443/static/js/2.31f010cf.chunk.js
 https://preferences.stg.atlassian.com:443/static/js/2.445e869b.chunk.js
+https://preferences.stg.atlassian.com:443/static/js/2.6e7eb888.chunk.js
 https://preferences.stg.atlassian.com:443/static/js/2.77657615.chunk.js
 https://preferences.stg.atlassian.com:443/static/js/2.8f792578.chunk.js
 https://preferences.stg.atlassian.com:443/static/js/2.c3b63e10.chunk.js
@@ -3163,6 +3186,7 @@ https://status-ui.us-east-1.prod.public.atl-paas.net/main.9c1fa53414e3140a8a30.j
 https://status-ui.us-east-1.prod.public.atl-paas.net/main.9cf7a12e9d7d4865c3fc.js
 https://status-ui.us-east-1.prod.public.atl-paas.net/main.a89d419095d3fdb9c6ee.js
 https://status-ui.us-east-1.prod.public.atl-paas.net/main.c1f70288643ffc15da26.js
+https://status-ui.us-east-1.prod.public.atl-paas.net/main.c5f960fa70b5565c0ab2.js
 https://status-ui.us-east-1.prod.public.atl-paas.net/main.c6f606e4dcb1ad5c47b2.js
 https://status-ui.us-east-1.prod.public.atl-paas.net/main.c7f26f1bd20bff99d9dc.js
 https://status-ui.us-east-1.prod.public.atl-paas.net/main.cafddcd83c346576996e.js
@@ -3197,6 +3221,7 @@ https://status-ui.us-east-1.staging.public.atl-paas.net/main.32b8a8a199d634d3ed8
 https://status-ui.us-east-1.staging.public.atl-paas.net/main.335f0878b502dc0419f9.js
 https://status-ui.us-east-1.staging.public.atl-paas.net/main.36045e3103d67c7d7338.js
 https://status-ui.us-east-1.staging.public.atl-paas.net/main.40f51fffa30b237623f7.js
+https://status-ui.us-east-1.staging.public.atl-paas.net/main.439de23dae86ec016501.js
 https://status-ui.us-east-1.staging.public.atl-paas.net/main.4633e473d4738973fd0b.js
 https://status-ui.us-east-1.staging.public.atl-paas.net/main.4cfffd57341c2321869e.js
 https://status-ui.us-east-1.staging.public.atl-paas.net/main.57e3092c5ca275a243be.js
@@ -3261,6 +3286,7 @@ https://support.atlassian.com/resources/vendor.addb4f0bbd30442731ee.bundle.js
 https://support.atlassian.com/resources/vendor.bc77d32cfd251d5b5c15.bundle.js
 https://support.atlassian.com/resources/vendor.bdd781725d6995fb497e.bundle.js
 https://support.atlassian.com/resources/vendor.d83234392088235aadab.bundle.js
+https://support.atlassian.com/resources/vendor.eddbb6f4e592d576a2b8.bundle.js
 https://support.atlassian.com/resources/vendor.f739f6942e83c959b219.bundle.js
 https://support.atlassian.com:443/resources/main.149d164eb6acc7f3b9ed.bundle.js
 https://support.atlassian.com:443/resources/main.45f97406e06a733533fe.bundle.js
@@ -3284,6 +3310,7 @@ https://support.atlassian.com:443/resources/vendor.addb4f0bbd30442731ee.bundle.j
 https://support.atlassian.com:443/resources/vendor.bc77d32cfd251d5b5c15.bundle.js
 https://support.atlassian.com:443/resources/vendor.bdd781725d6995fb497e.bundle.js
 https://support.atlassian.com:443/resources/vendor.d83234392088235aadab.bundle.js
+https://support.atlassian.com:443/resources/vendor.eddbb6f4e592d576a2b8.bundle.js
 https://support.atlassian.com:443/resources/vendor.f739f6942e83c959b219.bundle.js
 https://switcheroo.atlassian.com/index.71dd84f010deec0890ae.js
 https://switcheroo.stg.atlassian.com/index.73e6137de7917eb7c975.js
@@ -3462,6 +3489,7 @@ https://uchi-ui.us-east-1.staging.public.atl-paas.net/main.d5d2c7fd640bb6588c4b.
 https://uchi-ui.us-east-1.staging.public.atl-paas.net/main.d6bf17382665e3333343.js
 https://uchi-ui.us-east-1.staging.public.atl-paas.net/main.dd95322dcccdf69c2043.js
 https://uchi-ui.us-east-1.staging.public.atl-paas.net/main.e30878c75a8f17fedc60.js
+https://uchi-ui.us-east-1.staging.public.atl-paas.net/main.e4688aa6b79843293b6e.js
 https://uchi-ui.us-east-1.staging.public.atl-paas.net/main.e516c0d9ee6ac88aa949.js
 https://uchi-ui.us-east-1.staging.public.atl-paas.net/main.ebaccf76ca129927a48a.js
 https://uchi-ui.us-east-1.staging.public.atl-paas.net/main.f532b63364181735c7fe.js
@@ -3952,30 +3980,43 @@ https://wac-cdn.atlassian.com/static/master/1613/assets/build/js/wpl-main.js?cdn
 https://wac-cdn.atlassian.com/static/master/1613/assets/js/ad-hoc/wac/software/try.js?cdnVersion=468
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/ad-hoc/wac/search.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/ad-hoc/wac/search.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/ad-hoc/wac/search.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/ad-hoc/wac/wpl/in-view.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/ad-hoc/wac/wpl/in-view.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/ad-hoc/wac/wpl/in-view.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/ad-hoc/wac/wpl/tab-menu-slide.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/ad-hoc/wac/wpl/tab-menu-slide.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/ad-hoc/wac/wpl/tab-menu-slide.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/client-errors.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/client-errors.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/client-errors.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/gitguide/git-app-lite.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/gitguide/git-app-lite.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/gitguide/git-app-lite.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/header/header.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/header/header.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/header/header.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/jquery.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/jquery.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/jquery.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/main.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/main.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/main.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/metal-metrics.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/metal-metrics.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/metal-metrics.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/react/app.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/react/app.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/react/app.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/react/react-bundle.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/react/react-bundle.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/react/react-bundle.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/wpl-main.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/wpl-main.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/wpl-main.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/1649/assets/js/ad-hoc/wac/software/try.js?cdnVersion=472
 https://wac-cdn.atlassian.com/static/master/1649/assets/js/ad-hoc/wac/software/try.js?cdnVersion=474
+https://wac-cdn.atlassian.com/static/master/1649/assets/js/ad-hoc/wac/software/try.js?cdnVersion=477
 https://wac-cdn.atlassian.com/static/master/321/assets/build/js/ad-hoc/wac/search.js?cdnVersion=254
 https://wac-cdn.atlassian.com/static/master/321/assets/build/js/ad-hoc/wac/search.js?cdnVersion=255
 https://wac-cdn.atlassian.com/static/master/321/assets/build/js/ad-hoc/wac/software/try.js?cdnVersion=254

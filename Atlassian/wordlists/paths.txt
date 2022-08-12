@@ -7998,6 +7998,7 @@
 /rest/mfa/verify/recoverycode
 /rest/mfa/verify?transactionToken=
 /rest/preferences
+/rest/preferences/token
 /rest/prototype/1/
 /rest/prototype/1/i18n
 /rest/resend-email
@@ -15157,6 +15158,7 @@ styles/beamer-boosted-embed.css
 styles/beamer-boosted-embed.css?v=2
 styles/beamer-boosted-embed.css?v=3
 styles/beamer-boosted-embed.css?v=4
+styles/beamer-boosted-embed.css?v=5
 styles/beamer-embed-nostyle.css
 styles/beamer-embed.css
 summary.html
