@@ -4748,6 +4748,7 @@
 /article
 /article-route-workflow
 /article?
+/ask
 /asset
 /asset-counts?document_id=
 /asset-creation\
@@ -4832,6 +4833,7 @@
 /auraCmpDef?_au=62OYTb0JHp-CObF4A-NogQ&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=BeXC_Hah0tuCjI-k06CYWg&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=LpCTzuyqBUeCUwKaXXlwUA&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
+/auraCmpDef?_au=NE0lrgbocOO6eTkkcOfMqg&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-1031669178&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=NE0lrgbocOO6eTkkcOfMqg&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=Vch3wESk1PHg9bGgICAqIA&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=533941497&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
 /auraCmpDef?_au=Vch3wESk1PHg9bGgICAqIA&amp;_c=true&amp;_density=VIEW_ONE&amp;_ff=DESKTOP&amp;_l=true&amp;_l10n=en_US&amp;_lrmc=991825831&amp;_style=-772962461&amp;aura.app=markup://siteforce:communityApp&amp;aura.mode=PROD
@@ -4855,6 +4857,7 @@
 /auth/login?redirect_uri=
 /auth/reset/
 /auto-tag
+/autocomplete
 /automation
 /automation/action-states
 /automation/auto-close
@@ -5300,6 +5303,7 @@
 /blog/sw.js?ver=1659435161832&amp;scope=en-US
 /blog/sw.js?ver=1659435240441&amp;scope=en-US
 /blog/sw.js?ver=1660058745018&amp;scope=en-US
+/blog/sw.js?ver=1660151285707&amp;scope=en-DE
 /blog/sw.js?ver=1660151325843&amp;scope=en-US
 /blog/tacoma/
 /blog/tallahassee/
@@ -5532,6 +5536,7 @@
 /create
 /create-ecdh
 /create-notice?key=
+/createcustomentity
 /credentials
 /cs/
 /cs/:share_link_id/:asset_id?
@@ -5543,6 +5548,7 @@
 /css/dependencies
 /csv
 /custom_settings.js
+/customentities
 /customization-metadata
 /customizations-metadata
 /cv/result/
@@ -5592,6 +5598,8 @@
 /delete
 /delete/ids
 /delete_services_by_id
+/deletecustomentity
+/deletequeryhistory
 /deliver
 /deployments\
 /designer/designer.apexp\
@@ -5637,6 +5645,7 @@
 /document-generation-process/status$\
 /document-template$\
 /document/
+/documentmetadata
 /documents
 /domain-management*
 /domain-management/*
@@ -5688,6 +5697,7 @@
 /eatsTrips/
 /edit
 /edit_widget/
+/editcustomentity
 /editor
 /editor/create
 /editor/create/sixteen_nine
@@ -6189,6 +6199,9 @@
 /get-external-appointment
 /get-nearby-locations/
 /get/
+/getdocumentanalytics
+/getdocuments
+/getevents
 /getstage
 /getting-started
 /github
@@ -6749,6 +6762,7 @@
 /list-ui/\
 /listen-now
 /listeners
+/listentities
 /lite
 /live/red_lojson/300lo.json?
 /liveagent/autoquery.apexp
@@ -6857,6 +6871,7 @@
 /members:remove
 /mention
 /merchants-and-restaurants
+/messages
 /messages/
 /meta/connect
 /meta/disconnect
@@ -7043,6 +7058,9 @@
 /payment-method
 /payment-method/
 /payment-method/:token
+/people
+/peoplesuggest
+/peoplesuggestadmin
 /performance_to_heatpipe
 /permission-token
 /permissions/
@@ -7237,6 +7255,7 @@
 /recipes$\
 /recipient
 /recipients
+/recommendations
 /record-avatars/\
 /record-avatars/batch/\
 /record-create\
@@ -7347,6 +7366,7 @@
 /sObject/{scope}/home
 /sObject/{scope}/list?filterName\x3d{filterName}\x26showFilterPicker\x3d{showFilterPicker}
 /sample-event
+/savestructuredresult
 /sbin
 /scalecenter\
 /scanner/jobs
@@ -7646,6 +7666,7 @@
 /subscribe
 /subscribe?mailingListId=
 /subscribed
+/subscription
 /suggestions
 /summary
 /summary-of-policy
@@ -11478,6 +11499,9 @@ linkedit/geo/addGeoLink
 linkedit/geo/fetchGeoTemplates
 linkedit/geo/fetchGeoTemplatesSuccess
 linkid.js
+linklist/applyFilter
+linklist/applyFilterFail
+linklist/applyFilterSuccess
 linklist/fetchSuccess
 linklist/page_change
 linklist/setTagFilterValues
