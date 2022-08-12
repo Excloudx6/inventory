@@ -182,6 +182,7 @@ https://am-api.snapchat.com/v1
 https://ampcid.google.com/v1/publisher:getClientId
 https://api-kit.snapchat.com/com.snap.camerakit.v3.Lenses
 https://api-kit.snapchat.com/com.snap.camerakit.v3.Metrics/metrics/business_events
+https://api-kit.snapchat.com/com.snap.camerakit.v3.Metrics/metrics/operational_metrics
 https://api.bitmoji.com
 https://api.braintreegateway.com:443
 https://api.mapbox.com
@@ -504,6 +505,7 @@ https://github.com/zloirock/core-js
 https://github.com/zloirock/core-js/blob/v3.21.1/LICENSE
 https://github.com/zloirock/core-js/blob/v3.23.3/LICENSE
 https://github.com/zloirock/core-js/blob/v3.23.5/LICENSE
+https://github.com/zloirock/core-js/blob/v3.24.0/LICENSE
 https://google.com/pay
 https://graph.facebook.com/?id=
 https://graphql.contentful.com/content/v1/spaces/
