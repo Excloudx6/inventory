@@ -668,6 +668,7 @@ http://demo.data.error2020.user-gcpupdate.ctf.hacker101.com:443 ["400 The plain 
 http://demo.elasticbeanstalk.upload.maysuryan.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["44.233.217.48"] [null] ["awselb/2.0"] [null] [];
 http://demo2018.datanew.system.authupdate.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["35.161.190.65"] [null] ["awselb/2.0"] [null] [];
 http://demoapi-errorerror.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["44.233.128.243"] [null] ["awselb/2.0"] [null] [];
+http://design.hackerone.com:80 ["H1/U1"] [200] [16748] ["text/html"] ["54.195.237.234"] ["https://design.hackerone.com/"] ["nginx"] [["Nginx","Ruby","Ruby on Rails","Sentry"]] [];
 http://dev-account-accessaccessalpha-update-alpha.2020-v2-elasticbeanstalkupdate.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["100.20.6.136"] [null] ["awselb/2.0"] [null] [];
 http://dev.beta.access-jenkins-error.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [220] ["text/html"] ["35.86.13.172"] [null] ["awselb/2.0"] [null] [];
 http://dev.user-gcpupdate.ctf.hacker101.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [622] ["text/html"] ["100.20.6.136"] [null] ["awselb/2.0"] [null] [];
@@ -4167,6 +4168,7 @@ https://admin2020.api.jenkinshdreports.ctf.hacker101.com:443 [null] [404] [22] [
 https://admin2021alpha.config.user-s3.debug.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.27.69.103"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://adminaccess-2021.admin.v4knome.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["34.215.208.44"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://adminaccess-account-config2018upgrade-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.188.21.63"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://adminaccess-data-error.upgrade.v3www.fac-droit.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.166.235.26"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://adminaccess.access.debug.demochefadmin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.167.129.199"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://adminaccess.data-chef.autherror.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.81.28.91"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://adminaccess.upgrade-2020.2019.alpha-preferences.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.85.28"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
@@ -5850,6 +5852,7 @@ https://demoredirect.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.
 https://demostatus-adminautherror.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.58.141"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://denilparmar.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.81.28.91"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://denis4inet.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.239.183"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
+https://design.hackerone.com:443 ["H1/U1"] [200] [16748] ["text/html"] ["54.195.237.234"] [null] ["nginx"] [["Nginx","Ruby","Ruby on Rails","Sentry"]] [];
 https://designer2013.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.58.141"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://dev-accesschef.team-preferences.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.212.211.52"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://dev-accessjenkins.2018.confluence.redirect.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.86.13.172"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
