@@ -584,6 +584,7 @@
 2018.account-accountdata.obv-atla.vpn.twttr.com
 2018.account-accountdatabrandsafety.vpn.twttr.com
 2018.account-actionsuses.vpn.twttr.com
+2018.account-actor-chileno.vpn.twttr.com
 2018.account-admin.amplify.vpn.twttr.com
 2018.account-admin.backupconfig.betabrandsafety.vpn.twttr.com
 2018.account-agreed.vpn.twttr.com
@@ -10746,6 +10747,7 @@ data-access-alpha-beta.config.staging.vpn.twttr.com
 data-access.access.access-aws.vpn.twttr.com
 data-access.apiescalate.vpn.twttr.com
 data-accessaccess.access-arcadia.vpn.twttr.com
+data-accessaccountbucket.berry.vpn.twttr.com
 data-accessadminaccountescalate-lab.vpn.twttr.com
 data-account-abelperezmartinez.vpn.twttr.com
 data-account-accidentally.vpn.twttr.com
@@ -10995,6 +10997,7 @@ dbms.account-alphaadmin.betabrandsafety.vpn.twttr.com
 dbms.account-chef.admin.alphaupload.staging.vpn.twttr.com
 dbms.account-s3bucket-elasticbeanstalkdbms-2018-accountdemo.semantic-lab.vpn.twttr.com
 dbms.account.account.bucket-access-upload.staging.vpn.twttr.com
+dbms.account.api.accessalpha-adultmensestheosaka.blog.vpn.twttr.com
 dbms.accountaccessabati.vpn.twttr.com
 dbms.admin.access-backup-admin.beta.backup.obv-smf1.vpn.twttr.com
 dbms.admin.account.accountapi-39-4-3-39-4-5.vpn.twttr.com
@@ -12219,6 +12222,7 @@ engineering.access.accessadmin-demo.staging.vpn.twttr.com
 engineering.access.africa.vpn.twttr.com
 engineering.access.alpha-accountbeta.staging.vpn.twttr.com
 engineering.access.alphaatlc-lab.vpn.twttr.com
+engineering.accessalphabeta-backup.aafes.vpn.twttr.com
 engineering.account.api-0-4-5.vpn.twttr.com
 engineering.account.brandsafety.vpn.twttr.com
 engineering.accountaccount.admin-admin.confluencecristbrian.vpn.twttr.com
