@@ -121,6 +121,7 @@ http://ipnpb.glb.paypal.com:443
 http://ipnpb.glb.paypal.com:80
 http://ipnpb.paypal.com:443
 http://ipnpb.paypal.com:80
+http://ipnpb.sandbox.glb.paypal.com:80
 http://ipnpb.sandbox.paypal.com:80
 http://itsmail.paypal.com:80
 http://lyncdiscover.paypal.com:80
@@ -485,6 +486,7 @@ https://images.payflowlink.paypal.com:443
 https://ipnpb-v2.sandbox.paypal.com:443
 https://ipnpb.glb.paypal.com:443
 https://ipnpb.paypal.com:443
+https://ipnpb.sandbox.glb.paypal.com:443
 https://ipnpb.sandbox.paypal.com:443
 https://itsmail.paypal.com:443
 https://lvs.stats.paypal.com:443
