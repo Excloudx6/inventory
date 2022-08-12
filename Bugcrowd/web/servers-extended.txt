@@ -35,7 +35,7 @@ http://email.crowdcontrol.bugcrowd.com:8443 ["400 The plain HTTP request was sen
 http://email.forum.bugcrowd.com:443 [null] [400] [48] [null] ["50.16.67.214"] [null] [null] [null] [];
 http://email.forum.bugcrowd.com:80 [null] [200] [23] ["application/octet-stream"] ["50.16.67.214"] [null] ["nginx"] [["Nginx"]] [];
 http://email.forum.bugcrowd.com:8443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [655] ["text/html"] ["104.20.6.68"] [null] ["cloudflare"] [["Cloudflare"]] [];
-http://email.submit.bugcrowd.com:443 [null] [400] [48] [null] ["50.16.67.214"] [null] [null] [null] [];
+http://email.submit.bugcrowd.com:443 [null] [400] [48] [null] ["3.226.157.7"] [null] [null] [null] [];
 http://email.submit.bugcrowd.com:80 [null] [200] [23] ["application/octet-stream"] ["54.186.94.209"] [null] ["nginx"] [["Nginx"]] [];
 http://email.submit.bugcrowd.com:8443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [655] ["text/html"] ["104.20.6.68"] [null] ["cloudflare"] [["Cloudflare"]] [];
 http://files.bugcrowd.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [655] ["text/html"] ["104.20.7.68"] [null] ["cloudflare"] [["Cloudflare"]] [];
