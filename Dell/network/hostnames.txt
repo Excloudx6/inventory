@@ -79,6 +79,7 @@ APACM1-GUEST.networks.dell.com
 APACS9-GUEST.networks.dell.com
 BRAESvLAB.euro.dell.com
 CNXMN01-DC-ICORP-SR01.networks.dell.com
+CoNfIgUrE.dell.com
 Cp.cloudstore.dell.com
 Dscemeaemm.euro.dell.com
 EMEAL1-GUEST.networks.dell.com
@@ -91,6 +92,7 @@ KULPWCREP02.ap.dell.com
 Kulxipmktdc101.ap.dell.com
 Kulxipmktdc102.ap.dell.com
 LIMTMSSIM01.mfg.ie.dell.com
+MyONEconNECT.dell.com
 NS.IMAGEDIRECT3.PEN.ap.dell.com
 NS.IMAGEDIRECT3.euro.dell.com
 Oneairmail.ap.dell.com
@@ -2823,6 +2825,11 @@ blogweb.us.dell.com
 blowfish.us.dell.com
 blrmrs02.dell.com
 bluestone.us.dell.com
+blujaylabl-rating.us.dell.com
+blujaylabl.us.dell.com
+blujaylabldefault.us.dell.com
+blujaylablemea.us.dell.com
+blujaylablfsj.us.dell.com
 bminehane.bray.ie.dell.com
 bms.us.dell.com
 bnaam1asrsdr.us.dell.com
@@ -3023,6 +3030,7 @@ cce-nonprod.us.dell.com
 ccp-prod.us.dell.com
 ccp-stg-dmz.ins.dell.com
 ccs.jp.dell.com
+ccs.service.staging.dccrm.dell.com
 ccs.us.dell.com
 cct-japan.us.dell.com
 cd-stg.us.dell.com
@@ -3038,6 +3046,7 @@ cdg.us.dell.com
 cdm.dell.com
 cdp3v51.us.dell.com
 cds.service.securityscore.dell.com
+cds.service.staging.dccrm.dell.com
 cecil.us.dell.com
 central-test.dell.com
 central.dell.com
@@ -3696,6 +3705,7 @@ csr-perfreports.dell.com
 csr.ins.dell.com
 csr.us.dell.com
 css.ins.dell.com
+css.service.staging.dccrm.dell.com
 css.us.dell.com
 csweb-3dns.ins.dell.com
 csweb-3dns.us.dell.com
@@ -3799,6 +3809,7 @@ dap.dell.com
 darknet.us.dell.com
 darth.us.dell.com
 darthmaul.us.dell.com
+dashboard.staging.dccrm.dell.com
 dashi.us.dell.com
 data.auspocc01.pcf.dell.com
 database.us.dell.com
@@ -3835,6 +3846,7 @@ dccmtfrontend.dell.com
 dccmtfrontend.ins.dell.com
 dccmtre.dell.com
 dccmtre.ins.dell.com
+dccrm.dell.com
 dcctest.us.dell.com
 dcgr2600-f01.us.dell.com
 dcgr2600-f01sec.us.dell.com
@@ -3844,6 +3856,7 @@ dcgrmpls-f01.us.dell.com
 dcgrmpls-f01sec.us.dell.com
 dcgrmpls.us.dell.com
 dcm.cloudmarketplace.dell.com
+dcm.service.staging.dccrm.dell.com
 dcopsturnover.Dell.com
 dcopsturnover.dell.com
 dcs-01.us.dell.com
@@ -8292,6 +8305,7 @@ mbadgett.us.dell.com
 mbapi.us.dell.com
 mbcontact.dell.com
 mbt.dell.com
+mcs.service.staging.dccrm.dell.com
 md3501-s0.us.dell.com
 mdc.dell.com
 mdcpgnet.ins.dell.com
@@ -8930,6 +8944,7 @@ oifdprdprxy.ins.dell.com
 oifdprdprxy.us.dell.com
 ois.dell.com
 ois.ins.dell.com
+oitaus.dell.com
 oitdur.dell.com
 okc.us.dell.com
 okcdspverwipr1.us.dell.com
@@ -10663,6 +10678,7 @@ ptcwwitdb01.us.dell.com
 ptcwwitrcs01.us.dell.com
 ptcwwitrcs02.us.dell.com
 pterodactyl.us.dell.com
+pts.service.staging.dccrm.dell.com
 public.dell.com
 publicapi-pc1.us.dell.com
 publicapi-ps3.us.dell.com
@@ -11489,6 +11505,7 @@ sell3.sit2.osb.us.dell.com
 sell3.sit3.osb.us.dell.com
 sell3.sit4.osb.us.dell.com
 server-dev.us.dell.com
+service.staging.dccrm.dell.com
 serviceapp.us.dell.com
 servicecatalog.dell.com
 servicedesk.dell.com
@@ -11627,6 +11644,7 @@ sis.ins.dell.com
 sit-bieassetmgmt-vip.us.dell.com
 sit-cs-is.dell.com
 sit-csext-is.dell.com
+sit-dtc-ext.dell.com
 sit-fuslite.dell.com
 sit-haft-corp-rr2.us.dell.com
 sit-is.us.dell.com
@@ -11765,6 +11783,7 @@ smtp.dell.com
 smtp.euro.dell.com
 smtp.ins.dell.com
 smtp.jp.dell.com
+smtp.mfg.ie.dell.com
 smtp.ols.us.dell.com
 smtp.us.dell.com
 smtp2.ins.dell.com
@@ -11994,6 +12013,7 @@ ssh8.g3.ph.dell.com
 ssh9.g3.ph.dell.com
 sshdisp.g3.ph.dell.com
 ssi.dmf.dell.com
+ssk.service.staging.dccrm.dell.com
 sslvpn1.us.dell.com
 sso-services-uat.ins.dell.com
 sso-sit.dell.com
@@ -12029,6 +12049,7 @@ staging.ap.dell.com
 staging.apj.dell.com
 staging.auspocc01.pcf.dell.com
 staging.ca.dell.com
+staging.dccrm.dell.com
 staging.dell.com
 staging.dellmses.dell.com
 staging.euro.dell.com
@@ -12209,6 +12230,7 @@ strategy.ins.dell.com
 stream-rtr.bray.ie.dell.com
 stt.dell.com
 studio.dell.com
+subs.service.staging.dccrm.dell.com
 suir.bray.ie.dell.com
 sun.us.dell.com
 sunaccounts.bray.ie.dell.com
@@ -13359,6 +13381,7 @@ windchill.dell.com
 windchill.ins.dell.com
 windchill.us.dell.com
 windchill102-pc1.us.dell.com
+windchill12ge2.us.dell.com
 windchill12preprod.us.dell.com
 windchillge2.us.dell.com
 windchillperf.us.dell.com

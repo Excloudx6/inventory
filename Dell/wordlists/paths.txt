@@ -2434,6 +2434,7 @@
 /419
 /500
 /7+d
+/7AG
 /8Fb
 /:article_id
 /:artifactPath+
@@ -2456,6 +2457,7 @@
 /ChapterTitles.js
 /ContactDell/Feedback
 /E-v1.js
+/Eri
 /Events/Popup/Airports.aspx?FormName=
 /Events/Popup/Calendar.aspx?FormName=
 /Events/Popup/EmailPage.aspx?page=
@@ -2745,6 +2747,7 @@
 /api/profile/my_watched_content/pages
 /api/profile/my_watched_subjects
 /api/ratings/page/
+/api/raw-data
 /api/s3_uploads/configuration
 /api/s3_uploads/private_upload_policy
 /api/s3_uploads/registration_upload
@@ -3304,6 +3307,7 @@
 /idrac-login-screen
 /idrac-settings
 /idrac-system-summary
+/ig4
 /ignoreLinkedApp.do
 /images/FormAssembly_lockup_light.png
 /images/arrow_closed.gif
@@ -4365,6 +4369,7 @@
 /workflow
 /workflow-view
 /workflow/
+/ws/raw-data
 /x.js
 /xl/styles.xml
 /xl/workbook.xml
