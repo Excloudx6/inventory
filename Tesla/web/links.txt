@@ -119,6 +119,7 @@ http://www.w3.org/1999/02/22-rdf-syntax-ns#
 http://www.w3.org/1999/xhtml
 http://www.w3.org/1999/xlink
 http://www.w3.org/2000/svg
+http://www.w3.org/2000/svg\
 http://www.w3.org/2000/svg\\
 http://www.w3.org/2000/xmlns/
 http://www.w3.org/2001/XMLSchema
@@ -161,6 +162,8 @@ https://account.microsoft.com/privacy/
 https://account.microsoft.com/rewards/
 https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/
 https://aka.ms/myprofiledocs
+https://akamai-apigateway-deliveryopsapi.tesla.com/DeliveryOpsAPI/api/directdelivery
+https://akamai-apigateway-deliveryopsapi1.tesla.com/DeliveryOpsAPI/api/directdelivery
 https://akamai-apigateway-ehs.tesla.com/api
 https://akamai-apigateway-ehs.tesla.com/api/v1/User/UserInfo
 https://akamai-apigateway-partnerportalcn.tesla.cn/installerapi/
@@ -175,9 +178,12 @@ https://akamai-apigateway-workforceapi.tesla.com/api
 https://amcdn.msftauth.net/meversion?
 https://amp.dev/support/faq/overview/
 https://amp.dev/support/faq/overview/\
+https://amp.tesla.com/acquisition/
 https://angular.io/errors
+https://api.map.baidu.com/api?v=3.0&amp;ak=
 https://api.skype.com/users/
 https://api.vk.com/method/users.get?user_id=
+https://app.launchdarkly.com
 https://artifactory.teslamotors.com/artifactory/api/npm/diagnostics-npm/
 https://artifactory.teslamotors.com/artifactory/api/npm/digital-products-node/@appbaseio/reactivesearch/-/reactivesearch-2.18.0.tgz
 https://assets.countable.us/share/countable-share-1200x630-11-2016.png
@@ -213,6 +219,7 @@ https://az416426.vo.msecnd.net/scripts/c/ms.analytics-web-2.min.js
 https://az495088.vo.msecnd.net/app-logo/customappsso_215.png
 https://az495233.vo.msecnd.net/app-logo/linkedin_45.png
 https://beian.miit.gov.cn
+https://beian.miit.gov.cn/
 https://bi.teslamotors.com/#/views/RecruitingHeadcountbyShift/HeadcountAllRoles?:iid=1&amp;CC_Leader_L3=
 https://billing.tesla.com/
 https://bit.ly/ofi-old-browser
@@ -255,6 +262,7 @@ https://cdn.plot.ly/
 https://cdn.plot.ly/plotly-basic-1.48.3.min.js
 https://cdn.plyr.io/3.6.2/plyr.svg
 https://cdn.plyr.io/static/blank.mp4
+https://cdnjs.cloudflare.com/ajax/libs/pdf.js/
 https://cdnjs.cloudflare.com/ajax/libs/prism/1.6.0/themes/prism.min.css
 https://cdnssl.Clicktale.net/
 https://chart-studio.plotly.com
@@ -263,6 +271,7 @@ https://china-community-app.tesla.cn/community-media/summer/62714069-5138-4561-9
 https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi
 https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn
 https://clickserv.sitescout.com/conv/
+https://clientstream.launchdarkly.com
 https://community-admin-api-stg.tesla.cn
 https://community-admin-api.tesla.cn
 https://community-api.tesla.cn
@@ -305,6 +314,7 @@ https://dc.services.visualstudio.com/v2/track
 https://de.pipe.aria.microsoft.com/Collector/3.0/
 https://default.exp-tas.com/exptas15/f3642fa4-e527-4ba0-9b39-bbeb89ec175d-Ecos/api/v1/tas
 https://default.exp-tas.com/exptas49/562873bb-7117-4cb7-b1a5-bf4660a638e3-ecos/api/v1/tas
+https://deliveryops.teslamotors.com/
 https://design.tesla.com
 https://docs.google.com/document/d/1YQntjzYje-ao57brNUc5dI2JDj5-4hoRUD-AVL1X3eE
 https://docs.google.com/forms/d/1kAutA-fYOA2kowl3te4lnQ2INWMNjXgSCuTh2OMAavY/viewform?entry.564119997=
@@ -318,6 +328,9 @@ https://docs.mattermost.com/onboard/ssl-client-certificate.html
 https://docs.mattermost.com/scale/elasticsearch.html
 https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html
 https://docs.microsoft.com/en-us/azure/active-directory/user-help/my-apps-portal-end-user-access
+https://dro.tesla.com
+https://dro.tesla.com/
+https://dro.tesla.com/auth/callback
 https://dxp-ppe.aad.azure.com
 https://dxp.aad.azure.com
 https://e46950994cd241078e587592a469eb28@errlog.tesla.com/184
@@ -343,12 +356,15 @@ https://epc.tesla.com/#/catalogs
 https://epc.tesla.com/auth/callback.html
 https://epcapi.tesla.com
 https://eu.pipe.aria.microsoft.com/Collector/3.0/
+https://events.launchdarkly.com
 https://example.com
 https://facebook.com/
 https://fb.me/react-controlled-components
 https://fb.me/react-devtools
 https://fb.me/react-devtools-faq
 https://fb.me/react-event-pooling for more information.
+https://finops.tesla.cn/finPlatform/customers/
+https://finops.tesla.com/finPlatform/customers/
 https://flow.microsoft.com/?ocid=PROD_Edge_CONS_TaOS_ACQ_Edge-newtabpage_WaffleFlowAppTile
 https://flow.microsoft.com/manage/?auth_upn=
 https://flow.microsoft.com/manage/?utm_source=consumer_office&amp;utm_medium=%7Bmedium%7D&amp;utm_campaign=consumer_referrals
@@ -361,6 +377,8 @@ https://forms.office.com/Pages/DesignPage.aspx?auth_pvr=WindowsLiveId&amp;origin
 https://forms.office.com/Pages/ResponsePage.aspx?id=9MUmkNCGn0u9ObfU0PtGdMR2-q2539xAmO4KDUAzYCZUMVVYOFBDV0NQNURQME1RSVA4S1BZVjFGUi4u
 https://forums.tesla.com
 https://forums.tesla.com/
+https://garage-europe.vn.teslamotors.com
+https://garage.vn.teslamotors.com
 https://garage.vn.teslamotors.com/users/sign_in
 https://github.com/ajv-validator/ajv/blob/master/lib/definition_schema.js
 https://github.com/appbaseio/reactivesearch#readme
@@ -425,9 +443,11 @@ https://hrosapi.teslamotors.com/grafana/
 https://hrosapi.teslamotors.com/hrosapi/
 https://hrosapi.teslamotors.com/hrosapi/auth/GetToken
 https://hrosapi.teslamotors.com/hrosapi/auth/RefreshAccessToken
+https://hub.tesla.com/auto-finance-na?__u=Y3l1YW5AdGVzbGFtb3RvcnMuY29t#toc-frequently-asked-questions
 https://hub.tesla.com/customer-consent-required-phone-home-access
 https://hub.tesla.com/hr-support
 https://hub.tesla.com/immigration-notices
+https://hub.tesla.com/new-sales-and-delivery-permissions-finops
 https://hub.tesla.com/node/4071
 https://hub.tesla.com/node/4073
 https://hub.tesla.com/node/4074
@@ -513,6 +533,7 @@ https://mfs-supplier-uat.mo.tesla.services
 https://mfs-supplier-uat.tesla.com
 https://microsoftgraph.chinacloudapi.cn
 https://modeanalytics.com
+https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzA4MDI3NjMyMg==&amp;scene=124#wechat_redirect
 https://mui.com/production-error/?code=
 https://myaccess.eaglex.ic.gov
 https://myaccess.microsoft.com
@@ -526,9 +547,16 @@ https://myaccount.eaglex.ic.gov
 https://myaccount.microsoft.com
 https://myaccount.microsoft.scloud
 https://myaccount.windowsazure.cn
+https://myadmin.tesla.cn/#/mtcDeliverySpecialist/${section}?searchStr=
+https://myadmin.tesla.com/#/matchUnmatch2?rnSearchStr=${reference_number}
+https://myadmin.tesla.com/#/mtcDeliverySpecialist/${section}?searchStr=
+https://myadmin.tesla.com/#/myTCoreDashboard?searchStr=${reference_number}#t_regDetailDbm
+https://myadmin.tesla.com/#/myTCoreDashboard?searchStr=${reference_number}&amp;searchBy=REFERENCENUMBER
 https://myapps.tesla.com
 https://mygroups-ppe.microsoft.com
 https://mygroups.microsoft.com
+https://mytdeliveryopsapi.tesla.com/api
+https://mytitlemanager-prdsvc.teslamotors.com/title.bundle.js
 https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fmicrosoft-authenticator%2Fid983156458&amp;data=04%7C01%7Ckhaney%40tesla.com%7C9ffd28f671de434b4a6f08d8e5777a27%7C9026c5f486d04b9fbd39b7d4d0fb4674%7C0%7C0%7C637511648601604815%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=pyPeen%2B%2Ffce5l5Miy9HE%2B1qz9WWiwaeaqd0w0j0UmCg%3D&amp;reserved=0
 https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.azure.authenticator%26hl%3Den_US&amp;data=04%7C01%7Ckhaney%40tesla.com%7C9ffd28f671de434b4a6f08d8e5777a27%7C9026c5f486d04b9fbd39b7d4d0fb4674%7C0%7C0%7C637511648601614810%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=3IGVQquq%2FwkD5IX2KqFzVok22NdbJG%2B8KrI7uMBtsxk%3D&amp;reserved=0
 https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteslamotorsinc.sharepoint.com%2Fsites%2FTeslaImmigration2&amp;data=05%7C01%7Crasjain%40tesla.com%7C954c1e195247464ba2f808da26ea319e%7C9026c5f486d04b9fbd39b7d4d0fb4674%7C0%7C0%7C637865084558926965%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=3QNkUhv%2BOrgDKzCJBj0VaG52l5SEUjQFb%2B%2B66qncJ4s%3D&amp;reserved=0
@@ -603,6 +631,7 @@ https://roadsideinvoice.tesla.com/rsinvoicingapi/api
 https://roadsideinvoice.tesla.com/rsinvoicingapi/api/User/UserInfo
 https://s3-us-west-2.amazonaws.com/countable-us/share/compatibility-quiz-facebook.png
 https://s3-us-west-2.amazonaws.com/countable-us/share/compatibility-quiz-twitter.png
+https://sales-prd.tesla.com
 https://sample.okta.com
 https://sandbox-automation.tesla.cn
 https://sandbox-automation.tesla.com
@@ -628,6 +657,7 @@ https://service.teslamotors.com/protected-doc/ModelS/Connector/3-SOP-2/index.htm
 https://service.teslamotors.com/protected-doc/ModelX/Connector/3-SOP-2/index.html#connectors/
 https://service.weibo.com/share/share.php
 https://serviceapp-stg.tesla.com/service/
+https://serviceapp.tesla.com/service/service-visit-actions/active-service-visit-actions/
 https://serviceregistry.tesla.com/grouprequest
 https://serviceregistry.tesla.com/serviceaccount
 https://share.plvideo.cn/front/video/preview?vid=
@@ -671,6 +701,7 @@ https://stash.teslamotors.com/tba/architect-editor
 https://static-assets-pay.tesla.com
 https://static-assets-pay.tesla.com/api/apple-pay
 https://static-assets.tesla.com/configurator/compositor?
+https://static-assets.tesla.com/configurator/compositor?context=design_studio_2
 https://static-assets.tesla.com/configurator/compositor?options=
 https://static-assets.tesla.com/configurator/compositor?type=
 https://static.polyv.net/secure/
@@ -679,6 +710,8 @@ https://static2.sharepointonline.com/files/fabric/assets/fonts
 https://stg-partners.tesla.com/tabs
 https://stg-partners.tesla.com/tabs/prescreen
 https://stg-suppliers.teslamotors.com
+https://stream.tesla.com/assets/us/v1/notification.bundle.min.js
+https://stream.tesla.com/assets/us/v1/stream.bundle.min.js
 https://suppliers-dev.tesla.com
 https://suppliers-dev.tesla.com/api
 https://suppliers-stg.tesla.com
@@ -703,6 +736,7 @@ https://swc.cdn.skype.com/sdk/v1/sdk.min.js
 https://tb.pipe.aria.microsoft.com/Collector/3.0
 https://teamchat.tesla.com/tesla/channels/mfs-feedback
 https://teamcountable.freshdesk.com/support/solutions
+https://teams.microsoft.com/l/entity/5fc24d14-3cce-4d70-99bb-baf3a0ee02ad/chat
 https://tesla-ui-commerce-staging.stg.ep.tesla.services
 https://tesla-view.thron.com/api/xcontents/resources/delivery/getThumbnail/tesla/2880x1800/553ca85d-3976-4d9a-bb60-a6b15af4a8d0.jpg
 https://tesla.avature.net/teslacareers
@@ -711,6 +745,7 @@ https://tesla.cn/vin-recall-search/
 https://tesla.com
 https://tesla.com/about
 https://tesla.com/about/legal
+https://tesla.com/configurator/compositor/?context=design_studio_2&amp;model=
 https://tesla.gensuite.com/Tesla/ehs/measure/imInc.cfm?incident
 https://tesla.gensuite.com/home/index.cfm
 https://tesla.service-now.com/itanswers?id=kb_article_view&amp;sysparm_article=KB0014260
@@ -753,6 +788,8 @@ https://toolbox.teslamotors.com/tools/periscope
 https://tools.google.com/dlpage/gaoptout
 https://tradepartnertickets.tesla.com/
 https://tradepartnertickets.tesla.com/bodyshop-na/page/cases?layout=CreateCase
+https://tss.tesla.cn/react/delivery/appointments/dashboard
+https://tss.tesla.com/react/delivery/appointments/dashboard
 https://twitter.com/
 https://twitter.com/Tesla?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 https://twitter.com/intent/tweet?
@@ -773,13 +810,19 @@ https://vimeo.com/api/v2/video/{0}.json
 https://virtualagent.dxp-ppe.aad.azure.com
 https://virtualagent.dxp.aad.azure.com
 https://warehouse-uat.mo.tesla.services
+https://warp.tesla.com/login
+https://warp.tesla.com/logisticsvehicle
+https://warpbilling.tesla.com/docgen?referenceNumber=
+https://warpbilling.tesla.com/home
 https://warpdrive.teslamotors.com
 https://warpdrive.teslamotors.com/WarpAuth/PermissionRequest
 https://warpdrive.teslamotors.com/WarpAuthApi/WarpAuth/Permissions/
+https://warpdrive.teslamotors.com/WarpDelivery
 https://warpdrive.teslamotors.com/WarpRca/#/fm/edit/
 https://warpdrive.teslamotors.com/WarpSO/RepairOrder/Details?id=
 https://warpdrive.teslamotors.com/expressionbuilder
 https://warpdrive.teslamotors.com/partner/
+https://warpdrive.teslamotors.com/tms2
 https://warpdrive.teslamotors.com/warpauth
 https://warpdrive.teslamotors.com/warplogin/core/
 https://warpdrive.teslamotors.com/warpsuppliermaster/supplier/request/partnerflip
@@ -802,6 +845,7 @@ https://wechat.tesla.cn
 https://withpersona.com/legal/privacy-policy
 https://workbench.tesla.cn/ehs/page/contacttracing
 https://workbench.tesla.com/
+https://workbench.tesla.com/all/page/cases
 https://workbench.tesla.com/ehs/page/contacttracing
 https://workforce-dev.tesla.com/wm
 https://workforce-dev.tesla.com/wm/Learning
@@ -902,6 +946,8 @@ https://www.tesla.cn/findus/list
 https://www.tesla.cn/legal
 https://www.tesla.cn/legal/privacy
 https://www.tesla.cn/support
+https://www.tesla.cn/support/delivery-faq
+https://www.tesla.cn/support/service-visits
 https://www.tesla.cn/teslaaccount/charging/packages
 https://www.tesla.cn/updates
 https://www.tesla.com
