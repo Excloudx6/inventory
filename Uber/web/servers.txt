@@ -127,6 +127,7 @@ http://atg-lls-dev.uberinternal.com:80
 http://atg-lls-staging.uberinternal.com:80
 http://atg-lls.uberinternal.com:80
 http://atg-logsets.uberinternal.com:80
+http://atg-metrics-lab-staging.UBERIntErNaL.com:80
 http://atg-metrics-lab-staging.uberinternal.com:80
 http://atg-metrics-lab.uberinternal.com:80
 http://atg-partners.ubERIntErNAl.com:80
@@ -328,6 +329,7 @@ http://candidate-experience-staging.uber.com:8080
 http://candidate-experience-staging.uberinternal.com:80
 http://cannes.uberinternal.com:80
 http://canopy.uberinternal.com:80
+http://cap-staging.UBERIntErNaL.com:80
 http://cap-staging.uberinternal.com:80
 http://cap.uberinternal.com:80
 http://capacity.uberinternal.com:80
@@ -733,6 +735,7 @@ http://dsl-staging.uberinternal.com:80
 http://dsl-testing.uberinternal.com:80
 http://dsl.uberinternal.com:80
 http://dsw-shiny.uberinternal.com:80
+http://dsw.UBERIntErNaL.com:80
 http://dsw.uberinternal.com:80
 http://duplica.uberinternal.com:80
 http://e.uber.com:80
@@ -951,6 +954,7 @@ http://frontends-cloud.uber.COm:80
 http://frontends-cloud.uber.COm:8080
 http://frontends-cloud.uber.com:80
 http://frontends-cloud.uber.com:8080
+http://frontends-dc.uBER.com:80
 http://frontends-dc.uber.com:80
 http://frontends-geo.uber.com:80
 http://frontends-primary.uber.com:80
@@ -1237,6 +1241,7 @@ http://jeng.uberinternal.com:80
 http://jetbrains.uberinternal.com:443
 http://jigsaw.uberinternal.com:80
 http://jira-cdn-staging.uberinternal.com:80
+http://jira-cdn.uberinternal.com:443
 http://jira-dev.uberinternal.com:80
 http://jira-staging.uberinternal.com:80
 http://jira.uberinternal.com:80
@@ -1491,9 +1496,11 @@ http://mobileappdirectory.uberinternal.com:80
 http://mobileci.uberinternal.com:80
 http://models.uberinternal.com:80
 http://mojave-staging.uberinternal.com:80
+http://mojave.UBERIntErNaL.com:80
 http://mojave.uberinternal.com:80
 http://moncon.uberinternal.com:80
 http://monitoring.uberinternal.com:80
+http://monocle.UBERIntErNaL.com:80
 http://monocle.uberinternal.com:80
 http://morpheus.uberinternal.com:80
 http://morpheus.uberinternal.com:8080
@@ -2763,6 +2770,7 @@ https://atg-lls-dev.uberinternal.com:443
 https://atg-lls-staging.uberinternal.com:443
 https://atg-lls.uberinternal.com:443
 https://atg-logsets.uberinternal.com:443
+https://atg-metrics-lab-staging.UBERIntErNaL.com:443
 https://atg-metrics-lab-staging.uberinternal.com:443
 https://atg-metrics-lab.uberinternal.com:443
 https://atg-partners.ubERIntErNAl.com:443
@@ -2932,6 +2940,7 @@ https://candidate-experience-staging.uber.com:443
 https://candidate-experience-staging.uberinternal.com:443
 https://cannes.uberinternal.com:443
 https://canopy.uberinternal.com:443
+https://cap-staging.UBERIntErNaL.com:443
 https://cap-staging.uberinternal.com:443
 https://cap.uberinternal.com:443
 https://capacity.uberinternal.com:443
@@ -3269,6 +3278,7 @@ https://dsl-staging.uberinternal.com:443
 https://dsl-testing.uberinternal.com:443
 https://dsl.uberinternal.com:443
 https://dsw-shiny.uberinternal.com:443
+https://dsw.UBERIntErNaL.com:443
 https://dsw.uberinternal.com:443
 https://duplica.uberinternal.com:443
 https://e.uber.com:443
@@ -3443,6 +3453,7 @@ https://fresh.uber.com:443
 https://frontends-all.uber.com:443
 https://frontends-cloud.uber.COm:443
 https://frontends-cloud.uber.com:443
+https://frontends-dc.uBER.com:443
 https://frontends-dc.uber.com:443
 https://frontends-geo.uber.com:443
 https://frontends-primary.uber.com:443
@@ -3911,9 +3922,11 @@ https://mobileappdirectory.uberinternal.com:443
 https://mobileci.uberinternal.com:443
 https://models.uberinternal.com:443
 https://mojave-staging.uberinternal.com:443
+https://mojave.UBERIntErNaL.com:443
 https://mojave.uberinternal.com:443
 https://moncon.uberinternal.com:443
 https://monitoring.uberinternal.com:443
+https://monocle.UBERIntErNaL.com:443
 https://monocle.uberinternal.com:443
 https://morpheus.uberinternal.com:443
 https://movement-admin.uberinternal.com:443
@@ -4533,6 +4546,7 @@ https://taishan-dca1.uberinternal.com:443
 https://taishan.uberinternal.com:443
 https://tars.uberinternal.com:443
 https://taskly.uberinternal.com:443
+https://tassadar.UBERIntErNaL.com:443
 https://tassadar.uberinternal.com:443
 https://tax-profiles-admin.uBERinterNaL.com:443
 https://tax-profiles-admin.uberinternal.com:443

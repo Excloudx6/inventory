@@ -6276,6 +6276,7 @@ atg-lls-dev.uberinternal.com
 atg-lls-staging.uberinternal.com
 atg-lls.uberinternal.com
 atg-logsets.uberinternal.com
+atg-metrics-lab-staging.UBERIntErNaL.com
 atg-metrics-lab-staging.uberinternal.com
 atg-metrics-lab.uberinternal.com
 atg-partners.ubERIntErNAl.com
@@ -7466,6 +7467,7 @@ candidate-experience-staging.uber.com
 candidate-experience-staging.uberinternal.com
 cannes.uberinternal.com
 canopy.uberinternal.com
+cap-staging.UBERIntErNaL.com
 cap-staging.uberinternal.com
 cap.uberinternal.com
 capacity.uberinternal.com
@@ -8541,6 +8543,7 @@ dsl-staging.uberinternal.com
 dsl-testing.uberinternal.com
 dsl.uberinternal.com
 dsw-shiny.uberinternal.com
+dsw.UBERIntErNaL.com
 dsw.uberinternal.com
 dswa76-sjc1.prod.uber.com
 duplica.uberinternal.com
@@ -8571,6 +8574,7 @@ eem.uberinternal.com
 efi.uberinternal.com
 ekSIMberair.et.uber.com
 elasticbeanstalk-access.accountapi.accessaccess.access.tm1ext.awscorp.uberinternal.com
+elasticbeanstalk-access.admin-backup-update.tm1dev.awscorp.uberinternal.com
 elasticbeanstalk-access.adminaccess-accessdata.tm1dev.awscorp.uberinternal.com
 elasticbeanstalk-accountalphaalpha.access.alphabeta-confluence-gw08-sae1.tm1ext.awscorp.uberinternal.com
 elasticbeanstalk-accountbucketgw08-sae1.tm1ext.awscorp.uberinternal.com
@@ -8876,6 +8880,7 @@ fresh.uber.com
 frontends-all.uber.com
 frontends-cloud.uber.COm
 frontends-cloud.uber.com
+frontends-dc.uBER.com
 frontends-dc.uber.com
 frontends-geo.uber.com
 frontends-primary.uber.com
@@ -9054,6 +9059,7 @@ gw04-use1.awscorp.uberinternal.com
 gw04-usw1.awscorp.uberinternal.com
 gw05-apse1.awscorp.UberiNternAl.com
 gw05-apse1.awscorp.uberinternal.com
+gw05-euc1.awscorp.UBERIntErNaL.com
 gw05-euc1.awscorp.uberinternal.com
 gw05-euc1.tm1ext.awscorp.uberinternal.com
 gw05-sae1.awscorp.uberinternal.com
@@ -9640,9 +9646,11 @@ mobileappdirectory.uberinternal.com
 mobileci.uberinternal.com
 models.uberinternal.com
 mojave-staging.uberinternal.com
+mojave.UBERIntErNaL.com
 mojave.uberinternal.com
 moncon.uberinternal.com
 monitoring.uberinternal.com
+monocle.UBERIntErNaL.com
 monocle.uberinternal.com
 morpheus.uberinternal.com
 movement-admin.uberinternal.com
@@ -10672,6 +10680,7 @@ taishan.uberinternal.com
 talent.uber.com
 tars.uberinternal.com
 taskly.uberinternal.com
+tassadar.UBERIntErNaL.com
 tassadar.uberinternal.com
 tax-profiles-admin.uBERinterNaL.com
 tax-profiles-admin.uberinternal.com
@@ -11356,6 +11365,8 @@ wpIPS.awscorp.uberinternal.com
 wpe-breeze.uberinternal.com
 wpe.uberinternal.com
 wwW.Andrey.ubereats.com
+wwW.Biokids.ubereats.com
+wwW.Mas.uber.com
 wwW.Nordicom.cfe.uber.com
 wwW.Result.ubereats.com
 wwW.Solidaritat.cfe.uber.com

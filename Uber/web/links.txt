@@ -180,10 +180,12 @@ https://apis.google.com/js/platform.js
 https://apis.google.com/marketplace/button?usegapi=1
 https://apis.google.com/marketplace/button?usegapi\u003d1
 https://app-lon02.marketo.com/js/forms2/js/forms2.js
+https://app.arize.com
 https://app.asana.com
 https://app.box.com
 https://app.contentful.com
 https://app.datadoghq.com/
+https://app.dev.arize.com
 https://app.docusign.com/
 https://app.glean.com/a/gatg/js?id=
 https://app.glean.com/debug/bootstrap?id=
@@ -364,6 +366,7 @@ https://clients6.google.com
 https://clientstream.launchdarkly.com
 https://cloud.google.com/iam/docs/creating-custom-roles#creating_a_custom_role
 https://cloud.google.com/iam/docs/creating-custom-roles#iam-custom-roles-testable-permissions-gcloud
+https://cloud.google.com/resource-manager/docs/creating-managing-projects#identifying_projects
 https://cloud.google.com/storage/docs/gsutil/commands/iam
 https://cloud.google.com/storage/docs/using-bucket-labels
 https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=
@@ -394,6 +397,7 @@ https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfr
 https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/javascripts/main-1d88c46df9.js
 https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/javascripts/main-306dc21bdd.js
 https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/javascripts/main-539cf7d4fa.js
+https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/javascripts/main-61c2055291.js
 https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/javascripts/main-7685de1872.js
 https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/javascripts/main-990b20fd6e.js
 https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/javascripts/main-9975de986f.js
@@ -408,6 +412,7 @@ https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfr
 https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/javascripts/rider-sign-up-8ba27a0e4c.js
 https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/javascripts/rider-sign-up-948aaa24c9.js
 https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/javascripts/rider-sign-up-a385533a94.js
+https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/javascripts/rider-sign-up-bfbfbcd503.js
 https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/javascripts/rider-sign-up-d77e7efc14.js
 https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/postmates/postmates-logo-b0c4652677.svg
 https://d1a3f4spazzrp4.cloudfront.net/arch-frontend/1.1.1/d1a3f4spazzrp4.cloudfront.net/stylesheets/eats-cfeec66eed.css
@@ -500,6 +505,9 @@ https://disqus.com/{{id}}
 https://dkl8of78aprwd.cloudfront.net/checkout-uber-one-genie.png
 https://dkpjsmri0lcm2.cloudfront.net
 https://docs.arize.com/arize
+https://docs.arize.com/arize/data-ingestion/object-store-integration/aws-s3-example
+https://docs.arize.com/arize/data-ingestion/object-store-integration/gcs-example
+https://docs.arize.com/arize/integrations/graphql-api
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/tagging-managing.html
 https://docs.chef.io/automate
 https://docs.chef.io/automate/applications_setup/
@@ -1632,6 +1640,7 @@ https://uberblog.10upcdn.com/css/app.css?ver=1659435161832
 https://uberblog.10upcdn.com/css/app.css?ver=1659435240441
 https://uberblog.10upcdn.com/css/app.css?ver=1660058745018
 https://uberblog.10upcdn.com/css/app.css?ver=1660151285707
+https://uberblog.10upcdn.com/css/app.css?ver=1660151306044
 https://uberblog.10upcdn.com/css/app.css?ver=1660151325843
 https://uberblog.10upcdn.com/js/app.js?ver=1645653654914
 https://uberblog.10upcdn.com/js/app.js?ver=1645653655926
@@ -1775,6 +1784,7 @@ https://uberblog.10upcdn.com/js/app.js?ver=1659435161832
 https://uberblog.10upcdn.com/js/app.js?ver=1659435240441
 https://uberblog.10upcdn.com/js/app.js?ver=1660058745018
 https://uberblog.10upcdn.com/js/app.js?ver=1660151285707
+https://uberblog.10upcdn.com/js/app.js?ver=1660151306044
 https://uberblog.10upcdn.com/js/app.js?ver=1660151325843
 https://uberblog.10upcdn.com/js/state/blog/atlanta/business.js?ver=1656423227616
 https://uberblog.10upcdn.com/js/state/blog/atlanta/business.js?ver=1656423326327
@@ -1816,6 +1826,7 @@ https://uberblog.10upcdn.com/js/state/blog/denver/business.js?ver=1656423305914
 https://uberblog.10upcdn.com/js/state/blog/denver/business.js?ver=1656423347639
 https://uberblog.10upcdn.com/js/state/blog/denver/business.js?ver=1659435161832
 https://uberblog.10upcdn.com/js/state/blog/denver/business.js?ver=1659435240441
+https://uberblog.10upcdn.com/js/state/blog/denver/business.js?ver=1660151306044
 https://uberblog.10upcdn.com/js/state/blog/las-vegas/business.js?ver=1646774714147
 https://uberblog.10upcdn.com/js/state/blog/las-vegas/business.js?ver=1649164291348
 https://uberblog.10upcdn.com/js/state/blog/las-vegas/business.js?ver=1651601868840
@@ -1950,6 +1961,7 @@ https://ubereats.app.link/ENm9jOsTEeb
 https://ubereats.app.link/XYNDHuGMy5
 https://uberghcmixer.splashthat.com/
 https://uc.foundation/
+https://umap-learn.readthedocs.io/en/latest/parameters.html#
 https://universal-activity-service.itunes.apple.com/play
 https://universal-activity-service.itunes.apple.com/qa/play
 https://unpkg.com/@loaders.gl
@@ -2127,6 +2139,7 @@ https://www.gstatic.com/recaptcha/releases/_exWVY_hlNJJl2Abm8pI9i1L/recaptcha__e
 https://www.gstatic.com/recaptcha/releases/g9jXH0OtfQet-V0Aewq23c7K/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/gWN_U6xTIPevg0vuq7g1hct0/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/gZWLhEUEJFxEhoT5hpjn2xHK/recaptcha__en.js
+https://www.gstatic.com/recaptcha/releases/mq0-U1BHZ5YTcoDC-CvsLPNc/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js
 https://www.gstatic.com/recaptcha/releases/zLD1nfkNCJC1kEswSRdSyd-p/recaptcha__en.js
 https://www.habitat.sh/docs/reference/#sts=health-check
