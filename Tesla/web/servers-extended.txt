@@ -124,7 +124,7 @@ http://courses.tesla.com:80 [null] [302] [null] ["text/html"] ["104.111.226.14"]
 http://cx-apac.tesla.com:80 ["Tesla"] [200] [6244] ["text/html"] ["88.221.168.53"] ["https://cx-apac.tesla.com/"] [null] [["Akamai"]] [];
 http://cx-api-apac.tesla.com:80 [null] [200] [42] ["application/json"] ["72.246.168.53"] ["https://cx-api-apac.tesla.com/"] [null] [null] [];
 http://dataviz.tesla.com:80 ["302 Found"] [302] [427] ["text/html"] ["104.97.82.192"] ["https://dataviz.tesla.com/"] ["akamai/nginx"] [["Nginx"]] [];
-http://digitalassets-accounts.tesla.com:80 [null] [301] [null] [null] ["151.101.2.92"] [null] ["Cloudinary"] [null] [];
+http://digitalassets-accounts.tesla.com:80 [null] [301] [null] [null] ["23.203.68.145"] [null] ["Cloudinary"] [null] [];
 http://digitalassets-energy.tesla.com:80 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
 http://digitalassets-learning.tesla.com:80 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
 http://digitalassets-shop.tesla.com:80 [null] [301] [null] [null] ["2.16.186.242"] [null] ["Cloudinary"] [null] [];
@@ -411,7 +411,7 @@ https://courses.tesla.com:443 [null] [302] [null] ["text/html"] ["104.111.226.14
 https://cx-apac.tesla.com:443 ["Tesla"] [200] [6240] ["text/html"] ["88.221.168.53"] [null] [null] [["Akamai"]] [];
 https://cx-api-apac.tesla.com:443 [null] [200] [42] ["application/json"] ["72.246.168.53"] [null] [null] [null] [];
 https://dataviz.tesla.com:443 ["302 Found"] [302] [428] ["text/html"] ["104.97.82.192"] [null] ["akamai/nginx"] [["Nginx"]] [];
-https://digitalassets-accounts.tesla.com:443 [null] [301] [null] [null] ["151.101.2.92"] [null] ["Cloudinary"] [null] [];
+https://digitalassets-accounts.tesla.com:443 [null] [301] [null] [null] ["23.203.68.145"] [null] ["Cloudinary"] [null] [];
 https://digitalassets-energy.tesla.com:443 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
 https://digitalassets-learning.tesla.com:443 [null] [404] [null] ["image/gif"] ["151.101.2.1"] [null] ["Cloudinary"] [null] [];
 https://digitalassets-shop.tesla.com:443 [null] [301] [null] [null] ["2.16.186.242"] [null] ["Cloudinary"] [null] [];
