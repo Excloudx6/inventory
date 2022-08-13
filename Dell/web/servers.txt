@@ -115,6 +115,8 @@ http://consoledemo.delltechnologies.com:80
 http://contact.dell.com:80
 http://content-cdn.dell.com:80
 http://corporate.delltechnologies.com:80
+http://crmgp.laposte.aw.dell.com:443
+http://crmgp.laposte.aw.dell.com:80
 http://crowdsourcing.dell.com:80
 http://csc.apj.dell.com:80
 http://cus.cdn.dell.com:80
@@ -293,6 +295,7 @@ http://nexus2.dell.com:80
 http://notify.dell.com:80
 http://nsm.dell.com:80
 http://ois.dell.com:80
+http://oneairmailuat.dell.com:80
 http://openbasket.us.dell.com:80
 http://orderstatus.us.dell.com:80
 http://osur.dell.com:80
@@ -441,6 +444,8 @@ http://www-cdn.dell.com:80
 http://www-csb.dell.com:80
 http://www-ea2cn-p0-csb.dell.com:80
 http://www-no2cn-p0-csb.dell.com:80
+http://www-poc.dell.com:80
+http://www-poc.ins.dell.com:80
 http://www.deals.dell.com:80
 http://www.dell.com:80
 http://www.dellnetworkingvr.dell.com:80
@@ -543,6 +548,7 @@ https://apjdelivery.dell.com:443
 https://app-community.dell.com:443
 https://app.response.dell.com:443
 https://appc1.euro.dell.com:443
+https://appc2.democenter.dell.com:443
 https://appc2.euro.dell.com:443
 https://applause-eigsdc.dell.com:443
 https://apwebservice.dell.com:443
@@ -603,6 +609,7 @@ https://boss.dell.com:443
 https://br.premier.dell.com:443
 https://brand.delltechnologies.com:443
 https://browsewip.dell.com:443
+https://browsewip.ins.dell.com:443
 https://business.application-app.dell.com:443
 https://c20agency.saas.dell.com:443
 https://cafe.delltechnologies.com:443
@@ -727,6 +734,7 @@ https://dellupdater.dell.com:443
 https://dellwfmmobile.us.dell.com:443
 https://demo.delltechnologies.com:443
 https://democonsole.delltechnologies.com:443
+https://dev-author-dam.delltechnologies.com:443
 https://dev-dam.dell.com:443
 https://dev-dam.delltechnologies.com:443
 https://dev-edp.dell.com:443
@@ -734,6 +742,7 @@ https://dev-myconnect-amer.dell.com:443
 https://dev-myconnect-emea.dell.com:443
 https://dev.remediation.dell.com:443
 https://dev1-dam.delltechnologies.com:443
+https://df-staging.dell.com:443
 https://df.dell.com:443
 https://dfs.dell.com:443
 https://dfsmoss.ins.dell.com:443
@@ -744,6 +753,7 @@ https://dna.dell.com:443
 https://docs.delltechnologies.com:443
 https://downloads.dell.com:443
 https://downloads.delltechnologies.com:443
+https://downloads.ins.dell.com:443
 https://dpacksupport.dell.com:443
 https://dpacksupport.dell.com:8443
 https://dr-dam.delltechnologies.com:443
@@ -813,6 +823,7 @@ https://enterpriseenrollment.dell.com:443
 https://enterpriseenrollment.euro.dell.com:443
 https://enterpriseenrollment.jp.dell.com:443
 https://epr.dell.com:443
+https://eqlsupport.ins.dell.com:443
 https://es-cp.stg.cloudstore.dell.com:443
 https://es.community.dell.com:443
 https://esaeapgateway.dell.com:443
@@ -969,6 +980,7 @@ https://kaw01gw-myconnect.dell.com:443
 https://kaw01gw1.corp.connect.dell.com:443
 https://kaw01gw2-myconnect.dell.com:443
 https://kaw01gw2.corp.connect.dell.com:443
+https://kaw01gw3.corp.connect.dell.com:443
 https://kaw01pregw-myconnect.dell.com:443
 https://kaw02.corp.connect.dell.com:443
 https://kaw02gw-myconnect.dell.com:443
@@ -1044,6 +1056,7 @@ https://mftob-pc1-dmz.dell.com:443
 https://mftob.dell.com:443
 https://mimsy-sit.dell.com:443
 https://mimsy.dell.com:443
+https://mobilemail.ins.dell.com:443
 https://mockapi.sa-test2.insights.dell.com:443
 https://moodle.dell.com:443
 https://moss2010-rict-pc1.us.dell.com:443
@@ -1125,6 +1138,8 @@ https://ois.dell.com:443
 https://oitaus.dell.com:443
 https://oitdur.dell.com:443
 https://ome.apis.dell.com:443
+https://oneairmail.dell.com:443
+https://oneairmailuat.dell.com:443
 https://openbasket.us.dell.com:443
 https://orderstatus.us.dell.com:443
 https://osur.dell.com:443
@@ -1386,6 +1401,7 @@ https://sdl.dmf.dell.com:443
 https://sdms.dell.com:443
 https://se-cp.cloudstore.dell.com:443
 https://search-cdn.dell.com:443
+https://search-cdn.euro.dell.com:443
 https://search-cdn.la.dell.com:443
 https://searchapj-cdn.dell.com:443
 https://secured.dfs.dell.com:443
@@ -1523,6 +1539,7 @@ https://test-wp.delltechnologies.com:443
 https://test.remediation.dell.com:443
 https://testvault.dell.com:443
 https://tienda.dell.com:443
+https://timelog-eigsdc.dell.com:443
 https://tip.dell.com:443
 https://tj.d.dell.com:443
 https://tmxvaas.dell.com:443
@@ -1554,6 +1571,7 @@ https://ui.remediation.dell.com:443
 https://ui.test.remediation.dell.com:443
 https://uk-cp.cloudstore.dell.com:443
 https://uk-cp.stg.cloudstore.dell.com:443
+https://unitedkingdom.dell.com:443
 https://updates.clientsolutions.dell.com:443
 https://updates.test.clientsolutions.dell.com:443
 https://ups.dell.com:443
