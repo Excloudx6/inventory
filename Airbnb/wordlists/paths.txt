@@ -2004,6 +2004,8 @@
 /a/b
 /a/gim
 /a/i
+/abbi-demo/host
+/abbi-demo/presenter
 /abc/
 /about
 /accenturereachentrydisplayonplayer/index/toggle-display-on-player/captionAssetId/
@@ -2451,6 +2453,7 @@
 /guest/thread/:threadID
 /guidebooks
 /handleContextUpdate
+/health
 /healthcheck
 /heartbeat
 /height/
