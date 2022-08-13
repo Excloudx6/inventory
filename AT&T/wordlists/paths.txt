@@ -16674,6 +16674,7 @@
 ./{0}.{1}
 /
 /#!/
+/##version##
 /#/
 /#/authenticate
 /#/continueVMA?canceled=true
@@ -22312,6 +22313,7 @@
 /embed/iframe/
 /embed/medias/
 /embed/playlists/
+/embeddedservice/
 /emergency-locations
 /emergencyAddress
 /emergencyAddress/forbiddenWithoutDL
@@ -22469,6 +22471,10 @@
 /esupport/main.html#!/wireless
 /esupport/sharedSegments/contactusprofileinfo.jsp
 /esupport/smbindex.jsp
+/esw
+/esw-slds
+/esw.html
+/eswDev.html
 /et-api
 /etc/att/common/attcore/clientlib/js/attcore.js
 /etc/att/common/attjquery/clientlib/js/ATTjQuery.js
@@ -23629,6 +23635,7 @@
 /invoices/add-invoice
 /invoices/filters
 /invoices?
+/iojs/
 /ios/app-store/
 /iot-connectivity
 /ipms/cloudfiles/v1
@@ -23863,6 +23870,7 @@
 /licenses/bulk/
 /licensesBuyProduct
 /light
+/lightning/lightning.out.js
 /lights/
 /line-group
 /link
@@ -26021,6 +26029,7 @@
 /servlet/EmailServlet?Action=Logoff&amp;Redirect=
 /servlet/UCATServlet?ucataction=emulatesbi&amp;Servlet=AddressBookServlet&amp;Action=HelpPage&amp;PageTemplate=
 /servlet/rtaImage?
+/servlet/servlet.loginwidgetcontroller?type=javascript_widget
 /session?v=1
 /set-new-password
 /set-new-password-expired
@@ -27810,15 +27819,18 @@
 /wicket/resource/com.appdirect.wicket.resources.Resource/spa/themes/appdirectapp/images/logo_white_2x.png
 /widget/
 /widgets/follow_button.2b1befbea3a1424bb94efd70105dfa52.{{lang}}.html
+/widgets/follow_button.6184048311ebe2b4d9580ce803ab4baa.{{lang}}.html
 /widgets/follow_button.d7fc2fc075c61f6fa34d79a0cbbf1e34.{{lang}}.html
 /widgets/follow_button.dc05643fdb8d0e2b89e5cc3c1d26d1b5.{{lang}}.html
 /widgets/follow_button.f39f39d5e1aec76c12af50a9a19e4fee.{{lang}}.html
 /widgets/hub.html
 /widgets/tweet_button.2b1befbea3a1424bb94efd70105dfa52.{{lang}}.html
+/widgets/tweet_button.6184048311ebe2b4d9580ce803ab4baa.{{lang}}.html
 /widgets/tweet_button.d7fc2fc075c61f6fa34d79a0cbbf1e34.{{lang}}.html
 /widgets/tweet_button.dc05643fdb8d0e2b89e5cc3c1d26d1b5.{{lang}}.html
 /widgets/tweet_button.f39f39d5e1aec76c12af50a9a19e4fee.{{lang}}.html
 /widgets/widget_iframe.2b1befbea3a1424bb94efd70105dfa52.html
+/widgets/widget_iframe.6184048311ebe2b4d9580ce803ab4baa.html
 /widgets/widget_iframe.d7fc2fc075c61f6fa34d79a0cbbf1e34.html
 /widgets/widget_iframe.dc05643fdb8d0e2b89e5cc3c1d26d1b5.html
 /widgets/widget_iframe.f39f39d5e1aec76c12af50a9a19e4fee.html
@@ -31512,6 +31524,7 @@ common/ChangeOneTimePassword.js
 common/ChangePasswordSuccess.js
 common/EnforceResetPassword.js
 common/ErrorForm.js
+common/LoginAutomationNotificationForm.js
 common/NotificationForm
 common/ResetPasswordByEmail.js
 common/ResetPasswordByNumber.js
@@ -31853,6 +31866,8 @@ content/images/appbackgrounds/69_823ae15c1b8b6fd2804952776aa4416b.jpg
 content/images/appbackgrounds/6_d405ce4edf49d83c99648a67afef9054.jpg
 content/images/appbackgrounds/7-small_e1873e6ad53a0af444f5addb67eaced6.jpg
 content/images/appbackgrounds/70-small_3aa55695cfa15eef07306cc6dfb004bd.jpg
+content/images/appbackgrounds/70-small_b824eab0c5ff788375e1d813066e7870.jpg
+content/images/appbackgrounds/70_2ffdc06ed22bb4307cfd09798008b468.jpg
 content/images/appbackgrounds/70_58aafa46b0a2ccb4443ae4bf3f6ef889.jpg
 content/images/appbackgrounds/7_28c6789c809592f948d6ad165bc97b4d.jpg
 content/images/appbackgrounds/8-small_552832c1e01cb3e3d5b224748901e127.jpg
@@ -32374,6 +32389,7 @@ dsl/checkout/complete/complete.jsp
 dss2021/ceo-challenge
 dvc-worklet/krisp-audio-worklet.js
 dvc-worklet/preload-check-worker.js
+dyn_wdp.js
 dynamic_brand/assets/images/powered-by/logo_rc_poweredby.svg
 dynamic_brand/assets/images/powered-by/logo_with-verizon.svg
 dynamic_brand/configs/1210/base.json
@@ -34341,6 +34357,7 @@ one/two
 one/two/three
 one/two/three.js
 oneDs_6ca86789a5ca36d5de0c.js
+oneDs_8363475333f6d315e7ae.js
 online.json
 oo_conf_inline.js
 oo_conf_tab.js
@@ -35056,6 +35073,7 @@ serviceWeb/SSOLogin.js
 serviceWeb/SendEmailSuccessForResetPasswordWrapper
 serviceWeb/SendEmailSuccessForSetupPasswordWrapper
 serviceWeb/SendRecoveryEmailWrapper.js
+serviceWeb/ServiceWebLoginAutomationNotification
 service_website/home_page/hero_video/video_url
 service_website/one_service/reverse_proxy/service_website_mapped_route
 service_website/show_faq
@@ -35231,6 +35249,17 @@ ssaf-uc.js
 sso/login
 st_insights.js
 static/api.html#
+static/assets/lato-latin-100-5a8eb775.woff
+static/assets/lato-latin-100italic-e501e52f.woff
+static/assets/lato-latin-300-4d96f9e6.woff
+static/assets/lato-latin-300italic-91aedf09.woff
+static/assets/lato-latin-400-319df0f5.woff
+static/assets/lato-latin-400italic-17e7244f.woff
+static/assets/lato-latin-700-a354bb0b.woff
+static/assets/lato-latin-700italic-be7f3d32.woff
+static/assets/lato-latin-900-22f1d97b.woff
+static/assets/lato-latin-900italic-bd29000d.woff
+static/assets/rc-font-02704915.eot
 static/bookmark.html
 static/btn/v2/lg-share-
 static/chunks/
@@ -35781,6 +35810,7 @@ static/media/direction-rtl-1375883b2f1e6de4a4621aca550cbd1d.svg
 static/media/dropdown-c6cd8197101656eb7be9a80dcc6fea48.svg
 static/media/favicon-f80fad6fcafaf6c77069a2cc87263b16.ico
 static/media/favicon_dot-1f8a0daa881712e77ad663d770a8165f.ico
+static/media/flags-10a712d5.png
 static/media/formula-513e689177d9c7b25d1f232b2497570c.svg
 static/media/header-2-34914793e4453a1d65d78b933b421fce.svg
 static/media/header-8c2dc93d4be101f76bae77761ec90c8e.svg
@@ -35802,6 +35832,7 @@ static/media/link-5c302e73950bc52c1afb8cf4f3ceb707.svg
 static/media/list-bullet-cb92933c891e9914f1ac99ea79305cd4.svg
 static/media/list-check-b70fb56c61cdc4dfdacbc1d7914368a6.svg
 static/media/list-ordered-3e184f964f06cafa0ae283d1ad5b6cd8.svg
+static/media/no-search-result-c03ebcdf.svg
 static/media/outdent-dd7145d26d6ba4aed3ebd11dc181d507.svg
 static/media/strike-248ad333a3ad0b651e533dfadb12dde0.svg
 static/media/subscript-9d8ea7c3c97df4bc024f7dab9248f7ce.svg
@@ -35814,6 +35845,7 @@ static/rapture/Ext/patch
 static/rapture/Ext/ux
 static/rapture/NX
 static/tweet.html
+static_wdp.js
 store.json
 store.xml
 store/index.js
@@ -36545,6 +36577,7 @@ vulcanV2Player/video/controls/SphericalControl/SphericalControl.js
 vulcanV2Player/video/controls/TechInfoControl/TechInfoControl.js
 vulcanV2Player/video/controls/VolumeSliderControl/VolumeSliderControl.js
 vulcanV2Player/video/ui_components/Storyboard.js
+wdp.js
 we-connecting/generic
 we-localnav/app-store
 we-localnav/apple-arcade-cta

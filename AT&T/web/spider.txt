@@ -25308,3 +25308,363 @@
 [url] - [code-400] - http://dss-p9mbw22.att.com:8443
 [url] - [code-400] - http://eservices2.bus.att.com:443
 [url] - [code-403] - https://aia-trn1.test.dlife.att.com:443
+[form] - https://saml.e-access.att.com/isam/sps/ATTIDPEntity/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJephBxJhG1DjtDXg2kas9NBLQNOrmIBEstxVHn9fSkqTNkBC3pYzszMDzlG0jeVlR2d9A787QJpc%2BPPUNhr58LgIOqe5EaiQa9ECcpL8UP7Y8DSKuXWGjDRN8I72OUsggiNl9EhbrxbBbnu92X1bb%2B%2FqeJYf82me%2BVvHSZYXqSyKujillzM5PV4m8pjFWVyP1J%2Fg0OssAi8bTEY1xA7WGklo8vM4TcM4D5Osigs%2BS3g6%2FTVSVz6s0oIG%2BpnIImes9x5BKKQExEgQRdK0TPkxQ4usrKr1an%2BtSdHzgE1j1ph79RJk%2F9LGF6VPSt9%2FXsJxBCH%2FXlX7cL87VKNI%2BbecK6Oxa8EdwD0oCbc3mzefTxIacILg1eOjDaXRBJqYbTpvCZnRMJgLe6chomGiIXB95ge4ExIje7bBctg67zF86M4tP9wyZ%2F%2FC3oiWb30%2BX41plHwe5v35alwr6OMakigZJuoU1gOUdxotSFUrOAWvMmXTmMcrB97IIiDXQXDBlpPRy%2F%2Bfd%2FkH&RelayState=%2F
+[form] - https://xassets.stage.att.com:443
+[form] - https://xassets.test.att.com:443
+[form] - https://xmap.stage.att.com:443
+[form] - https://xmap.test.att.com:443
+[form] - https://xoauthaccess.stage.att.com:443
+[form] - https://xoauthaccess.test.att.com:443
+[href] - http://ethernet-reports-prod-eastus2.Az.cloud.att.com:80/stylesheets/style.css
+[href] - http://promo.att.com/ArmaloAgo
+[href] - http://promo.att.com/TC1
+[href] - http://promo.att.com/TC2
+[href] - http://promo.att.com/TC3
+[href] - http://promo.att.com/TC4
+[href] - http://promo.att.com/TC5
+[href] - http://promo.att.com/TC6
+[href] - http://promo.att.com/TC7
+[href] - http://promo.att.com/TC8
+[href] - https://911standalone.uc.att.com/brand_resources/911standalone.uc.att.com/favicon.ico?v=2022-08-13 06:05:12 -0400
+[href] - https://bizcommunity.att.com/conversations/construction-engineering-assistance/att-ecr-site-access/62f543e7b80a287081dffcda
+[href] - https://bizcommunity.att.com/conversations/construction-engineering-assistance/construction-utility-plan-review/62f66a94e232bb63208a7f59
+[href] - https://bizcommunity.att.com/conversations/field-service-solutions/view-the-order-history-in-att-workforce-manager/62f63819c971e30321d64845
+[href] - https://bizcommunity.att.com/conversations/general-app-support/start-a-conference-in-the-att-officehand-desktop-application/62f63b4b7a05d965454a3825
+[href] - https://bizcommunity.att.com/conversations/messaging-solutions/change-a-users-last-name-in-att-message-archiving/62f63ccbe232bb63208a7df0
+[href] - https://bizcommunity.att.com/conversations/mobile-office-retail-solutions/viewing-and-changing-rate-plans-in-att-control-center/62f63d307a05d965454a382b
+[href] - https://bizcommunity.att.com/users/62f15b2ec971e30321d61f28
+[href] - https://bizcommunity.att.com/users/62f66a5be232bb63208a7f54
+[href] - https://bizcommunity.att.com:443/conversations/account-billing-support/overall-customer-service-is-terrible/5defd156bad5f2f606ea9aec
+[href] - https://bizcommunity.att.com:443/conversations/billing/how-do-access-my-firstnet-bill/62f6af80b2b2e606ecc2d129
+[href] - https://bizcommunity.att.com:443/conversations/construction-engineering-assistance/construction-utility-plan-review/62f66a94e232bb63208a7f59
+[href] - https://bizcommunity.att.com:443/conversations/eligibility/who-is-eligible-for-firstnet/62f6aedd7a05d965454a3bfe
+[href] - https://bizcommunity.att.com:443/conversations/general-app-support/start-a-conference-in-the-att-officehand-desktop-application/62f63b4b7a05d965454a3825
+[href] - https://bizcommunity.att.com:443/conversations/general-questions/how-is-firstnet-different-from-atts-commercial-and-consumer-network/62f6b313e232bb63208a81ec
+[href] - https://bizcommunity.att.com:443/conversations/messaging-solutions/bellsouth-email/5deff52dbad5f2f606695932
+[href] - https://bizcommunity.att.com:443/conversations/messaging-solutions/change-a-users-last-name-in-att-message-archiving/62f63ccbe232bb63208a7df0
+[href] - https://bizcommunity.att.com:443/conversations/mobile-office-retail-solutions/viewing-and-changing-rate-plans-in-att-control-center/62f63d307a05d965454a382b
+[href] - https://bizcommunity.att.com:443/conversations/technical-issues-support/what-kind-of-technical-support-does-firstnet-offer/62f6af36b2b2e606ecc2d127
+[href] - https://bizcommunity.att.com:443/users/5defb293f6e8ee15675224b5
+[href] - https://bizcommunity.att.com:443/users/5defb349f6e8ee156752fe3f
+[href] - https://bizcommunity.att.com:443/users/5defb4f0fd08351cbe29b18d
+[href] - https://bizcommunity.att.com:443/users/62f66a5be232bb63208a7f54
+[href] - https://brandshop.att.com/on/demandware.static/-/Sites-ATT-Shop-Library/default/v1660366097081/css/att-content-styles.css
+[href] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/css/allinone.css
+[href] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/css/myfontswebfontskit.css
+[href] - https://brandshop.att.com:443/on/demandware.static/-/Sites-ATT-Shop-Library/default/v1660366097081/css/att-content-styles.css
+[href] - https://brandshop.att.com:443/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/css/myfontswebfontskit.css
+[href] - https://call.att.com:443/control/ListLocales;jsessionid=29C5AD68D4CB2B116F66F4D589C16228.jvm1
+[href] - https://call.att.com:443/control/getpassword;jsessionid=29C5AD68D4CB2B116F66F4D589C16228.jvm1
+[href] - https://currently.att.yahoo.com/att/cm/12-15-old-accused-stabbing-221311507.html
+[href] - https://currently.att.yahoo.com/att/cm/anne-heche-death-obituary-car-crash-190632934.html
+[href] - https://currently.att.yahoo.com/att/cm/disaster-larger-world-history-coming-204541985.html
+[href] - https://currently.att.yahoo.com/att/cm/group-teens-detained-burying-man-120623427.html
+[href] - https://currently.att.yahoo.com/att/cm/marjorie-taylor-greene-files-articles-230944790.html
+[href] - https://currently.att.yahoo.com/att/cm/she-already-florida-jail-then-182744799.html
+[href] - https://currently.att.yahoo.com/att/cm/she-respected-nurse-now-shes-120028850.html
+[href] - https://currently.att.yahoo.com/att/cm/the-fda-recommends-repeated-at-home-tests-to-avoid-false-negatives-170635218.html
+[href] - https://currently.att.yahoo.com/att/venue-where-salman-rushdie-stabbed-063925408.html
+[href] - https://currently.att.yahoo.com/finance/news/inflation-reduction-act-passes-house-224625452.html
+[href] - https://currently.att.yahoo.com/finance/news/might-time-companies-san-francisco-224801171.html
+[href] - https://currently.att.yahoo.com/finance/news/this-week-in-bidenomics-democrats-notch-a-five-fer-183746374.html
+[href] - https://currently.att.yahoo.com/lifestyle/camera-catches-boyfriend-sacrificing-girlfriend-201448693.html
+[href] - https://currently.att.yahoo.com/lifestyle/daisy-fuentes-explains-why-she-looks-different-155859243.html
+[href] - https://currently.att.yahoo.com/lifestyle/debra-messing-abortion-rights-roe-v-wade-13-musical-120048125.html
+[href] - https://currently.att.yahoo.com/lifestyle/mom-makes-upsetting-discovery-walmart-134505752.html
+[href] - https://currently.att.yahoo.com/news/china-rescinds-pledge-not-send-220340782.html
+[href] - https://currently.att.yahoo.com/news/short-kings-rise-grind-study-225908780.html
+[href] - https://currently.att.yahoo.com/news/texas-man-convicted-child-sexual-005828908.html
+[href] - https://currently.att.yahoo.com/news/though-trump-had-reputation-avoiding-055037442.html
+[href] - https://currently.att.yahoo.com/sports/deshaun-watson-apologizes-to-all-of-the-women-that-i-have-impacted-browns-suspension-232445332.html
+[href] - https://dev-brandshop.att.com/
+[href] - https://dev-brandshop.att.com/accessories/
+[href] - https://dev-brandshop.att.com/account
+[href] - https://dev-brandshop.att.com/apparel/
+[href] - https://dev-brandshop.att.com/apparel/apparel-sale/
+[href] - https://dev-brandshop.att.com/apparel/apparel-view-all/
+[href] - https://dev-brandshop.att.com/apparel/bottoms/
+[href] - https://dev-brandshop.att.com/apparel/kids/
+[href] - https://dev-brandshop.att.com/apparel/outerwear/
+[href] - https://dev-brandshop.att.com/apparel/shirts/
+[href] - https://dev-brandshop.att.com/att-sale/
+[href] - https://dev-brandshop.att.com/cart
+[href] - https://dev-brandshop.att.com/collections/
+[href] - https://dev-brandshop.att.com/collections/att-business/
+[href] - https://dev-brandshop.att.com/collections/believe/
+[href] - https://dev-brandshop.att.com/collections/disaster-recovery/
+[href] - https://dev-brandshop.att.com/collections/firstnet/
+[href] - https://dev-brandshop.att.com/collections/how-we-connect/
+[href] - https://dev-brandshop.att.com/collections/it-can-wait/
+[href] - https://dev-brandshop.att.com/collections/sock-society/
+[href] - https://dev-brandshop.att.com/collections/team-colors/
+[href] - https://dev-brandshop.att.com/collections/team-colors/tc-view-all/
+[href] - https://dev-brandshop.att.com/custom-orders/
+[href] - https://dev-brandshop.att.com/customer-service-ordering.html
+[href] - https://dev-brandshop.att.com/customer-service-privacy.html
+[href] - https://dev-brandshop.att.com/events/
+[href] - https://dev-brandshop.att.com/events/events-view-all/
+[href] - https://dev-brandshop.att.com/events/under-15-dollars/
+[href] - https://dev-brandshop.att.com/events/under-2-dollars/
+[href] - https://dev-brandshop.att.com/events/under-30-dollars/
+[href] - https://dev-brandshop.att.com/events/under-5-dollars/
+[href] - https://dev-brandshop.att.com/giftcard-balance/
+[href] - https://dev-brandshop.att.com/help
+[href] - https://dev-brandshop.att.com/office/
+[href] - https://dev-brandshop.att.com/office/bags/
+[href] - https://dev-brandshop.att.com/office/drinkware/
+[href] - https://dev-brandshop.att.com/office/office-sale/
+[href] - https://dev-brandshop.att.com/office/office-view-all/
+[href] - https://dev-brandshop.att.com/office/pen-and-paper/
+[href] - https://dev-brandshop.att.com/office/tech/
+[href] - https://dev-brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660319352063/css/allinone.css
+[href] - https://dev-brandshop.att.com/orders
+[href] - https://dev-brandshop.att.com/register
+[href] - https://dev-brandshop.att.com/returns-exchanges.html
+[href] - https://dev-brandshop.att.com/returnsexchanges.html
+[href] - https://dev-brandshop.att.com/search?cgid=att-fiber
+[href] - https://dev-brandshop.att.com/search?cgid=hats-and-accessories
+[href] - https://dev-brandshop.att.com/search?cgid=workwear-favorites
+[href] - https://dev-brandshop.att.com/shippinginformation.html
+[href] - https://dev-brandshop.att.com:443/on/demandware.static/-/Sites-ATT-Shop-Library/default/v1660319352063/css/att-content-styles.css
+[href] - https://dev-brandshop.att.com:443/on/demandware.static/-/Sites/default/dw9dbae8b8/ATT/favicon.ico
+[href] - https://dev-brandshop.att.com:443/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660319352063/css/myfontswebfontskit.css
+[href] - https://dev-brandshop.att.com:443/on/demandware.static/Sites-Site/-/-/internal/css/dwux-sf-15.5.css?v=22.7.2.16
+[href] - https://developer.att.com/static-assets/css/common/bs4-developer.min.css?v=13082022
+[href] - https://developer.att.com:443/static-assets/css/common/bs4-developer.min.css?v=13082022
+[href] - https://enroll.dp.att.com/O365DvcCompliance-COU_iOS-v2.html
+[href] - https://enroll.dp.att.com/O365DvcCompliance_COU_AndroidEnt_v2.1.html
+[href] - https://envivo.att.yahoo.com/att/cm/17-peores-escenas-sexo-cine-150143791.html
+[href] - https://envivo.att.yahoo.com/att/cm/sombrilla-arrastrada-viento-mata-mujer-173028331.html
+[href] - https://envivo.att.yahoo.com/deportes/exjugadores-nfl-raza-negra-recibir%C3%A1n-160640717.html
+[href] - https://envivo.att.yahoo.com/deportes/piloto-chino-zhou-guanyu-abusos-racistas-f-1-232349841.html
+[href] - https://envivo.att.yahoo.com/finance/news/empresaria-mexicana-ampar%C3%ADn-serrano-fundadora-011932320.html
+[href] - https://envivo.att.yahoo.com/noticias/checo-p%C3%A9rez-explica-diferencia-verstappen-100032765.html
+[href] - https://envivo.att.yahoo.com/noticias/opini%C3%B3n-libro-the-satanic-verses-221636282.html
+[href] - https://envivo.att.yahoo.com/noticias/padre-familia-enfermedad-terminal-revela-143629561.html
+[href] - https://envivo.att.yahoo.com/vida-estilo/8-a%C3%B1os-muerte-esposa-robin-044804691.html
+[href] - https://envivo.att.yahoo.com/vida-estilo/nicole-kidman-rio-divorcio-tom-cruise-140504850.html
+[href] - https://envivo.att.yahoo.com/vida-estilo/sexo-frecuencia-demasiado-o-muy-poco-lo-que-dicen-los-estudios-175256441.html
+[href] - https://fonts.googleapis.com/css?family=Cantarell&subset=latin
+[href] - https://fonts.googleapis.com/css?family=Droid+Sans&subset=latin
+[href] - https://forums.att.com/conversations/android/att-software-update-for-android-without-wifi/5defded0bad5f2f606dbed74
+[href] - https://forums.att.com/conversations/android/unlock-services/62f76596b80a287081e009d8
+[href] - https://forums.att.com/conversations/att-fiber-account/account-not-linked/62f747911a30484467f98340
+[href] - https://forums.att.com/conversations/att-fiber-equipment/bgw500-in-passthrough-but-still-rejecting-outside-attempts-to-access-a-server-through-a-static-ip/62f42a11b2b2e606ecc2c17f
+[href] - https://forums.att.com/conversations/att-fiber-installation/lag-spikes/62d34c8aae9e5612c8667bd0
+[href] - https://forums.att.com/conversations/att-internet-equipment/broadband-2-light-on-router-blinking-red-pc-will-not-connect-to-scanner/62f30f95521a9257946d288b
+[href] - https://forums.att.com/conversations/att-mail-features/all-my-email-is-going-into-my-archive-folder/5df02426bad5f2f6067f5258
+[href] - https://forums.att.com/conversations/att-mail-login-security/email-account-removed-from-yahoo-server/62f758b0521a9257946d508c
+[href] - https://forums.att.com/conversations/device-features/data-manager/62f734dcc971e30321d64f1b
+[href] - https://forums.att.com/conversations/landline-phone-troubleshooting/wireless-antenna-wont-connect-with-my-answering-machine/62eaf2d5b2b2e606ecc27d24
+[href] - https://forums.att.com/conversations/network-coverage/service-quality-issues-on-5ge/62f69321521a9257946d495b
+[href] - https://forums.att.com/conversations/phone-device-upgrades/only-buy-from-sams-club-att-heres-why/614d2e327e1cc766617203ca
+[href] - https://forums.att.com/conversations/plans-features/wrong-plan-in-account-8gb-instead-of-16gb-300year-prepaid-plan-now-i-cant-get-status-on-my-case-number/62ccd81fae9e5612c866539f
+[href] - https://forums.att.com/conversations/wireless-account/i-lost-my-number-again/62f64a274a366c200e4e0a07
+[href] - https://forums.att.com/conversations/wireless-account/its-not-you-its-us-we-hit-a-snag-and-cant-show-your-info-right-now-try-refreshing-your-screen-to-see-if-that-works/62f762f01a30484467f98358
+[href] - https://forums.att.com/conversations/wireless-billing/att-are-liars/62f6a390521a9257946d4a35
+[href] - https://forums.att.com/conversations/wireless-billing/billing/62f74616b2b2e606ecc2d3bc
+[href] - https://forums.att.com/conversations/wireless-billing/combined-billing/62f5a089e232bb63208a7b6a
+[href] - https://forums.att.com/users/5defb368f6e8ee1567532607
+[href] - https://forums.att.com/users/5defb779fd08351cbe2c95d5
+[href] - https://forums.att.com/users/5defbb76f6e8ee15675c8b04
+[href] - https://forums.att.com/users/614d0a36104a3f0cb56ef75b
+[href] - https://forums.att.com/users/627752d9f6d4955f83cdcb4e
+[href] - https://forums.att.com/users/62ccd58f61d3c72dc28994b4
+[href] - https://forums.att.com/users/62d34c5be4e8922c96b7040c
+[href] - https://forums.att.com/users/62eaf165b80a287081dfac7d
+[href] - https://forums.att.com/users/62f429e8b2b2e606ecc2c178
+[href] - https://forums.att.com/users/62f5a0727a05d965454a35d6
+[href] - https://forums.att.com/users/62f69305b80a287081e00562
+[href] - https://forums.att.com/users/62f6a3734a366c200e4e0cda
+[href] - https://forums.att.com/users/62f734ade232bb63208a84c4
+[href] - https://forums.att.com/users/62f745e4e232bb63208a84eb
+[href] - https://forums.att.com/users/62f74735b2b2e606ecc2d3c3
+[href] - https://forums.att.com/users/62f74e0a521a9257946d507b
+[href] - https://forums.att.com/users/62f762d1c971e30321d64f57
+[href] - https://forums.att.com/users/62f7655fc971e30321d64ffe
+[href] - https://forums.att.com:443/conversations/android/att-software-update-for-android-without-wifi/5defded0bad5f2f606dbed74
+[href] - https://forums.att.com:443/conversations/android/unlock-services/62f76596b80a287081e009d8
+[href] - https://forums.att.com:443/conversations/att-fiber-account/account-not-linked/62f747911a30484467f98340
+[href] - https://forums.att.com:443/conversations/att-fiber-equipment/bgw500-in-passthrough-but-still-rejecting-outside-attempts-to-access-a-server-through-a-static-ip/62f42a11b2b2e606ecc2c17f
+[href] - https://forums.att.com:443/conversations/att-fiber-installation/lag-spikes/62d34c8aae9e5612c8667bd0
+[href] - https://forums.att.com:443/conversations/att-internet-equipment/broadband-2-light-on-router-blinking-red-pc-will-not-connect-to-scanner/62f30f95521a9257946d288b
+[href] - https://forums.att.com:443/conversations/att-mail-features/all-my-email-is-going-into-my-archive-folder/5df02426bad5f2f6067f5258
+[href] - https://forums.att.com:443/conversations/att-mail-login-security/email-account-removed-from-yahoo-server/62f758b0521a9257946d508c
+[href] - https://forums.att.com:443/conversations/device-features/data-manager/62f734dcc971e30321d64f1b
+[href] - https://forums.att.com:443/conversations/landline-phone-troubleshooting/wireless-antenna-wont-connect-with-my-answering-machine/62eaf2d5b2b2e606ecc27d24
+[href] - https://forums.att.com:443/conversations/network-coverage/service-quality-issues-on-5ge/62f69321521a9257946d495b
+[href] - https://forums.att.com:443/conversations/phone-device-upgrades/only-buy-from-sams-club-att-heres-why/614d2e327e1cc766617203ca
+[href] - https://forums.att.com:443/conversations/plans-features/wrong-plan-in-account-8gb-instead-of-16gb-300year-prepaid-plan-now-i-cant-get-status-on-my-case-number/62ccd81fae9e5612c866539f
+[href] - https://forums.att.com:443/conversations/wireless-account/i-lost-my-number-again/62f64a274a366c200e4e0a07
+[href] - https://forums.att.com:443/conversations/wireless-account/its-not-you-its-us-we-hit-a-snag-and-cant-show-your-info-right-now-try-refreshing-your-screen-to-see-if-that-works/62f762f01a30484467f98358
+[href] - https://forums.att.com:443/conversations/wireless-billing/att-are-liars/62f6a390521a9257946d4a35
+[href] - https://forums.att.com:443/conversations/wireless-billing/billing/62f74616b2b2e606ecc2d3bc
+[href] - https://forums.att.com:443/conversations/wireless-billing/combined-billing/62f5a089e232bb63208a7b6a
+[href] - https://forums.att.com:443/users/5defb368f6e8ee1567532607
+[href] - https://forums.att.com:443/users/5defb779fd08351cbe2c95d5
+[href] - https://forums.att.com:443/users/5defbb76f6e8ee15675c8b04
+[href] - https://forums.att.com:443/users/614d0a36104a3f0cb56ef75b
+[href] - https://forums.att.com:443/users/627752d9f6d4955f83cdcb4e
+[href] - https://forums.att.com:443/users/62ccd58f61d3c72dc28994b4
+[href] - https://forums.att.com:443/users/62d34c5be4e8922c96b7040c
+[href] - https://forums.att.com:443/users/62eaf165b80a287081dfac7d
+[href] - https://forums.att.com:443/users/62f429e8b2b2e606ecc2c178
+[href] - https://forums.att.com:443/users/62f5a0727a05d965454a35d6
+[href] - https://forums.att.com:443/users/62f69305b80a287081e00562
+[href] - https://forums.att.com:443/users/62f6a3734a366c200e4e0cda
+[href] - https://forums.att.com:443/users/62f734ade232bb63208a84c4
+[href] - https://forums.att.com:443/users/62f745e4e232bb63208a84eb
+[href] - https://forums.att.com:443/users/62f74735b2b2e606ecc2d3c3
+[href] - https://forums.att.com:443/users/62f74e0a521a9257946d507b
+[href] - https://forums.att.com:443/users/62f762d1c971e30321d64f57
+[href] - https://forums.att.com:443/users/62f7655fc971e30321d64ffe
+[href] - https://origin-wsp-aldc01.att.com:443/admin/css/loginpage.css?_isever=166023057203291
+[href] - https://origin-wsp-aldc01.att.com:443/admin/lib/xwt/themes/reboot2/reboot2-base.css?_isever=166023057203291
+[href] - https://origin-wsp-aldc01.att.com:443/admin/lib/xwt/themes/reboot2/reboot2-xwt.css?_isever=166023057203291
+[href] - https://osstoolbar-sat1.att.com:443/toolbar/instructions.html
+[href] - https://osstoolbar-sat1.att.com:443/toolbar/toolbarLaunch.html
+[href] - https://sponsoreddata.att.com:443/static-assets/css/common/bs4-developer.min.css?v=13082022
+[href] - https://tcdirectorylink.att.com:443/login/login.jsp;jsessionid=_5-WqmLAMWc7i7hKhpxBbXns27N2I3J-ivJFH--sQu4r7cO0k0EZ!992482605
+[href] - https://techbuzz.att.com/explainers/what-is-the-att-virtual-store/
+[href] - https://techbuzz.att.com/new-iphone/
+[href] - https://test-training.firstnet.att.com/css/styles.5bd3ae274c52743b860257e1a0359e1b.css
+[href] - https://test-training.firstnet.att.com:443/css/styles.5bd3ae274c52743b860257e1a0359e1b.css
+[href] - https://wac-cdn.atlassian.com/static/master/1649/assets/build/css/wpl-main.css?cdnVersion=478
+[href] - https://www.att.com/public/67fc182192aabc1ca8666233c9dc954522001624dcc5
+[href] - https://www.developer.att.com/static-assets/css/common/bs4-developer.min.css?v=13082022
+[href] - https://www.developer.att.com:443/static-assets/css/common/bs4-developer.min.css?v=13082022
+[href] - https://www.youtube.com/playlist?list=PLxP2-8eHxebX85DG-5qM25CZu3LzISl-l
+[href] - tel:1-800-303-0903
+[href] - tel:1-877-448-6767
+[javascript] - https://aadcdn.msftauth.net/shared/1.0/content/js/ConvergedLogin_PCore_V_8hCKvQdmDpy_Z9V0bDYg2.js
+[javascript] - https://astra-test.att.com/main.9dc74d094224ac12.js
+[javascript] - https://astra-test.att.com/runtime.c97b9e8171de80d5.js
+[javascript] - https://astra-test.att.com:443/main.9dc74d094224ac12.js
+[javascript] - https://astra-test.att.com:443/runtime.c97b9e8171de80d5.js
+[javascript] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/internal/jscript/applepay.js
+[javascript] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/internal/jscript/dwac-21.7.js
+[javascript] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/internal/jscript/dwanalytics-22.2.js
+[javascript] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/js/allinone.js
+[javascript] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/lib/jquery/jquery-3.4.1.min.js
+[javascript] - https://brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/lib/jquery/jquery-migrate-3.0.1.min.js
+[javascript] - https://brandshop.att.com:443/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/internal/jscript/applepay.js
+[javascript] - https://brandshop.att.com:443/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/internal/jscript/dwac-21.7.js
+[javascript] - https://brandshop.att.com:443/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/internal/jscript/dwanalytics-22.2.js
+[javascript] - https://brandshop.att.com:443/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/lib/jquery/jquery-3.4.1.min.js
+[javascript] - https://brandshop.att.com:443/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660366097081/lib/jquery/jquery-migrate-3.0.1.min.js
+[javascript] - https://dev-brandshop.att.com/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660319352063/js/allinone.js
+[javascript] - https://dev-brandshop.att.com:443/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660319352063/internal/jscript/dwac-21.7.js
+[javascript] - https://dev-brandshop.att.com:443/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660319352063/internal/jscript/dwanalytics-22.2.js
+[javascript] - https://dev-brandshop.att.com:443/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660319352063/lib/jquery/jquery-3.4.1.min.js
+[javascript] - https://dev-brandshop.att.com:443/on/demandware.static/Sites-ATT-Shop-Site/-/default/v1660319352063/lib/jquery/jquery-migrate-3.0.1.min.js
+[javascript] - https://dev-brandshop.att.com:443/on/demandware.static/Sites-Site/-/-/internal/jscript/dwux-init.js?v=22.7.2.16
+[javascript] - https://dmp.wireless.att.com/businessconsole/main-es2015.723d3bd5fe36c8c91748.js
+[javascript] - https://dmp.wireless.att.com/businessconsole/main-es5.723d3bd5fe36c8c91748.js
+[javascript] - https://login-officeathand.att.com/loader_only.js
+[javascript] - https://login-officeathand.att.com/static/js/default-app_components_common_BottomLogo_js-app_components_common_Logo_js-app_components_comm-fad95d-e4b99e5f.bundle.js
+[javascript] - https://login-officeathand.att.com/static/js/index-b8ae1721.bundle.js
+[javascript] - https://login-officeathand.att.com/static/js/vendor-03306952.bundle.js
+[javascript] - https://login-officeathand.att.com/static/js/webModules-55a22fc8.bundle.js
+[javascript] - https://login-officeathand.att.com:443/loader_only.js
+[javascript] - https://login-officeathand.att.com:443/static/js/default-app_components_common_BottomLogo_js-app_components_common_Logo_js-app_components_comm-fad95d-e4b99e5f.bundle.js
+[javascript] - https://login-officeathand.att.com:443/static/js/index-b8ae1721.bundle.js
+[javascript] - https://login-officeathand.att.com:443/static/js/vendor-03306952.bundle.js
+[javascript] - https://login-officeathand.att.com:443/static/js/webModules-55a22fc8.bundle.js
+[javascript] - https://origin-wsp-aldc01.att.com:443/admin/lib/cpm/widget/LoginPage.js?_isever=166023057203291
+[javascript] - https://origin-wsp-aldc01.att.com:443/admin/lib/dojo/dojo.js?_isever=166023057203291
+[javascript] - https://origin-wsp-aldc01.att.com:443/admin/lib/xwt/nls/xwt_en-us.js?_isever=166023057203291
+[javascript] - https://origin-wsp-aldc01.att.com:443/admin/lib/xwt/nls/xwt_en.js?_isever=166023057203291
+[javascript] - https://origin-wsp-aldc01.att.com:443/admin/lib/xwt/nls/xwt_ja.js?_isever=166023057203291
+[javascript] - https://origin-wsp-aldc01.att.com:443/admin/lib/xwt/xwt.js?_isever=166023057203291
+[javascript] - https://s.yimg.com/aaq/c/e962297.caas-scooby.min.js
+[javascript] - https://service.force.com/embeddedservice/5.0/esw.min.js
+[javascript] - https://test-training.firstnet.att.com/js/bundle.d11cadcfaf594fee2b3c.js
+[javascript] - https://test-training.firstnet.att.com:443/js/bundle.d11cadcfaf594fee2b3c.js
+[javascript] - https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/client-errors.js?cdnVersion=478
+[javascript] - https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/header/header.js?cdnVersion=478
+[javascript] - https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/jquery.js?cdnVersion=478
+[javascript] - https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/metal-metrics.js?cdnVersion=478
+[javascript] - https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/react/app.js?cdnVersion=478
+[javascript] - https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/react/react-bundle.js?cdnVersion=478
+[javascript] - https://wac-cdn.atlassian.com/static/master/1649/assets/build/js/wpl-main.js?cdnVersion=478
+[subdomains] - https://accountmanagementppe.att.com
+[subdomains] - https://apiexchange.att.com
+[subdomains] - https://cjis.stage.att.com
+[subdomains] - https://dev-brandshop.att.com
+[subdomains] - https://enroll.dp.att.com
+[url] - [code-200] - http://ethernet-reports-prod-eastus2.Az.cloud.att.com:80
+[url] - [code-200] - https://apiexchange.att.com/5g-enterprise/s/
+[url] - [code-200] - https://cjis.stage.att.com:443
+[url] - [code-200] - https://cmp.att.com/
+[url] - [code-200] - https://emm-ca01-crl.dp.att.com/compliance.htm
+[url] - [code-200] - https://enroll.dp.att.com/compliance.htm
+[url] - [code-200] - https://hkemp1.vpn.att.com:443
+[url] - [code-200] - https://hkemp2.vpn.att.com:443
+[url] - [code-200] - https://login.microsoftonline.com/e741d71c-c6b6-47b0-803c-0f3b32b07556/oauth2/v2.0/authorize?client_id=2c3d744f-bc7a-4cd0-a49a-e039275f2681&redirect_uri=https%3A%2F%2Faccountmanagementppe.att.com%3A443%2Fsignin-oidc&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fmanagement.azure.com%2Fuser_impersonation&response_mode=form_post&nonce=637959819119762493.MDI0YzcyNDEtY2U5OC00MTZhLWE2YTctYzUyNTA5ZWM2MzNlZWEwODNlNmQtNzhjZi00MWY2LWIwMDUtODQ5NTVmNTdjZmU3&state=CfDJ8F0vFFFrLZ9Khij0KiCmWzAQgRoWb8mPLVErTY4HdQeWXVODXfYJI86_IwVSF4-nxJDwUEwWQQ-yB3O3fkkq5cAtWEyUZ0LnxWdSlQMsGWM6wAisGJT1f27d4gvVmCP8FyAc_o8-4ctD0WCFocEzGnTnGZdNsBh27mxNE_N4qk4eJKpPnHxvcf2Rf_6gDyeYhnmdspIkbIYxpxYkuacZQkN7DWrlmyYqvWUpvUi-FXGmdGQyiqqNsNTNzCtCfzVRPa55Nfy7A9pYpI64lgzoCjeUnJCxY24oVp5J4hBJZP5NWtVWq0N-E8h5kKEW9rUKOw&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.8.0.0
+[url] - [code-200] - https://ncclient1.VpN.att.com:443
+[url] - [code-200] - https://osstoolbar-sat1.att.com:443/toolbar/index.html
+[url] - [code-200] - https://pub-xs.hvs.att.com:443/
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVJdj9owEHznV5zynjgJHKUWIKVHP5AooCPtQ1%2BQcRZiybFd7%2Bau119fJ7netZXKPq5nZmdGnqNotONFS7W5h%2B8tII1uwvxotEHePy6i1htuBSrkRjSAnCQ%2FFJ83PE9S7rwlK62O%2FqFdZwlE8KSsGWjr1SLabd9vdh%2FX2yPM8upcTVOYvp1N3pwmIGE2FXJSjc%2BQZ3l1OqUivc3ygfoVPAadRRRko9GghtjC2iAJQ2Gf5nmczuJsXGYpT295Nv42UFchrDKCenpN5JAz1nlPIBZSAmIiiBJpG6bCmqFDVpTlerU%2FbtSlptq2CD0hT5m2F%2FWcZv9cyTtlKmUu15s4DSDkn8pyH%2B93h3IQKX43dGcNtg34A%2FgHJeHL%2FebVrHBOP9XWq58B9GL20cXSGgJDzOk22EJmDfQG485tjGiZ0AS%2BC%2F8ARyExcbWLlv3leYfhfYl%2BefXSnP0JfSU7vg05Q09WK%2FnU77v5YH0j6P91ZEnWb1QVn3sobw06kOqsoIpeZAqt7eOdB0GwiMi3EN2w5Wg0mPn7Ky9%2FAQ%3D%3D&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVJdj9owEHznV5zynjgJbSAWIKVHP5AooCPtQ1%2BQcRZiKbFd7%2Bau%2Ffd1kutdW6ns43hmdnbkBYq2sbzoqNYP8L0DpMmdnx9to5EPj8ugc5obgQq5Fi0gJ8mPxectT6OYW2fISNME%2F8huqwQiOFJGj7LNehnsd%2B%2B3%2B4%2Bb3Sk7izjJZ1k%2BP1dVNZWzJM%2ByajaHN0kWX%2BJ0lucig%2FQ8Sr%2BCQ%2B%2BzDLxtMBndEDvYaCShyeNxmobxPEymZRLz%2BC1Pp99G6dofq7SgQV4TWeSM9dkjCIWUgBgJokialikPM7TIirLcrA%2BnrbrWVJsOYRCkMWvMVT1fc3iu5J3SldLX202cRxLyT2V5CA%2F7YzmaFL8bujcauxbcEdyjkvDlYfsa1gEJ1ZATSnuPl7RPNpRGE2hitul8LmRGw5Aw7OOGiIaJhsD11z%2FCSUiMbG2D1bB60XP40KJb3V61YH9yX9WW7%2FylvinTKPlzwPv5YFwr6P%2BFJFEyIKoKLwOVdxotSHVRUAUvNkXTmKd7B4JgGZDrILhjq8mY5e%2B%2FvPoF&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJUqKHCWEbUCJ09aAaxux2kMvBkOtLQISyXJXSfv3paQ8CyR7HM7Mzg44Q9E2lhcd1foOfneANDnz86dtNPLhcR50TnMjUCHXogXkJPm%2B%2BL7maRRz6wwZaZrgP9nnKoEIjpTRo2y1nAfbze16%2B3W1OWTHyzyOqyy5yuV9LsVFNs1EDjBNs4ukSs%2BTXCZSiHyU%2FgSH3mceeNtgMrohdrDSSEKTx%2BM0DePLMDkvk5jHUx6nv0bp0h%2BrtKBBXhNZ5Iz12SMIhZSAGAmiSJqWKQ8ztMiKslwtd4e1OtVUmw5hEKQxa8xJPV2ze6rkWulK6dPnTdyPJOTfynIX7rb7cjQpnhu6MRq7Ftwe3IOS8ONuPYb1WY%2FKIWkgckJpb%2FIS99GG0mgCTcw2nQ%2BGzGgYIoZ93hDRMNEQuP78BzgIiZGtbbAYds96Dh9qdIvnYj5aNmNv2a96yzf%2BWF%2BWaZT8O%2BD9fDGuFfRxJ0mUDIiqwuNA5Z1GC1IdFVTBi03RNObxxoEgmAfkOgjO2GIyZnn%2FnRf%2FAA%3D%3D&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/auth?PartnerId=https%3A%2F%2Fxcelerate.att.com
+[url] - [code-200] - https://saml.stage.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=jZLNbtswEITvfopAd4mSHDsJYRtQ4%2F4YcG0jVnvoxaColUxAIlnuymnevpSUJm2BBuVxOTP8dsAFiraxPOvorB%2FgewdIkyt%2FfrSNRj5cLoPOaW4EKuRatICcJD9mn7c8jWJunSEjTRP8ZXvbJRDBkTJ6tG3Wy2C%2Fe7%2Fdf9zsTuJWVqIoZZUmNzfpDKalLGZ30wLmc6gqKK%2Fnyd11kcxH61dw6HOWgY8NJmMaYgcbjSQ0%2BXmcpmF8GybTPIl5POPx9NtoXftllRY02M9EFjljPXvkrTVEgiiSpmXKzxhaZFmeb9aH01bVZzqbDmFQpzFrTK2eVzk89%2FFO6VLp%2Bu0ailGE%2FFOeH8LD%2FpiPIdmveu6Nxq4FdwR3URK%2BPGxfSZUmqJ0gKIUurXCkfRWmKeHyQv5oQ2m8TBOzTecZkRkNA23Yo4eIhomGwPU1XOAkJEb2bIPVgLHoNXyo063%2B%2F9kF%2B933mmT5zjfgGzSNkk%2FDvD8fjGsF%2FbuoJEqGiSrDapDyTqMFqSoFZfASkzWNebx34MmWAbkOgiu2mowsf37w1U8%3D&RelayState=%2F
+[url] - [code-200] - https://sasvpr4vdna.att.com/sas/pub/errors/restrict.html
+[url] - [code-200] - https://utildl4r4vdna.att.com/sas/pub/errors/restrict.html
+[url] - [code-200] - https://vn004.acss.att.com/
+[url] - [code-200] - https://vnbr05.acss.att.com/
+[url] - [code-200] - https://vnbr07.acss.att.com/
+[url] - [code-200] - https://vnbr08.acss.att.com/
+[url] - [code-200] - https://vnbr16.acss.att.com/
+[url] - [code-200] - https://vnbr17.acss.att.com/
+[url] - [code-200] - https://vnbr19.acss.att.com/
+[url] - [code-200] - https://vnbr20.acss.att.com/
+[url] - [code-200] - https://vnbr21.acss.att.com/
+[url] - [code-200] - https://vnbr23.acss.att.com/
+[url] - [code-200] - https://vnbr25.acss.att.com/
+[url] - [code-200] - https://vnbr26.acss.att.com/
+[url] - [code-200] - https://vnbr27.ACSS.att.com/
+[url] - [code-200] - https://vnbr27.ACSS.att.com:443
+[url] - [code-200] - https://vnbr27.acss.att.com/
+[url] - [code-200] - https://vnbr29.acss.att.com/
+[url] - [code-200] - https://vnbr30.acss.att.com/
+[url] - [code-200] - https://vndh867.ACSS.att.com/
+[url] - [code-200] - https://vndh867.ACSS.att.com:443
+[url] - [code-200] - https://vnln04.acss.att.com/
+[url] - [code-200] - https://vnln07.ACSS.att.com/
+[url] - [code-200] - https://vnln07.ACSS.att.com:443
+[url] - [code-200] - https://vnln07.acss.att.com/
+[url] - [code-200] - https://vnln08.acss.att.com/
+[url] - [code-200] - https://vnln10.acss.att.com/
+[url] - [code-200] - https://vnmbr02.acss.att.com/
+[url] - [code-200] - https://xsp101.hvs.att.com/
+[url] - [code-400] - http://audiencenetwork.att.com:443
+[url] - [code-400] - http://audiencenetwork.att.com:8443
+[url] - [code-400] - http://dai-adrouter-vod-awsw.att.com:443
+[url] - [code-400] - http://dslorder.wholesale.att.com:443
+[url] - [code-400] - http://experience.att.com:443
+[url] - [code-400] - http://experience.att.com:8443
+[url] - [code-400] - http://more.att.com:443
+[url] - [code-400] - http://more.att.com:8443
+[url] - [code-400] - http://watch.att.com:443
+[url] - [code-400] - http://watch.att.com:8443
+[url] - [code-403] - http://tuab-dev.att.com:80
+[url] - [code-403] - http://tuab.att.com:80
+[url] - [code-403] - http://tuassessments-dev.att.com:80
+[url] - [code-403] - http://tuassessments.att.com:80
+[url] - [code-403] - https://audience.att.com:8443
+[url] - [code-403] - https://iwc-trn1.test.dlife.att.com:443
+[url] - [code-403] - https://mdm02.dp.att.com:443
+[url] - [code-403] - https://mdm03.dp.att.com:443
+[url] - [code-403] - https://mdmbyo.dp.att.com:443
+[url] - [code-403] - https://mdmcim.dp.att.com:443
+[url] - [code-403] - https://mdment01.dp.att.com:443
+[url] - [code-403] - https://mdment02.dp.att.com:443
+[url] - [code-403] - https://mdment03.dp.att.com:443
+[url] - [code-403] - https://mdment04.dp.att.com:443
+[url] - [code-403] - https://mdmex.dp.att.com:443
+[url] - [code-403] - https://mdmmx02.dp.att.com:443
+[url] - [code-403] - https://retail.dp.att.com:443
+[url] - [code-403] - https://retail2.dp.att.com:443
+[url] - [code-403] - https://tuab-dev.att.com:443
+[url] - [code-403] - https://tuab.att.com:443

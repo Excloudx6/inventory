@@ -16,6 +16,7 @@ http://access.att.com:80
 http://accesspartners.att.com:80
 http://accessr01.att.com:80
 http://acconesource.att.com:80
+http://accountmanagementppe.att.com:80
 http://accounts-officeathand.att.com:80
 http://acedev.att.com:80
 http://acenpw.att.com:80
@@ -259,7 +260,11 @@ http://attsportsnet.att.com:80
 http://attthanks.att.com:80
 http://atttv-shopauth.att.com:80
 http://audience.att.com:80
+http://audience.att.com:8080
+http://audiencenetwork.att.com:443
 http://audiencenetwork.att.com:80
+http://audiencenetwork.att.com:8080
+http://audiencenetwork.att.com:8443
 http://auth-api.att.com:443
 http://auth-api.att.com:80
 http://auth.gw.cloud.att.com:80
@@ -598,6 +603,7 @@ http://dropbox-lidbas.att.com:80
 http://ds.att.com:80
 http://ds.att.com:8080
 http://dsl.bus.att.com:80
+http://dslorder.wholesale.att.com:443
 http://dslorder.wholesale.att.com:80
 http://dss-p2dss1w8.att.com:8000
 http://dss-p2mbw30.att.com:8000
@@ -748,6 +754,7 @@ http://esp.att.com:8080
 http://espanol.att.com:80
 http://estore.att.com:80
 http://esupport.att.com:80
+http://ethernet-reports-prod-eastus2.Az.cloud.att.com:80
 http://ethernet-reports-prod-eastus2.az.cloud.att.com:443
 http://ethernet-reports-prod-eastus2.az.cloud.att.com:80
 http://ethernet-reports-test-eastus2.cloud.att.com:443
@@ -763,7 +770,10 @@ http://evolve.att.com:8080
 http://ewp-az.att.com:80
 http://exp.att.com:80
 http://exp.att.com:8080
+http://experience.att.com:443
 http://experience.att.com:80
+http://experience.att.com:8080
+http://experience.att.com:8443
 http://explore.att.com:80
 http://expressticketing.acsS.att.com:80
 http://expressticketing.acss.att.com:80
@@ -1145,7 +1155,10 @@ http://montana.att.com:80
 http://montana.att.com:8080
 http://montana.att.com:8443
 http://monthlytechsupport.att.com:80
+http://more.att.com:443
 http://more.att.com:80
+http://more.att.com:8080
+http://more.att.com:8443
 http://mp-admin.iot.att.com:443
 http://mp-admin.iot.att.com:80
 http://mp.att.com:80
@@ -2286,6 +2299,7 @@ http://vnbr23.acss.att.com:80
 http://vnbr24.acss.att.com:80
 http://vnbr25.acss.att.com:80
 http://vnbr26.acss.att.com:80
+http://vnbr27.ACSS.att.com:80
 http://vnbr27.aCSS.att.com:80
 http://vnbr27.acss.att.COm:80
 http://vnbr27.acss.att.com:80
@@ -2392,6 +2406,7 @@ http://vndh704.acss.att.com:80
 http://vndh705.acsS.att.com:80
 http://vndh705.acss.att.com:80
 http://vndh706.acss.att.com:80
+http://vndh867.ACSS.att.com:80
 http://vndh867.acss.att.com:80
 http://vndh868.acss.att.com:80
 http://vndh869.acss.att.com:80
@@ -2481,6 +2496,7 @@ http://vnln02.acss.att.com:80
 http://vnln03.acss.att.com:80
 http://vnln04.acss.att.com:80
 http://vnln05.acss.att.com:80
+http://vnln07.ACSS.att.com:80
 http://vnln07.acss.att.com:80
 http://vnln08.acss.att.com:80
 http://vnln09.acss.att.com:80
@@ -2626,7 +2642,10 @@ http://washington.att.com:80
 http://washington.att.com:8080
 http://washington.att.com:8443
 http://wat-enhanced-mgmt.uc.att.com:443
+http://watch.att.com:443
 http://watch.att.com:80
+http://watch.att.com:8080
+http://watch.att.com:8443
 http://wb.att.com:80
 http://wb.att.com:8080
 http://wbslqa1.stage.att.com:80
@@ -2834,6 +2853,7 @@ https://accesspartners.att.com:443
 https://accessportal.att.com:443
 https://accessr01.att.com:443
 https://acconesource.att.com:443
+https://accountmanagementppe.att.com:443
 https://accounts-officeathand.att.com:443
 https://accwex.att.com:443
 https://ace.att.com:443
@@ -3063,6 +3083,7 @@ https://api.dataflow.iot.att.com:8443
 https://api.flow.cloud.att.com:443
 https://api.flow.cloud.att.com:8443
 https://api.officeathand.att.com:443
+https://apiexchange-dev.att.com:443
 https://apiexchange.att.com:443
 https://apilogin.att.com:443
 https://apilogin.stage.att.com:443
@@ -3196,6 +3217,7 @@ https://atw-expe-cl2-1.att.com:8443
 https://atw-expe-cl2-2.att.com:8443
 https://atw-expe-cl2-3.att.com:8443
 https://audience.att.com:443
+https://audience.att.com:8443
 https://audiencenetwork.att.com:443
 https://auth-api.att.com:443
 https://auth-pre.att.com:443
@@ -3419,6 +3441,7 @@ https://ciamapi-pki-ext.stage.att.com:443
 https://cim-auth-cpaas.att.com:443
 https://citigateway.att.com:443
 https://citigateway.att.com:8443
+https://cjis.stage.att.com:443
 https://cjis.stage.flogin.att.com:443
 https://claccess-da.att.com:443
 https://claccess-ff.att.com:443
@@ -3943,6 +3966,7 @@ https://espanol.att.com:443
 https://espcare.att.com:443
 https://estore.att.com:443
 https://esupport.att.com:443
+https://ethernet-reports-prod-eastus2.Az.cloud.att.com:443
 https://ethernet-reports-prod-eastus2.az.cloud.att.com:443
 https://ethernet-reports-test-eastus2.cloud.att.com:443
 https://etsa.att.com:443
@@ -4003,6 +4027,7 @@ https://fiserv.idp.clogin.att.com:443
 https://fiserv.stage.clogin.att.com:443
 https://flf.att.com:443
 https://florida.att.com:443
+https://florida.att.com:8443
 https://fnetidp.stage.flogin.att.com:443
 https://fnetsp-da.idp.flogin.att.com:443
 https://fnetsp-sf.idp.flogin.att.com:443
@@ -4706,6 +4731,7 @@ https://ncblink.att.com:8443
 https://ncbls.vpn.att.com:443
 https://ncbls2.vpn.att.com:443
 https://ncbls3.vpn.att.com:443
+https://ncclient1.VpN.att.com:443
 https://ncclient1.vpn.att.com:443
 https://ncclient2.vpn.att.com:443
 https://ncgcsc.vpn.att.com:443
@@ -5763,6 +5789,7 @@ https://vnbr23.acss.att.com:443
 https://vnbr24.acss.att.com:443
 https://vnbr25.acss.att.com:443
 https://vnbr26.acss.att.com:443
+https://vnbr27.ACSS.att.com:443
 https://vnbr27.aCSS.att.com:443
 https://vnbr27.acss.att.COm:443
 https://vnbr27.acss.att.com:443
@@ -5869,6 +5896,7 @@ https://vndh704.acss.att.com:443
 https://vndh705.acsS.att.com:443
 https://vndh705.acss.att.com:443
 https://vndh706.acss.att.com:443
+https://vndh867.ACSS.att.com:443
 https://vndh867.acss.att.com:443
 https://vndh868.acss.att.com:443
 https://vndh869.acss.att.com:443
@@ -5958,6 +5986,7 @@ https://vnln02.acss.att.com:443
 https://vnln03.acss.att.com:443
 https://vnln04.acss.att.com:443
 https://vnln05.acss.att.com:443
+https://vnln07.ACSS.att.com:443
 https://vnln07.acss.att.com:443
 https://vnln08.acss.att.com:443
 https://vnln09.acss.att.com:443

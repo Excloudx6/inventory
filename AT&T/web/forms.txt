@@ -62,6 +62,7 @@ https://cybersecurity.att.com/
 https://cybersecurity.att.com:443
 https://darp-confluence.test.att.com/login.action?os_destination=%2Findex.action&permissionViolation=true
 https://designthinking.att.com/wp-login.php?redirect_to=http%3A%2F%2Fdesignthinking.att.com%3A80%2F&reauth=1
+https://dev-brandshop.att.com:443
 https://developer.att.com/
 https://developer.att.com/enhanced-push-to-talk
 https://developer.att.com:443
@@ -128,6 +129,7 @@ https://rmsoca.att.com:443
 https://rmsocatest.att.com:443
 https://rockymountain-attsn.att.com/
 https://rockymountain-attsn.att.com:443
+https://saml.e-access.att.com/isam/sps/ATTIDPEntity/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJephBxJhG1DjtDXg2kas9NBLQNOrmIBEstxVHn9fSkqTNkBC3pYzszMDzlG0jeVlR2d9A787QJpc%2BPPUNhr58LgIOqe5EaiQa9ECcpL8UP7Y8DSKuXWGjDRN8I72OUsggiNl9EhbrxbBbnu92X1bb%2B%2FqeJYf82me%2BVvHSZYXqSyKujillzM5PV4m8pjFWVyP1J%2Fg0OssAi8bTEY1xA7WGklo8vM4TcM4D5Osigs%2BS3g6%2FTVSVz6s0oIG%2BpnIImes9x5BKKQExEgQRdK0TPkxQ4usrKr1an%2BtSdHzgE1j1ph79RJk%2F9LGF6VPSt9%2FXsJxBCH%2FXlX7cL87VKNI%2BbecK6Oxa8EdwD0oCbc3mzefTxIacILg1eOjDaXRBJqYbTpvCZnRMJgLe6chomGiIXB95ge4ExIje7bBctg67zF86M4tP9wyZ%2F%2FC3oiWb30%2BX41plHwe5v35alwr6OMakigZJuoU1gOUdxotSFUrOAWvMmXTmMcrB97IIiDXQXDBlpPRy%2F%2Bfd%2FkH&RelayState=%2F
 https://screenready.att.com:443
 https://screenready.att.com:443/
 https://serviceguidenew.att.com/
@@ -228,9 +230,15 @@ https://www.firstnet.com//
 https://www.groovehq.com
 https://www.unad.att.com:443
 https://xaaf.att.com/Robin19/Account/Login?ReturnUrl=%2FRobin19%2F
+https://xassets.stage.att.com:443
+https://xassets.test.att.com:443
 https://xcontent-al.att.com:443
 https://xcontent.stage.att.com:443
 https://xcontent.test.att.com:443
+https://xmap.stage.att.com:443
+https://xmap.test.att.com:443
+https://xoauthaccess.stage.att.com:443
+https://xoauthaccess.test.att.com:443
 https://yourefer.att.com/
 https://yourefer.att.com:443
 https://youshare.att.com/portal

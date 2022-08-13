@@ -3,6 +3,7 @@
 2018-account-access-adminadmin-backup.gsw1.voicetone.att.com
 2018-accountadminadmin-backup.gsw1.voicetone.att.com
 2018-admin-backup.gsw1.voicetone.att.com
+2018-admin.cat1gsw.voicetone.att.com
 2018access-adminadmin-backup.gsw1.voicetone.att.com
 2018backupelasticbeanstalk.cat1gsw.voicetone.att.com
 2019-account-accountadminadmin-backup.gsw1.voicetone.att.com
@@ -15,6 +16,7 @@
 2020.cat1gsw.voicetone.att.com
 202020.att.com
 2020accountadminadmin-backup.gsw1.voicetone.att.com
+2020admin-admin.cat1gsw.voicetone.att.com
 2021-admin-backup.gsw1.voicetone.att.com
 2021access-adminadmin-backup.gsw1.voicetone.att.com
 28days.att.com
@@ -15464,6 +15466,7 @@ accountaccess-adminadmin-backup.gsw1.voicetone.att.com
 accountaccount-access-adminadmin-backup.gsw1.voicetone.att.com
 accountadminadmin-backup.gsw1.voicetone.att.com
 accountmanagement.att.com
+accountmanagementppe.att.com
 accounts-officeathand.att.com
 accwex-junc.att.com
 accwex.att.com
@@ -15837,6 +15840,7 @@ api.stg.dco.cloud.att.com
 api01.dev.dco.cloud.att.com
 apiaccount-access-adminadmin-backup.gsw1.voicetone.att.com
 apiaccountadminadmin-backup.gsw1.voicetone.att.com
+apiadmin-admin.cat1gsw.voicetone.att.com
 apiadmin-api.att.com
 apiadmin-backup.gsw1.voicetone.att.com
 apiadmin-d1.test.att.com
@@ -16027,14 +16031,21 @@ atlcdpbxss04-ilo.wireless.labs.att.com
 atlcdpbxss04-oam.wireless.labs.att.com
 atlcdpcapp01-oam.wireless.labs.att.com
 atlcdpcapp02-oam.wireless.labs.att.com
+atlcdpcapp02.wireless.labs.att.com
 atlcdpcapp03-oam.wireless.labs.att.com
 atlcdpcdb01-oam.wireless.labs.att.com
+atlcdpcdb01.wireless.labs.att.com
 atlcdpcrep01-oam.wireless.labs.att.com
+atlcdpcrep01.wireless.labs.att.com
 atlcdpcrep02-oam.wireless.labs.att.com
 atlcdpcrep03-oam.wireless.labs.att.com
+atlcdpcrep03.wireless.labs.att.com
 atlcdpcrep04-oam.wireless.labs.att.com
+atlcdpcrep04.wireless.labs.att.com
 atlcdpcsynapp01-oam.wireless.labs.att.com
+atlcdpcsynapp01.wireless.labs.att.com
 atlcdpcsyndb01-oam.wireless.labs.att.com
+atlcdpcsyndb01.wireless.labs.att.com
 atlcdpczfs01-c01-oam.wireless.labs.att.com
 atlcdpczfs01-c02-oam.wireless.labs.att.com
 atlh9nddora-c01-ilo.wireless.labs.att.com
@@ -16414,6 +16425,7 @@ bucketaccess.gsw1.voicetone.att.com
 bucketaccount-access-adminadmin-backup.gsw1.voicetone.att.com
 bucketaccountadminadmin-backup.gsw1.voicetone.att.com
 bucketadmin-backup.gsw1.voicetone.att.com
+bucketadmin.cat1gsw.voicetone.att.com
 bugbounty.att.com
 bugbounty.test.att.com
 bulkdata-usp-labs-a.ecolabs.cloud.att.com
@@ -16615,6 +16627,7 @@ ciqupload.ciq.labs.att.com
 ciqweb01.ciq.labs.att.com
 citigateway.att.com
 citizens.uc.att.com
+cjis.stage.att.com
 cjis.stage.flogin.att.com
 claccess-al.att.com
 claccess-da.att.com
@@ -16751,7 +16764,9 @@ confhpa.att.com
 config-accountadminadmin-backup.gsw1.voicetone.att.com
 config-admin-admin.cat1gsw.voicetone.att.com
 config-admin-backup.gsw1.voicetone.att.com
+config-admin.cat1gsw.voicetone.att.com
 configaccount-access-adminadmin-backup.gsw1.voicetone.att.com
+configadmin.cat1gsw.voicetone.att.com
 configadminadmin-backup.gsw1.voicetone.att.com
 confluence-account-access-adminadmin-backup.gsw1.voicetone.att.com
 confluence-accountadminadmin-backup.gsw1.voicetone.att.com
@@ -17015,6 +17030,7 @@ darp-zephyr.test.att.com
 dashboard.iot.att.com
 dashboard.ric.research.att.com
 dashboard.stage-e.att.com
+data-admin.cat1gsw.voicetone.att.com
 data.att.com
 data.cat1gsw.voicetone.att.com
 databank.cloud.att.com
@@ -17065,6 +17081,7 @@ deenclave.vpn.att.com
 delaware.att.com
 delta.myvehicle.stage.att.com
 demo-admin-backup.gsw1.voicetone.att.com
+demo-admin.cat1gsw.voicetone.att.com
 demo-backupelasticbeanstalk.cat1gsw.voicetone.att.com
 demo.gsw1.voicetone.att.com
 demoaccess-adminadmin-backup.gsw1.voicetone.att.com
@@ -17684,6 +17701,7 @@ estore.att.com
 esupport.att.com
 esupstage.att.com
 esystems.att.com
+ethernet-reports-prod-eastus2.Az.cloud.att.com
 ethernet-reports-prod-eastus2.az.cloud.att.com
 ethernet-reports-test-eastus2.cloud.att.com
 etrak-train.att.com
@@ -32476,6 +32494,7 @@ jenkins.iqidev.labs.att.com
 jenkins.nc.opensource.att.com
 jenkinsaccountadminadmin-backup.gsw1.voicetone.att.com
 jenkinsadmin-backup.gsw1.voicetone.att.com
+jenkinsadmin.cat1gsw.voicetone.att.com
 jira.iqidev.labs.att.com
 jira.labs.att.com
 join.amkorvideo.att.com
@@ -32664,6 +32683,7 @@ mail.test.dlife.att.com
 mail.uccentral.att.com
 mail.um.att.com
 mail.vm.att.com
+mail.wireless.labs.att.com
 mail01.em.att.com
 mail01.um.att.com
 mail01.vm.att.com
@@ -33135,6 +33155,7 @@ ncblink.att.com
 ncbls.vpn.att.com
 ncbls2.vpn.att.com
 ncbls3.vpn.att.com
+ncclient1.VpN.att.com
 ncclient1.vpn.att.com
 ncclient2.vpn.att.com
 ncgcsc.vpn.att.com
@@ -33691,6 +33712,7 @@ origin-web03.test.att.com
 origin-web04.test.att.com
 origin-web05.test.att.com
 origin-web06.test.att.com
+origin-web07.Test.att.com
 origin-web07.test.att.com
 origin-web08.test.att.com
 origin-wsp-aldc01.att.com
@@ -33981,6 +34003,7 @@ pre.att.com
 preferences.cat1gsw.voicetone.att.com
 preferencesaccount-access-adminadmin-backup.gsw1.voicetone.att.com
 preferencesaccountadminadmin-backup.gsw1.voicetone.att.com
+preferencesadmin-admin.cat1gsw.voicetone.att.com
 premier-da.att.COm
 premier-da.att.com
 premier-sf.att.com
@@ -34781,6 +34804,7 @@ stage2-dcp2-ga.wireless.att.com
 stage2-dcp2-tx.wireless.att.com
 stage2-dcp2.att.com
 staging-access-adminadmin-backup.gsw1.voicetone.att.com
+staging-admin-admin.cat1gsw.voicetone.att.com
 staging-ericssonlab.att.com
 staging-origin.uc.att.com
 staging.callvantage.att.com
@@ -35351,12 +35375,15 @@ uvpdev2a.stage.att.com
 uvpdev3a.stage.att.com
 uvpsystest2a.stage.att.com
 uxd.wireless.att.com
+v1-admin-admin.cat1gsw.voicetone.att.com
 v1access-adminadmin-backup.gsw1.voicetone.att.com
+v2-admin-admin.cat1gsw.voicetone.att.com
 v3-access.gsw1.voicetone.att.com
 v3.cat1gsw.voicetone.att.com
 v3backupelasticbeanstalk.cat1gsw.voicetone.att.com
 v4-access.gsw1.voicetone.att.com
 v4access.gsw1.voicetone.att.com
+v4admin-admin.cat1gsw.voicetone.att.com
 vNdW13.acss.att.com
 vas.att.com
 vb.att.com
@@ -35493,6 +35520,7 @@ vnbr23.acss.att.com
 vnbr24.acss.att.com
 vnbr25.acss.att.com
 vnbr26.acss.att.com
+vnbr27.ACSS.att.com
 vnbr27.aCSS.att.com
 vnbr27.acss.att.COm
 vnbr27.acss.att.com
@@ -35607,6 +35635,7 @@ vndh704.acss.att.com
 vndh705.acsS.att.com
 vndh705.acss.att.com
 vndh706.acss.att.com
+vndh867.ACSS.att.com
 vndh867.acss.att.com
 vndh868.acss.att.com
 vndh869.acss.att.com
@@ -35705,6 +35734,7 @@ vnln03.acss.att.com
 vnln04.acss.att.com
 vnln05.acss.att.com
 vnln06.acss.att.com
+vnln07.ACSS.att.com
 vnln07.acss.att.com
 vnln08.acss.att.com
 vnln09.acss.att.com
