@@ -58,6 +58,7 @@ http://autodiscover.tpa.paypal.com:80 [null] [301] [null] [null] ["52.97.137.120
 http://autodiscover.xoom.com:80 [null] [301] [null] [null] ["52.98.214.24"] [null] ["Microsoft-IIS/10.0"] [["IIS","Microsoft ASP.NET","Windows Server"]] [];
 http://balancepayout.paypal.com:80 ["Maintenance Notice"] [503] [1930] ["text/html"] ["69.172.255.172"] ["https://balancepayout.paypal.com/"] ["BigIP"] [["F5 BigIP","Google Font API"]] [];
 http://blog.xoom.com:80 ["Error Page"] [403] [891275] ["text/html"] ["85.222.140.6"] [null] ["sfdcedge"] [null] [];
+http://business-signup.paypal.com:443 ["400 The plain HTTP request was sent to HTTPS port"] [400] [666] ["text/html"] ["204.109.13.128"] [null] ["nginx"] [["Nginx"]] [];
 http://business-signup.paypal.com:80 ["301 Moved Permanently"] [301] [178] ["text/html"] ["204.109.13.128"] [null] ["nginx"] [["Nginx"]] [];
 http://business-v2.sandbox.paypal.com:80 [null] [301] [83] ["text/plain"] ["151.101.129.21"] ["https://business-v2.sandbox.paypal.com/merchantdata/"] [null] [["Varnish"]] [];
 http://business.paypal.com:80 [null] [302] [110] ["text/plain"] ["151.101.129.21"] ["https://business.paypal.com/merchantdata/"] [null] [["Varnish"]] [];
