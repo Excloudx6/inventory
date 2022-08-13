@@ -9,6 +9,7 @@ http://www.w3.org/XML/1998/namespace
 https://(www)?\\.bing\\..*?/?$
 https://(www)?\\.google\\..*?/?$
 https://__SUBDOMAIN__cdn.optimizely.com
+https://a21892691969.cdn.optimizely.com
 https://ampcid.google.com/v1/publisher:getClientId
 https://api.hackerone.com
 https://app-sj17.marketo.com
@@ -71,6 +72,7 @@ https://www.google.com/recaptcha/api.js?onload=captchaCallback
 https://www.googletagmanager.com/debug/bootstrap
 https://www.googletagmanager.com/gtag/js?id=
 https://www.hackerone.com
+https://www.hackerone.com/
 https://www.hackerone.com/contact
 https://www.hackeronestatus.com
 https://www.pinterest.com/pin/create/button/?url={{url}}&amp;description={{descr}}&amp;media={{media}}

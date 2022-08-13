@@ -5796,6 +5796,7 @@ https://demo-2020staging-systemredirect.v4.vpnerror.ctf.hacker101.com:443 [null]
 https://demo-access-2018-accountdebugnew.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["34.223.162.52"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://demo-access-2018.dev-v1-new.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.188.21.63"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://demo-access.access.bucket-account-elasticbeanstalk-2018-accountdebugnew.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.165.193"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
+https://demo-accessteam.updatewww.fac-droit.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.83.98.98"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://demo-account-confluence.redirect.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.27.184.30"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://demo-alphav2-gcp.elektronik.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.167.164.38"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://demo-api-chef-dbms-beta.admin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.244.243"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
