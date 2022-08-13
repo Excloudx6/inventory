@@ -1930,6 +1930,7 @@ http://dev-masks.pscp.tv:80
 http://dev-profile.periscope.tv:80
 http://dev-profile.pscp.tv:443
 http://dev-profile.pscp.tv:80
+http://dev-proxsee.pscp.tv:443
 http://dev-proxsee.pscp.tv:80
 http://dev-public-api-assets.periscope.tv:443
 http://dev-public-api-assets.periscope.tv:80
@@ -2130,6 +2131,7 @@ http://gcpjenkinsaccessaccount.accountbeta.staging.vpn.twttr.com:80
 http://gdpr-dev.twitter.com:80
 http://gdpr-staging.twitter.com:80
 http://gdpr.twitter.com:80
+http://geO3.probe.twitter.com:80
 http://geO6.api.twitter.com:80
 http://geo0.abs.twimg.com:80
 http://geo0.api-stream.twitter.com:80
@@ -2589,6 +2591,7 @@ http://preferencecenter-staging.twitter.com:80
 http://preferencecenter.twitter.com:80
 http://preferences-2021.account.account.config.staging.vpn.twttr.com:80
 http://preferences-admin.account.account.account.config.staging.vpn.twttr.com:80
+http://preferences.accessalpha.staging.vpn.twttr.com:80
 http://preferences.adminaccess-api.demo.staging.vpn.twttr.com:80
 http://preferences.alpha.staging.vpn.twttr.com:80
 http://preferences.chefaccount.alpha-beta.config.staging.vpn.twttr.com:80
@@ -10341,6 +10344,7 @@ https://api-41-0-0-c.twitter.com:443
 https://api-41-0-0.twitter.com:443
 https://api-41-4-1-41-0-0.twitter.com:443
 https://api-41-4-1-41-4-2.twitter.com:443
+https://api-41-4-1-41-5-1.twitter.com:443
 https://api-41-4-1-41-5-1.vpn.twttr.com:443
 https://api-41-4-2-41-0-0.twitter.com:443
 https://api-41-4-2-41-5-2.twitter.com:443
@@ -11983,6 +11987,7 @@ https://betaaccessaccount.access-config-accountaccountconfluence.obv-smf1.vpn.tw
 https://betaaccessaccountadmin.api-41-0-0-41-5-2.vpn.twttr.com:443
 https://betaaccessaccountbucket-access.accessbeta.confluenceadmin.atlc-lab.vpn.twttr.com:443
 https://betaaccessalpha-account.data.obv-atla.vpn.twttr.com:443
+https://betaaccessalphabeta-backup.aafes.vpn.twttr.com:443
 https://betaaccessbucket.staging.vpn.twttr.com:443
 https://betaaccessconfig.backupaccessaccess.alphaatlc-lab.vpn.twttr.com:443
 https://betaaccessdata.semantic-lab.vpn.twttr.com:443
@@ -16039,6 +16044,7 @@ https://gdpr.twitter.com:443
 https://ge-2-0-1.vpn.twttr.com:443
 https://ge.vpn.twttr.com:443
 https://ge33ek.vpn.twttr.com:443
+https://geO3.probe.twitter.com:443
 https://geO6.api.twitter.com:443
 https://gearmobile.vpn.twttr.com:443
 https://ged.vpn.twttr.com:443
@@ -19402,6 +19408,7 @@ https://preferences-corbetta.phys.vpn.twttr.com:443
 https://preferences-gatoprogramador.vpn.twttr.com:443
 https://preferences.access-config-atlc-lab.vpn.twttr.com:443
 https://preferences.accessadmin.backupconfig.betabrandsafety.vpn.twttr.com:443
+https://preferences.accessalpha.staging.vpn.twttr.com:443
 https://preferences.account-aaron.vpn.twttr.com:443
 https://preferences.account-abelperezmartinez.vpn.twttr.com:443
 https://preferences.account-api.accountbjori.vpn.twttr.com:443
