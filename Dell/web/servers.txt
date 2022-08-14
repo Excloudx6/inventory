@@ -135,6 +135,7 @@ http://dellemc.dell.com:80
 http://dellnetworkingvr.dell.com:80
 http://dellnetworkingvr.dell.com:8443
 http://dellservervr.dell.com:80
+http://dellservervr.dell.com:8080
 http://dellservervr.dell.com:8443
 http://dellsolutionsvr.dell.com:443
 http://dellsolutionsvr.dell.com:80
@@ -251,6 +252,7 @@ http://k12.dell.com:80
 http://learningstudio.dell.com:80
 http://legacyofgood.dell.com:80
 http://licensing-usage.dell.com:80
+http://licensing.dell.com:80
 http://licensing.ins.dell.com:80
 http://lndvpn.ins.dell.com:80
 http://lndvpn.us.dell.com:80
@@ -425,6 +427,7 @@ http://uat-dam.dell.com:80
 http://ui.dev.remediation.dell.com:80
 http://ui.remediation.dell.com:80
 http://ui.test.remediation.dell.com:80
+http://uk.dell.com:80
 http://updates.clientsolutions.dell.com:80
 http://updates.test.clientsolutions.dell.com:80
 http://ups.dell.com:80
@@ -726,6 +729,7 @@ https://dellemc.dell.com:443
 https://dellets.dell.com:443
 https://dellets.dell.com:8443
 https://dellnetworkingvr.dell.com:443
+https://dellnetworkingvr.dell.com:8443
 https://dellservervr.dell.com:443
 https://dellsolutionsvr.dell.com:443
 https://dellstoragevr.dell.com:443
@@ -1021,7 +1025,9 @@ https://learningstudio.dell.com:443
 https://learnwip.dell.com:443
 https://legacyofgood.dell.com:443
 https://licensing-usage.dell.com:443
+https://licensing.dell.com:443
 https://lim01gw1-myconnect.dell.com:443
+https://lim02gw-myconnect.dell.com:443
 https://lim02gw1-myconnect.dell.com:443
 https://login.saas.dell.com:443
 https://lync13-edge-kul.dell.com:443
@@ -1343,6 +1349,7 @@ https://ptcnavigatege2.us.dell.com:443
 https://ptcpwkulcrep01.ap.dell.com:443
 https://pts.service.staging.dccrm.dell.com:443
 https://pwxpodweb.us.dell.com:443
+https://qa-author-dam.delltechnologies.com:443
 https://qa-dam.dell.com:443
 https://qa-dam.delltechnologies.com:443
 https://qa1-author-dam.delltechnologies.com:443
@@ -1420,6 +1427,7 @@ https://sit1-qrlpp.us.dell.com:443
 https://sitapiprx-pc1-dmz.dell.com:443
 https://sitapiprx.dell.com:443
 https://sitescope-help.saas.dell.com:443
+https://slc.ins.dell.com:443
 https://sm.dell.com:443
 https://sm.delltechnologies.com:443
 https://smallbusiness.dell.com:443
@@ -1571,6 +1579,7 @@ https://ui.remediation.dell.com:443
 https://ui.test.remediation.dell.com:443
 https://uk-cp.cloudstore.dell.com:443
 https://uk-cp.stg.cloudstore.dell.com:443
+https://uk.dell.com:443
 https://unitedkingdom.dell.com:443
 https://updates.clientsolutions.dell.com:443
 https://updates.test.clientsolutions.dell.com:443
@@ -1629,5 +1638,6 @@ https://www1.ap.dell.com:443
 https://www1.euro.dell.com:443
 https://www1.jp.dell.com:443
 https://www1.la.dell.com:443
+https://www1ap.ins.dell.com:443
 https://yodagfx.dell.com:443
 https://yourid.dell.com:443

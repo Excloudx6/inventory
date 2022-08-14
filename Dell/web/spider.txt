@@ -8405,3 +8405,102 @@
 [url] - [code-401] - https://df-staging.dell.com:443
 [url] - [code-403] - http://customization-cdn.dell.com:80
 [url] - [code-403] - https://unitedkingdom.dell.com:443
+[form] - https://au-cp.cloudstore.dell.com/auth/realms/sr44/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fau-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr44&state=QoPugziTZmOYW2B7FqiaJuRO1OzC98ZNjkQu1O45IaU&client_id=oss&scope=openid
+[form] - https://au-cp.stg.cloudstore.dell.com/auth/realms/sr24/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fau-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr24&state=w0kip05OUqDXOWc1IqUOAXBO0xuW9pwzRj5oZ-SIkn8&client_id=oss&scope=openid
+[form] - https://auspwsapweb01.us.dell.com:443/(S(4sy1g0lrw2smuhmeusmnl5p5))/Login.aspx?ReturnUrl=%2f
+[form] - https://awds.federal.dell.com/DeviceManagement/Enrollment/
+[form] - https://de-cp.cloudstore.dell.com/auth/realms/sr30/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fde-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr30&state=oXdvE5if7tnfdlOE55nR882o-YUOumghycoQINMqyso&client_id=oss&scope=openid
+[form] - https://de-cp.stg.cloudstore.dell.com/auth/realms/sr14/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fde-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr14&state=nvbC2aKtNtuLI2aiLJAaPVmDdBUzWnspl2jmcdqUnaM&client_id=oss&scope=openid
+[form] - https://es-cp.stg.cloudstore.dell.com/auth/realms/sr38/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fes-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr38&state=ko9N_jcNYUCCin7ITwDib89bOHJ58Ef3aAovihZ8zI8&client_id=oss&scope=openid
+[form] - https://eu-cp.cloudstore.dell.com/auth/realms/sr9/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Feu-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr9&state=a595TqREKUt_mP8LbC38Kn3LFjHhYav0MVnLFLB8S1o&client_id=oss&scope=openid
+[form] - https://eu-cp.stg.cloudstore.dell.com/auth/realms/sr3/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Feu-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr3&state=L1QbMgEolSjKHzlUedbYEB5OTynYX0wFOQTxyBJla0E&client_id=oss&scope=openid
+[form] - https://fr-cp.cloudstore.dell.com/auth/realms/sr33/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Ffr-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr33&state=BRiGpenUov7ZVuFbMhye8cfNumni0eghqxq0PmtMV4k&client_id=oss&scope=openid
+[form] - https://fr-cp.stg.cloudstore.dell.com/auth/realms/sr13/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Ffr-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr13&state=hio32C2DJkHUE17WUdAV7aHkBBUlUe5kmIIwHgQKkW4&client_id=oss&scope=openid
+[form] - https://ie-cp.cloudstore.dell.com/auth/realms/sr50/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fie-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr50&state=kBUu9rdDqGyNFdBJgMXBenbzOFvWEEbEA7Ws2-_1uUQ&client_id=oss&scope=openid
+[form] - https://ie-cp.stg.cloudstore.dell.com/auth/realms/sr30/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fie-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr30&state=xN9JoxlBLG3-EpXx3v2ltGIY6mJJtQZ9eKkbk4yusE0&client_id=oss&scope=openid
+[form] - https://in-cp.cloudstore.dell.com/auth/realms/sr45/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fin-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr45&state=eJusy9kyUF70Q-SYkGsMHurWA84YkJWM6zbxIlTvIp4&client_id=oss&scope=openid
+[form] - https://in-cp.stg.cloudstore.dell.com/auth/realms/sr25/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fin-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr25&state=aooUPL7gP3eu2ds1WLlD-yef4B-jY_6s1FR2REJBiFA&client_id=oss&scope=openid
+[form] - https://jp-cp.cloudstore.dell.com/auth/realms/sr46/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fjp-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr46&state=QtxCWCj0PBHPOP2Y1XtGGGmaG7kQfZxTYc1RzXwC5HY&client_id=oss&scope=openid
+[form] - https://jp-cp.stg.cloudstore.dell.com/auth/realms/sr23/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fjp-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr23&state=mHm7J5aKxQozqgdIG_Pq0_8lqywoPNZa4nW6HDpimSA&client_id=oss&scope=openid
+[form] - https://licensing.dell.com:443
+[form] - https://my-cp.cloudstore.dell.com/auth/realms/sr49/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fmy-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr49&state=kj9vyvthlDkB8W6nHk9yA9Dm1uKWCtknoeqMFbY1oMU&client_id=oss&scope=openid
+[form] - https://my-cp.stg.cloudstore.dell.com/auth/realms/sr29/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fmy-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr29&state=XGFXvgyQmUTAOUGytuZ40mP5WIUgOFtQxxjwgvd039Q&client_id=oss&scope=openid
+[form] - https://nl-cp.cloudstore.dell.com/auth/realms/sr57/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fnl-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr57&state=70ZpLRsFG3C32Zo_pKpiN9101_AAZh3uFPFrXjG-Q_M&client_id=oss&scope=openid
+[form] - https://nl-cp.stg.cloudstore.dell.com/auth/realms/sr48/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fnl-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr48&state=5B4wlR2vigwuzZe7pWAZ1hV1xrID22Om4Ire-dnbq2g&client_id=oss&scope=openid
+[form] - https://no-cp.cloudstore.dell.com/auth/realms/sr60/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fno-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr60&state=1zwETB3Sd6nfgZg09Kfer4NG1VNsVsAWrTz0ja6kFqk&client_id=oss&scope=openid
+[form] - https://no-cp.stg.cloudstore.dell.com/auth/realms/sr40/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fno-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr40&state=4he9inlcjjeTDXnDTlRF8zEZXFHIxhsjplbHg_W5IdI&client_id=oss&scope=openid
+[form] - https://nz-cp.cloudstore.dell.com/auth/realms/sr47/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fnz-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr47&state=VgNy8uwuOnC4GQus1I4yofhA6KldpKXaz9DFAHAvM5w&client_id=oss&scope=openid
+[form] - https://nz-cp.stg.cloudstore.dell.com/auth/realms/sr26/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fnz-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr26&state=8eseYcPoZB-pdfQ4zPUxLzgDzin6g5X2O8cAPB9F32g&client_id=oss&scope=openid
+[form] - https://pf-ng.us.dell.com/as/authorization.oauth2?response_type=code&client_id=DTCCP1002212PRDSALES&scope=openid&redirect_uri=https://demo.delltechnologies.com/security/api/v1/authentication/callback&code_challenge=V474ZpBJMNt3mDYte9_u0k3TfK351cdCX5B1iUvr538&code_challenge_method=S256&state=9l1uwqd4oztn9ifv76evzra2c0ptnrm8
+[form] - https://saplicenselink-nonprod.dell.com:443/(S(kbhnx1fn0ey2cejixpnh1e3t))/Login.aspx?ReturnUrl=%2f
+[form] - https://saplicenselink.dell.com:443/(S(atnlfn55hfzugj04n5rel41f))/Login.aspx?ReturnUrl=%2f
+[form] - https://sg-cp.cloudstore.dell.com/auth/realms/sr48/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fsg-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr48&state=NIMKwpZkzDlYIBCIwWqwRTcbhqT-0uW9QZrB1XPLfmI&client_id=oss&scope=openid
+[form] - https://sg-cp.stg.cloudstore.dell.com/auth/realms/sr28/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fsg-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr28&state=47p5F1jCv6t9O9S68pFj6czK9npeaH_uXGkww9fNJ_s&client_id=oss&scope=openid
+[form] - https://uk-cp.cloudstore.dell.com/auth/realms/sr16/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fuk-cp.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr16&state=WE1IgiVqLCkz8U6seiw3fZPT-VEjANfnm0UIotdgb0A&client_id=oss&scope=openid
+[form] - https://uk-cp.stg.cloudstore.dell.com/auth/realms/sr8/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fuk-cp.stg.cloudstore.dell.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr8&state=TUXx3N1PJtCsnYTyB3BkdD7E7OP57Xm-g7OpGJiQjxc&client_id=oss&scope=openid
+[href] - https://au-cp.cloudstore.dell.com/auth/realms/sr44/login-actions/reset-credentials?client_id=oss&tab_id=oiZ0HINlC1s
+[href] - https://au-cp.stg.cloudstore.dell.com/auth/realms/sr24/login-actions/reset-credentials?client_id=oss&tab_id=h98CpgatszQ
+[href] - https://auspwsapweb01.us.dell.com:443/(S(4sy1g0lrw2smuhmeusmnl5p5))/PasswordRecovery.aspx
+[href] - https://awds.federal.dell.com/DeviceManagement/CSS/enrollment.css
+[href] - https://awds.federal.dell.com/DeviceManagement/CSS/fonts/pictos.css
+[href] - https://awds.federal.dell.com/DeviceManagement/CSS/layout.css
+[href] - https://awds.federal.dell.com/DeviceManagement/CSS/mobile/ssp.css
+[href] - https://awds.federal.dell.com/DeviceManagement/CSS/reset.css
+[href] - https://awds.federal.dell.com/DeviceManagement/Enrollment/emaildiscovery?groupid=True
+[href] - https://awds.federal.dell.com/DeviceManagement/publicblob/01399c26-5cf2-46b6-8721-33f066c120f6/BlobHandler.pblob
+[href] - https://awds.federal.dell.com:443
+[href] - https://de-cp.cloudstore.dell.com/auth/realms/sr30/login-actions/reset-credentials?client_id=oss&tab_id=3maU7Px-8Ds
+[href] - https://de-cp.stg.cloudstore.dell.com/auth/realms/sr14/login-actions/reset-credentials?client_id=oss&tab_id=TsH7dJqdUuQ
+[href] - https://es-cp.stg.cloudstore.dell.com/auth/realms/sr38/login-actions/reset-credentials?client_id=oss&tab_id=E3n3uB9s-cM
+[href] - https://eu-cp.cloudstore.dell.com/auth/realms/sr9/login-actions/reset-credentials?client_id=oss&tab_id=svYLAuFv1Ak
+[href] - https://eu-cp.stg.cloudstore.dell.com/auth/realms/sr3/login-actions/reset-credentials?client_id=oss&tab_id=tNozWHECDXc
+[href] - https://fonts.googleapis.com
+[href] - https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&ver=5.9.3
+[href] - https://fr-cp.cloudstore.dell.com/auth/realms/sr33/login-actions/reset-credentials?client_id=oss&tab_id=GT1M8BAvOmw
+[href] - https://fr-cp.stg.cloudstore.dell.com/auth/realms/sr13/login-actions/reset-credentials?client_id=oss&tab_id=N3Ow3t9-pO0
+[href] - https://ie-cp.cloudstore.dell.com/auth/realms/sr50/login-actions/reset-credentials?client_id=oss&tab_id=3rc5ApEoX-E
+[href] - https://ie-cp.stg.cloudstore.dell.com/auth/realms/sr30/login-actions/reset-credentials?client_id=oss&tab_id=KQGJsm80f0I
+[href] - https://in-cp.cloudstore.dell.com/auth/realms/sr45/login-actions/reset-credentials?client_id=oss&tab_id=YCgSmLF8ErY
+[href] - https://in-cp.stg.cloudstore.dell.com/auth/realms/sr25/login-actions/reset-credentials?client_id=oss&tab_id=9RA_oGsTD0o
+[href] - https://jp-cp.cloudstore.dell.com/auth/realms/sr46/login-actions/reset-credentials?client_id=oss&tab_id=cXmFcEeEV7A
+[href] - https://jp-cp.stg.cloudstore.dell.com/auth/realms/sr23/login-actions/reset-credentials?client_id=oss&tab_id=R8SGNDe-6BE
+[href] - https://my-cp.cloudstore.dell.com/auth/realms/sr49/login-actions/reset-credentials?client_id=oss&tab_id=UYyj-n3dkj0
+[href] - https://my-cp.stg.cloudstore.dell.com/auth/realms/sr29/login-actions/reset-credentials?client_id=oss&tab_id=5YApZ8fvDhM
+[href] - https://nl-cp.cloudstore.dell.com/auth/realms/sr57/login-actions/reset-credentials?client_id=oss&tab_id=JOGXXAvyWgA
+[href] - https://nl-cp.stg.cloudstore.dell.com/auth/realms/sr48/login-actions/reset-credentials?client_id=oss&tab_id=6ccoPF6IsfU
+[href] - https://no-cp.cloudstore.dell.com/auth/realms/sr60/login-actions/reset-credentials?client_id=oss&tab_id=dCnpZrDki14
+[href] - https://no-cp.stg.cloudstore.dell.com/auth/realms/sr40/login-actions/reset-credentials?client_id=oss&tab_id=APD3yPfElHk
+[href] - https://nz-cp.cloudstore.dell.com/auth/realms/sr47/login-actions/reset-credentials?client_id=oss&tab_id=mhKAi08GrKM
+[href] - https://nz-cp.stg.cloudstore.dell.com/auth/realms/sr26/login-actions/reset-credentials?client_id=oss&tab_id=c-DMJtxSAQQ
+[href] - https://saplicenselink-nonprod.dell.com:443/(S(kbhnx1fn0ey2cejixpnh1e3t))/PasswordRecovery.aspx
+[href] - https://saplicenselink.dell.com:443/(S(atnlfn55hfzugj04n5rel41f))/PasswordRecovery.aspx
+[href] - https://sg-cp.cloudstore.dell.com/auth/realms/sr48/login-actions/reset-credentials?client_id=oss&tab_id=Z1cnkJBvw8I
+[href] - https://sg-cp.stg.cloudstore.dell.com/auth/realms/sr28/login-actions/reset-credentials?client_id=oss&tab_id=wikC-A4kEpg
+[href] - https://uk-cp.cloudstore.dell.com/auth/realms/sr16/login-actions/reset-credentials?client_id=oss&tab_id=wyXY8ruQ0sE
+[href] - https://uk-cp.stg.cloudstore.dell.com/auth/realms/sr8/login-actions/reset-credentials?client_id=oss&tab_id=oyzInTXifac
+[href] - mailto:noreply@company.com
+[href] - tel:888-888-8888
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/MicrosoftMvcJQueryValidation.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/WinJS.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/aw.branding.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/aw.form.helper.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/aw.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/aw.mvc.helpers.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/aw.services.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/jquery-3.2.1.min.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/jquery-ui-1.12.1.min.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/jquery.aw.ui.multipletextboxes.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/jquery.aw.ui.setpassword.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/jquery.dirtyFields.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/jquery.form.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/jquery.hoverIntent.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/jquery.validate.min.js
+[javascript] - https://awds.federal.dell.com/DeviceManagement/Scripts/underscore-min.js
+[javascript] - https://fact.dfs.us.dell.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%220xc0okM7Tt30GmD7h0dS9Q%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/resources.js?pv=16603131120001076029550&rv=1659568824000
+[url] - [code-200] - https://ed101-myconnect.dell.com:443
+[url] - [code-401] - https://qa-author-dam.delltechnologies.com:443
+[url] - [code-403] - http://click.notifications.dell.com:80
+[url] - [code-403] - http://uk.dell.com:80
+[url] - [code-403] - https://agileupk.ins.dell.com:443
+[url] - [code-403] - https://uk.dell.com:443
+[url] - [code-403] - https://www1ap.ins.dell.com:443
