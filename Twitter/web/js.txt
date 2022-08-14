@@ -65,6 +65,8 @@ https://2018-config-atlc-lab.vpn.twttr.com:443/dana-na/auth/lastauthserverused.j
 https://2018-config-atlc-lab.vpn.twttr.com:443/dana-na/auth/url_default/js/Duo-Juniper-Mobile.js
 https://2018-dbms.alpha.bumet.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js
 https://2018-dbms.alpha.bumet.vpn.twttr.com:443/dana-na/auth/url_default/js/Duo-Juniper-Mobile.js
+https://2018-dev-adminbeta.backup.aafes.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js
+https://2018-dev-adminbeta.backup.aafes.vpn.twttr.com:443/dana-na/auth/url_default/js/Duo-Juniper-Mobile.js
 https://2018-escalate.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js
 https://2018-escalate.vpn.twttr.com:443/dana-na/auth/url_default/js/Duo-Juniper-Mobile.js
 https://2018.access-2021bucket.admin.atlc-lab.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js
@@ -1493,6 +1495,8 @@ https://beta-access.access.adicahyaludin.vpn.twttr.com:443/dana-na/auth/lastauth
 https://beta-access.access.adicahyaludin.vpn.twttr.com:443/dana-na/auth/url_default/js/Duo-Juniper-Mobile.js
 https://beta-access.access.administrator.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js
 https://beta-access.access.administrator.vpn.twttr.com:443/dana-na/auth/url_default/js/Duo-Juniper-Mobile.js
+https://beta-accountchef.auth.berry.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js
+https://beta-accountchef.auth.berry.vpn.twttr.com:443/dana-na/auth/url_default/js/Duo-Juniper-Mobile.js
 https://beta-admin.access.adminaccess.admin.accountadicahyaludin.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js
 https://beta-admin.access.adminaccess.admin.accountadicahyaludin.vpn.twttr.com:443/dana-na/auth/url_default/js/Duo-Juniper-Mobile.js
 https://beta-admin.accountconfluence.obv-smf1.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js
@@ -1669,6 +1673,7 @@ https://business.twitter.com/etc/clientlibs/dtm/business-twitter/c411b4930511/b8
 https://business.twitter.com/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.53b3b1b16bfd4921205b624466de3b1d.js
 https://business.twitter.com/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.6b8281d500f73039836554d688c872c5.js
 https://business.twitter.com/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.8027838f1b8812b5b274385df831c6e0.js
+https://business.twitter.com/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.896e72f83745db0185f2a3fb039f4307.js
 https://business.twitter.com/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.94be364a4d45528d455a257aaccbc38a.js
 https://business.twitter.com/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.9f51c130394ad8d2b848a383ba9bf26f.js
 https://business.twitter.com/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.b13bbdfee6fd22d0466957caae3cfaf1.js
@@ -1718,6 +1723,7 @@ https://business.twitter.com:443/etc/clientlibs/dtm/business-twitter/c411b493051
 https://business.twitter.com:443/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.53b3b1b16bfd4921205b624466de3b1d.js
 https://business.twitter.com:443/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.6b8281d500f73039836554d688c872c5.js
 https://business.twitter.com:443/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.8027838f1b8812b5b274385df831c6e0.js
+https://business.twitter.com:443/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.896e72f83745db0185f2a3fb039f4307.js
 https://business.twitter.com:443/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.94be364a4d45528d455a257aaccbc38a.js
 https://business.twitter.com:443/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.9f51c130394ad8d2b848a383ba9bf26f.js
 https://business.twitter.com:443/etc/clientlibs/dtm/business-twitter/c411b4930511/b87d0323d56d/launch-667620fdf853.min.js.twhash.a.f.b13bbdfee6fd22d0466957caae3cfaf1.js
@@ -4256,6 +4262,8 @@ https://unrealmethodscom.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js
 https://unrealmethodscom.vpn.twttr.com:443/dana-na/auth/url_default/js/Duo-Juniper-Mobile.js
 https://update-aaronshappell.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js
 https://update-aaronshappell.vpn.twttr.com:443/dana-na/auth/url_default/js/Duo-Juniper-Mobile.js
+https://update-access-api.admin.accessconfluence.carirevolusi.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js
+https://update-access-api.admin.accessconfluence.carirevolusi.vpn.twttr.com:443/dana-na/auth/url_default/js/Duo-Juniper-Mobile.js
 https://update-account.access-access-alpha-escalate.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js
 https://update-account.access-access-alpha-escalate.vpn.twttr.com:443/dana-na/auth/url_default/js/Duo-Juniper-Mobile.js
 https://update-admin.accountapi-39-4-3-39-4-5.vpn.twttr.com:443/dana-na/auth/lastauthserverused.js

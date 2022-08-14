@@ -421,6 +421,7 @@
 2018-debug.adminalphaupload.staging.vpn.twttr.com
 2018-debugbeta.semantic-lab.vpn.twttr.com
 2018-demo.staging.vpn.twttr.com
+2018-dev-adminbeta.backup.aafes.vpn.twttr.com
 2018-elasticbeanstalkinternal.exairetico.vpn.twttr.com
 2018-escalate.vpn.twttr.com
 2018-j3p0uk.vpn.twttr.com
@@ -8563,6 +8564,7 @@ beta-accountaccount-addressable.vpn.twttr.com
 beta-accountadmin.account.data.obv-atla.vpn.twttr.com
 beta-accountadminaccountalphaaccountconfluence.obv-smf1.vpn.twttr.com
 beta-accountalways.vpn.twttr.com
+beta-accountchef.auth.berry.vpn.twttr.com
 beta-activeplayerapp.vpn.twttr.com
 beta-addeventlistener.vpn.twttr.com
 beta-addiiton.vpn.twttr.com
@@ -12998,6 +13000,7 @@ geO3.probe.twitter.com
 geO3.syndication.twitter.com
 geO5.pay.twitter.com
 geO6.api.twitter.com
+geO7.twitter.com
 gearmobile.vpn.twttr.com
 ged.vpn.twttr.com
 geektoad.vpn.twttr.com
@@ -19999,6 +20002,7 @@ update-2019.api.accountbjori.vpn.twttr.com
 update-2020-admin-access-api-smfc-lab.vpn.twttr.com
 update-aaronshappell.vpn.twttr.com
 update-access-and.vpn.twttr.com
+update-access-api.admin.accessconfluence.carirevolusi.vpn.twttr.com
 update-access.accessadmin.aaronshappell.vpn.twttr.com
 update-accessaccount-beta-brandsafety.vpn.twttr.com
 update-account-accessaccount-advised.vpn.twttr.com
@@ -20373,6 +20377,7 @@ uxr3.vpn.twttr.com
 uxr4.vpn.twttr.com
 v.cdn.vine.co
 v1-2018.demo.staging.vpn.twttr.com
+v1-GEo1.tweet.twitter.com
 v1-access-a-0001.vpn.twttr.com
 v1-access-acknowledge.vpn.twttr.com
 v1-access.allspaw.vpn.twttr.com
@@ -20990,6 +20995,7 @@ weATheriscloud.vine.co
 weB-Awproxydev.svc.twttr.com
 weB-dev-audit-trail.periscope.tv
 weB-dev-chatman-replay-eu-west-1.pscp.tv
+weB.dev-transcode-proxy-eu-west-1.periscope.tv
 weB8.vine.co
 weBAPi-23-0-0.twitter.com
 weBChatman-replay-us-west-2.pscp.tv

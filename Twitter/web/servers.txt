@@ -2133,6 +2133,7 @@ http://gdpr-staging.twitter.com:80
 http://gdpr.twitter.com:80
 http://geO3.probe.twitter.com:80
 http://geO6.api.twitter.com:80
+http://geO7.twitter.com:80
 http://geo0.abs.twimg.com:80
 http://geo0.api-stream.twitter.com:80
 http://geo0.api.twitter.com:80
@@ -3774,6 +3775,7 @@ https://2018-dbms.staging.vpn.twttr.com:443
 https://2018-debug.adminalphaupload.staging.vpn.twttr.com:443
 https://2018-debugbeta.semantic-lab.vpn.twttr.com:443
 https://2018-demo.staging.vpn.twttr.com:443
+https://2018-dev-adminbeta.backup.aafes.vpn.twttr.com:443
 https://2018-elasticbeanstalkinternal.exairetico.vpn.twttr.com:443
 https://2018-escalate.vpn.twttr.com:443
 https://2018-j3p0uk.vpn.twttr.com:443
@@ -11719,6 +11721,7 @@ https://beta-accountaccount-addressable.vpn.twttr.com:443
 https://beta-accountadmin.account.data.obv-atla.vpn.twttr.com:443
 https://beta-accountadminaccountalphaaccountconfluence.obv-smf1.vpn.twttr.com:443
 https://beta-accountalways.vpn.twttr.com:443
+https://beta-accountchef.auth.berry.vpn.twttr.com:443
 https://beta-activeplayerapp.vpn.twttr.com:443
 https://beta-addeventlistener.vpn.twttr.com:443
 https://beta-addiiton.vpn.twttr.com:443
@@ -16046,6 +16049,7 @@ https://ge.vpn.twttr.com:443
 https://ge33ek.vpn.twttr.com:443
 https://geO3.probe.twitter.com:443
 https://geO6.api.twitter.com:443
+https://geO7.twitter.com:443
 https://gearmobile.vpn.twttr.com:443
 https://ged.vpn.twttr.com:443
 https://geektoad.vpn.twttr.com:443
@@ -22699,6 +22703,7 @@ https://update-2019.api.accountbjori.vpn.twttr.com:443
 https://update-2020-admin-access-api-smfc-lab.vpn.twttr.com:443
 https://update-aaronshappell.vpn.twttr.com:443
 https://update-access-and.vpn.twttr.com:443
+https://update-access-api.admin.accessconfluence.carirevolusi.vpn.twttr.com:443
 https://update-access.accessadmin.aaronshappell.vpn.twttr.com:443
 https://update-accessaccount-beta-brandsafety.vpn.twttr.com:443
 https://update-account-accessaccount-advised.vpn.twttr.com:443
