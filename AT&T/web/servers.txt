@@ -616,6 +616,7 @@ http://dss-p9mbw22.att.com:8000
 http://dss-p9mbw22.att.com:8443
 http://dss-p9mbw30.att.com:8000
 http://dss-p9mbw33.att.com:8000
+http://dss-p9mbw33.att.com:8443
 http://dss-p9mbw8.att.com:8000
 http://dssbpe3-m.att.com:80
 http://dssbpe6-m.att.com:80
@@ -778,6 +779,7 @@ http://explore.att.com:80
 http://expressticketing.acsS.att.com:80
 http://expressticketing.acss.att.com:80
 http://ext-mpsys-frma-lgw.att.com:443
+http://fRcA-aboUT.att.com:80
 http://fame.att.com:443
 http://fame.att.com:80
 http://fedgovservicestest.att.com:80
@@ -2490,6 +2492,7 @@ http://vnigaus14.acss.att.com:80
 http://vnigaus15.acss.att.com:80
 http://vnigaus16.acss.att.com:80
 http://vnigaus17.ACss.att.com:80
+http://vnigaus17.aCSS.att.com:80
 http://vnigaus17.acss.att.com:80
 http://vnln01.acss.att.com:80
 http://vnln02.acss.att.com:80
@@ -2516,6 +2519,7 @@ http://vnpwr901.acss.att.com:80
 http://vnpwr902.acss.att.com:80
 http://vnpwr903.acss.att.com:80
 http://vnpwr904.acss.att.com:80
+http://vnpwr905.aCSS.att.com:80
 http://vnpwr905.acss.att.com:80
 http://vnpwr906.acss.att.com:80
 http://vnpwr907.acss.att.com:80
@@ -2578,6 +2582,7 @@ http://vnshrso03.aCSS.att.com:80
 http://vnshrso03.acss.att.com:80
 http://vnshrso04.acss.att.com:80
 http://vnshrso05.acss.att.com:80
+http://vnshrso06.aCSS.att.com:80
 http://vnshrso06.acss.att.com:80
 http://vnshrso07.acss.att.com:80
 http://vnshrso08.acss.att.com:80
@@ -3993,6 +3998,7 @@ https://ext-mpsys-frma-lgw.att.com:443
 https://ext-mpsys-frma-lgw.att.com:8443
 https://ext-mpsys-frma-lgw.test.att.com:443
 https://ext-mpsys-frma-lgw.test.att.com:8443
+https://fRcA-aboUT.att.com:443
 https://faccess-da.att.com:443
 https://faccess-sf.att.com:443
 https://faccess.att.com:443
@@ -5980,6 +5986,7 @@ https://vnigaus14.acss.att.com:443
 https://vnigaus15.acss.att.com:443
 https://vnigaus16.acss.att.com:443
 https://vnigaus17.ACss.att.com:443
+https://vnigaus17.aCSS.att.com:443
 https://vnigaus17.acss.att.com:443
 https://vnln01.acss.att.com:443
 https://vnln02.acss.att.com:443
@@ -6006,6 +6013,7 @@ https://vnpwr901.acss.att.com:443
 https://vnpwr902.acss.att.com:443
 https://vnpwr903.acss.att.com:443
 https://vnpwr904.acss.att.com:443
+https://vnpwr905.aCSS.att.com:443
 https://vnpwr905.acss.att.com:443
 https://vnpwr906.acss.att.com:443
 https://vnpwr907.acss.att.com:443
@@ -6068,6 +6076,7 @@ https://vnshrso03.aCSS.att.com:443
 https://vnshrso03.acss.att.com:443
 https://vnshrso04.acss.att.com:443
 https://vnshrso05.acss.att.com:443
+https://vnshrso06.aCSS.att.com:443
 https://vnshrso06.acss.att.com:443
 https://vnshrso07.acss.att.com:443
 https://vnshrso08.acss.att.com:443
