@@ -142,6 +142,7 @@ https://app.glean.com/a/analytics.js
 https://app.short.io/main.2ce3b0e59021f982ad6e.js
 https://app.short.io/main.313ecd53742ecd37ec95.js
 https://app.short.io/main.49f34ed207991bbea8db.js
+https://app.short.io/main.671356b42eeac3c50d54.js
 https://app.short.io/main.6ded0fbb2ebc0d257280.js
 https://app.short.io/main.92c19de9aee12b28de8a.js
 https://app.short.io/main.959975366ff8eb996571.js
@@ -352,6 +353,7 @@ https://cdn.frontify.com/js/frontify-common.f0d32cca2be2c23bd71e.js
 https://cdn.frontify.com/js/frontify-common.f4c9e2092eef10ae3a83.js
 https://cdn.frontify.com/js/frontify-common.f77a3c9f290cc906bb36.js
 https://cdn.frontify.com/js/frontify-common.ff99fdcfd528fe5edb95.js
+https://cdn.frontify.com/js/frontify-common.ffa0ea947d7b62c2cb24.js
 https://cdn.frontify.com/js/frontify-libraries-custom.2c0c785f9f711a7b7109.js
 https://cdn.frontify.com/js/frontify-libraries-custom.5e349b4244c6d5d2e2ee.js
 https://cdn.frontify.com/js/frontify-libraries-custom.ea373f28da8eb11504a0.js
@@ -396,6 +398,7 @@ https://cdn.frontify.com/js/frontify-runtime.ec23cbba080926f11815.js
 https://cdn.frontify.com/js/frontify-runtime.eebbe9580a166fdfbfd8.js
 https://cdn.frontify.com/js/frontify-runtime.efebf5106278536aad4a.js
 https://cdn.frontify.com/js/frontify-runtime.fe0570f936797144f9cf.js
+https://cdn.frontify.com/js/frontify-templates-common-en.01eaec3f1e6d5510feae6304c658e761.js
 https://cdn.frontify.com/js/frontify-templates-common-en.08ea4b1935d30b2a4c824cac1d6ac0cf.js
 https://cdn.frontify.com/js/frontify-templates-common-en.0a20ac9b4b5298723610f2cb8bbb4043.js
 https://cdn.frontify.com/js/frontify-templates-common-en.0e03f465445f94c9622b0686d51a9634.js
@@ -2984,6 +2987,7 @@ https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/client-legacy-roots-mobile-onl
 https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/client-legacy-roots-mobile-online-ordering-37c5c7e709ec6ce46c3c.js
 https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/client-legacy-roots-mobile-online-ordering-3ddc9d0f73c1e0b9.js
 https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/client-legacy-roots-mobile-online-ordering-421030bc5414dab4.js
+https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/client-legacy-roots-mobile-online-ordering-4fe2f703fd42653e.js
 https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/client-legacy-roots-mobile-online-ordering-5bdffe9e8dafbd33.js
 https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/client-legacy-roots-mobile-online-ordering-5f7facd09596531812e9.js
 https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/client-legacy-roots-mobile-online-ordering-6a33514aa2fdcd7b506f.js
@@ -3640,6 +3644,7 @@ https://restauranthelp.uber.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%
 https://restauranthelp.uber.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%220xc0okM7Tt30GmD7h0dS9Q%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/inline.js?aura.attributes=%7B%22ac%22%3A%22%22%2C%22authenticated%22%3A%22false%22%2C%22brandingSetId%22%3A%221aade119-085e-42e1-8a38-5ba7a1c92e3a%22%2C%22formFactor%22%3A%22SMALL%22%2C%22isHybrid%22%3A%22false%22%2C%22language%22%3A%22en_US%22%2C%22pageId%22%3A%226d411feb-16f3-4ddd-8d64-855658b7ddb9%22%2C%22publishedChangelistNum%22%3A%2231%22%2C%22schema%22%3A%22Published%22%2C%22themeLayoutType%22%3A%22Inner%22%2C%22viewType%22%3A%22Published%22%7D
 https://restauranthelp.uber.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%220xc0okM7Tt30GmD7h0dS9Q%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/resources.js?pv=16602949270001812214442&rv=1659411451000
 https://restauranthelp.uber.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%220xc0okM7Tt30GmD7h0dS9Q%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/resources.js?pv=16603747540001812214442&rv=1659411451000
+https://restauranthelp.uber.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%220xc0okM7Tt30GmD7h0dS9Q%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/resources.js?pv=16605081560001812214442&rv=1659411451000
 https://restauranthelp.uber.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22G6OCB0bu1hFR9F0U5iYb5g%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/bootstrap.js?aura.attributes=%7B%22ac%22%3A%22%22%2C%22authenticated%22%3A%22false%22%2C%22brandingSetId%22%3A%221aade119-085e-42e1-8a38-5ba7a1c92e3a%22%2C%22formFactor%22%3A%22SMALL%22%2C%22isHybrid%22%3A%22false%22%2C%22language%22%3A%22en_US%22%2C%22pageId%22%3A%226d411feb-16f3-4ddd-8d64-855658b7ddb9%22%2C%22publishedChangelistNum%22%3A%2231%22%2C%22schema%22%3A%22Published%22%2C%22themeLayoutType%22%3A%22Inner%22%2C%22viewType%22%3A%22Published%22%7D
 https://restauranthelp.uber.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22G6OCB0bu1hFR9F0U5iYb5g%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/inline.js?aura.attributes=%7B%22ac%22%3A%22%22%2C%22authenticated%22%3A%22false%22%2C%22brandingSetId%22%3A%221aade119-085e-42e1-8a38-5ba7a1c92e3a%22%2C%22formFactor%22%3A%22SMALL%22%2C%22isHybrid%22%3A%22false%22%2C%22language%22%3A%22en_US%22%2C%22pageId%22%3A%226d411feb-16f3-4ddd-8d64-855658b7ddb9%22%2C%22publishedChangelistNum%22%3A%2231%22%2C%22schema%22%3A%22Published%22%2C%22themeLayoutType%22%3A%22Inner%22%2C%22viewType%22%3A%22Published%22%7D
 https://restauranthelp.uber.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22QPQi8lbYE8YujG6og6Dqgw%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22NE0lrgbocOO6eTkkcOfMqg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22G6OCB0bu1hFR9F0U5iYb5g%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22533941497%22%2C%22ct%22%3A1%7D/resources.js?pv=16599007980001812214442&rv=1659411451000
@@ -3884,6 +3889,7 @@ https://uberblog.10upcdn.com/js/app.js?ver=1659435298931
 https://uberblog.10upcdn.com/js/app.js?ver=1660058686147
 https://uberblog.10upcdn.com/js/app.js?ver=1660151265099
 https://uberblog.10upcdn.com/js/app.js?ver=1660151306053
+https://uberblog.10upcdn.com/js/app.js?ver=1660151423851
 https://uberblog.10upcdn.com/js/app.js?ver=1660151444130
 https://uberblog.10upcdn.com/js/state/blog.js?ver=1646774755614
 https://uberblog.10upcdn.com/js/state/blog.js?ver=1646774816516
@@ -4010,6 +4016,7 @@ https://uberblog.10upcdn.com/js/state/blog/new-york-city/tlc-rule-changes.js?ver
 https://uberblog.10upcdn.com/js/state/blog/new-york-city/tlc-rule-changes.js?ver=1660058686147
 https://uberblog.10upcdn.com/js/state/blog/new-york-city/tlc-rule-changes.js?ver=1660151265099
 https://uberblog.10upcdn.com/js/state/blog/new-york-city/tlc-rule-changes.js?ver=1660151306053
+https://uberblog.10upcdn.com/js/state/blog/new-york-city/tlc-rule-changes.js?ver=1660151423851
 https://uberblog.10upcdn.com/js/state/blog/new-york-city/tlc-rule-changes.js?ver=1660151444130
 https://ubernewsroom.10upcdn.com/js/app.js?ver=1644355097489
 https://ubernewsroom.10upcdn.com/js/app.js?ver=1646774588037

@@ -367,6 +367,7 @@ http://central-v2.uber.com:80
 http://central-v2.uber.com:8080
 http://central.uber.com:80
 http://central.uber.com:8080
+http://cerebro.UberINteRnAL.com:80
 http://cerebro.uberinternal.com:80
 http://chameleon-phx2.uberinternal.com:80
 http://chameleon-preview.uberinternal.com:80
@@ -1046,6 +1047,7 @@ http://grafana.uberinternal.com:80
 http://grafana4-dca1.uberinternal.com:80
 http://grafana4-gcp.ubERIntErNAl.com:80
 http://grafana4-gcp.uberinternal.com:80
+http://grafana4-phx2.UberINteRnAL.com:80
 http://grafana4-phx2.uberinternal.com:80
 http://grafana4-phx3.uberinternal.com:80
 http://grafana4.uberinternal.com:80
@@ -1398,6 +1400,7 @@ http://medley.uBeriNtErnaL.com:80
 http://medley.uberinternal.com:80
 http://medleyui.uberinternal.com:80
 http://medleyui.uberinternal.com:8080
+http://megaphone.UberINteRnAL.com:80
 http://megaphone.uberinternal.com:80
 http://meh-staging.uber.com:80
 http://meh-staging.uber.com:8080
@@ -2610,6 +2613,7 @@ http://webview.uberinternal.com:80
 http://who.uberinternal.com:80
 http://who.uberinternal.com:8080
 http://whober-staging.uberinternal.com:80
+http://whober.UberINteRnAL.com:80
 http://whober.uberinternal.com:80
 http://widgets.uber.com:80
 http://wisdom-staging.uberinternal.com:80
@@ -2971,6 +2975,7 @@ https://cdp.uberinternal.com:443
 https://central-beta.uber.com:443
 https://central-v2.uber.com:443
 https://central.uber.com:443
+https://cerebro.UberINteRnAL.com:443
 https://cerebro.uberinternal.com:443
 https://chameleon-phx2.uberinternal.com:443
 https://chameleon-preview.uberinternal.com:443
@@ -3535,6 +3540,7 @@ https://grafana.uberinternal.com:443
 https://grafana4-dca1.uberinternal.com:443
 https://grafana4-gcp.ubERIntErNAl.com:443
 https://grafana4-gcp.uberinternal.com:443
+https://grafana4-phx2.UberINteRnAL.com:443
 https://grafana4-phx2.uberinternal.com:443
 https://grafana4-phx3.uberinternal.com:443
 https://grafana4.uberinternal.com:443
@@ -3697,6 +3703,7 @@ https://jarvis-home.uberinternal.com:443
 https://jarvis.uberinternal.com:443
 https://jeng-staging.uberinternal.com:443
 https://jeng.uberinternal.com:443
+https://jetbrains-staging.UberINteRnAL.com:443
 https://jetbrains-staging.uberinternal.com:443
 https://jetbrains.uberinternal.com:443
 https://jigsaw.uberinternal.com:443
@@ -3842,6 +3849,7 @@ https://mdm.uberinternal.com:443
 https://medley.uBeriNtErnaL.com:443
 https://medley.uberinternal.com:443
 https://medleyui.uberinternal.com:443
+https://megaphone.UberINteRnAL.com:443
 https://megaphone.uberinternal.com:443
 https://meh-staging.uber.com:443
 https://meh.uber.com:443
@@ -4882,6 +4890,7 @@ https://webview-staging.uberinternal.com:443
 https://webview.uberinternal.com:443
 https://who.uberinternal.com:443
 https://whober-staging.uberinternal.com:443
+https://whober.UberINteRnAL.com:443
 https://whober.uberinternal.com:443
 https://widgets.uber.com:443
 https://wisdom-staging.uberinternal.com:443
