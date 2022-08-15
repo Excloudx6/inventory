@@ -25928,3 +25928,121 @@
 [url] - [code-400] - http://dss-p9mbw33.att.com:8443
 [url] - [code-403] - https://dlcss.digitallife.att.com:443
 [url] - [code-403] - https://iiwc-trn1.test.dlife.att.com:443
+[form] - https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=wnS_nk7oOM7o62C_mbTwb46TIdqs_LOD7aR7fcF4fkg
+[form] - https://origin-wsp-dadc01.att.com:443/admin/login.jsp
+[form] - https://saml.e-access.att.com/isam/sps/ATTIDPEntity/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJVKSY1iEbUCN09aAaxux0kMvAU2tYgIUyXKpPP6%2BlJQmbYBkj8uZ2ZkBF8hbZVnZ%2BbO%2Bgd8doJ9chHlqlUY2PC6jzmlmOEpkmreAzAt2LH9sWZZQZp3xRhgVvaN9zuKI4Lw0eqRt1stov7ve7r9tdnc5zKGYcsjns1k2mxZidkppXl82Da8pzU9ZSgs%2BbYqR%2BhMcBp1lFGSjyaiG2MFGo%2Bfahz3NspjO4%2FSyogXLC0bnv0bqOoSVmvuBfvbeIiOk955AzIUAxIR7nwjTEhnWBC2Ssqo268O19tI%2FD9iMEmXu5UuQw0sbX6Supb7%2FvITTCEL2vaoO8WF%2FrEaR8m85V0Zj14I7gnuQAm5vtm8%2BnwQocNzDq8dHGwujPWhPrOqCJSRGw2Au7p3GiIZw5cH1mR%2FgjgtM7NlGq%2BHqosewoTu3%2BvDKgvwLeyNatgv5QjVGSfE87Pv5alzL%2Fcc1pEk6bGQdNwOUdRotCNlIqKNXmVIp83jlIBhZRt51EF2Q1WT08v%2FnXf0B&RelayState=%2F
+[href] - https://911standalone.uc.att.com/brand_resources/911standalone.uc.att.com/favicon.ico?v=2022-08-15 07:52:27 -0400
+[href] - https://auth.lab.dco.cloud.att.com:443/password/forgot?tenantId=9381a4b2-3603-b5da-9517-fff9b041bfbe&client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&nonce=&redirect_uri=%2Flogin&response_mode=&response_type=code&scope=&state=wnS_nk7oOM7o62C_mbTwb46TIdqs_LOD7aR7fcF4fkg&timezone=&metaData.device.name=&metaData.device.type=UNKNOWN&code_challenge=&code_challenge_method=&user_code=
+[href] - https://call.att.com:443/control/ListLocales;jsessionid=7F34BC411B819DD8FFC5E7BD6980FB1E.jvm1
+[href] - https://call.att.com:443/control/getpassword;jsessionid=7F34BC411B819DD8FFC5E7BD6980FB1E.jvm1
+[href] - https://darp-confluence.test.att.com/administrators.action
+[href] - https://darp-confluence.test.att.com/dologin.action?os_username=${action.os_username}
+[href] - https://fpspc3.az.cloud.att.com:443/static/css/main.07fdb563.chunk.css
+[href] - https://gen.cloud.att.com/
+[href] - https://gen.cloud.att.com/favicon.ico
+[href] - https://gen.cloud.att.com/styles.css
+[href] - https://hvd-intl14.att.com:443/portal/favicon.ico?v=20099642
+[href] - https://hvd-intl14.att.com:443/portal/webclient/style.css?v=20099642
+[href] - https://mydesktop-central04u.att.com/portal/favicon.ico?v=19066890
+[href] - https://mydesktop-central04u.att.com/portal/nativeclient
+[href] - https://mydesktop-central04u.att.com/portal/webclient/index.html
+[href] - https://mydesktop-central04u.att.com/portal/webclient/style.css?v=19066890
+[href] - https://origin-wsp-dadc01.att.com:443/admin/css/images/favicon.ico
+[href] - https://origin-wsp-dadc01.att.com:443/admin/css/loginpage.css?_isever=166024468962678
+[href] - https://origin-wsp-dadc01.att.com:443/admin/lib/xwt/themes/reboot2/reboot2-base.css?_isever=166024468962678
+[href] - https://origin-wsp-dadc01.att.com:443/admin/lib/xwt/themes/reboot2/reboot2-xwt.css?_isever=166024468962678
+[href] - https://origin-wsp-dadc02.att.com:443/admin/css/loginpage.css?_isever=166024575764621
+[href] - https://origin-wsp-dadc02.att.com:443/admin/lib/xwt/themes/reboot2/reboot2-base.css?_isever=166024575764621
+[href] - https://origin-wsp-dadc02.att.com:443/admin/lib/xwt/themes/reboot2/reboot2-xwt.css?_isever=166024575764621
+[href] - https://tcdirectorylink.att.com:443/login/login.jsp;jsessionid=YzihWUQ2EJxOMkdTaYqM1SBlIiqUmoxxJ_lCsN2vOGHIQQd-X1kP!-1037812733
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1660528244
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1660528244
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-42.css?ver=1660528305
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462333.css?ver=1660528441
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462334.css?ver=1660528275
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462343.css?ver=1660528849
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462359.css?ver=1660528716
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462367.css?ver=1660529136
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462370.css?ver=1660528275
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462377.css?ver=1660528501
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-462382.css?ver=1660528469
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-5.css?ver=1660528288
+[href] - https://www.attconnects.com/wp-content/uploads/elementor/css/post-6.css?ver=1660528244
+[href] - https://www.corp.att.com/alliance/wp-content/themes/business-digital-parent/css/styles.css?ver=1660564338
+[href] - https://www.corp.att.com/alliance/wp-content/themes/business-digital-parent/css/styles.css?ver=1660564347
+[javascript] - https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_V_8hCKvQdmDpy_Z9V0bDYg2.js
+[javascript] - https://atlas.att.com/cdo/static/js/15.e2736d3f.chunk.js
+[javascript] - https://atlas.att.com/cdo/static/js/main.4245867e.chunk.js
+[javascript] - https://connect.att.com/static/js/15.2428c228.chunk.js
+[javascript] - https://connect.att.com/static/js/main.d547e121.chunk.js
+[javascript] - https://customer.cludo.com/scripts/bundles/search-script.min.js?ver=1660564338
+[javascript] - https://customer.cludo.com/scripts/bundles/search-script.min.js?ver=1660564347
+[javascript] - https://fpspc3.az.cloud.att.com:443/static/js/49.e6d98429.chunk.js
+[javascript] - https://fpspc3.az.cloud.att.com:443/static/js/main.4045e576.chunk.js
+[javascript] - https://gen.cloud.att.com/main.js
+[javascript] - https://gen.cloud.att.com/polyfills.js
+[javascript] - https://gen.cloud.att.com/runtime.js
+[javascript] - https://gen.cloud.att.com/vendor.js
+[javascript] - https://hvd-intl14.att.com:443/portal/resources/main.js?v=20099642
+[javascript] - https://mydesktop-central04u.att.com/portal/resources/main.js?v=19066890
+[javascript] - https://origin-wsp-dadc01.att.com:443/admin/lib/cpm/widget/LoginPage.js?_isever=166024468962678
+[javascript] - https://origin-wsp-dadc01.att.com:443/admin/lib/dojo/dojo.js?_isever=166024468962678
+[javascript] - https://origin-wsp-dadc01.att.com:443/admin/lib/xwt/nls/xwt_en-us.js?_isever=166024468962678
+[javascript] - https://origin-wsp-dadc01.att.com:443/admin/lib/xwt/nls/xwt_en.js?_isever=166024468962678
+[javascript] - https://origin-wsp-dadc01.att.com:443/admin/lib/xwt/nls/xwt_ja.js?_isever=166024468962678
+[javascript] - https://origin-wsp-dadc01.att.com:443/admin/lib/xwt/xwt.js?_isever=166024468962678
+[javascript] - https://origin-wsp-dadc02.att.com:443/admin/lib/cpm/widget/LoginPage.js?_isever=166024575764621
+[javascript] - https://origin-wsp-dadc02.att.com:443/admin/lib/dojo/dojo.js?_isever=166024575764621
+[javascript] - https://origin-wsp-dadc02.att.com:443/admin/lib/xwt/nls/xwt_en-us.js?_isever=166024575764621
+[javascript] - https://origin-wsp-dadc02.att.com:443/admin/lib/xwt/nls/xwt_en.js?_isever=166024575764621
+[javascript] - https://origin-wsp-dadc02.att.com:443/admin/lib/xwt/nls/xwt_ja.js?_isever=166024575764621
+[javascript] - https://origin-wsp-dadc02.att.com:443/admin/lib/xwt/xwt.js?_isever=166024575764621
+[javascript] - https://www.attconnects.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.7.1
+[javascript] - https://www.attconnects.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.1
+[javascript] - https://www.attconnects.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.7.1
+[javascript] - https://www.corp.att.com/alliance/wp-content/plugins/wp-customization/resources/js/cookie-js.js?ver=1660564338
+[javascript] - https://www.corp.att.com/alliance/wp-content/plugins/wp-customization/resources/js/cookie-js.js?ver=1660564347
+[javascript] - https://www.corp.att.com/alliance/wp-content/plugins/wp-customization/resources/js/jquery.cookie.js?ver=1660564338
+[javascript] - https://www.corp.att.com/alliance/wp-content/plugins/wp-customization/resources/js/jquery.cookie.js?ver=1660564347
+[javascript] - https://www.corp.att.com/alliance/wp-content/plugins/wp-customization/resources/js/wpc_theme.js?ver=1660564338
+[javascript] - https://www.corp.att.com/alliance/wp-content/plugins/wp-customization/resources/js/wpc_theme.js?ver=1660564347
+[javascript] - https://xaaf-be-dev.att.com/ops/main.325e535b550f7e25817a.js
+[javascript] - https://xaaf-be-dev.att.com:443/ops/main.325e535b550f7e25817a.js
+[url] - [code-200] - https://gen.cloud.att.com
+[url] - [code-200] - https://login.microsoftonline.com/e741d71c-c6b6-47b0-803c-0f3b32b07556/oauth2/v2.0/authorize?client_id=2c3d744f-bc7a-4cd0-a49a-e039275f2681&redirect_uri=https%3A%2F%2Faccountmanagementppe.att.com%2Fsignin-oidc&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fmanagement.azure.com%2Fuser_impersonation&response_mode=form_post&nonce=637961611381303646.NTI4Y2YzNzAtZDNlMC00ZjgxLWIxZDYtM2ZmYzljMzM5YTRiZjIzMDgzMjItY2Y2Mi00Mzc0LTg4ZDYtMjI0NjdlMDg5ZTg2&state=CfDJ8O1svZYUAN9KilLQLZhNj_t-hWXsNLlcrPJrXjHqXrNcIiGPg0Sj4-mBlT_uYXmCBzi8-zjvbosU24GZKxSDapaLjjIlWwaC7mxNZKi_2YyppHk1FayKDIZhRzyCpgt5e4EEF9orhnshliTgTAR48GAwH7e3_e1AUV4iTD7pC4VX0mZwmquYrEMs2vVdZ-bQl-qB31sJgzZAU9njD3rI8cQntbDf1Hu4pH2PqNYBH56Hmsv1jJwQujjlDp3-W2uDQHgqFJ_GIHwsCdEBxN07QYNj-MklYSD0FswzAPrb3BIN5-JIdrDVpRj7l1rAg8VuNQ&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.8.0.0
+[url] - [code-200] - https://login.microsoftonline.com/e741d71c-c6b6-47b0-803c-0f3b32b07556/oauth2/v2.0/authorize?client_id=2c3d744f-bc7a-4cd0-a49a-e039275f2681&redirect_uri=https%3A%2F%2Faccountmanagementppe.att.com%3A443%2Fsignin-oidc&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fmanagement.azure.com%2Fuser_impersonation&response_mode=form_post&nonce=637961611473290758.NzRmZDE1NDctNzIxNC00Mzk4LTk2NGUtNWUwZDFiYzdjYmE4YmQyYTk5ZjYtNmI0OS00NTYwLWJmNmQtNGZiZDI2YTA2NzRm&state=CfDJ8O1svZYUAN9KilLQLZhNj_vdoJ02lMiC8OmzygO579G81zwiDbx5IgCMt18RWm4YdmntDt7lOLzHgyETBK3PDkCRX_aDqnDFcpMriTxsR3FV5rGikjGW6p8dK0Zy8hukldMjS_-6z0Sqm0pTKc--6vR_cPEhvzjx-YabCLVerWsjdjwnRBwVXKxTGzvvQuMd0AfS6Eymw3qsfV65gxXjxDoTujLGAWDZ4Cxi3SFLwmXFl1j-TaQzaesUvCt5ekW6TSnnub-sc-3hzAxGiOWaY5gedXIkPtDJi2vvAz17Xw5RGJNU3haHAtOBBZU3ylWSJA&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.8.0.0
+[url] - [code-200] - https://mydesktop-central04u.att.com/
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVJNj9owFLzzK1a%2BJybpEoIFSOnSDyQKaEl76AUZ50EsObbr5%2Bx299fXSba7baXyjs8z82ZGniNvlGVF62t9Dz9aQD%2B6CfOzURpZ%2F7ggrdPMcJTING8AmRfsUHzZsDQeM%2BuMN8Io8g%2FtOosjgvPS6IG2Xi3Ibvths%2Fu03h4hOU15dp7lGT%2BDyKaziZhmGZy4mOQn8U7MqqzKb2%2FFQP0GDoPOggRZMhrUEFtYa%2FRc%2B7Afp2k0zqNkUiYJm6Qszb8P1FUIKzX3Pb323iKjtPMeQ8SFAMSYex8L01AZ1hQt0qIs16v9cSMvta9Ni9AT0jFV5iJf0uxfKnkvdSX15XoTpwGE7HNZ7qP97lAOIsXvhu6MxrYBdwD3IAV8vd%2B8meXWqqfaOPkcQK9mH20kjPagPbWqDbaQGg29wahzGyEaypUH14V%2FgCMXGNvakmV%2Fed5hWF%2BiW169NKd%2FQt%2FIlm1DztCTUVI89ftuPhrXcP%2F%2FOpI46Teyis49lLUaLQh5llCRV5lCKfN454B7WBDvWiA3dDkaDWb%2B%2FsrLXw%3D%3D&RelayState=%2F
+[url] - [code-200] - https://saml.e-access.att.com/isam/sps/ATTIDP_Lighthouse/saml20/login?SAMLRequest=fVNdj6IwFH33VxjeoYA4o42SuLofJq4aZeZhX0wtF2kCLdtbHPffbwGdMZsd%2B3h7zuk5h8sEWVlUdFabXO7gdw1oen17LmUhkbaXU6fWkiqGAqlkJSA1nO5nP1c09HxaaWUUV4XzD%2B0xiyGCNkLJjrZcTJ3N%2Butq8325PvhR9DQCiMajYfScPvOnKDv6x0GYjVg6htEg8Fk0zsZZR30FjVZn6lhZp9epIdawlGiYNHbuh6Hrj9xgmAQBHYY0HPzqqAsbVkhmWnpuTIWUkMa7By7jHBA9ZozHVUmEHROskMySZLnYHlbilJtc1QgtIfRJoU7immZ7reSLkKmQp8dNHDsQ0h9JsnW3m33SicxuDc2VxLoEvQd9FhxedqvOrPVqgOcpnI1mQlqNd7dvlcuVNCANqYra%2BkKiJLQO3caui6gIKwzoJv0ZDoyjV%2BWVE7dPTxoMbVvU8a2XT96akHvwB72iaxvVVqUKwf%2B08%2BZ8U7pk5vNGAi9oJyJ1sxZKa4kVcJEJSJ13mVlRqLe5BmZg6hhdg9Mn8d3b102GtN3redPFxfTnqqyYFth8brgwbq55PzLfw%2BeFXdIdZPHDPeaUNzg7vjN6LeW%2Fal1F5IHPuHe7vv8r478%3D&RelayState=%2F
+[url] - [code-200] - https://sasvpdl.callvantage.att.com/sas/pub/errors/restrict.html
+[url] - [code-200] - https://sasvpdlbr4vdna.att.com/sas/pub/errors/restrict.html
+[url] - [code-200] - https://sasvpdlr2vdna.att.com/sas/pub/errors/restrict.html
+[url] - [code-200] - https://sasvpvdna.att.com/sas/pub/errors/restrict.html
+[url] - [code-200] - https://uversecentral-bpe.att.com/
+[url] - [code-200] - https://uversecentral-bpea.att.com/
+[url] - [code-200] - https://vndw11.aCSS.att.com/
+[url] - [code-200] - https://vndw11.aCSS.att.com:443
+[url] - [code-200] - https://vneat1.aCSS.att.com/
+[url] - [code-200] - https://vneat1.aCSS.att.com:443
+[url] - [code-403] - http://apiexchange-dev.att.com:80
+[url] - [code-403] - http://apiexchange.att.com:80
+[url] - [code-403] - http://c360-api-perf.att.com:80
+[url] - [code-403] - http://centers-api-perf.att.com:80
+[url] - [code-403] - http://clm-api-perf.att.com:80
+[url] - [code-403] - http://digital-api-perf.att.com:80
+[url] - [code-403] - http://ffa-ptt.firstnet.att.com:80
+[url] - [code-403] - http://healthchecks.att.com:80
+[url] - [code-403] - http://opssqa1.stage.att.com:80
+[url] - [code-403] - http://retail-api-perf.att.com:80
+[url] - [code-403] - http://smarthomemanager.att.com:80
+[url] - [code-403] - http://sweepstakesauth.stage.att.com:80
+[url] - [code-403] - https://apiexchange-dev.att.com:443
+[url] - [code-403] - https://apiexchange.att.com:443
+[url] - [code-403] - https://att.com:443
+[url] - [code-403] - https://c360-api-perf.att.com:443
+[url] - [code-403] - https://centers-api-perf.att.com:443
+[url] - [code-403] - https://clm-api-perf.att.com:443
+[url] - [code-403] - https://digital-api-perf.att.com:443
+[url] - [code-403] - https://healthchecks.att.com:443
+[url] - [code-403] - https://mdm06.dp.att.com:443
+[url] - [code-403] - https://retail-api-perf.att.com:443

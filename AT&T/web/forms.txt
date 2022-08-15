@@ -27,6 +27,7 @@ https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=lviYyjuetq0tzO5aZD2lRVR7lSCTD1G-IO6wgNzRsN4
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=rOQiwmWyNvXfNlpwzB1yFgKOSZN_RW_zBeRyM3wp3Os
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=wRcBMtqd6fILeDA4RbdaN0VZDzEmmg42Co_lzH-812g
+https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=wnS_nk7oOM7o62C_mbTwb46TIdqs_LOD7aR7fcF4fkg
 https://autocat.att.com/misc/url_capture.jsp?page=%2Findex.jsp
 https://baccess-al.att.com:443
 https://baccess-ff.att.com:443
@@ -106,6 +107,7 @@ https://oauth-sf.idp.flogin.att.com:443
 https://onboarding.xandr-services.com/wp-login.php?redirect_to=https%3A%2F%2Fxandrlearning.att.com%2F&reauth=1
 https://origin-wsp-aldc01.att.com:443/admin/login.jsp
 https://origin-wsp-aldc02.att.com:443/admin/login.jsp
+https://origin-wsp-dadc01.att.com:443/admin/login.jsp
 https://origin-wsp-dadc02.att.com:443/admin/login.jsp
 https://ourlivingroom.att.com:443
 https://oxygen-nprd.att.com:443
@@ -130,6 +132,7 @@ https://rmsoca.att.com:443
 https://rmsocatest.att.com:443
 https://rockymountain-attsn.att.com/
 https://rockymountain-attsn.att.com:443
+https://saml.e-access.att.com/isam/sps/ATTIDPEntity/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJVKSY1iEbUCN09aAaxux0kMvAU2tYgIUyXKpPP6%2BlJQmbYBkj8uZ2ZkBF8hbZVnZ%2BbO%2Bgd8doJ9chHlqlUY2PC6jzmlmOEpkmreAzAt2LH9sWZZQZp3xRhgVvaN9zuKI4Lw0eqRt1stov7ve7r9tdnc5zKGYcsjns1k2mxZidkppXl82Da8pzU9ZSgs%2BbYqR%2BhMcBp1lFGSjyaiG2MFGo%2Bfahz3NspjO4%2FSyogXLC0bnv0bqOoSVmvuBfvbeIiOk955AzIUAxIR7nwjTEhnWBC2Ssqo268O19tI%2FD9iMEmXu5UuQw0sbX6Supb7%2FvITTCEL2vaoO8WF%2FrEaR8m85V0Zj14I7gnuQAm5vtm8%2BnwQocNzDq8dHGwujPWhPrOqCJSRGw2Au7p3GiIZw5cH1mR%2FgjgtM7NlGq%2BHqosewoTu3%2BvDKgvwLeyNatgv5QjVGSfE87Pv5alzL%2Fcc1pEk6bGQdNwOUdRotCNlIqKNXmVIp83jlIBhZRt51EF2Q1WT08v%2FnXf0B&RelayState=%2F
 https://saml.e-access.att.com/isam/sps/ATTIDPEntity/saml20/login?SAMLRequest=fVLLbtswELz7KwLdJephBxJhG1DjtDXg2kas9NBLQNOrmIBEstxVHn9fSkqTNkBC3pYzszMDzlG0jeVlR2d9A787QJpc%2BPPUNhr58LgIOqe5EaiQa9ECcpL8UP7Y8DSKuXWGjDRN8I72OUsggiNl9EhbrxbBbnu92X1bb%2B%2FqeJYf82me%2BVvHSZYXqSyKujillzM5PV4m8pjFWVyP1J%2Fg0OssAi8bTEY1xA7WGklo8vM4TcM4D5Osigs%2BS3g6%2FTVSVz6s0oIG%2BpnIImes9x5BKKQExEgQRdK0TPkxQ4usrKr1an%2BtSdHzgE1j1ph79RJk%2F9LGF6VPSt9%2FXsJxBCH%2FXlX7cL87VKNI%2BbecK6Oxa8EdwD0oCbc3mzefTxIacILg1eOjDaXRBJqYbTpvCZnRMJgLe6chomGiIXB95ge4ExIje7bBctg67zF86M4tP9wyZ%2F%2FC3oiWb30%2BX41plHwe5v35alwr6OMakigZJuoU1gOUdxotSFUrOAWvMmXTmMcrB97IIiDXQXDBlpPRy%2F%2Bfd%2FkH&RelayState=%2F
 https://screenready.att.com:443
 https://screenready.att.com:443/
