@@ -5254,3 +5254,11 @@
 [href] - https://referral.tesla.com/upload/css/uploadText.css?t=1660456069
 [url] - [code-200] - https://auth.tesla.com/oauth2/v1/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&scope=openid%20email&state=1660456069119%3A0.9840943592349156
 [url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=55ab0a60-5a53-ec9d-200b-ef55f8465c6f&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=tesla.com&nonce=637960528673974505.7e96cb58-6805-41e0-b9f4-1dd0cbc3f293&state=DctNDoMgEEBhaM-iO3QUZmAWpmeBAZMmGhL_ev2y-N7uaaXUu3k1GlqUJ-uZAOdA3rJ3CDj4wiQJg6EAaNxUwCRenZlyBkli15mtbm831l8cP0eJ275c5dziIHXvn7zE-6r5e0p9yvEH
+[href] - https://referral.tesla.com/css/text.css?t=1660559383
+[href] - https://referral.tesla.com/css/viewer.css?t=1660559383
+[href] - https://referral.tesla.com/css/web.css?t=1660559383
+[href] - https://referral.tesla.com/upload/css/uploadText.css?t=1660559383
+[url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=09dd099a-d634-fe56-f156-3ddd37159250&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=tesla.com&nonce=637961561826017737.295b9faa-b8bd-4487-bf7b-e2cad2b33004&state=Dcs5DoAgEEBR0LNoh7LJQGE8ywxgYqIhcb2-FO93nzPG2qqpuKxh4AwEpyanvHZSARgYdJgorIiCPCVhrQdBK5DIOmLSZIyUlte3G8uH43Jm3I_5zteOQyxH_6YZn7uk7YrlzecP
+[url] - [code-403] - http://akamai-apigateway-charging-ownership.tesla.com:80
+[url] - [code-403] - http://akamai-apigateway-suppliers-stg.tesla.com:80
+[url] - [code-403] - https://akamai-apigateway-charging-ownership.tesla.com:443
