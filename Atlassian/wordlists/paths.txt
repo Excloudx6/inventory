@@ -4559,6 +4559,7 @@
 /30y
 /3cH
 /3zU
+/403
 /404
 /404-adventurers.png
 /404.html
@@ -6070,6 +6071,7 @@
 /embeds/label/:id
 /embeds/program/:name
 /embeds/program/:name/:initiative
+/embeds/project/:projectKey/about
 /embeds/project/:projectKey/update
 /embeds/projects
 /emoji
@@ -12631,6 +12633,8 @@ other/skeleton
 other/skeleton/subtle
 output/html
 package.json
+packages/activity-platform/frontend-utilities/CHANGELOG.md
+packages/activity-platform/frontend-utilities/package.json
 packages/analytics/analytics-gas-types/CHANGELOG.md
 packages/analytics/analytics-gas-types/docs/0-intro.tsx
 packages/analytics/analytics-gas-types/package.json
