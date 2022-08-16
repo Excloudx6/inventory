@@ -5262,3 +5262,11 @@
 [url] - [code-403] - http://akamai-apigateway-charging-ownership.tesla.com:80
 [url] - [code-403] - http://akamai-apigateway-suppliers-stg.tesla.com:80
 [url] - [code-403] - https://akamai-apigateway-charging-ownership.tesla.com:443
+[href] - https://referral.tesla.com/css/text.css?t=1660634208
+[href] - https://referral.tesla.com/css/viewer.css?t=1660634208
+[href] - https://referral.tesla.com/css/web.css?t=1660634208
+[href] - https://referral.tesla.com/upload/css/uploadText.css?t=1660634208
+[url] - [code-200] - https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=e417123e-a630-51df-3171-315dcb191663&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=tesla.com&nonce=637962310078048731.94bba301-6749-4b76-b4ad-3c9a39ee6d65&state=Dcs9DsMgDEBhaM_SbiSmdu0wRD2LAQ-VEiHlr9cvw_e2551z9-7WeehxwiiJXxgBZAKaBOOQKGdFiIGFUqAsHDJpDViSYjLjym_f38fYfjp-NtNlnQ_bFx1KW59XnfU8Wv3upV22_QE
+[url] - [code-403] - http://cx-apac.tesla.com:80
+[url] - [code-403] - http://cx-api-apac.tesla.com:80
+[url] - [code-403] - http://dro.tesla.com:80
