@@ -1851,6 +1851,13 @@
 ./assets/fonts/icomoon.eot?7grlse#iefix
 ./assets/fonts/icomoon.ttf?7grlse
 ./assets/fonts/icomoon.woff?7grlse
+./assets/js/src/integration/calderaforms.js
+./assets/js/src/integration/contactform7.js
+./assets/js/src/integration/formidableforms.js
+./assets/js/src/integration/gravityforms.js
+./assets/js/src/integration/mc4wp.js
+./assets/js/src/integration/ninjaforms.js
+./assets/js/src/integration/wpforms.js
 ./auth/actions.js
 ./auth/index.js
 ./auth/reducers.js
@@ -1879,9 +1886,11 @@
 ./br.js
 ./bs
 ./bs.js
+./button
 ./ca
 ./ca.js
 ./check_circle.svg
+./checkboxradio
 ./code/data-loader.js
 ./code/polyfill.js
 ./common
@@ -1897,6 +1906,8 @@
 ./content-routing.module
 ./content/content.component
 ./content_copy.svg
+./controlgroup
+./core
 ./crc32
 ./cs
 ./cs.js
@@ -1969,6 +1980,7 @@
 ./dist/jfrog-ui-essentials.common.js
 ./document-observer
 ./download-url.js
+./draggable
 ./dropdown
 ./dropdown/attachBody
 ./dropdown/closeOnSelect
@@ -1979,6 +1991,8 @@
 ./dropdown/selectOnClose
 ./dv
 ./dv.js
+./effect
+./effect-size
 ./el
 ./el.js
 ./en-au
@@ -2154,6 +2168,7 @@
 ./lv.js
 ./me
 ./me.js
+./menu
 ./messages
 ./mi
 ./mi.js
@@ -2164,6 +2179,7 @@
 ./mn
 ./mn.js
 ./model.weights.bin
+./mouse
 ./mr
 ./mr.js
 ./ms
@@ -2199,6 +2215,7 @@
 ./node_modules/@babel/runtime/helpers/nonIterableSpread.js
 ./node_modules/@babel/runtime/helpers/slicedToArray.js
 ./node_modules/@babel/runtime/helpers/toConsumableArray.js
+./node_modules/@babel/runtime/helpers/typeof.js
 ./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js
 ./node_modules/@babel/runtime/regenerator/index.js
 ./node_modules/css-loader/lib/css-base.js
@@ -2238,6 +2255,7 @@
 ./options
 ./pa-in
 ./pa-in.js
+./packer
 ./parts/DocumentationProps
 ./parts/EventProps
 ./parts/ExecUnitProps
@@ -2274,6 +2292,7 @@
 ./pt-br
 ./pt-br.js
 ./pt.js
+./rect
 ./registry
 ./report/report.module#ReportModule
 ./report/report.module.ngfactory
@@ -2283,6 +2302,7 @@
 ./request-snippets/index.js
 ./request-snippets/request-snippets.jsx
 ./request-snippets/selectors.js
+./resizable
 ./results
 ./ro
 ./ro.js
@@ -2456,6 +2476,7 @@
 //dpm.demdex.net/ibs:dpid\x3d
 //f.fontdeck.com/s/css/js/
 //fonts.googleapis.com/css
+//img.youtube.com/vi/
 //iph.zoominsoftware.io/widget.js
 //maps.google.
 //maps.google.com/maps/ms?msid=$2&amp;output=embed
@@ -2464,6 +2485,7 @@
 //nexus.dell.com/dell/emc/Bootstrap.js
 //nexus.dell.com/dell/marketing
 //nexus.dell.com/dell/marketing/Bootstrap.js
+//player.vimeo.com/video/
 //player.vimeo.com/video/$1?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc
 //player.vimeo.com/video/%id%?autoplay=1
 //postshringwrap
@@ -2471,6 +2493,9 @@
 //tags.tiqcdn.com/utag/vmware/microsites/prod/utag.js
 //tags.tiqcdn.com/utag/vmware/microsites/prod/utag.sync.js
 //use.typekit.net
+//view.vzaar.com/
+//vimeo.com/api/v2/video/
+//vzaar.com/api/videos/
 //webfonts.fontslive.com/css/
 //www.dell.com
 //www.dell.com/content/public/xdbredirect.aspx?link=global:nav:partnerprogram:signin&amp;~ck=mn
@@ -2601,6 +2626,7 @@
 //www.delltechnologies.com/
 //www.delltechnologies.com/partner/en-us/partner/partner.htm
 //www.emc.com
+//www.facebook.com/plugins/like.php?locale=en_US&amp;href={location_href}&amp;layout=button_count&amp;show_faces=true&amp;width=500&amp;action=like&amp;font&amp;colorscheme=light&amp;height=23
 //www.google.com/recaptcha/api.js
 //www.google.com/recaptcha/api.js?render=
 //www.googleadservices.com/pagead/conversion/1072361838/?value=1.00&amp;label=tQHPCNDQjwEQ7uKr_wM&amp;guid=ON
@@ -3026,6 +3052,7 @@
 /assets/images/smlflags/us.gif
 /assets/js/c2r-libs.js
 /assets/logo-dell.svg
+/assets/sounds/
 /assets/svg/authentication_icon.svg
 /assistant-platform\
 /association\
@@ -3143,6 +3170,7 @@
 /care-plans$\
 /career-pathing
 /careplan\
+/cart$
 /case-deflection-demo
 /catalogs
 /category/
@@ -3347,6 +3375,7 @@
 /elliptic
 /email
 /email-search
+/embed/?moog_width=
 /embed/iframe/
 /embed/medias/
 /embed/playlists/
@@ -3495,6 +3524,7 @@
 /home/workflow
 /howto
 /howto/
+/hqdefault.jpg
 /html
 /i/images/app_store.png
 /i/images/chrome_extension.png
@@ -3933,6 +3963,7 @@
 /pipelines/pipelineSources
 /pipelinesSearchResults
 /platform-labelling
+/player?autoplay=true
 /plugin
 /plugins/servlet/applinks/listApplicationLinks
 /plugins/servlet/applinks/listEntityLinks/
@@ -4537,6 +4568,7 @@
 /userProfile
 /users
 /users/
+/v1.0/email-list-builder/collect
 /v2/
 /v2/analytics-reports
 /v2/manager-dashboard
@@ -5881,6 +5913,7 @@ audio/ogv
 audio/rtmp
 audio/wav
 audio/wave
+audio/x-flv
 audio/x-matroska
 audio/x-ms-wax
 audio/x-ms-wma
@@ -6397,6 +6430,7 @@ content/images/signin-options_4e48046ce74f4b89d45037c90576bfac.svg
 content/images/signin-options_d3e469e85de84565c8280620b6874fda.png
 content/js/
 content/js/asyncchunk/convergedlogin_p
+core/i18n
 core/ts/change_detect/change-detection.ts
 corp1/policies-privacy
 css://aura.placeholder
@@ -6498,12 +6532,14 @@ discover/users
 discover/videos
 distribution/api/ui
 distribution/api/v1/system/support/bundle
+doc-ready/doc-ready
 documents/contents/faqs.json?v=
 documents/contents/regions.json?v=
 documents/platform-specifications/
 documents/resources/images/bezels/
 dut/nld
 ecdsa/rsa
+elementor/frontend/init
 embed/error-page/
 embedLinks.js
 engine.js
@@ -6576,10 +6612,12 @@ force/shared
 force/userPerms
 forms/ts/formBuilder/form_builder_example.ts
 fre/fra
+frontend/element_ready/global
 geo/country.js
 geo/kat
 ger/deu
 get-size/get-size
+get-style-property/get-style-property
 global-ns/cru
 global-ns/cru-frx
 global-ns/cru-review-util
@@ -6646,6 +6684,11 @@ isotope-layout/js/layout-mode
 isotope-layout/js/layout-modes/fit-rows
 isotope-layout/js/layout-modes/masonry
 isotope-layout/js/layout-modes/vertical
+isotope/js/item
+isotope/js/layout-mode
+isotope/js/layout-modes/fit-rows
+isotope/js/layout-modes/masonry
+isotope/js/layout-modes/vertical
 issue_types/project
 items/example
 ivysettings.xml
@@ -7347,6 +7390,8 @@ management/users/new
 manifest.json
 mao/mri
 masonry-layout/masonry
+masonry/masonry
+matches-selector/matches-selector
 may/msa
 mc/api/v1/system/support/bundle
 mc/api/v4/system/ping
@@ -7530,6 +7575,7 @@ nls/unsupported
 nls/verify-account
 nls/waiting-room
 no/type
+number/string
 o11y/client
 o11y/shared
 o11y/web_vitals
@@ -7663,6 +7709,10 @@ packages/upload/src/index.vue
 packages/upload/src/upload-dragger.vue
 packages/upload/src/upload-list.vue
 packages/upload/src/upload.vue
+packery/js/item
+packery/js/packer
+packery/js/packery
+packery/js/rect
 partner/partner.htm
 pause/break
 per/fas
@@ -7801,6 +7851,7 @@ service_trust/proxy/pair
 service_trust/proxy/topology
 service_trust/proxy/unpair
 settings.xml
+sharethis.js
 sheet1.xml
 single-quote/double-quote
 skatejs-template-html/dist/template-html.js
@@ -7837,6 +7888,7 @@ src/Carousel.vue
 src/Navigation.vue
 src/Pagination.vue
 src/Slide.vue
+st_sop.js
 static/chunks/
 static/chunks/116-40022a1dab58fe9f6a68.js
 static/chunks/275-fee2c5ef6facc6d4416d.js
@@ -7948,6 +8000,8 @@ static/css/f92c983ad53af74e6b7e.css
 static/css/fe5cca322c904f44187b.css
 stats/emailCertificate
 stats/emailTranscript
+string/number/object
+string/object
 styles.xml
 supportbundle/analytics/metricloganalysis
 supportbundle/analytics/requestloganalysis

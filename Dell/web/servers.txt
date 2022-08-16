@@ -1,4 +1,6 @@
+http://2019.internal.production.p13n.dell.com:80
 http://MyONEconNECT.dell.com:80
+http://access.internal.production.p13n.dell.com:80
 http://accessibility.dell.com:80
 http://accessories-cdn.ap.dell.com:80
 http://accessories-cdn.apj.dell.com:80
@@ -13,6 +15,7 @@ http://accessories.us.dell.com:80
 http://accessoriesapj.ins.dell.com:80
 http://account-tst.dell.com:80
 http://account.dell.com:80
+http://admin.internal.production.p13n.dell.com:80
 http://afcs.dell.com:80
 http://agent-api.sa-test.insights.dell.com:80
 http://agent-api.sa-test2.insights.dell.com:80
@@ -63,6 +66,7 @@ http://boss.dell.com:80
 http://br.premier.dell.com:80
 http://brand.delltechnologies.com:443
 http://brand.delltechnologies.com:80
+http://bucket.internal.production.p13n.dell.com:80
 http://business.application-app.dell.com:80
 http://c20agency.saas.dell.com:80
 http://cafe.delltechnologies.com:80
@@ -71,6 +75,7 @@ http://canvas.dell.com:80
 http://cdm.dell.com:80
 http://certified.dell.com:80
 http://channel.dell.com:80
+http://chef.internal.production.p13n.dell.com:80
 http://china.dell.com:80
 http://citrix.syddsc.apj.dell.com:443
 http://citrix.syddsc.apj.dell.com:80
@@ -130,6 +135,7 @@ http://ddpes.euro.dell.com:8000
 http://ddpmktg.dell.com:80
 http://dds.dell.com:80
 http://deals.dell.com:80
+http://debug.internal.production.p13n.dell.com:80
 http://defender.saas.dell.com:80
 http://delivery.dell.com:80
 http://dellemc.dell.com:80
@@ -150,6 +156,7 @@ http://dellwebfarm.us.dell.com:80
 http://demo.delltechnologies.com:80
 http://democonsole.delltechnologies.com:80
 http://dev-dam.dell.com:80
+http://dev.internal.production.p13n.dell.com:80
 http://dev2.dmf.dell.com:80
 http://df-staging.dell.com:80
 http://df.dell.com:80
@@ -178,6 +185,7 @@ http://ec2.cdn.dell.com:80
 http://ecampaigns.dell.com:80
 http://ecomm-cdn.dell.com:80
 http://ecomm.dell.com:80
+http://ecomm.eUro.dell.com:80
 http://ecomm.euro.dell.com:80
 http://ecomm.us.dell.com:80
 http://ecomm2.dell.com:80
@@ -187,10 +195,12 @@ http://edutubedev.dell.com:80
 http://edutubestg.dell.com:80
 http://eduvpn.us.dell.com:80
 http://eir.dell.com:80
+http://elasticbeanstalk.internal.production.p13n.dell.com:80
 http://em.dell.com:80
 http://emc.dell.com:80
 http://emeadelivery.dell.com:80
 http://empleos.dell.com:80
+http://en.community.dell.com:80
 http://enterprise.dell.com:80
 http://epr.dell.com:80
 http://es.community.dell.com:80
@@ -249,6 +259,7 @@ http://internal.production.p13n.dell.com:80
 http://investors.delltechnologies.com:80
 http://japancatalog.dell.com:443
 http://jenkins-eigsdc.dell.com:443
+http://jenkins.internal.production.p13n.dell.com:80
 http://jira.cpg.dell.com:443
 http://jobs.delltechnologies.com:80
 http://join.dell.com:80
@@ -291,6 +302,7 @@ http://mrix4.saas.dell.com:80
 http://msast001pngx.saas.dell.com:80
 http://myapps-uat.dell.com:80
 http://myapps.dell.com:80
+http://mydell-cdn.dell.com:80
 http://mydell.dell.com:80
 http://mydfs.dell.com:80
 http://myhelp.dell.com:80
@@ -332,6 +344,8 @@ http://persona.dell.com:80
 http://personalization.dell.com:80
 http://pilot.search.dell.com:80
 http://pocui.remediation.dell.com:80
+http://powersizerint.dell.com:80
+http://powersizerstg.dell.com:80
 http://ppgvrack-dev.dell.com:80
 http://ppgvrack.dell.com:80
 http://pre-event.delltechnologies.com:80
@@ -484,6 +498,7 @@ http://www1.la.dell.com:80
 http://yodagfx.dell.com:80
 http://yodagfx.us.dell.com:80
 http://yodagfx01.ins.dell.com:80
+https://2019.internal.production.p13n.dell.com:443
 https://3plportalui-dev.dell.com:443
 https://3plportalui-ge1.dell.com:443
 https://3plportalui-ge2.dell.com:443
@@ -494,6 +509,7 @@ https://3plportalui.dell.com:443
 https://Cp.cloudstore.dell.com:443
 https://MyONEconNECT.dell.com:443
 https://PTCPWKULCREP01.ap.dell.com:443
+https://access.internal.production.p13n.dell.com:443
 https://accessibility.dell.com:443
 https://accessories-cdn.apj.dell.com:443
 https://accessories-cdn.dell.com:443
@@ -506,6 +522,7 @@ https://accessories.la.dell.com:443
 https://accessories.us.dell.com:443
 https://account-tst.dell.com:443
 https://account.dell.com:443
+https://admin.internal.production.p13n.dell.com:443
 https://afcs.dell.com:443
 https://agent-api.sa-test.insights.dell.com:443
 https://agent-api.sa-test2.insights.dell.com:443
@@ -624,6 +641,7 @@ https://br.premier.dell.com:443
 https://brand.delltechnologies.com:443
 https://browsewip.dell.com:443
 https://browsewip.ins.dell.com:443
+https://bucket.internal.production.p13n.dell.com:443
 https://business.application-app.dell.com:443
 https://c20agency.saas.dell.com:443
 https://cafe.delltechnologies.com:443
@@ -644,6 +662,7 @@ https://ceowc-external.dell.com:443
 https://certified.dell.com:443
 https://cgsnp.us.dell.com:443
 https://channel.dell.com:443
+https://chef.internal.production.p13n.dell.com:443
 https://china.dell.com:443
 https://click.comm-np.delltechnologies.com:443
 https://click.comm.delltechnologies.com:443
@@ -725,6 +744,7 @@ https://ddsprod.dell.com:8888
 https://de-cp.cloudstore.dell.com:443
 https://de-cp.stg.cloudstore.dell.com:443
 https://deals.dell.com:443
+https://debug.internal.production.p13n.dell.com:443
 https://defender.saas.dell.com:443
 https://deftexternal-lim.dell.com:443
 https://deftexternal.dell.com:443
@@ -756,6 +776,7 @@ https://dev-dam.delltechnologies.com:443
 https://dev-edp.dell.com:443
 https://dev-myconnect-amer.dell.com:443
 https://dev-myconnect-emea.dell.com:443
+https://dev.internal.production.p13n.dell.com:443
 https://dev.remediation.dell.com:443
 https://dev1-dam.delltechnologies.com:443
 https://df-staging.dell.com:443
@@ -798,6 +819,7 @@ https://e-uk.dell.com:443
 https://ec2.cdn.dell.com:443
 https://ecampaigns.dell.com:443
 https://ecomm.dell.com:443
+https://ecomm.eUro.dell.com:443
 https://ecomm.euro.dell.com:443
 https://ecomm.federal.dell.com:443
 https://ecomm.us.dell.com:443
@@ -831,6 +853,7 @@ https://edp.ins.dell.com:443
 https://edutubedev.dell.com:443
 https://edutubestg.dell.com:443
 https://eir.dell.com:443
+https://elasticbeanstalk.internal.production.p13n.dell.com:443
 https://email-external.ins.dell.com:443
 https://emailquarantine.dell.com:443
 https://emc.dell.com:443
@@ -889,6 +912,7 @@ https://fusion.dell.com:443
 https://fusiontst.dell.com:443
 https://fuslite.dell.com:443
 https://future.dell.com:443
+https://gaccessories.ins.dell.com:443
 https://gblpaymentportal-pc1.us.dell.com:443
 https://gblpaymentportal-ps3.us.dell.com:443
 https://gbxgateway-dev.dell.com:443
@@ -990,6 +1014,7 @@ https://jbg02pregw.corp.connect.dell.com:443
 https://jenkins-eigsdc.dell.com:443
 https://jenkins-stage.cpg.dell.com:443
 https://jenkins.cpg.dell.com:443
+https://jenkins.internal.production.p13n.dell.com:443
 https://jenkinscpgst.cpg.dell.com:443
 https://jobs.delltechnologies.com:443
 https://jp-cp.cloudstore.dell.com:443
@@ -1003,6 +1028,8 @@ https://kaw01gw2-myconnect.dell.com:443
 https://kaw01gw2.corp.connect.dell.com:443
 https://kaw01gw3-myconnect.dell.com:443
 https://kaw01gw3.corp.connect.dell.com:443
+https://kaw01gw4-myconnect.dell.com:443
+https://kaw01gw4.corp.connect.dell.com:443
 https://kaw01pregw-myconnect.dell.com:443
 https://kaw02.corp.connect.dell.com:443
 https://kaw02gw-myconnect.dell.com:443
@@ -1045,6 +1072,7 @@ https://learnwip.dell.com:443
 https://legacyofgood.dell.com:443
 https://licensing-usage.dell.com:443
 https://licensing.dell.com:443
+https://lim01-myconnect.dell.com:443
 https://lim01gw1-myconnect.dell.com:443
 https://lim02gw-myconnect.dell.com:443
 https://lim02gw1-myconnect.dell.com:443
@@ -1289,6 +1317,8 @@ https://pfpks.us.dell.com:443
 https://pilot.search.dell.com:443
 https://pocui.remediation.dell.com:443
 https://portalselfservice.federal.dell.com:443
+https://powersizerint.dell.com:443
+https://powersizerstg.dell.com:443
 https://ppgvrack-dev.dell.com:443
 https://ppgvrack.dell.com:443
 https://pprc-proxy-pc1.dell.com:443
@@ -1428,6 +1458,7 @@ https://scene7-cdn.dell.com:443
 https://sdl.dmf.dell.com:443
 https://sdms.dell.com:443
 https://se-cp.cloudstore.dell.com:443
+https://search-cdn.ap.dell.com:443
 https://search-cdn.dell.com:443
 https://search-cdn.euro.dell.com:443
 https://search-cdn.la.dell.com:443
@@ -1437,6 +1468,7 @@ https://security.dell.com:443
 https://service.staging.dccrm.dell.com:443
 https://sg-cp.cloudstore.dell.com:443
 https://sg-cp.stg.cloudstore.dell.com:443
+https://sg-ns2.sg.dell.com:443
 https://sg.dell.com:443
 https://si.cdn.dell.com:443
 https://signals-eigsdc.dell.com:443
@@ -1454,6 +1486,7 @@ https://sm.DELL.com:443
 https://sm.dell.com:443
 https://sm.delltechnologies.com:443
 https://smallbusiness.dell.com:443
+https://smartsource.dell.com:443
 https://sms.dell.com:443
 https://snnpwfta3prx01.euro.dell.com:443
 https://snp-ge2.dell.com:443
@@ -1467,6 +1500,7 @@ https://soagw-dmz.us.dell.com:443
 https://soagw-dmznonprod.ins.dell.com:443
 https://soagw-icorpnonprod.ins.dell.com:443
 https://software.dell.com:443
+https://softwarecentral.dell.com:443
 https://solve.dell.com:443
 https://srecore-pc1.dell.com:443
 https://srecore.dell.com:443
@@ -1610,6 +1644,7 @@ https://ups.dell.com:443
 https://ussp.ins.dell.com:443
 https://vast.dell.com:443
 https://vcd1-console.dell.com:443
+https://vdfo-japan-new.us.dell.com:443
 https://vendors-pre.dell.com:443
 https://vendors.dell.com:443
 https://vendors.ins.dell.com:443
