@@ -4768,7 +4768,7 @@ https://auth.config.backupengineering.redirect.ctf.hacker101.com:443 [null] [404
 https://auth.config.data.chef.dbms.private.error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.81.28.91"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://auth.confluence-gcp-user.debug.error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.86.13.172"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://auth.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.85.28"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
-https://auth.data-2018beta-devv1-backup.www.orf.od.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.236.87.19"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
+https://auth.data-2018beta-devv1-backup.www.orf.od.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.166.235.26"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://auth.daytonama.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.165.193"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://auth.debug-2018.s3.debug.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.71.17.146"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://auth.debug-access2021.v1-error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.81.28.91"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
@@ -4893,6 +4893,7 @@ https://backup.adminbackup.ctf.hacker101.com:443 [null] [404] [22] ["text/html"]
 https://backup.adminchefadmin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.27.184.30"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://backup.alpha-redirect.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["44.240.73.50"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://backup.alpha.access-adminupdate.stagingdebug.error.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.81.28.91"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
+https://backup.api-auth-internal-2019.2021staging-user.startrek-discovery.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.83.98.98"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://backup.api2019.auth2019-statuserror.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.86.13.172"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://backup.auth-new.gcp.admin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.71.17.146"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://backup.auth.2019.alpha-preferences.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.161.190.65"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
@@ -5197,6 +5198,7 @@ https://bucket.accessconfluence2020v4.vpnerror.ctf.hacker101.com:443 [null] [404
 https://bucket.account-elasticbeanstalk-2018-accountdebugnew.update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["34.223.162.52"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://bucket.account.alphaupdate.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["54.188.21.63"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://bucket.accountadmin-democonfig.upload.alphaupdate.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["34.223.162.52"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
+https://bucket.accountchef-2019-backup.oweril46.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.83.98.98"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
 https://bucket.accountpreferences.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.162.108.207"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://bucket.admin.admin.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["52.35.244.243"] [null] ["openresty/1.19.9.1"] [["Nginx","OpenResty"]] [];
 https://bucket.alpha.access-account.account-config2018upgrade-update.ctf.hacker101.com:443 [null] [404] [22] ["text/html"] ["35.83.160.127"] [null] ["openresty/1.21.4.1"] [["Nginx","OpenResty"]] [];
