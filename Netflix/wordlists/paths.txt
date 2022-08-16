@@ -447,6 +447,7 @@
 ./app/components/idle/idle.run.js
 ./app/components/idle/index.js
 ./app/components/insights/agreements-status/agreementsStatusController.js
+./app/components/insights/custom/customController.js
 ./app/components/insights/index.js
 ./app/components/insights/insights-chart-color-code/insightsChartColorCodeDirective.js
 ./app/components/insights/insights-circular-chart/insightsCircularChartDirective.js
@@ -1553,6 +1554,7 @@
 ./app/scripts/services/campaigns-utils.js
 ./app/scripts/services/color-utils.js
 ./app/scripts/services/custom-events.service.js
+./app/scripts/services/custom-insights.service.js
 ./app/scripts/services/date-utils.service.js
 ./app/scripts/services/delayer.js
 ./app/scripts/services/diff.js
@@ -7138,6 +7140,7 @@
 /api/timesheet/task_timesheets/?status=under-review
 /api/tools/:type
 /api/tools/analytics/
+/api/tools/analytics/embed/
 /api/tools/analytics/embed/\
 /api/tools/api_keys/
 /api/tools/budget_ranges/
@@ -7190,6 +7193,7 @@
 /api/users/revoke/
 /api/users/secure_login_links/
 /api/users/security/
+/api/users/send_login_link/\
 /api/users/set_password/\
 /api/users/sign_in
 /api/users/validate_invite_link/
@@ -9807,6 +9811,8 @@
 /search?term=
 /sections/
 /secure-login-form/
+/secure-login/
+/secure-login/?confirmation
 /securityCallDef
 /select-multiple.tpl.html
 /select.tpl.html
@@ -10544,6 +10550,7 @@
 /uuid/
 /v/404.html
 /v/:vendor_slug/i/:uid/:token/:project_slug/
+/v/:vendor_slug/i/:uid/:token/:project_slug/?google_auth_error
 /v/:vendor_slug/i/:uid/:token/?redirect_to
 /v/custom_rate_types/
 /v/task_all_time_sheet_periods/
