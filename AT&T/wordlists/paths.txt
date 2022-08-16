@@ -16918,6 +16918,7 @@
 /01/
 /08R
 /0C/
+/0ZC
 /0iygueunnd
 /1.0/auth/xsrf/plain
 /1.0/public/account/
@@ -16929,6 +16930,7 @@
 /1000 characters left
 /12/31
 /15
+/17W
 /19x6welpmu
 /1cH
 /2/account/validateAddress
@@ -17174,7 +17176,9 @@
 /24c
 /3.5.3/securedFields.html?type=
 /311
+/37D
 /3T5
+/3bO
 /3d8
 /3ze
 /404
@@ -17196,6 +17200,7 @@
 /5g/thankyou
 /5zm
 /6 months
+/6K5
 /6Ou
 /6Z7
 /6c9
@@ -17208,9 +17213,11 @@
 /80-5r::*[1]
 /80-5r::*\
 /80h.
+/88e
 /8Fb
 /8bb7555f31d461fe2aef4e2d53a11a03e7f9a04c/
 /8nY
+/9Oj
 /9aa
 /9ef0a5b9
 /9ef0a5b9/
@@ -17396,6 +17403,7 @@
 /Customer data
 /CustomerClientStarter.application?source=
 /CustomerServiceSummary
+/DI+
 /DIRECTV
 /DOJ
 /DTVAPP/content/existing
@@ -17425,6 +17433,7 @@
 /EMS-responder-icon-map.svg
 /EVPN/evpn2.0/inqChat.html
 /EaG
+/EbR
 /EdgeAuth/login.jsp
 /Electron-
 /Encoding /
@@ -17496,6 +17505,7 @@
 /LTE-M_Open_Labs.aspx/SendEmail
 /Last 
 /LastChar 255
+/LaunchNewApp.html?launchParams=
 /Le2
 /LearningCentreHome
 /ListTagsForResource\
@@ -17510,6 +17520,7 @@
 /Metadata 
 /N /Print
 /N7T
+/NAv
 /NG0
 /Names 
 /NativeWebHandoff
@@ -17836,6 +17847,7 @@
 /UtilityNetworkServer
 /V 
 /V3T
+/Vpf
 /W 
 /W+d
 /W8u
@@ -17874,6 +17886,7 @@
 /__utm.gif
 /__utm.gif?
 /__webpack_hmr
+/_a
 /_app
 /_ate.track.config_resp
 /_error
@@ -18880,10 +18893,21 @@
 /admin/cobc-admin-view
 /admin/configure-mdm
 /admin/content/approvals/force/blocks
+/admin/content/forced-recordings?sco-id=
+/admin/content/sco/info?sco-id=
+/admin/course/curriculum/info/edit-learning-object?curriculum-id=
+/admin/course/curriculum/info?curriculum-id=
+/admin/course/sco/edit?sco-id=
+/admin/course/virtual-classroom/course-management?sco-id=
+/admin/course/virtual-classroom/edit?account-id=
+/admin/course/virtual-classroom/recordings?sco-id=
+/admin/course/virtual-classroom/uploaded?sco-id=
 /admin/default-tags
 /admin/devices
 /admin/devices/
+/admin/event/sco/info/edit?account-id=
 /admin/firstNet-and-family
+/admin/flex-reports?
 /admin/footer-view
 /admin/initiatives
 /admin/initiatives/
@@ -18896,6 +18920,10 @@
 /admin/manage-apps
 /admin/media
 /admin/media-view
+/admin/meeting/sco/edit?account-id=
+/admin/meeting/sco/recordings?sco-id=
+/admin/meeting/sco/uploaded/local/info?filter-rows=20&amp;filter-start=0&amp;select-all=true&amp;sco-id=
+/admin/meeting/sco/uploaded?sco-id=
 /admin/notifications
 /admin/operating-unit-picklist-view
 /admin/organizations
@@ -18904,6 +18932,8 @@
 /admin/publishing-view
 /admin/question-view
 /admin/resources
+/admin/seminar/shared-seminars/sco/recordings?sco-id=
+/admin/seminar/shared-seminars/sco/uploaded?sco-id=
 /admin/solutions
 /admin/solutions/
 /admin/surveys
@@ -19748,6 +19778,9 @@
 /api/vehicles/save
 /api/vehicles/stats
 /api/w3id/login
+/api/xml?
+/api/xml?action=internal-analytics-info
+/api/xml?ok=
 /api/zendesk/token
 /api/{{version}}/pokerFace/{{serialNumber}}/forYouCard/{{cardId}}
 /api_login/
@@ -20441,6 +20474,7 @@
 /axios
 /b.html
 /b/ss/
+/b17
 /b8u
 /babylon.inspector.bundle.js
 /babylon.nodeEditor.js
@@ -20593,6 +20627,7 @@
 /build/_shared/chunk-EHMWA6AW.js
 /build/_shared/chunk-EPPBM4MD.js
 /build/_shared/chunk-F6BXX4LE.js
+/build/_shared/chunk-FIRJLY5D.js
 /build/_shared/chunk-FLRYUMAV.js
 /build/_shared/chunk-FQCKOSVC.js
 /build/_shared/chunk-FUKHVBIP.js
@@ -21339,7 +21374,9 @@
 /cart/shipping_rates.json
 /cart/update.js
 /cart?view=mini-cart
+/catalog/folder/list?sco-id=
 /catalog/serviceOffers
+/catalog/shortcut-info?sco-id=
 /categories
 /categories/
 /categories/secondary
@@ -21502,7 +21539,9 @@
 /comments\
 /commerce/web/subscription/offers/music
 /common-global
+/common/ccapps/root-react-app/
 /common/generate-storage-url/
+/common/html/mobile/locale/
 /commonregistrationweb/lsreg/mindex.jsp#/mcollectprofile
 /commonregistrationweb/lsreg/mindex.jsp#/mcongratulations
 /commonregistrationweb/lsreg/mindex.jsp#/menteraccessidpwd
@@ -21834,6 +21873,7 @@
 /custom
 /custom-root/
 /customFields
+/customMeeting/custom/images/logos/img_logoPill_html.png?time=
 /customer-groups
 /customer-groups/
 /customer-information?d
@@ -22297,6 +22337,7 @@
 /efota/reportrequest
 /efota/reports
 /efota/requestdetails
+/egl
 /ejs
 /el
 /el/
@@ -22848,6 +22889,7 @@
 /get-offers
 /get-started
 /get-subscription-by-subscription-id
+/get.html?launchParams=
 /get/children/
 /getClip\
 /getCountries
@@ -22860,6 +22902,7 @@
 /getHLSStreamingSessionURL\
 /getMediaForFragmentList\
 /getMedia\
+/getNewApp.html?launchParams=
 /getResult?resultId=
 /getSignalingChannelEndpoint\
 /getStarted
@@ -22930,6 +22973,7 @@
 /h9T
 /hTG
 /hTd
+/hXt
 /hamlet
 /handleContextUpdate
 /harbor
@@ -23802,6 +23846,7 @@
 /lang/
 /language?lang=
 /lastRenderedEventIndex
+/launch.html?launchParams=
 /launchApp
 /layers
 /leadcapture
@@ -24533,6 +24578,7 @@
 /my-profile/user-groups/
 /my-profile/user-groups/:userGroupId/individual-permissions
 /my-profile/user-groups/:userGroupId/permissions
+/my-seminar-sessions/sco/info?sco-id=
 /my-teams
 /my/
 /my/#/login
@@ -24667,6 +24713,7 @@
 /number-parser/parse
 /number-parser/phonedata.xml
 /number/parse
+/oW2
 /oauth/authorize
 /oauth/authorize?
 /oauth/consumer-info
@@ -26082,6 +26129,8 @@
 /shapes?workspaceType=
 /share/email/
 /shared
+/shared-seminars/folder/list?sco-id=
+/shared-seminars/sco/sessions?sco-id=
 /shared/
 /sharing
 /sharing/rest
@@ -27765,6 +27814,7 @@
 /vm-users
 /vm-users/
 /vm-users/1/
+/vp4
 /vpclinks/{vpclink_id}\
 /vpclinks\
 /vvp
@@ -27821,17 +27871,20 @@
 /widget/
 /widgets/follow_button.2b1befbea3a1424bb94efd70105dfa52.{{lang}}.html
 /widgets/follow_button.6184048311ebe2b4d9580ce803ab4baa.{{lang}}.html
+/widgets/follow_button.9d00f3a022654eb8edfbc3190e981f9d.{{lang}}.html
 /widgets/follow_button.d7fc2fc075c61f6fa34d79a0cbbf1e34.{{lang}}.html
 /widgets/follow_button.dc05643fdb8d0e2b89e5cc3c1d26d1b5.{{lang}}.html
 /widgets/follow_button.f39f39d5e1aec76c12af50a9a19e4fee.{{lang}}.html
 /widgets/hub.html
 /widgets/tweet_button.2b1befbea3a1424bb94efd70105dfa52.{{lang}}.html
 /widgets/tweet_button.6184048311ebe2b4d9580ce803ab4baa.{{lang}}.html
+/widgets/tweet_button.9d00f3a022654eb8edfbc3190e981f9d.{{lang}}.html
 /widgets/tweet_button.d7fc2fc075c61f6fa34d79a0cbbf1e34.{{lang}}.html
 /widgets/tweet_button.dc05643fdb8d0e2b89e5cc3c1d26d1b5.{{lang}}.html
 /widgets/tweet_button.f39f39d5e1aec76c12af50a9a19e4fee.{{lang}}.html
 /widgets/widget_iframe.2b1befbea3a1424bb94efd70105dfa52.html
 /widgets/widget_iframe.6184048311ebe2b4d9580ce803ab4baa.html
+/widgets/widget_iframe.9d00f3a022654eb8edfbc3190e981f9d.html
 /widgets/widget_iframe.d7fc2fc075c61f6fa34d79a0cbbf1e34.html
 /widgets/widget_iframe.dc05643fdb8d0e2b89e5cc3c1d26d1b5.html
 /widgets/widget_iframe.f39f39d5e1aec76c12af50a9a19e4fee.html
@@ -29679,6 +29732,7 @@ NOTIFICATIONS/UPDATE_SCHED_NOTIF_SETTINGS_SUCCESS
 NO_RCM_PERMISSION/MIGRATION
 NO_RCM_PERMISSION/SUNSET
 NW.js
+NetworkHandler.js
 Node.js
 NotFoundPage/SET_404_PATHNAME
 NotificationCount/INCREASE_UNREAD_NOTIFICATION_COUNT
@@ -30445,6 +30499,7 @@ application/sparql-query
 application/srgs
 application/timestamped-data
 application/typescript
+application/unknown
 application/vnd.bmi
 application/vnd.dart
 application/vnd.dna
@@ -30555,6 +30610,7 @@ application/x-java-vm
 application/x-javascript
 application/x-json
 application/x-jsp
+application/x-killustrator
 application/x-latex
 application/x-lua-bytecode
 application/x-lzh-compressed
@@ -30598,6 +30654,7 @@ application/x-pkcs12
 application/x-pkcs7-certificates
 application/x-pkcs7-certreqresp
 application/x-powershell
+application/x-python-code
 application/x-quicktimeplayer
 application/x-rar-compressed
 application/x-redhat-package-manager

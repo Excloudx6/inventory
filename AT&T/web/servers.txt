@@ -182,6 +182,7 @@ http://arizona.att.com:8443
 http://arkansas.att.com:80
 http://arkansas.att.com:8080
 http://arkansas.att.com:8443
+http://armt.att.com:443
 http://aro1.research.att.com:443
 http://aro1.research.att.com:80
 http://ascforum.att.com:80
@@ -820,6 +821,7 @@ http://fundosolidario.att.com:80
 http://futureready.att.com:80
 http://futureready.att.com:8080
 http://gaming.att.com:80
+http://gamnet.bus.att.com:443
 http://gamnet.bus.att.com:80
 http://gamnet.eia.att.com:80
 http://gassl10.vpn.att.com:80
@@ -1029,6 +1031,7 @@ http://kor.att.com:80
 http://kor.att.com:8080
 http://korean.att.com:80
 http://labworx-fs-a.stage.att.com:80
+http://lacuna.research.att.com:443
 http://lacuna.research.att.com:80
 http://landisupport.att.com:80
 http://landlordportal-poc.att.com:80
@@ -1388,6 +1391,7 @@ http://newjersey.att.com:80
 http://newjersey.att.com:8080
 http://newjersey.att.com:8443
 http://newmexico.att.com:80
+http://newmexico.att.com:8080
 http://newmexico.att.com:8443
 http://newyork.att.com:443
 http://newyork.att.com:80
@@ -2116,6 +2120,7 @@ http://tst04.stage.att.com:80
 http://tst05.stage.att.com:80
 http://tst06.STaGe.att.com:80
 http://tst06.stage.att.com:80
+http://tst07.stAGE.att.com:80
 http://tst07.stage.att.com:80
 http://tst08.stage.att.com:80
 http://tst09.stage.att.com:80
@@ -2538,6 +2543,7 @@ http://vnsd24.acss.att.com:80
 http://vnsd29.acss.att.com:80
 http://vnsd30.acss.att.com:80
 http://vnsd31.acss.att.com:80
+http://vnsd32.aCSS.att.com:80
 http://vnsd32.acss.att.com:80
 http://vnsd33.acss.att.com:80
 http://vnsd40.acss.att.com:80
@@ -2851,6 +2857,8 @@ https://H-135-207-255-89.research.att.com:8443
 https://Home.att.com:443
 https://aa.att.com:443
 https://abbottmeeting.att.com:443
+https://abbottvideo.att.com:443
+https://abot-cl1-expe.abbottvideo.att.com:443
 https://about.att.com:443
 https://acc-npwt.att.com:443
 https://accbusinesspricing.att.com:443
@@ -5591,6 +5599,7 @@ https://tst04.stage.att.com:443
 https://tst05.stage.att.com:443
 https://tst06.STaGe.att.com:443
 https://tst06.stage.att.com:443
+https://tst07.stAGE.att.com:443
 https://tst07.stage.att.com:443
 https://tst08.stage.att.com:443
 https://tst09.stage.att.com:443
@@ -6035,6 +6044,7 @@ https://vnsd24.acss.att.com:443
 https://vnsd29.acss.att.com:443
 https://vnsd30.acss.att.com:443
 https://vnsd31.acss.att.com:443
+https://vnsd32.aCSS.att.com:443
 https://vnsd32.acss.att.com:443
 https://vnsd33.acss.att.com:443
 https://vnsd40.acss.att.com:443

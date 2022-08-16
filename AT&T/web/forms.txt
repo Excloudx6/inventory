@@ -1,5 +1,7 @@
 http://cabling.att.com:80
 https://911standalone.uc.att.com/users/sign_in
+https://abbottvideo.att.com:443/login
+https://abot-cl1-expe.abbottvideo.att.com:443/login
 https://about.att.com/csr/home/society.html#panel1-5
 https://about.att.com/csr/home/society/education.html
 https://about.att.com/csr/itcanwait
@@ -18,6 +20,7 @@ https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=B8d0KS3rxfagTbGS5sK-e759usOHZJ9ogqSS2hoUVGk
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=DWHgAFF7lTrGH5x5KgEqjvoEhrwymPi2WG_lCYIvIPY
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=EWMAxP4rTmJKpyH7DTTD6fUdpLGq-o2m23hlUeQyYTU
+https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=GYUFLmaD_q9UQYV-N7vr0qG7lBCxWuh0btSA1bNfJ5k
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=GdnoeNFjRUGhyPUSuMgFtHkEkmirpTxrWBd6uNF1Tes
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=UJD6u1XQWlkeGmGn6NYAl32RFEnsCrPpJIlyTd2o95w
 https://auth.lab.dco.cloud.att.com:443/oauth2/authorize?client_id=3c219e58-ed0e-4b18-ad48-f4f92793ae32&response_type=code&redirect_uri=%2Flogin&state=V_kjh3kQWGilLnZNl4iyXTGLcbkzd8DGHMbiKmaz6LQ
@@ -153,6 +156,7 @@ https://techbuzz.att.com/
 https://techbuzz.att.com:443
 https://techchannel.att.com:443
 https://tedocs.att.com:443
+https://tuconnect.cosocloud.com/system/login?domain=tuconnect.att.com&next=%2Fadmin%3Fdomain%3Dtuconnect.att.com&set-lang=en
 https://tutrainenv.att.com/wp-login.php?redirect_to=https%3A%2F%2Ftutrainenv.att.com%2F&reauth=1
 https://tutrainenvdev.att.com/wp-login.php?redirect_to=https%3A%2F%2Ftutrainenvdev.att.com%2F&reauth=1
 https://vdssupport.att.com:443
