@@ -1505,6 +1505,7 @@ http://moncon.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.
 http://monitoring.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://monitoring.uberinternal.com/checkmute/"] ["ufe"] [["Envoy"]] [];
 http://monocle.UBERIntErNaL.com:80 ["301 Moved Permanently"] [301] [166] ["text/html"] ["104.36.195.150"] ["https://monocle.UBERIntErNaL.com/"] ["ufe"] [["Envoy"]] [];
 http://monocle.uberinternal.com:80 ["301 Moved Permanently"] [301] [166] ["text/html"] ["104.36.195.150"] ["https://monocle.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
+http://morpheus.UberINteRnAL.com:80 [null] [301] [null] [null] ["34.98.127.226"] [null] ["ufe"] [["Google Cloud"]] [];
 http://morpheus.uberinternal.com:80 [null] [301] [null] [null] ["34.98.127.226"] ["https://morpheus.uberinternal.com/"] ["ufe"] [["Google Cloud"]] [];
 http://morpheus.uberinternal.com:8080 ["404 Not Found"] [404] [277] ["text/html"] ["34.98.127.226"] [null] [null] [null] [];
 http://movement-admin.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://movement-admin.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
@@ -1919,6 +1920,7 @@ http://rodeo.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.3
 http://rolodex-staging.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://rolodex-staging.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://rolodex.uberinternal.com:80 [null] [401] [103] ["application/json"] ["104.36.195.150"] ["https://rolodex.uberinternal.com/"] ["ufe"] [["Basic","Envoy"]] [];
 http://roosterbrood.uberinternal.com:80 ["404 Not Found"] [404] [150] ["text/html"] ["104.36.195.150"] ["https://roosterbrood.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
+http://rosetta.UberINteRnAL.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://rosetta.UberINteRnAL.com/"] ["ufe"] [["Envoy"]] [];
 http://rosetta.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://rosetta.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://rosettamobile.uberinternal.com:80 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://rosettamobile.uberinternal.com/"] ["ufe"] [["Envoy"]] [];
 http://roster.uberinternal.com:80 [null] [301] [null] [null] ["34.98.127.226"] ["https://roster.uberinternal.com/"] ["ufe"] [["Google Cloud"]] [];
@@ -3936,6 +3938,7 @@ https://moncon.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["10
 https://monitoring.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] ["https://monitoring.uberinternal.com/checkmute/"] ["ufe"] [["Envoy"]] [];
 https://monocle.UBERIntErNaL.com:443 ["301 Moved Permanently"] [301] [166] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://monocle.uberinternal.com:443 ["301 Moved Permanently"] [301] [166] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
+https://morpheus.UberINteRnAL.com:443 [null] [301] [null] [null] ["34.98.127.226"] [null] ["ufe"] [["Google Cloud"]] [];
 https://morpheus.uberinternal.com:443 [null] [301] [null] [null] ["34.98.127.226"] [null] ["ufe"] [["Google Cloud"]] [];
 https://movement-admin.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://movement-dca1.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
@@ -4282,6 +4285,7 @@ https://rodeo.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104
 https://rolodex-staging.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://rolodex.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://roosterbrood.uberinternal.com:443 ["404 Not Found"] [404] [150] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
+https://rosetta.UberINteRnAL.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://rosetta.uberinternal.com:443 [null] [401] [103] ["application/json"] ["104.36.195.150"] [null] ["ufe"] [["Basic","Envoy"]] [];
 https://rosettamobile.uberinternal.com:443 [null] [401] [103] ["application/json"] ["104.36.195.150"] [null] ["ufe"] [["Basic","Envoy"]] [];
 https://roster.uberinternal.com:443 [null] [301] [null] [null] ["34.98.127.226"] [null] ["ufe"] [["Google Cloud"]] [];
@@ -4442,6 +4446,7 @@ https://sourcetrace.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"]
 https://sp.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.197.214"] [null] ["ufe"] [["Envoy"]] [];
 https://spacepizza.uberinternal.com:443 [null] [301] [null] [null] ["104.36.195.150"] [null] ["ufe"] [null] [];
 https://spark-jhs.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
+https://spark.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://spectacle-staging.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://spectacle.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];
 https://spectrum.uberinternal.com:443 ["302 Found"] [302] [142] ["text/html"] ["104.36.195.150"] [null] ["ufe"] [["Envoy"]] [];

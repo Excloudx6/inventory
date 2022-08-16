@@ -4096,6 +4096,7 @@
 /api-reference/object-store-integration/file-format
 /api-reference/object-store-integration/file-schema
 /api/
+/api/account-analytics/map/active-user/
 /api/account-management/settings
 /api/account/
 /api/account/accessrequest
@@ -4172,6 +4173,7 @@
 /api/approvalrequestpreset?project_id=
 /api/approvalrequestpreset?template_screen_id=
 /api/asset
+/api/asset-analytics-detail/
 /api/asset-analytics/bar-chart
 /api/asset-analytics/line-chart
 /api/asset-analytics/metric
@@ -5009,6 +5011,7 @@
 /blog/how-to-create-uber-vouchers/
 /blog/how-to-meet-mothers-day-marketing-goals-in-2022/
 /blog/how-to-prepare-your-restaurant-for-summer/
+/blog/how-uber-helps-companies-support-employees/
 /blog/hybrid-employee-engagement/
 /blog/idaho/
 /blog/illinois/
@@ -5330,6 +5333,7 @@
 /blog/sw.js?ver=1660058745018&amp;scope=en-US
 /blog/sw.js?ver=1660151285707&amp;scope=en-DE
 /blog/sw.js?ver=1660151285812&amp;scope=en-US
+/blog/sw.js?ver=1660151306016&amp;scope=en-DE
 /blog/sw.js?ver=1660151306044&amp;scope=en-US
 /blog/sw.js?ver=1660151325843&amp;scope=en-US
 /blog/sw.js?ver=1660151384927&amp;scope=en-US
@@ -5826,6 +5830,7 @@
 /en-CZ/blog/
 /en-CZ/blog/prague/
 /en-DE/blog/
+/en-DE/blog/an-elevated-eats-experience-for-businesses/
 /en-DE/blog/aurelie-krau-interview-gen-z-millennials-business-travel/
 /en-DE/blog/berlin/
 /en-DE/blog/big-fernand-case-study-commute/
@@ -5851,6 +5856,7 @@
 /en-DE/blog/singulart-case-study-eats/
 /en-DE/blog/u4b-coca-cola-gsw-shopfiy-uber-eats/
 /en-DE/blog/u4b-return-to-office/
+/en-DE/blog/what-work-meals-look-like-post-pandemic/
 /en-DK/blog/
 /en-EE/blog/
 /en-EG/blog/
@@ -6224,6 +6230,7 @@
 /gateway/api/available-products/api/available-products
 /gateway/api/available-products/api/product-configuration
 /gateway/api/me
+/generate-report/
 /geocode/{query}.json
 /get-appointment-preview/
 /get-external-appointment
@@ -6921,6 +6928,7 @@
 /methods
 /methods/categories
 /metric
+/metric-summary/
 /metrics/query\
 /mfa/v1/auth
 /mfa/v1/devices
@@ -7724,6 +7732,7 @@
 /system/online-help-and-support
 /system/self-monitoring
 /t=
+/table/
 /tables$\
 /tables/[a-zA-Z.0-9_-]+$\
 /tag-manager
